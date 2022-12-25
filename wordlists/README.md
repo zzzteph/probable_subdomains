@@ -9,7 +9,17 @@ In this lists you will find most popular subdomains **as is**.
 | Top 100 | 300 | 3-10  |
 
 
+## Performance
 
+I pick up few random bugbounty scopes and tried to launch subdomain discovery with dnsx against all of them with several popular wordlists. 
+
+| Wordlist | Words count  | Time  | Number of subdomains |
+|---|---|---|---|
+| subfinder | 100 | >20  | >20  |
+| another one | 200 | 10-20  | >20  |
+| Tiny | 300 | 3-10  | >20  |
+| Medium | 300 | 3-10  | >20  |
+| Hige | 300 | 3-10  | >20  |
 
 # Subdomain levels
 
@@ -49,6 +59,7 @@ In this lists you will find most popular splitted words from subdomains. F.E - *
 
 
 ### Length stats
+
 
 
 
