@@ -64,5 +64,5 @@ In this lists you will find most popular splitted words from subdomains. F.E - *
 
 
 
-Frequency - how often this subdomains appears in different scopes. For example, if **dev.stg** appears both in \*.google.com and \*.twitter.com, it will have frequency will be 2. It does **not matter** how often **dev.stg** appears in \*.google.com.
+Frequency - how often this subdomains appears in different scopes. For example, if **dev.stg** appears both in **\*.google.com** and **\*.twitter.com**, it will have frequency will be 2. It does **not matter** how often **dev.stg** appears in **\*.google.com**.
 
