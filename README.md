@@ -27,7 +27,7 @@ And, of course WORDLISTS for all of questions above!
 
 ## Methodology
 
-If subdomains appear more than in 5-10 **different** scopes, they will be put in the list. That's all -  nothing more, nothing less. 
+If subdomains appear more than in 5-10 **different** scopes, they will be put in the list. That's all -  **nothing more, nothing less**. 
 
 
 ## Attributions
