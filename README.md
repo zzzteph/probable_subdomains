@@ -14,7 +14,7 @@
 
 ## TL;DR
 
-During bug bounties, penetrations tests, red teams exercises, and other great activities, there is always a room when you need to launch amass, subfinder, sublister, or any other tool to find subdomains you can use to break through - like test.google.com, dev.admin.paypal.com or staging.ceo.twitter.com.
+During bug bounties, penetrations tests, red teams exercises, and other great activities, there is always a room when you need to launch amass, subfinder, sublister, or any other tool to find subdomains you can use to break through - like **test.google.com**, **dev.admin.paypal.com** or **staging.ceo.twitter.com**.
 Within this repository you will be able to find out the answers to the next questions:
 
 1. What are the most popular subdomains?
