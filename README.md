@@ -17,6 +17,7 @@ And of course WORDLISTS
 
 Methodology
 
+If subdomains appears more than in 5-10 **different** scopes it will be put in the list. That's all -  nothing more, nothing less. 
 
 
 
@@ -25,3 +26,7 @@ Methodology
 - berzerk0 for the inspiration with the great work https://github.com/berzerk0/Probable-Wordlists
 - https://chaos.projectdiscovery.io/ 
 - Based on some previous iteration of the same idea - https://github.com/zzzteph/substats
+
+
+
+## Thanks!
