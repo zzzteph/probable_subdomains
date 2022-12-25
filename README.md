@@ -6,6 +6,8 @@
 # ProSub (SubPro)
 # SubSle (Sleuth)
 # probable subdomains
+# probable scope
+# 
 
 
 
