@@ -1,4 +1,14 @@
-# probe_the_subs
+# subin
+# subins (su-bin)
+# subinsights
+# SubResearchX (SRX)
+# SubIntel
+# ProSub (SubPro)
+# SubSle (Sleuth)
+# probable subdomains
+
+
+
 
 ## TL;DR
 
