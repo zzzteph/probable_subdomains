@@ -4,36 +4,23 @@ In this lists you will find most popular subdomains **as is**.
 
 | Name | Count  | Frequency(\*) |
 |---|---|---|
-| Top 100 | 100 | >20  |
-| Top 100 | 200 | 10-20  |
-| Top 100 | 300 | 3-10  |
-
-
-## Performance
-
-I pick up few random bugbounty scopes and tried to launch subdomain discovery with dnsx against all of them with several popular wordlists. 
-
-| Wordlist | Words count  | Time  | Number of subdomains |
-|---|---|---|---|
-| subfinder | 100 | >20  | >20  |
-| another one | 200 | 10-20  | >20  |
-| Tiny | 300 | 3-10  | >20  |
-| Medium | 300 | 3-10  | >20  |
-| Hige | 300 | 3-10  | >20  |
+| subdomains.txt | 100 | >20  |
+| subdomains_popular.txt | 200 | >50  |
+| subdomains_huge.txt | 300 | >10  |
 
 # Subdomain levels
 
-In this lists you will find most popular splitted words from subdomains splitted by levels. F.E - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. **dev** will have level = 2, **stg** - level = 1. All worlists have frequency(\*) >= 5. You can use these wordlists for combinatory attack for subdomain search.
+In this lists you will find most popular splitted words from subdomains splitted by levels. F.E - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. **dev** will have level = 2, **stg** - level = 1. All worlists have frequency(\*) >= 5. You can use these wordlists for combinatory attack for subdomain search. There are several types of **level.txt** wordlists that following the idea of subdomains.
 
 
 
 
 | Name | Count  |
 |---|---|
-| Level 1 | 100 |
-| Level 2 | 200 |
-| Level 3 | 300 |
-| Level 4 | 300 |
+| Level_1.txt | 100 |
+| Level_2.txt | 200 |
+| Level_3.txt | 300 |
+| Level_4.txt | 300 |
 
 
 ### Masks
