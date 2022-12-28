@@ -1,14 +1,4 @@
-# subin
-# subins (su-bin)
-# subinsights
-# SubResearchX (SRX)
-# SubIntel
-# ProSub (SubPro)
-# SubSle (Sleuth)
-# probable subdomains
-# probable scope
-# 
-
+# Probable (sub)domains
 
 Online tool: [https://weakpass.com/generate/domains](https://weakpass.com/generate/domains)
 
