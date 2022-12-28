@@ -10,9 +10,11 @@
 # 
 
 
-
+Online tool: [https://weakpass.com/generate/domains](https://weakpass.com/generate/domains)
 
 ## TL;DR
+
+
 
 During bug bounties, penetrations tests, red teams exercises, and other great activities, there is always a room when you need to launch amass, subfinder, sublister, or any other tool to find subdomains you can use to break through - like **test.google.com**, **dev.admin.paypal.com** or **staging.ceo.twitter.com**.
 Within this repository you will be able to find out the answers to the next questions:
@@ -29,8 +31,7 @@ And, of course WORDLISTS for all of questions above!
 
 ## Methodology
 
-If subdomains appear more than in 5-10 **different** scopes, they will be put in the list. That's all -  **nothing more, nothing less**. 
-
+If subdomains appear more than in 5-10 **different** scopes, they will be put in the certail list.For example, if **dev.stg** appears both in **\*.google.com** and **\*.twitter.com**, it will have frequency will be 2. It does not matter how often **dev.stg** appears in **\*.google.com**.  That's all -  **nothing more, nothing less**. 
 
 ## Attributions
 
