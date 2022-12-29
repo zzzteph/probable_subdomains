@@ -9,9 +9,9 @@ Online tool: [https://weakpass.com/generate/domains](https://weakpass.com/genera
 During bug bounties, penetrations tests, red teams exercises, and other great activities, there is always a room when you need to launch amass, subfinder, sublister, or any other tool to find subdomains you can use to break through - like **test.google.com**, **dev.admin.paypal.com** or **staging.ceo.twitter.com**.
 Within this repository you will be able to find out the answers to the next questions:
 
-1. What are the most popular subdomains?
-2. What are the most common words in multilevel subdomains on different levels?
-3. What are the most used words in subdomains?
+1. What are the most [popular subdomains](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists/subdomains)?
+2. What are the most [common words](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists/levels) in multilevel subdomains on different levels?
+3. What are the most [used words](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists/words) in subdomains?
 
 
 And, of course [wordlists](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists) for all of questions above!
