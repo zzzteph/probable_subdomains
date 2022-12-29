@@ -32,13 +32,14 @@ As sources, I used lists of data from bugbounty recon collected from [chaos.proj
 
 ### Lists
 
+
 #### Subdomains
 
 In these lists you will find most popular subdomains **as is**.
 
 | Name | Words count  | Size |
 |---|---|---|
-| [subdomains.txt]() | 21897020 | 501MB |
+| [subdomains.txt](https://download.weakpass.com/subdomains.txt) | 21897020 | 501MB |
 | [subdomains_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 100 | 976B  |
 | [subdomains_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 1000 | 14KB  |
 | [subdomains_top10000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 10000 | 383KB  |
@@ -52,11 +53,11 @@ In these lists, you will find the most popular words from subdomains split by le
 
 | Name | Words count  | Size |
 |---|---|---|
-| [level_1.txt]() | 8093280 | 153MB |
-| [level_2.txt]() | 7555608 |  106MB |
-| [level_3.txt]() | 1490933 | 18MB  |
-| [level_4.txt]() | 205953 |  3.2MB |
-| [level_5.txt]() | 71716 |  849KB |
+| [level_1.txt](https://download.weakpass.com/level_1.txt) | 8093280 | 153MB |
+| [level_2.txt](https://download.weakpass.com/level_2.txt) | 7555608 |  106MB |
+| [level_3.txt](https://download.weakpass.com/level_3.txt) | 1490933 | 18MB  |
+| [level_4.txt](https://download.weakpass.com/level_4.txt) | 205953 |  3.2MB |
+| [level_5.txt](https://download.weakpass.com/level_5.txt) | 71716 |  849KB |
 | [level_1_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top100.txt) | 100 | 584B  |
 | [level_1_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top1000.txt) | 1000 | 6.1KB  |
 | [level_2_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_top100.txt) | 100 | 549B  |
@@ -76,10 +77,18 @@ In these lists, you will find the most popular splitted words from subdomains on
 
 | Name | Words count  | Size |
 |---|---|---|
-| [words.txt]() | 17226458 |  278MB  |
+| [words.txt](https://download.weakpass.com/words.txt) | 17226458 |  278MB  |
 | [words_top100.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top100.txt) | 100 | 579B  |
 | [words_top1000.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top1000.txt) | 1000 | 5.3KB  |
 | [words_top10000.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top10000.txt) | 10000 | 60KB  |
+
+
+
+#### Google Drive
+
+
+You can download all the files from [Google Drive](https://drive.google.com/drive/folders/1LI--YcCoKAY6ysCds5IaT00q_i15jkkB?usp=sharing)
+
 
 
 
