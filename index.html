@@ -1,0 +1,358 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Subdomains generator</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+<script src="https://kit.fontawesome.com/d0ae4a42e6.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js"></script>
+</head>
+<body>
+<section class="section pt-1">
+<div class="container">
+<h1 class="title">Generate subdomains and wordlists</h1>
+<div class="content">
+<p>Here you can generate a list of subdomains with particular masks for the domains based on rules and lists. This tool supports four sets of "words" that can be used in your input.</p> <p>All data is processed on the client with JavaScript.</p>
+<p>Let's generate subdomains like <strong>dev</strong>.<strong>admin</strong>.google.com. To do that, you need to enter as input: <strong>$1</strong>.<strong>$2</strong>.google.com. <strong>$1</strong> and <strong>$2</strong> are the sets that you can change.</p>
+<p>It will generate all combinations based on <strong>$1</strong>, <strong>$2</strong> and, as a result, you will get the following list:
+<ul>
+<li>dev.admin.google.com</li>
+<li>dev.stg.google.com</li>
+<li>...</li>
+</ul>
+</p>
+<p>You can change any of the sets with any data you want. You can also use each set as many times as you wish - like <strong>$1$1$1</strong>, <strong>$1$2$2$3$4</strong>, etc. </p>
+</div>
+<div id="app">
+<div class="field">
+<label class="label">Domains, words, etc.</label>
+<p class="help">Separated by newline</p>
+<div class="control">
+<textarea class="textarea is-primary" id="input" placeholder="$1.google.com&#10;$1.$2.google.com"></textarea>
+</div>
+</div>
+<div class="field is-grouped">
+<div class="control">
+<button class="button is-link" v-on:click="generate()">Generate</button>
+</div>
+<div class="control">
+<button class="button is-success" v-on:click="copy()">Copy to clipboard</button>
+<p class="help" id="notify">Copied!</p>
+</div>
+</div>
+<div class="columns">
+<div class="column">
+<div class="field">
+<label class="label" id="count">Result</label>
+<div class="control">
+<textarea class="textarea is-primary" id="result" rows="25" :value="resToText"></textarea>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="tabs is-boxed">
+<ul>
+<li v-bind:class="[activeTab==1 ? 'is-active': '']"><a @click="changeTab(1)">$1</a></li>
+<li v-bind:class="[activeTab==2 ? 'is-active': '']"><a @click="changeTab(2)">$2</a></li>
+<li v-bind:class="[activeTab==3 ? 'is-active': '']"><a @click="changeTab(3)">$3</a></li>
+<li v-bind:class="[activeTab==4 ? 'is-active': '']"><a @click="changeTab(4)">$4</a></li>
+<li v-bind:class="[activeTab==5 ? 'is-active': '']"><a @click="changeTab(5)">Help</a></li>
+</ul>
+</div>
+<a class="panel-block" v-bind:class="[activeTab==1 ? '': 'is-hidden']">
+<textarea class="textarea is-primary" id="set_1" rows="25" :value="setToText_0"></textarea>
+</a>
+<a class="panel-block" v-bind:class="[activeTab==2 ? '': 'is-hidden']">
+<textarea class="textarea is-primary" id="set_2" rows="25" :value="setToText_1"></textarea>
+</a>
+<a class="panel-block" v-bind:class="[activeTab==3 ? '': 'is-hidden']">
+<textarea class="textarea is-primary" id="set_3" rows="25" :value="setToText_2"></textarea>
+</a>
+<a class="panel-block" v-bind:class="[activeTab==4 ? '': 'is-hidden']">
+<textarea class="textarea is-primary" id="set_4" rows="25" :value="setToText_3"></textarea>
+</a>
+<a class="panel-block" v-bind:class="[activeTab==5 ? '': 'is-hidden']">
+<div class="block">
+<h2 class="subtitle">Set rules</h2>
+<p>In each set, you can use rules for additional combinations.
+<ul>
+<li><strong>$d</strong> - will be replaced with digits from 0 to 9</li>
+<li><strong>$l</strong> - all lowercase letters characters</li>
+<li><strong>$s</strong> - <strong>$l</strong>+<strong>$d</strong></li>
+</ul>
+</p>
+<p>If your entry in the set is <strong>stg$d</strong>, it will be the same as you put in the set:</p>
+<ul>
+<li>stg<strong>0</strong></li>
+<li>stg<strong>1</strong></li>
+<li>stg<strong>2</strong></li>
+<li>...</li>
+<li>stg<strong>9</strong></li>
+</ul>
+</p>
+<p>You can use rules in any part of the word - $dtg, t$dg, and so on.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+<script type="f7e1b8f61de1f88dd5e60cf1-text/javascript">
+
+
+var app = new Vue({
+  el: '#app',
+  data: {
+		activeTab:1,
+		sets:[
+			["home","corp","new","internal","owa","sandbox","tools","services","link","acc","jira","analytics","forum","chat","developers","data","download","sso","events","partner","images","cms","meet","jobs","web","qa","connect","video","prod","wiki","partners","ftp","preview","apps","careers","news","assets","media","auth","search","demo","smtp","store","lyncdiscover","cloud","community","mobile","shop","portal","secure","developer","info","docs","vpn","admin","stage","go","login","webmail","sip","beta","cdn","app","static","status","help","email","opendata","feeds","staging","autodiscover","support","test","dev","blog","api","mail"],
+			["preprod","connect","acc","content","ftp","origin","eu","vault","img","status","jira","mta2","cpanel","pages","developer","webdisk","git","data","services","grafana","dashboard","sip","go","cms","es","my","download","o2","media","int","de","jenkins","help","images","search","assets","smtp","proxy","us","internal","mx","apps","ns2","blog","com","ns1","mobile","sso","stg","docs","uat","vpn","webmail","support","web","sandbox","demo","secure","preview","image","email","autodiscover","view","cloud","click","cdn","login","portal","static","app","auth","qa","mta","beta","magazines","opendata","stage","prod","admin","feeds","staging","mail","test","dev","api","www"],
+			["info","edge","home","media","o1","assets","prd","cn","gateway","view","aws","cms","preprod","go","protection","res","image","gitlab","dashboard","ca","ap","net","fbx","service","smtp","registry","data","es","files","sso","tst","public","uk","ns2","acc","de","ns1","eu","ws","ftp","preview","mobile","origin","us-west-2","dsl","autodiscover","dynamic","services","support","prometheus","kibana","docs","us-east-1","vpn","secure","vault","int","uat","co","proxy","us","grafana","cloud","jenkins","web","apps","stg","internal","sandbox","mx","demo","portal","com","app","stage","login","beta","auth","cdn","static","qa","admin","prod","mail","staging","test","dev","api","www"],
+			["cms","res","monitoring","protection","mta-sts","search","connect","sso","registry","gateway","de","new","neoplus","ui","ftp","proxy","aws","preprod","public","prd","ap","eu","acc","ml","core","portal","client","services","ip4","preview","antivirus","vpn","hostmaster","secure","dashboard","sandbox","fbx","cn","ca","es","ci","vault","beta","co","net","mx","jenkins","us-east-1","dsl","uat","demo","stg","origin","kibana","int","prometheus","apps","web","login","cdn","internal","app","stage","qa","us","dynamic","grafana","admin","auth","com","static","staging","mail","prod","dev","test","api","www"],
+		
+		],
+		result:[],
+		interval: null,
+  },
+  
+    computed: {
+    resToText() {
+      return this.result.join('\n');
+    },
+	    setToText_0() {
+      return this.sets[0].join('\n');
+    },
+		    setToText_1() {
+      return this.sets[1].join('\n');
+    },
+		    setToText_2() {
+      return this.sets[2].join('\n');
+    },
+		    setToText_3() {
+      return this.sets[3].join('\n');
+    },
+  },
+		mounted: function() {
+document.getElementById('notify').style.display = 'none';
+		},
+		
+  methods: {
+	  
+	  changeTab(tab)
+	  {
+		  this.activeTab=tab;
+		  
+	  },
+	  	  copy()
+	  {
+		    document.getElementById("result").select();
+		  document.execCommand("copy");
+		  document.getElementById('notify').style.display = 'block';
+
+		  setTimeout(function() { document.getElementById('notify').style.display = 'none'; },2000); 
+		  
+	  },
+	  generate()
+	  {
+		  //populate sets
+		  var tmp_sets=[];
+			this.result=[];
+		  this.sets[0] = document.getElementById("set_1").value.split("\n");
+		  this.sets[1] = document.getElementById("set_2").value.split("\n");
+		  this.sets[2] = document.getElementById("set_3").value.split("\n");
+		  this.sets[3] = document.getElementById("set_4").value.split("\n");
+		  for (let set of this.sets) {
+			   var tmp_set=[];
+			   for(let entry of set)
+			   {
+				   tmp_set=tmp_set.concat(this.parseEntry(entry));
+			   }
+			   tmp_sets.push(tmp_set);
+		   }
+		  
+
+		  var lines = document.getElementById("input").value.split("\n");
+		  
+		  for (let line of lines) {
+			  console.log(line);
+				this.result=this.result.concat(this.generateResults(line,tmp_sets));
+		  }
+	  },
+	  
+	  
+
+	
+	
+	
+	 generateResults(string,tmp_sets) {
+		strings = [""];
+		var set_id=false;
+		for (var i = 0; i < string.length;i++) {
+			if(string.charAt(i)=='$')
+			{
+				i++;
+				if(i>=string.length)break;
+					
+				  switch (string.charAt(i)) {
+					   case '1':
+							set_id=0;
+						break;
+						case '2':
+							set_id=1;
+						case '3':
+							set_id=2;
+						case '4':
+							set_id=3;
+						break;
+						default:
+						set_id=false;
+						
+				  }
+				  
+					if(set_id!==false)
+					{
+						console.log("I should do something");
+						var tmp=[];
+						for(n=0;n<strings.length;n++)
+						{
+							for(m=0;m<tmp_sets[set_id].length;m++)
+							{
+								
+								tmp.push(strings[n].concat(tmp_sets[set_id][m]));
+							}
+						}
+						strings=tmp;
+					}  
+			}
+			else
+			{
+				for(n=0;n<strings.length;n++)
+				{
+					strings[n]=strings[n].concat(string[i]);
+				}
+			}
+		}
+
+		return strings;
+
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ parseEntry(string) {
+		strings = [""];
+		var alphabet=false;
+		for (var i = 0; i < string.length;i++) {
+			if(string.charAt(i)=='$')
+			{
+				i++;
+				if(i>=string.length)break;
+					
+				  switch (string.charAt(i)) {
+					   case 'd':
+							alphabet="1234567890";
+						break;
+						case 'l':
+							alphabet="qazwsxedcrfvtgbyhnujmikolp";
+						case 's':
+							alphabet="qazwsxedcrfvtgbyhnujmikolp1234567890";
+						break;
+						default:
+						alphabet=false;
+						
+				  }
+				  
+					if(alphabet!=false)
+					{
+						var tmp=[];
+						for(n=0;n<strings.length;n++)
+						{
+							for(m=0;m<alphabet.length;m++)
+							{
+								tmp.push(strings[n].concat(alphabet.charAt(m)));
+							}
+						}
+						strings=tmp;
+					}  
+			}
+			else
+			{
+				for(n=0;n<strings.length;n++)
+				{
+					strings[n]=strings[n].concat(string[i]);
+				}
+			}
+		}
+		//console.log(strings);
+		return strings;
+
+	}
+	   
+   
+   
+   
+   
+    }
+  
+  
+});
+
+
+
+
+
+</script>
+</div>
+</section>
+<footer class="footer">
+<div class="content has-text-centered">
+<p>
+<strong>Weakpass</strong> 2014-2022 <br />
+<br />
+<span class="icon-text">
+<a href="https://twitter.com/w34kp455">
+<span class="icon">
+<i class="fab fa-twitter"></i>
+</span>
+<span>@w34kp455</span>
+</a>
+</span>
+<br />
+<span class="icon-text">
+<a href="https://github.com/zzzteph/">
+<span class="icon">
+<i class="fab fa-github"></i>
+</span>
+<span>@zzzteph</span>
+</a>
+</span>
+</p>
+<p>
+<span class="icon-text">
+<span class="icon">
+<i class="fab fa-bitcoin"></i>
+</span>
+<span>39gKysvb1YnNEJisVDyjj7uWuVMGCUvQFr</span>
+</span>
+<br />
+<span class="icon-text">
+<span class="icon">
+<i class="fab fa-ethereum"></i>
+</span>
+<span>0xC3b908e1f11318B80034482f4fBc62b010FFf340</span>
+</span>
+</p>
+<p>
+<a href="https://www.patreon.com/weakpass">Patreon</a>
+</p>
+
+</footer>
+
+</html>
