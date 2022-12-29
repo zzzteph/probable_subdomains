@@ -1,31 +1,40 @@
 # Probable (sub)domains
 
 
+Online tool: [https://weakpass.com/generate/domains](https://weakpass.com/generate/domains)
+
+
+<p align="center">
+  <img src="https://github.com/zzzteph/probable_subdomains/blob/main/generate.gif?raw=true">
+</p>
+
+
+
+
 ## TL;DR
 
 
 During bug bounties, penetrations tests, red teams exercises, and other great activities, there is always a room when you need to launch amass, subfinder, sublister, or any other tool to find subdomains you can use to break through - like **test.google.com**, **dev.admin.paypal.com** or **staging.ceo.twitter.com**.
-Within this repository you will be able to find out the answers to the following questions:
+Within this repository, you will be able to find out the answers to the following questions:
 
 1. What are the most [popular subdomains](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists/subdomains)?
 2. What are the most [common words](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists/levels) in multilevel subdomains on different levels?
 3. What are the most [used words](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists/words) in subdomains?
 
 
-And, of course [wordlists](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists) for all of the questions above!
+And, of course, [wordlists](https://github.com/zzzteph/probable_subdomains/tree/main/wordlists) for all of the questions above!
 
 
 ## Methodology
 
-As sources I used lists of data from bugbounty recon collected from [chaos.projectdiscovery.io](https://chaos.projectdiscovery.io/) with total number of **3753** different domains! If subdomains appear more than in 5-10 **different** scopes, they will be put in the certail list.For example, if **dev.stg** appears both in **\*.google.com** and **\*.twitter.com**, it will have frequency will be 2. It does not matter how often **dev.stg** appears in **\*.google.com**.  That's all -  **nothing more, nothing less**. 
-
+As sources, I used lists of data from bugbounty recon collected from [chaos.projectdiscovery.io](https://chaos.projectdiscovery.io/) with a total number of **3753** domains! If subdomains appear more than in 5-10 **different** scopes, they will be put in a certain list. For example, if **dev.stg** appears both in **\*.google.com** and **\*.twitter.com**, it will have a frequency of 2. It does not matter how often **dev.stg** appears in **\*.google.com**. That's all - **nothing more, nothing less**.
 
 
 ### Lists
 
 #### Subdomains
 
-In this lists you will find most popular subdomains **as is**.
+In these lists you will find most popular subdomains **as is**.
 
 | Name | Words count  | Size |
 |---|---|---|
@@ -36,7 +45,7 @@ In this lists you will find most popular subdomains **as is**.
 
 #### Subdomain levels
 
-In this lists you will find most popular splitted words from subdomains splitted by levels. F.E - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. **dev** will have level = 2, **stg** - level = 1.  You can use these wordlists for combinatory attack for subdomain search. There are several types of **level.txt** wordlists that following the idea of subdomains.
+In these lists, you will find the most popular words from subdomains split by levels. F.E - **dev.stg** subdomain will be split into two words **dev** and **stg**. **dev** will have level = 2, **stg** - level = 1. You can use these wordlists for combinatory attacks for subdomain searches. There are several types of level.txt wordlists that follow the idea of subdomains.
 
 
 
@@ -63,7 +72,7 @@ In this lists you will find most popular splitted words from subdomains splitted
 #### Popular splitted subdomains
 
 
-In this lists you will find most popular splitted words from subdomains. F.E - **dev.stg** subdomain will be splitted in two words **dev** and **stg** 
+In these lists, you will find the most popular splitted words from subdomains on all levels. F.E - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. 
 
 | Name | Words count  | Size |
 |---|---|---|
@@ -71,19 +80,6 @@ In this lists you will find most popular splitted words from subdomains. F.E - *
 | [words_top100.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top100.txt) | 100 | 579B  |
 | [words_top1000.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top1000.txt) | 1000 | 5.3KB  |
 | [words_top10000.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top10000.txt) | 10000 | 60KB  |
-
-
-
-
-## Tools
-
-
-Online tool: [https://weakpass.com/generate/domains](https://weakpass.com/generate/domains)
-
-
-<p align="center">
-  <img src="https://github.com/zzzteph/probable_subdomains/blob/main/generate.gif?raw=true">
-</p>
 
 
 
