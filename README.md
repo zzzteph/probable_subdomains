@@ -31,9 +31,9 @@ In this lists you will find most popular subdomains **as is**.
 | Name | Words count  | Size |
 |---|---|---|
 | [\*subdomains.txt]() | 21897020 | 501MB |
-| [subdomains_top100.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 100 | 976B  |
-| [subdomains_top1000.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 1000 | 14KB  |
-| [subdomains_top10000.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 10000 | 383KB  |
+| [subdomains_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 100 | 976B  |
+| [subdomains_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 1000 | 14KB  |
+| [subdomains_top10000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/subdomains/subdomains_top100.txt) | 10000 | 383KB  |
 
 #### Subdomain levels
 
@@ -49,16 +49,16 @@ In this lists you will find most popular splitted words from subdomains splitted
 | [\*level_3.txt]() | 1490933 | 18MB  |
 | [\*level_4.txt]() | 205953 |  3.2MB |
 | [\*level_5.txt]() | 71716 |  849KB |
-| [level_1_top100.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top100.txt) | 100 | 584B  |
-| [level_1_top1000.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top1000.txt) | 1000 | 6.1KB  |
-| [level_2_top100.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_top100.txt) | 100 | 549B  |
-| [level_2_top1000.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_top1000.txt) | 1000 | 5.6KB  |
-| [level_3_top100.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3_top100.txt) | 100 | 530B  |
-| [level_3_top1000.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3_top1000.txt) | 1000 | 5.0KB  |
-| [level_4_top100.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4_top100.txt) | 100 | 524B  |
-| [level_4_top1000.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4_top1000.txt) | 1000 | 4.9KB  |
-| [level_5_top100.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5_top100.txt) | 100 | 448B  |
-| [level_5_top1000.txt] (https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5_top1000.txt) | 1000 | 5.0KB  |
+| [level_1_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top100.txt) | 100 | 584B  |
+| [level_1_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top1000.txt) | 1000 | 6.1KB  |
+| [level_2_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_top100.txt) | 100 | 549B  |
+| [level_2_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_top1000.txt) | 1000 | 5.6KB  |
+| [level_3_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3_top100.txt) | 100 | 530B  |
+| [level_3_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3_top1000.txt) | 1000 | 5.0KB  |
+| [level_4_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4_top100.txt) | 100 | 524B  |
+| [level_4_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4_top1000.txt) | 1000 | 4.9KB  |
+| [level_5_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5_top100.txt) | 100 | 448B  |
+| [level_5_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5_top1000.txt) | 1000 | 5.0KB  |
 
 
 #### Popular splitted subdomains
@@ -69,9 +69,9 @@ In this lists you will find most popular splitted words from subdomains. F.E - *
 | Name | Words count  | Size |
 |---|---|---|
 | [\*words.txt]() | 17226458 |  278MB  |
-| [words_top100.txt] (https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top100.txt) | 100 | 579B  |
-| [words_top1000.txt] (https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top1000.txt) | 1000 | 5.3KB  |
-| [words_top10000.txt] (https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top10000.txt) | 10000 | 60KB  |
+| [words_top100.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top100.txt) | 100 | 579B  |
+| [words_top1000.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top1000.txt) | 1000 | 5.3KB  |
+| [words_top10000.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top10000.txt) | 10000 | 60KB  |
 
 
 \* - commpressed with 7z.
