@@ -27,7 +27,7 @@ And, of course, [wordlists](https://github.com/zzzteph/probable_subdomains/tree/
 
 ## Methodology
 
-As sources, I used lists of data from bugbounty recon collected from [chaos.projectdiscovery.io](https://chaos.projectdiscovery.io/) with a total number of **3753** domains! If subdomains appear more than in 5-10 **different** scopes, they will be put in a certain list. For example, if **dev.stg** appears both in **\*.google.com** and **\*.twitter.com**, it will have a frequency of 2. It does not matter how often **dev.stg** appears in **\*.google.com**. That's all - **nothing more, nothing less**.
+As sources, I used lists of subdomains from public bugbounty programs, collected by [chaos.projectdiscovery.io](https://chaos.projectdiscovery.io/) with a total number of **3753** domains! If subdomains appear more than in 5-10 **different** scopes, they will be put in a certain list. For example, if **dev.stg** appears both in **\*.google.com** and **\*.twitter.com**, it will have a frequency of 2. It does not matter how often **dev.stg** appears in **\*.google.com**. That's all - **nothing more, nothing less**.
 
 
 ### Lists
@@ -73,7 +73,7 @@ In these lists, you will find the most popular words from subdomains split by le
 #### Popular splitted subdomains
 
 
-In these lists, you will find the most popular splitted words from subdomains on all levels. F.E - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. 
+In these lists, you will find the most popular splitted words from subdomains on all levels. For example - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. 
 
 | Name | Words count  | Size |
 |---|---|---|
