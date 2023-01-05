@@ -1,3 +1,4 @@
+
 1
 123
 2
@@ -33,6 +34,8 @@ a-feeds
 a-feeds.a-english
 affiliate
 affiliates
+afspraak
+afspraken
 ai
 akamai
 akamai-test
@@ -102,6 +105,9 @@ basic-nodejs-dev
 bbs
 bc
 be
+beeldbank
+belastingbalie
+belastingen
 benefits
 beta
 beta.www
@@ -137,6 +143,7 @@ card
 care
 career
 careers
+cars
 cart
 cas
 cat
@@ -173,6 +180,7 @@ click
 click.email
 client
 cloud
+cloudadapter-test
 club
 cm
 cmp
@@ -183,6 +191,7 @@ co
 code
 collab
 collab-edge
+college
 com
 commerce
 community
@@ -217,6 +226,8 @@ cveapi
 cz
 d
 da
+dacceptatieloket
+dacceptatiemidoffice
 dam
 danieapp
 dash
@@ -241,14 +252,19 @@ developers
 development
 devops
 dialin
+digikoppeling
+digikoppeling-test
 digital
 direct
 directory
 discover
 dk
+dkd
 dl
+dloket
 dm
 _dmarc
+dmidoffice
 dms
 dnm
 dns
@@ -274,10 +290,13 @@ eas
 ec
 ecs
 edge
+edienstenburgerzaken
+edienstenburgerzaken-test
 edu
 education
 elastic
 elearning
+eloket
 em
 email
 emails
@@ -317,6 +336,7 @@ fc
 feedback
 feeds
 feeds.english
+felix
 fi
 files
 finance
@@ -324,6 +344,7 @@ find
 flex
 fm
 forms
+formulieren
 forum
 forums
 fr
@@ -341,8 +362,10 @@ games
 gateway
 gcom-product-find-dev
 gcom-product-find-qa
+gemeenteraad
 geo
 get
+gis
 git
 github
 gitlab
@@ -385,6 +408,8 @@ hub
 hybrid
 i
 iam
+iburgerzaken
+ibzpink
 ice
 id
 ideas
@@ -484,6 +509,8 @@ log
 login
 login-dev
 logs
+loket
+loket.acceptatie
 love
 lp
 lync
@@ -506,8 +533,10 @@ mail3
 mail4
 mail5
 mailer
+mailing
 mailserver
 maintenance
+mam
 manage
 map
 maps
@@ -621,6 +650,7 @@ origin
 origin-www
 orion
 os
+osb
 oss
 outlook
 owa
@@ -629,6 +659,7 @@ pa
 packages
 page
 pages
+parkeren
 partner
 partners
 pass
@@ -642,6 +673,7 @@ people
 pf
 phoenix
 photos
+piwik
 pki
 pl
 platform
@@ -652,6 +684,7 @@ pm
 polaris
 pop
 pop3
+portaal
 portal
 pos
 postmaster
@@ -660,11 +693,13 @@ pr
 pre
 pre-prod
 preprod
+preproductie
 press
 preview
 preview.www
 privacy
 pro
+probeer
 prod
 product
 production
@@ -685,11 +720,13 @@ publishing-catalog
 publishing-preview
 pulse
 push
+pv
 q
 qa
 qa2
 r
 ra
+raad
 radar
 radio
 rc
@@ -722,6 +759,7 @@ rs
 rss
 rt
 ru
+ruimtelijkeplannen
 rx
 s
 s1
@@ -763,8 +801,11 @@ sharepoint
 shop
 shopping
 si
+siam
 signin
 signup
+simcms
+simsite
 sip
 site
 sitecore
@@ -843,6 +884,7 @@ test1
 test2
 test3
 test.api
+testeloket
 testing
 test-www
 th
@@ -853,6 +895,7 @@ tip
 tls
 tms
 tools
+top
 touch
 tp
 tr
@@ -922,7 +965,10 @@ webhook
 webmail
 webmaster
 webservices
+website
 welcome
+werkenbij
+werkplek
 wfm-service
 whm
 whois
@@ -977,6 +1023,7 @@ www.news
 www-origin
 www.partner
 www.partners
+www.portal
 www.research
 www.secure
 www.shop
@@ -996,6 +1043,7 @@ www.www2
 x
 xml
 z
+zaaksysteem-accept
 zabbix
 zeus
 zh

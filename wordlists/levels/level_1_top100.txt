@@ -1,5 +1,7 @@
+
 a
 acc
+acceptatie
 admin
 analytics
 api
@@ -40,9 +42,12 @@ ftp
 go
 help
 home
+iburgerzaken
+ibzpink
 images
 info
 internal
+intranet
 it
 jira
 jobs
@@ -74,6 +79,7 @@ portal
 preview
 prod
 qa
+remote
 s
 sandbox
 search

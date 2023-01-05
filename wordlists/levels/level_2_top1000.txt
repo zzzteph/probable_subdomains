@@ -366,6 +366,7 @@ device
 devops
 dhcp
 dialin
+digikoppeling
 direct
 directory
 discovery
@@ -476,6 +477,7 @@ h5
 ha
 health
 help
+helpdesk
 hermes
 hk
 home
@@ -567,6 +569,7 @@ localhost
 log
 login
 logs
+loket
 lp
 lyncdiscover
 m

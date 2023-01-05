@@ -1,4 +1,7 @@
+
+acc
 admin
+afspraken
 analytics
 api
 app
@@ -38,8 +41,11 @@ git
 go
 help
 home
+iburgerzaken
+ibzpink
 images
 info
+intranet
 it
 jira
 jobs
@@ -56,6 +62,7 @@ mail1
 mail2
 media
 meet
+mijn
 mobile
 mx
 mx1
@@ -75,6 +82,7 @@ partners
 portal
 preview
 qa
+remote
 search
 secure
 services
