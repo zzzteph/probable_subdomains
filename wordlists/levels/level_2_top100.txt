@@ -1,4 +1,3 @@
-1
 a
 acc
 admin
@@ -18,7 +17,6 @@ click
 cloud
 cms
 com
-connect
 content
 cpanel
 dashboard
@@ -38,6 +36,7 @@ feeds
 fr
 ftp
 git
+gitlab
 go
 grafana
 help
@@ -68,16 +67,15 @@ opendata
 origin
 pages
 portal
-preprod
 preview
 prod
 proxy
 qa
-s
 sandbox
 search
 secure
 services
+shop
 sip
 smtp
 sso
@@ -89,6 +87,7 @@ stg
 support
 t
 test
+tools
 uat
 uk
 us
@@ -98,5 +97,6 @@ vpn
 web
 webdisk
 webmail
+wiki
 www
 www2
