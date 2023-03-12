@@ -1,3 +1,4 @@
+*
 a
 acc
 admin
@@ -16,7 +17,9 @@ cdn
 click
 cloud
 cms
+co
 com
+connect
 content
 cpanel
 dashboard
@@ -29,7 +32,6 @@ docs
 download
 e
 email
-en
 es
 eu
 feeds
@@ -42,7 +44,6 @@ grafana
 help
 image
 images
-img
 int
 internal
 jenkins
@@ -67,6 +68,7 @@ opendata
 origin
 pages
 portal
+preprod
 preview
 prod
 proxy
@@ -75,7 +77,6 @@ sandbox
 search
 secure
 services
-shop
 sip
 smtp
 sso
@@ -87,7 +88,6 @@ stg
 support
 t
 test
-tools
 uat
 uk
 us

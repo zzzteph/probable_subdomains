@@ -1,7 +1,10 @@
+
+*
 0
 1
 10
 11
+110
 123
 13
 2
@@ -16,10 +19,12 @@
 a
 aa
 aaa
+ab
 abc
 about
 ac
 academy
+acapi
 acc
 acceptatie
 access
@@ -50,7 +55,6 @@ alpha
 am
 a-magazines
 a-magazinesintern
-amazon
 amp
 ams
 an
@@ -63,7 +67,6 @@ api
 api2
 api-dev
 apis
-api-sandbox
 api-staging
 api-test
 apm
@@ -72,6 +75,7 @@ app
 apply
 apps
 appstore
+aps
 apt
 ar
 archive
@@ -101,6 +105,7 @@ ba
 backend
 backup
 basic
+basic-nodejs-dev
 bb
 bbs
 bc
@@ -122,9 +127,7 @@ bot
 bounce
 br
 brand
-bridge
 broker
-browser
 bs
 bt
 bugs
@@ -134,7 +137,6 @@ business
 buy
 c
 ca
-cache
 calendar
 campaign
 campaigns
@@ -149,12 +151,10 @@ cart
 cas
 cat
 catalog
-cbs
 cc
 ccc
 cd
 cdn
-cdn1
 cdn2
 cdq-api
 cds
@@ -162,7 +162,6 @@ cert
 certificate
 cf
 ch
-channel
 chat
 check
 checkout
@@ -175,6 +174,7 @@ cim-api-qa
 cim-api-uat
 cim-data-quality-qa
 cim-dev
+cim-geo-dev
 citrix
 cl
 click
@@ -212,6 +212,7 @@ cpanel
 cps
 cr
 create
+crl
 crm
 cs
 csp
@@ -225,6 +226,7 @@ da
 dacceptatieloket
 dacceptatiemidoffice
 dam
+danieapp
 dash
 dashboard
 data
@@ -271,7 +273,6 @@ docker
 docs
 documents
 dogfood-dev
-domain
 domains
 download
 downloads
@@ -279,10 +280,12 @@ dr
 drive
 ds
 dsp
+dt
 dyn
 e
 ea
 ec
+echo
 ecs
 edge
 edienstenburgerzaken
@@ -323,7 +326,6 @@ ext
 external
 extranet
 f
-fa
 facebook
 faq
 fb
@@ -333,7 +335,6 @@ felix
 fi
 file
 files
-fin
 finance
 fm
 form
@@ -353,6 +354,7 @@ gac-rds-external-readonly-preprod
 game
 games
 gateway
+gcom-product-find-dev
 gcom-product-find-qa
 gcp
 gemeenteraad
@@ -368,13 +370,12 @@ gov
 gp
 gr
 grafana
-graph
 green
 groups
-gs
 gslb
 gt
 gtm
+guce
 guest
 gui
 guide
@@ -383,6 +384,8 @@ gws
 gws-api-sandbox
 gws-dev
 gws-qa
+gws-rds-external-readonly-uat
+gws-uat
 h
 health
 hello
@@ -394,7 +397,6 @@ hk
 home
 horizon
 host
-hosting
 hostmaster
 hq
 hr
@@ -419,6 +421,7 @@ image
 images
 imap
 img
+imp
 ims
 in
 inbound
@@ -432,7 +435,6 @@ insights
 insurance
 int
 integration
-integrations
 intern
 internal
 international
@@ -441,7 +443,6 @@ intra
 intranet
 investor
 investors
-invoice
 io
 ios
 iot
@@ -450,7 +451,6 @@ iphone
 ips
 ipv6
 ir
-irc
 iris
 is
 it
@@ -507,6 +507,7 @@ local
 localhost
 log
 login
+login2
 logs
 loket
 love
@@ -524,7 +525,7 @@ magazine
 magazines
 magazinesintern
 mail
-mail01
+mail02
 mail1
 mail2
 mail3
@@ -550,6 +551,7 @@ meeting
 mema
 member
 members
+merchandising-preview
 merchant
 messaging
 metrics
@@ -559,12 +561,14 @@ mg
 mgmt
 mi
 mijn
+mil
 mirror
 ml
 mm
 mms
 mo
 mobile
+mobile-rest
 mon
 mongo
 mongodb
@@ -586,6 +590,7 @@ mx3
 mx4
 my
 myaccount
+mysite
 mysql
 n
 na
@@ -609,7 +614,6 @@ nodejs-dev
 non-prod
 notifications
 notify
-nova
 now
 ns
 ns1
@@ -638,6 +642,7 @@ open
 opendata
 opensource
 ops
+or
 order
 orders
 org
@@ -654,6 +659,7 @@ pa
 packages
 page
 pages
+panel
 parkeren
 partner
 partners
@@ -664,8 +670,10 @@ pay
 payment
 payments
 pc
+pe
 people
 perf
+pf
 ph
 phoenix
 photos
@@ -703,11 +711,9 @@ product
 production
 products
 profile
-profiles
 projects
 prometheus
 promo
-promotion
 promotions
 proxy
 ps
@@ -716,6 +722,7 @@ pub
 public
 publish
 publishing-catalog
+publishing-preview
 pulse
 push
 pv
@@ -731,7 +738,6 @@ rc
 rd
 rds
 redirect
-refer
 reg
 register
 registration
@@ -749,7 +755,6 @@ resources
 retail
 reviews
 rewards
-rm
 rms
 ro
 root
@@ -773,7 +778,6 @@ sap
 sb
 sbc
 sc
-scheduler
 scm
 sd
 sdm
@@ -831,7 +835,6 @@ sp
 speedtest
 spf
 spf1
-spf2
 splunk
 sport
 sports
@@ -854,12 +857,12 @@ status
 stg
 storage
 store
+storefront
 stories
 storybook
 stream
 sts
 studio
-style
 success
 supplier
 support
@@ -916,7 +919,6 @@ ui
 uk
 union
 university
-up
 update
 updates
 upload
@@ -948,11 +950,11 @@ vps
 w
 wallet
 wap
-watch
 weather
 web
 web1
 web2
+webapp
 webconf
 webdisk
 webhook
@@ -975,7 +977,6 @@ wireless
 wordpress
 work
 workspace
-world
 wp
 ws
 ww
@@ -998,5 +999,4 @@ zaaksysteem-accept
 zabbix
 zendesk1
 zendesk3
-zendesk4
 zh

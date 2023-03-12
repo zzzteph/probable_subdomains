@@ -1,3 +1,5 @@
+
+*
 acc
 acceptatie
 admin
@@ -8,14 +10,15 @@ apps
 assets
 auth
 autodiscover
-a-www
 beta
 blog
 careers
 cdn
+ch
 chat
 cloud
 cms
+com
 community
 connect
 content
@@ -37,10 +40,9 @@ forum
 fr
 ftp
 go
+gov
 help
 home
-iburgerzaken
-ibzpink
 images
 info
 intranet
@@ -57,12 +59,12 @@ mail
 mail2
 media
 meet
-mijn
 mobile
 mx
-mx1
 my
+net
 news
+nl
 ns1
 ns2
 ns3
@@ -79,7 +81,6 @@ remote
 s
 search
 secure
-service
 services
 shop
 sip
@@ -92,7 +93,6 @@ status
 store
 support
 test
-tools
 video
 vpn
 web

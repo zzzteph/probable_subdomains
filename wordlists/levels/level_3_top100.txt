@@ -1,3 +1,4 @@
+*
 1
 2
 3
@@ -5,7 +6,6 @@
 a
 acc
 admin
-ap
 api
 app
 apps
@@ -17,11 +17,11 @@ b
 beta
 blog
 c
+ca
 cdn
 click
 cloud
 cms
-cn
 co
 com
 d
@@ -39,14 +39,14 @@ email
 es
 eu
 eu-west-1
-f
 files
 ftp
+gateway
 gitlab
 go
 grafana
+gw
 image
-images
 int
 internal
 jenkins
@@ -57,14 +57,12 @@ mail
 media
 mobile
 mx
-my
 net
 ns1
 ns2
 o1
 origin
 portal
-prd
 preprod
 preview
 prod
@@ -73,6 +71,7 @@ proxy
 public
 qa
 registry
+res
 sandbox
 search
 secure
@@ -88,6 +87,7 @@ support
 t
 test
 test2
+training
 tst
 uat
 uk

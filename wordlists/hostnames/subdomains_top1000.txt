@@ -1,8 +1,12 @@
+
+*
 0
 1
+10
 2
 20
 3
+4
 8
 a
 aaa
@@ -37,7 +41,6 @@ akamai-test
 akamai-test-origin
 alerts
 alpha
-alumni
 am
 a-magazines
 a-magazines.a-english
@@ -52,6 +55,7 @@ answers
 a-opendata
 a-opendata.a-english
 ap
+*.api
 api
 api2
 api-dev
@@ -62,14 +66,12 @@ api.sandbox
 api-staging
 api.staging
 api-test
-api.test
 apm
 apollo
 app
 apply
 apps
 appstore
-apt
 ar
 archive
 art
@@ -114,7 +116,6 @@ bot
 bounce
 br
 brand
-bridge
 broker
 browser
 bs
@@ -129,7 +130,6 @@ calendar
 campaign
 campaigns
 campus
-canvas
 card
 care
 career
@@ -147,7 +147,6 @@ cert
 certificate
 cf
 ch
-channel
 chat
 check
 checkout
@@ -197,6 +196,7 @@ corporate
 cp
 cpanel
 cps
+crl
 crm
 cs
 csp
@@ -221,9 +221,9 @@ de
 delivery
 delta
 demo
-deploy
 design
 desktop
+*.dev
 dev
 dev1
 dev2
@@ -264,9 +264,11 @@ downloads
 dr
 drive
 ds
+dsp
 dyn
 e
 ec
+echo
 ecs
 edge
 edienstenburgerzaken
@@ -292,6 +294,7 @@ enterpriseenrollment
 enterpriseregistration
 es
 espanol
+et
 eu
 europe
 event
@@ -314,7 +317,6 @@ fi
 file
 files
 finance
-find
 fm
 form
 forms
@@ -352,6 +354,7 @@ green
 groups
 gt
 gtm
+guce
 guest
 gui
 guide
@@ -374,6 +377,7 @@ home
 horizon
 host
 hostmaster
+hq
 hr
 httpbin
 hu
@@ -396,6 +400,7 @@ image.email
 images
 imap
 img
+imp
 ims
 in
 inbound
@@ -414,12 +419,11 @@ intern
 internal
 international
 internet
-intra
 intranet
 investor
 investors
-invoice
 io
+ios
 iot
 ip
 iphone
@@ -481,7 +485,6 @@ localhost
 log
 login
 login2
-login-dev
 logs
 loket
 loket.acceptatie
@@ -490,6 +493,7 @@ lp
 lync
 lyncdiscover
 lyncdiscoverinternal
+*.m
 m
 m2
 ma
@@ -499,7 +503,7 @@ magazines.english
 magazinesintern
 magazinesintern.english
 mail
-mail01
+mail02
 mail1
 mail2
 mail3
@@ -515,14 +519,12 @@ maps
 market
 marketing
 marketplace
-mars
 mc
 mdm
 me
 media
 meet
 meeting
-mein
 mema
 mema.stage
 member
@@ -539,7 +541,6 @@ mirror
 ml
 mm
 mms
-mobiel
 mobile
 mobile-rest
 mongo
@@ -564,9 +565,10 @@ mx3
 mx4
 my
 myaccount
+mysite
 mysql
+n
 net
-network
 new
 news
 newsletter
@@ -583,7 +585,6 @@ nodejs
 nodejs-dev
 non-prod
 notifications
-nova
 now
 ns
 ns01
@@ -594,7 +595,7 @@ ns4
 ns5
 ns6
 ns7
-nz
+ntp
 o
 o1.email
 o2.email
@@ -630,6 +631,7 @@ pa
 packages
 page
 pages
+panel
 parkeren
 partner
 partners
@@ -650,7 +652,6 @@ pki
 pl
 platform
 play
-player
 plus
 pm
 pop
@@ -668,10 +669,13 @@ preprod
 preproductie
 press
 preview
+preview.www
 privacy
 pro
+*.prod
 prod
 product
+production
 products
 profile
 projects
@@ -681,6 +685,7 @@ promotion
 promotions
 proxy
 pt
+pub
 public
 publish
 publishing-catalog
@@ -737,7 +742,6 @@ safe
 sales
 sandbox
 sb
-sbc
 sc
 scheduler
 sd
@@ -808,8 +812,11 @@ sso
 ssp
 st
 stage
+stage.guce
+*.staging
 staging
 staging.api
+staging.www
 star
 start
 stat
@@ -819,13 +826,13 @@ status
 stg
 storage
 store
+storefront
 stories
 storybook
 stream
 sts
 studio
 success
-summit
 supplier
 support
 survey
@@ -836,7 +843,6 @@ sync
 t
 tableau
 tags
-tc
 team
 teams
 tech
@@ -846,6 +852,7 @@ test2
 test3
 test.api
 testing
+tfs
 th
 ticket
 tickets
@@ -855,7 +862,6 @@ tm
 tms
 tools
 top
-touch
 tr
 track
 tracker
@@ -865,10 +871,10 @@ training
 transfer
 translate
 travel
+trunk.guce
 trust
 try
 ts
-tst
 tv
 tw
 tx
@@ -876,7 +882,6 @@ u
 ua
 uat
 uc
-ui
 uk
 union
 university
@@ -898,6 +903,7 @@ vendor
 vendor-api
 vendors
 verify
+vi
 video
 videos
 view
@@ -911,7 +917,6 @@ vpn2
 w
 wallet
 wap
-watch
 weather
 web
 web1
@@ -921,7 +926,6 @@ webconf
 webdisk
 webhook
 webmail
-webmaster
 webservices
 website
 welcome
@@ -938,7 +942,6 @@ wireless
 wordpress
 work
 workspace
-world
 wp
 ws
 ww
@@ -984,13 +987,11 @@ www.store
 www.support
 www-test
 www.test
-www.uk
 www.vpn
 wwww
 www.webmail
 www.www2
 x
-xml
 z
 zaaksysteem-accept
 zabbix
@@ -998,5 +999,4 @@ zendesk1
 zendesk2
 zendesk3
 zendesk4
-zeus
 zh
