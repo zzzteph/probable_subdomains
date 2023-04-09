@@ -7,11 +7,11 @@ In these lists, you will find the most popular words from subdomains split by le
 
 | Name | Words count  |
 |---|---|
-| [level_1.txt.gz](https://download.weakpass.com/probable/2023/03/level_1.txt.gz) | 10007710 |
-| [level_2.txt.gz](https://download.weakpass.com/probable/2023/03/level_2.txt.gz) | 13019356 |
-| [level_3.txt.gz](https://download.weakpass.com/probable/2023/03/level_3.txt.gz) | 1529836 |
-| [level_4.txt.gz](https://download.weakpass.com/probable/2023/03/level_4.txt.gz) | 226700 |
-| [level_5.txt.gz](https://download.weakpass.com/probable/2023/03/level_5.txt.gz) | 80631 |
+| [level_1.txt.gz](https://download.weakpass.com/probable/2023/04/level_1.txt.gz) | 10273581 |
+| [level_2.txt.gz](https://download.weakpass.com/probable/2023/04/level_2.txt.gz) | 13082618 |
+| [level_3.txt.gz](https://download.weakpass.com/probable/2023/04/level_3.txt.gz) | 1543767 |
+| [level_4.txt.gz](https://download.weakpass.com/probable/2023/04/level_4.txt.gz) | 230583 |
+| [level_5.txt.gz](https://download.weakpass.com/probable/2023/04/level_5.txt.gz) | 81601 |
 | [level_1_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top100.txt) | 100 |
 | [level_1_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top1000.txt) | 1000 |
 | [level_2_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_top100.txt) | 100 |

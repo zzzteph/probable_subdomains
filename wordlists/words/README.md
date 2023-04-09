@@ -5,7 +5,7 @@ In these lists, you will find the most popular splitted words from subdomains on
 
 | Name | Words count  |
 |---|---|
-| [words.txt.gz](https://download.weakpass.com/probable/2023/03/words.txt.gz) | 24631058 |
+| [words.txt.gz](https://download.weakpass.com/probable/2023/04/words.txt.gz) | 24961458 |
 | [words_top100.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top100.txt) | 100 |
 | [words_top1000.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top1000.txt) | 1000 |
 | [words_top10000.txt](https://github.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top10000.txt) | 10000 |
