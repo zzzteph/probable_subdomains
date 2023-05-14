@@ -3,7 +3,7 @@
 
 Online tool: [https://weakpass.com/generate/domains](https://weakpass.com/generate/domains)
 
-
+ 
 <p align="center">
   <img src="https://github.com/zzzteph/probable_subdomains/blob/main/generate.gif?raw=true">
 </p>
