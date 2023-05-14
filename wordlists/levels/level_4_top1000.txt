@@ -7,9 +7,7 @@
 02
 03
 04
-040uy5c4ksfktlc89q8tdjor6g
 0-checkpoint
-0-okta-network-metrics-ametricc-pass
 0-ulrichsweb
 0-www
 1
@@ -118,7 +116,6 @@
 191
 192
 193
-194
 195
 196
 198
@@ -289,6 +286,7 @@ ads
 adsl
 adsl-pool
 af
+affiliates
 agent
 airflow
 akamai
@@ -341,6 +339,7 @@ att
 au
 auth
 author
+authorization
 auto
 autoconfig
 autodiscover
@@ -412,7 +411,6 @@ cnc
 co
 col
 com
-comcast
 commerce
 community
 compute
@@ -438,6 +436,7 @@ cytanet
 cz
 d
 dashboard
+dashboards
 data
 db
 dc
@@ -463,7 +462,6 @@ devops
 dex
 dhcp
 dia
-dial
 dialup
 direct
 discovery
@@ -523,8 +521,8 @@ fbx
 fe
 fi
 files
+finance
 fl
-flets
 fm
 foo
 forum
@@ -555,6 +553,7 @@ googledocs
 gov
 gq1
 grafana
+graph
 green
 grid
 group
@@ -563,16 +562,16 @@ gw
 h0
 handbook
 harbor
+health
 help
-history
 hk
 home
 host
-hosting
 hostmaster
 hp
 hq
 hqda
+hr
 httpbin
 hub
 i
@@ -580,6 +579,7 @@ ic
 id
 idc
 identity
+idp
 ie
 ifs
 il
@@ -588,7 +588,6 @@ image
 images
 img
 in
-in-addr
 inf
 info
 infra
@@ -598,10 +597,10 @@ int
 integration
 integrations
 internal
-internet
 internetdsl
 intl
 inventory
+io
 ip
 ip4
 ips
@@ -635,7 +634,6 @@ legacy
 link
 live
 lms
-lns
 load
 local
 localhost
@@ -671,6 +669,7 @@ minio
 mirror
 ml
 mobile
+mongo
 monitor
 monitoring
 mq
@@ -715,8 +714,11 @@ nt
 nz
 o
 o1
+o13
 o2
 o3
+o4
+o5
 oauth
 office
 okta
@@ -775,6 +777,7 @@ preview
 primary
 private
 prod
+prod1
 product
 production
 profile
@@ -793,6 +796,7 @@ publish
 publisher
 push
 qa
+qa2
 query
 queue
 r
@@ -884,9 +888,9 @@ sta
 staff
 stage
 stage1
+stage2
 staging
 star
-stat
 static
 static-ip
 stats
@@ -909,7 +913,6 @@ tc
 tds
 team
 telemetry
-telenor
 teleport
 temp
 test
@@ -921,7 +924,6 @@ testing
 th
 tky
 tls
-tn
 tools
 tr
 train
@@ -941,7 +943,6 @@ ui
 uk
 unassigned
 uncover
-unknown
 unstable
 update
 upload
@@ -961,7 +962,6 @@ v2
 v4
 va
 vault
-vcenter
 vic
 video
 view

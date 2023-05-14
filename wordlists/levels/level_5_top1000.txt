@@ -6,7 +6,9 @@
 00003
 002
 006
+02
 02v0-okta-staging
+03
 092
 1
 10
@@ -154,6 +156,7 @@
 229
 23
 230
+231
 232
 233
 234
@@ -288,14 +291,12 @@ adm
 admin
 admin-api
 admins
-admin-ui
 ads
 adserver
 adsl
 ae
 agarcia-orders2
 agents
-airflow
 akamai
 alert
 alertmanager
@@ -340,6 +341,7 @@ app4
 apple
 application
 apps
+app-server
 ap-south-1
 ap-southeast-2
 ar
@@ -372,7 +374,6 @@ avira-free-antivirusstamp
 avira-free-antivirustpe
 aws
 az
-az-test
 azuredevs-65tpp0l-bh-arppofind
 b
 b1
@@ -420,13 +421,13 @@ cc
 cd
 cdn
 cdnavira-free-antivirus
+cert
 certauth
 cf
 checkout
 chelyabinsk-rnoc-rr02
 chibnt01
 ci
-cit
 citymealcom
 cl
 client
@@ -434,7 +435,6 @@ clients
 clm
 clops
 cloud
-cloudfront
 cluster
 cm
 cms
@@ -450,7 +450,6 @@ community
 config
 confluence
 connect
-consent
 console
 content
 cookiesetter
@@ -500,6 +499,7 @@ dk
 dlw64-1antivirus
 _dmarc
 dmasa-tr-254-inl
+docker
 docs
 docsavira-free-antivirus
 dod
@@ -520,7 +520,6 @@ eastus2
 echo
 edge
 ee
-eks-test
 elasticsearch
 email
 emea
@@ -541,9 +540,9 @@ f1
 f5
 fb
 fbx
+fc
 fd
 fe
-fe1
 feature
 files
 fileserver
@@ -571,6 +570,7 @@ general
 gist
 git
 global
+go
 google
 googledocs
 gov
@@ -584,7 +584,6 @@ hc
 health
 hec
 hello
-hiram
 hk
 home
 host
@@ -602,6 +601,7 @@ id
 idc
 idcjoy
 identity
+idp
 ie
 il
 im
@@ -619,7 +619,6 @@ inl
 insights
 int
 integration
-integrations
 internal
 intranet
 io
@@ -647,12 +646,12 @@ k8s
 kafka
 keycloak
 kf
-kiali
 kibana
 king
 ko-kr
 kr
 kube
+kubecost
 ky
 l
 lab
@@ -692,7 +691,6 @@ metrics
 mgmt
 mhsi
 mil
-minio
 minisites
 ml
 mobiel
@@ -701,8 +699,6 @@ mods
 monitor
 monitoring
 mp
-mr1
-mr2
 ms
 mta
 mta-sts
@@ -737,11 +733,13 @@ nonprod
 notifications
 now
 np
+npm
 ns1
 ns2
 ns3
 nsw
 nt
+nuget
 nw
 ny
 o
@@ -763,6 +761,7 @@ orion
 outlook
 owa
 p
+p2
 pages
 partner
 pay
@@ -770,6 +769,8 @@ pc
 perf
 perf-1
 pg
+pharmacy
+php
 pl
 place
 platform
@@ -788,6 +789,8 @@ primary
 privacy
 private
 prod
+prod1
+prod-green
 product
 production
 profgeodata
@@ -825,7 +828,6 @@ rc
 redir
 redirectme
 registry
-registry-console-default
 relay
 render
 report
@@ -841,7 +843,6 @@ reverse
 rt
 ru
 s
-s3
 s3-antivirus
 s4171-antivirus
 sa
@@ -858,6 +859,7 @@ security
 server
 server2
 service
+services
 sf
 sfr
 shop
@@ -882,6 +884,7 @@ sso
 st
 sta
 stage
+stage1
 stage2
 staging
 stamp
@@ -897,12 +900,10 @@ stats
 stg
 stl
 storage
-stress
 sub
 submit
 subscription
 support
-survey
 svc
 sw
 syd
@@ -927,7 +928,6 @@ test5
 test6
 test8
 testapp
-test-cert
 testing
 tests
 ticket
@@ -993,10 +993,10 @@ wireless
 wline
 ws
 ws01
+wus
 www
 www2
 wwwqa
 x
 yellow
 zavira-free-antivirus
-zero

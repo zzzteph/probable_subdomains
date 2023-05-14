@@ -1,12 +1,10 @@
 0
 1
 10
-108
 11
 14
 17
 2
-4
 76
 a
 acc
@@ -17,6 +15,7 @@ ap
 api
 app
 apps
+argocd
 assets
 auth
 aws
@@ -79,6 +78,7 @@ qa
 registry
 s
 sandbox
+search
 secure
 service
 services

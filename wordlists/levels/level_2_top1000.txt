@@ -2,21 +2,20 @@
 1
 10
 101
-102
 109
 11
 112
 113
 115
-116
 12
 120
 121
+125
+128
 13
 131
 135
 138
-139
 14
 15
 154
@@ -27,9 +26,6 @@
 168
 169
 17
-170
-173
-178
 18
 183
 185
@@ -41,7 +37,6 @@
 205
 21
 213
-214
 216
 217
 218
@@ -72,13 +67,11 @@
 43
 44
 45
-46
 47
 48
 49
 5
 50
-51
 52
 53
 54
@@ -99,7 +92,6 @@
 69
 7
 70
-72
 74
 75
 76
@@ -108,10 +100,8 @@
 79
 8
 82
-83
 84
 85
-86
 87
 88
 89
@@ -148,6 +138,7 @@ admin
 ads
 adsl
 ae
+aero
 af
 a-feeds
 agent
@@ -193,9 +184,9 @@ as
 assets
 at
 athena
+atlantis
 atlas
 au
-audit
 auth
 author
 auto
@@ -238,6 +229,7 @@ c1
 c2
 c3
 ca
+cache
 calendar
 canary
 cap
@@ -266,6 +258,7 @@ cim-api-uat
 cim-data-quality-qa
 cim-dev
 cim-geo-dev
+cis
 citrix
 click
 client
@@ -355,7 +348,6 @@ docs
 dogfood-dev
 download
 downloads
-dp
 dr
 ds
 dsl
@@ -389,6 +381,7 @@ ep
 es
 eu
 eu1
+eu-central-1
 europe
 eu-west-1
 event
@@ -404,6 +397,7 @@ fb
 fbx
 fe
 federation
+feed
 feedback
 feeds
 fi
@@ -424,6 +418,7 @@ g
 ga
 gac-rds-external-readonly
 gac-rds-external-readonly-preprod
+game
 games
 gamma
 gate
@@ -554,7 +549,6 @@ lp
 lyncdiscover
 m
 m1
-m2
 ma
 magazines
 magazinesintern
@@ -569,6 +563,7 @@ mailserver
 main
 maintenance
 manage
+management
 manager
 map
 maps
@@ -614,6 +609,7 @@ mt
 mta
 mta1
 mta10
+mta11
 mta2
 mta3
 mta4
@@ -663,8 +659,10 @@ o
 o1
 o10
 o11
+o12
 o13
 o14
+o15
 o2
 o3
 o4
@@ -676,6 +674,7 @@ o9
 oa
 oauth
 office
+oidc
 okta
 old
 omp
@@ -710,7 +709,6 @@ payments
 pc
 perf
 phoenix
-pi
 pilot
 pki
 pl
@@ -736,6 +734,7 @@ preview
 private
 pro
 prod
+prod2
 product
 production
 profile
@@ -914,7 +913,6 @@ tp
 tr
 track
 tracking
-trade
 train
 training
 transfer
@@ -957,6 +955,7 @@ videos
 view
 vip
 vision
+vn
 voice
 vpn
 vpn1
@@ -987,6 +986,7 @@ wildcard
 wireless
 wordpress
 work
+workflow
 wp
 ws
 ww

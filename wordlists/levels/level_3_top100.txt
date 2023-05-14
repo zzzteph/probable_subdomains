@@ -1,3 +1,4 @@
+0
 1
 2
 3
@@ -20,6 +21,7 @@ ca
 cdn
 cloud
 cms
+cn
 co
 com
 d
@@ -36,6 +38,7 @@ edge
 email
 es
 eu
+eu-west-1
 files
 ftp
 gateway
@@ -43,7 +46,6 @@ gitlab
 go
 grafana
 gw
-image
 int
 internal
 jenkins
@@ -55,7 +57,6 @@ mail
 media
 mobile
 mx
-my
 net
 ns1
 ns2
@@ -70,7 +71,7 @@ proxy
 public
 qa
 registry
-s
+res
 sandbox
 search
 secure
@@ -85,7 +86,6 @@ stg
 support
 t
 test
-test2
 training
 tst
 uat

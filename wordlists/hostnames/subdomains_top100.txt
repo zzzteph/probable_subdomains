@@ -11,6 +11,7 @@ autodiscover
 a-www
 beta
 blog
+business
 careers
 cdn
 chat
@@ -63,7 +64,6 @@ mobile
 mx
 mx1
 my
-new
 news
 ns1
 ns2

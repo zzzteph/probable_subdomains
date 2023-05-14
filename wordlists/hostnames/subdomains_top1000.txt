@@ -10,7 +10,6 @@
 8
 a
 aaa
-ab
 abc
 about
 ac
@@ -44,6 +43,7 @@ akamai-test
 akamai-test-origin
 alerts
 alpha
+alumni
 am
 a-magazines
 a-magazines.a-english
@@ -78,13 +78,13 @@ artifactory
 as
 asia
 ask
-asset
 assets
 at
 athena
 atlas
 au
 auth
+author
 auto
 autoconfig
 autodiscover
@@ -107,6 +107,7 @@ beta
 bg
 bi
 billing
+biz
 blog
 blogs
 book
@@ -193,6 +194,7 @@ content
 core
 corp
 corporate
+covid19
 cp
 cpanel
 crl
@@ -202,6 +204,7 @@ csp
 css
 ct
 customer
+customerservice
 cveapi
 cz
 d
@@ -215,6 +218,7 @@ dashboard
 data
 db
 dc
+dcp
 dd
 de
 delivery
@@ -266,7 +270,6 @@ drive
 ds
 dyn
 e
-eas
 ec
 echo
 ecs
@@ -285,12 +288,10 @@ emails
 embed
 ems
 en
-energy
 eng
 engage
 engineering
 english
-enroll
 enterprise
 enterpriseenrollment
 enterpriseregistration
@@ -321,6 +322,7 @@ file
 files
 finance
 find
+flex
 form
 forms
 formulieren
@@ -338,6 +340,7 @@ gac-rds-external-readonly
 gac-rds-external-readonly-preprod
 game
 games
+gaming
 gateway
 gcom-product-find-dev
 gcom-product-find-qa
@@ -357,6 +360,7 @@ grafana
 graph
 green
 groups
+gs
 gt
 gtm
 guce
@@ -395,7 +399,6 @@ iam
 iburgerzaken
 ibzpink
 ic
-ice
 id
 ideas
 identity
@@ -412,7 +415,6 @@ img
 ims
 in
 inbound
-india
 info
 infra
 innovation
@@ -429,7 +431,6 @@ international
 internet
 intra
 intranet
-inventory
 investor
 investors
 io
@@ -496,12 +497,12 @@ localhost
 log
 login
 login2
+logistics
 logs
 loket
 loket.acceptatie
 love
 lp
-lv
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -514,7 +515,6 @@ magazines.english
 magazinesintern
 magazinesintern.english
 mail
-mail01
 mail02
 mail1
 mail2
@@ -522,7 +522,6 @@ mail3
 mail4
 mail5
 mailer
-mailhost
 mailing
 mailserver
 maintenance
@@ -541,6 +540,7 @@ me
 media
 meet
 meeting
+meetings
 mema
 mema.stage
 member
@@ -558,8 +558,6 @@ ml
 mm
 mms
 mobile
-mobile-rest
-mon
 mongo
 mongodb
 monitor
@@ -594,7 +592,6 @@ newsroom
 next
 nexus
 nginx
-nginx-newest
 nginx-newest1
 nieuwsbrief
 nl
@@ -628,6 +625,7 @@ okta
 old
 om
 oms
+on
 onboarding
 one
 online
@@ -703,7 +701,6 @@ profiles
 projects
 prometheus
 promo
-promotion
 promotions
 proxy
 ps
@@ -724,6 +721,7 @@ ra
 raad
 radar
 radio
+ras
 rc
 rd
 rds
@@ -743,7 +741,6 @@ res
 research
 resource
 resources
-restaurant
 restaurants
 retail
 reviews
@@ -769,6 +766,7 @@ sandbox
 sb
 sbc
 sc
+scheduler
 sd
 sdm
 se
@@ -781,6 +779,7 @@ secure
 securemail
 security
 selfservice
+sell
 sentry
 seo
 server
@@ -809,6 +808,7 @@ sites
 sk
 sl
 slack
+sm
 smart
 smetrics
 sms
@@ -854,6 +854,7 @@ storybook
 stream
 sts
 studio
+subscriptions
 success
 supplier
 support
@@ -991,7 +992,6 @@ wwww
 x
 xml
 z
-za
 zaaksysteem-accept
 zabbix
 zendesk1

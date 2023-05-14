@@ -78,9 +78,9 @@ prod
 qa
 remote
 s
+sandbox
 search
 secure
-service
 services
 shop
 sip

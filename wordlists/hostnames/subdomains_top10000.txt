@@ -70,10 +70,8 @@
 204
 209
 21
-212
 22
 222
-228
 23
 230
 235
@@ -179,7 +177,6 @@
 98
 99
 a
-a0
 a01
 a02
 a1
@@ -188,6 +185,7 @@ a3
 a4
 a5
 a6
+a9g-api
 aa
 aaa
 aab
@@ -195,6 +193,7 @@ aad
 aads
 aaf
 aag
+aam
 aan
 aanmelden
 aanvragen
@@ -203,6 +202,7 @@ a.api
 aaron
 aarp
 aas
+aax-eu
 ab
 aba
 abacus
@@ -218,6 +218,7 @@ abi
 abk
 ablink.emails
 ablink.orders
+ablistswidgethorizonte
 abm
 abonnement
 about
@@ -263,12 +264,16 @@ acc.mijn
 account
 accountant
 account-dev
+account.hubportal
 accounting
+account.kep
 accountmanager
+account-p2k
 accounts
 accounts-dev
 accountservices
 accounts-staging
+account-status
 acc.piwik
 acc-secure-azure.zorgzoeker
 acc-secure-azure.zzapi
@@ -299,6 +304,7 @@ acs
 acsfdev
 acsfprod
 acsftest
+acs-m
 act
 actie
 action
@@ -312,17 +318,16 @@ activity
 acts
 ad
 ada
-adagio
 adam
 adams
 adapt
+adapter
 adc
 add
 addons
 address
 adds
 ade
-adele
 adfs
 adfstest
 adidas
@@ -376,12 +381,14 @@ aeolus
 aep
 aero
 aes
+aeswidgets
 aether
 af
 a-feeds
 a-feeds.a-english
 aff
 affiliate
+affiliate-program
 affiliates
 afiliados
 afisha
@@ -414,7 +421,6 @@ aha
 ahi
 ai
 aia
-aib
 aic
 aid
 aida
@@ -437,6 +443,7 @@ ajuda
 ak
 aka
 akamai
+akamai-renew-cert-digicert
 akamai-test
 akamai-test-origin
 akamai.www
@@ -455,7 +462,6 @@ alb
 albany
 albert
 alberta
-albion
 album
 albuquerque
 alchemy
@@ -468,8 +474,20 @@ alerts
 alertus
 alex
 alexa
+alexaanswers
+alexa-comms-mobile-service
+alexa-comms-mobile-service-gamma
 alexander
 alexandria
+alexa-skills
+alexaskills
+alexa-skills-beta
+alexa-skills-beta-eu
+alexa-skills-beta-fe
+alexa-skills-beta-na
+alexa-skills-eu
+alexa-skills-fe
+alexa-skills-na
 alf
 alfa
 alfred
@@ -500,6 +518,7 @@ alteryx
 alto
 alumni
 alumni.dev
+alx-inbound
 am
 ama
 amac
@@ -526,7 +545,6 @@ amg
 ami
 amigo
 amis
-aml
 amon
 amp
 amplify
@@ -544,12 +562,10 @@ analysis
 analytics
 anand
 anaplan
-anc
 anchor
 anchorage
 and
 andre
-andrea
 andreas
 andrei
 andres
@@ -559,9 +575,7 @@ andromeda
 andy
 angebote
 angel
-ani
 animal
-anime
 anna
 annarbor
 announcements
@@ -573,7 +587,6 @@ ansible
 answer
 answers
 ansys
-ant
 antares
 anthem
 anthony
@@ -584,7 +597,6 @@ antivirus
 antivirus1
 antivirus2
 antivirus-38b65
-anton
 antonio
 anvil
 any
@@ -618,12 +630,15 @@ api-acc
 api.acc
 api.acceptatie
 api.ads
+api-amazondevices
 api.app
 api.appmetrica
 api-beta
 api.beta
 api.browser
+apic
 api.cloud
+api.connect
 api.demo
 api-dev
 api.dev
@@ -640,6 +655,7 @@ api.ext
 api.games
 api-gateway
 apigateway
+api-gateway.sandbox
 apigw
 api-int
 api.int
@@ -660,6 +676,7 @@ api-new.browser
 api.openstad
 api-origin
 api.ott
+apip
 api.pay
 api.payments
 apiportal
@@ -674,6 +691,7 @@ apis
 api-sandbox
 api.sandbox
 api.search
+api.shop
 api-stage
 api.stage
 api-staging
@@ -738,12 +756,13 @@ appstore
 app-test
 app.test
 apptest
+appx.transient
 apricot
 april
 aps
 apt
 apu
-apus
+apx-security
 aq
 aqs
 aqua
@@ -768,18 +787,19 @@ architecture
 archive
 archives
 arctic
+arcus-www
 area
 arena
 ares
 arg
 argentina
+argileto
 argo
 argocd
 argon
 argos
 argus
 ari
-aria
 ariba
 ariel
 aries
@@ -814,7 +834,6 @@ arwen
 as
 as1
 as2
-as4
 as400
 asa
 asap
@@ -832,11 +851,11 @@ ashish
 ashley
 asi
 asia
-asian
 asics
 as.im
 ask
 asm
+asmw
 aso
 asp
 aspen
@@ -868,9 +887,9 @@ aster
 asterisk
 asterisk2
 asterix
+astore
 astra
 astro
-astrology
 asu
 asus
 async
@@ -893,12 +912,12 @@ atm
 atom
 atp
 atr
-atropos
 ats
 att
 attachments
 attack
 atv
+atv-ps-eu
 au
 auburn
 auc
@@ -950,6 +969,7 @@ autodiscover.dev
 autodiscover.mail
 autodiscover.test
 autodiscover.us
+autodiscover.www
 automated-programs-unauthorized
 automation
 automator
@@ -958,6 +978,7 @@ autopilot
 autoreply
 autos
 aux
+auxilium
 av
 av1
 av2
@@ -979,10 +1000,9 @@ aviation
 avid
 avira-free-antivirus
 avon
-avril
 avs
+avs-idrs
 aw
-awa
 awacs.direct
 awards
 awc
@@ -1004,7 +1024,6 @@ a-www
 awww
 awx
 ax
-axa
 axe
 axis
 axon
@@ -1012,7 +1031,6 @@ axonius
 aya
 ayuda
 az
-azalea
 azure
 b
 b1
@@ -1043,7 +1061,6 @@ backup-bar-navig
 bacon
 badger
 badges
-bae
 bag
 baidu
 baike
@@ -1058,7 +1075,6 @@ bam
 bambi
 bamboo
 banana
-bane
 bang
 bank
 banking
@@ -1069,6 +1085,7 @@ bao
 bap
 bar
 barbie
+barcelona
 barcode
 bard
 bar-navig
@@ -1090,7 +1107,6 @@ bat
 batch
 batman
 battle
-bauer
 bb
 bbb
 bbc
@@ -1107,8 +1123,8 @@ bcs
 bd
 bdc
 bdp
+bdr
 bds
-bdsm
 be
 bea
 beacon
@@ -1158,7 +1174,6 @@ bestuur
 bestway
 bet
 beta
-beta1
 beta2
 beta3
 beta4
@@ -1196,6 +1211,9 @@ bigmac
 bike
 bill
 billing
+billing-hubportal
+billing-kep
+billing-p2k
 billpay
 bills
 billy
@@ -1271,7 +1289,6 @@ b.mx.b.emails
 b.mx.m.emails
 bn
 bnc
-bnet
 b.ns
 b.ns.e
 bo
@@ -1293,14 +1310,13 @@ bone
 bones
 bono
 bonus
-boo
 book
 booker
 booking
+booking-demo
 bookings
 bookmarks
 books
-bookstore
 boom
 boomerang
 boomi
@@ -1308,7 +1324,6 @@ boost
 bootcamp
 bops
 bor
-bordeaux
 border
 boris
 bos
@@ -1342,16 +1357,18 @@ brain
 brainstorm
 branch
 brand
+brandanalytics
 brandcenter
 brandedcontent
 brandhub
 branding
 brandmanagement
 brandportal
+brandregistry
 brands
+brandservices
 brandx
 brasil
-brave
 bravo
 brazil
 brb
@@ -1371,6 +1388,7 @@ brooklyn
 brother
 brown
 browser
+browserapps
 brp
 brs
 brunswick
@@ -1405,7 +1423,6 @@ buildbot
 builder
 builders
 builds
-bulgaria
 bulldog
 bulletin
 bumblebee
@@ -1430,7 +1447,6 @@ bws
 by
 byod
 byp
-byron
 bz
 c
 c1
@@ -1452,7 +1468,6 @@ cabinet
 cable
 cac
 cache
-cache1
 cache2
 cacti
 cactus
@@ -1464,10 +1479,8 @@ cafe
 cag
 cai
 caipiao
-cake
 cal
 calc
-calculus
 caldav
 calendar
 california
@@ -1498,11 +1511,12 @@ canal
 canary
 cancel
 cancer
+cancun
 canon
 canopy
 canvas
+cao
 cap
-capa
 cape
 capex2.dash
 capex2.solo
@@ -1530,14 +1544,13 @@ caribbean
 carnival
 caroline
 carrier
+carriercentral
 carriere
 cars
 cart
-carter
 cartman
 cas
 casa
-casanova
 cascade
 case
 casey
@@ -1554,6 +1567,8 @@ castle
 castor
 cat
 catalog
+catalog-retail
+catalog-sc
 catalogue
 catalogus
 catalyst
@@ -1582,12 +1597,13 @@ ccr
 ccs
 ccsp
 cct
-cctv
 cd
 cda
 cdb
 cdc
 cde
+cde-ta-g7g
+cde-ta-g7g-preprod
 cdf
 cdi
 cdm
@@ -1614,11 +1630,11 @@ cdx
 ce
 cedar
 cee
-celebrity
 cem
 centennial
 center
 central
+centric
 centurion
 ceo
 cep
@@ -1654,7 +1670,6 @@ challenge
 challenges
 champions
 chan
-chandra
 change
 changelog
 channel
@@ -1671,7 +1686,6 @@ charm
 charon
 charter
 charts
-chase
 chaski
 chat
 chat1
@@ -1686,7 +1700,6 @@ checkout
 checkpoint
 checksrv
 cheers
-cheese
 cheetah
 chef
 chem
@@ -1696,6 +1709,7 @@ cherry
 chess
 chester
 chevron
+chewbacca
 chewy
 chi
 chicago
@@ -1710,7 +1724,6 @@ china
 chinese
 chip
 chirp
-chm
 choco
 choice
 chong
@@ -1726,7 +1739,6 @@ chs
 chuangyi
 chubb
 chuck
-chum
 ci
 cia
 ciam
@@ -1735,7 +1747,6 @@ cic
 cicd
 cid
 cie
-cielo
 cig
 cim
 cim-api
@@ -1760,6 +1771,7 @@ cisco
 cit
 citadel
 citi
+cities
 citrix
 citrus
 cits
@@ -1772,7 +1784,6 @@ cla
 claims
 clarity
 class
-classes
 classic
 classifieds
 classroom
@@ -1804,6 +1815,7 @@ clinicaltrials
 clio
 clip
 clk
+cll
 clm
 clock
 clocks
@@ -1827,11 +1839,11 @@ cloud.eg
 cloud.email
 cloudera
 cloudflare
-cloudflare-resolve-to
 cloudfront
 cloudgame
 cloudivr
 cloud.mail
+cloudplayer
 cloudservices
 cloudsupport
 cloudtest
@@ -1853,6 +1865,7 @@ cmdb
 cmg
 cmi
 cmk
+cmkt
 cml
 cmm
 cmp
@@ -1867,8 +1880,10 @@ cmsdev
 cmsintranet
 cmsoo
 cms-test
+cmstest
 cmt
 cmu
+cmu-receiver-eu
 cm-www
 cmx
 c.mx.b.emails
@@ -1891,13 +1906,13 @@ cobbler
 cobra
 coc
 cockpit
-coco
 cocoa
 coconut
 cod
 coda
 code
 codeload.github
+coder
 codereview
 codesearch
 codex
@@ -1921,7 +1936,6 @@ collection
 collections
 collector
 college
-colo
 colombia
 color
 colorado
@@ -1930,7 +1944,6 @@ colt
 columbia
 columbus
 com
-comcast
 comedy
 comet
 comm
@@ -1948,6 +1961,7 @@ communications
 communities
 community
 community-stage
+community.stage
 community-staging
 comodo
 comp
@@ -1957,6 +1971,7 @@ compare
 compass
 competition
 complaints
+completion
 compliance
 components
 composer
@@ -1991,6 +2006,7 @@ connect3
 connect.acceptatie
 connect-dev
 connect.dev
+connectdr
 connected
 connecticut
 connection
@@ -2047,6 +2063,7 @@ convoy
 coo
 cook
 cookie
+cookie.browserapps
 cookies
 cool
 coop
@@ -2075,6 +2092,7 @@ cosmic
 cosmos
 costa
 costco
+cougar
 count
 countdown
 counter
@@ -2107,7 +2125,6 @@ cpd
 cpe
 cpf
 cpg
-cpl
 cpm
 cpo
 cpp
@@ -2140,6 +2157,7 @@ creators
 cred
 credentials
 credit
+creditcard
 creditsafe
 crew
 cri
@@ -2150,10 +2168,10 @@ crl
 crm
 crm-dev
 cro
-croatia
 crocodile
 cron
 cross
+crossroad
 crossroads
 crow
 crowd
@@ -2170,6 +2188,7 @@ cryptshare
 crystal
 cs
 cs1
+cs110
 cs12
 cs16
 cs2
@@ -2189,6 +2208,7 @@ csi
 csl
 csm
 csm-nat-10
+csms
 cso
 csp
 csportal
@@ -2202,8 +2222,8 @@ ctc
 ctd
 ctf
 cti
-ctl
 ctp
+ctr
 cts
 ctx
 cu
@@ -2213,7 +2233,6 @@ cucumber
 culture
 cumulus
 cup
-cupcake
 cupid
 current
 curtis
@@ -2306,6 +2325,7 @@ databricks
 datacenter
 data-dev
 datadog
+data-exchange
 datahub
 datalab
 dataportal
@@ -2353,6 +2373,8 @@ dcs
 dd
 ddc
 ddd
+ddee
+ddee-preprod
 ddi
 ddl
 dds
@@ -2363,7 +2385,6 @@ dealer
 dealerportal
 dealers
 deals
-death
 deb
 debian
 debug
@@ -2376,7 +2397,6 @@ deer
 def
 default
 dei
-del
 delhi
 deli
 deliver
@@ -2391,10 +2411,10 @@ demo10
 demo2
 demo3
 demo.api
+demo.dev
 demon
 demos
 denali
-denis
 denkmee
 denmark
 denver
@@ -2422,8 +2442,11 @@ dev1
 dev10
 dev11
 dev12
+dev1-www
 dev2
+dev2-www
 dev3
+dev3-www
 dev4
 dev5
 dev6
@@ -2460,7 +2483,6 @@ developer.staging
 developer-test
 developer.test
 development
-devforum
 device
 devices
 dev-login
@@ -2514,6 +2536,7 @@ diehard
 diensten
 dig
 digi
+digiaud
 digid
 digikoppeling
 digikoppeling-test
@@ -2524,6 +2547,7 @@ digitaal
 digital
 digitalassets
 digitalmedia
+digprjsurvey
 ding
 dining
 dino
@@ -2534,6 +2558,7 @@ directaccess
 director
 directory
 dis
+disability
 disc
 disco
 discord
@@ -2563,7 +2588,6 @@ dl
 dl2
 dl3
 dlc
-dle
 dlm
 dlo
 dloket
@@ -2576,7 +2600,6 @@ _dmarc.mail
 dmc
 dmca
 dme
-dmg
 dmidoffice
 dmm
 dmp
@@ -2658,6 +2681,8 @@ dora
 dorado
 doraemon
 dos
+dossier-browserapps
+dossier.browserapps
 dot
 dots
 dou
@@ -2669,13 +2694,14 @@ down
 download
 download1
 download2
-downloader
 downloader.disk
 download.im
 downloads
 dp
 dpa
 dpc
+dp-gw-na
+dp-gw-preprod
 dpp
 dps
 dpt
@@ -2688,7 +2714,6 @@ dragonfly
 drake
 drc
 dream
-dreams
 drift
 drip
 drive
@@ -2698,8 +2723,10 @@ drm
 drone
 drop
 dropbox
+dropship
 drp
 drs
+drs-web-gamma
 drtest
 drupal
 dr-www
@@ -2709,6 +2736,7 @@ ds2
 dsa
 dsc
 dsd
+dsf
 dsg
 dsi
 dsl
@@ -2723,7 +2751,6 @@ dta
 dtc
 dtestloket
 dtestmidoffice
-dtk
 dtm
 dtp
 dtr
@@ -2733,6 +2760,7 @@ dummy
 dump
 duncan
 duo
+durham
 dust
 duurzaam
 dv
@@ -2781,6 +2809,7 @@ eat
 eats
 eb
 ebank
+ebanking
 ebay
 ebc
 ebd
@@ -2802,7 +2831,6 @@ ecare
 ecc
 ecco
 ece
-echelon
 echo
 eci
 eclipse
@@ -2889,17 +2917,17 @@ elearn
 e-learning
 elearning
 elec
+election
 elections
 electra
 electronics
 element
 elements
-elena
 elephant
 elevate
 eleven
 elf
-elib
+elinks.business
 elis
 elisa
 elise
@@ -2926,6 +2954,7 @@ email.mail
 email.mg
 emails
 emails.restaurants
+emarketing
 embed
 embedded
 ember
@@ -2955,7 +2984,6 @@ enable
 en.business
 enc
 en-ca
-encore
 end
 endeavor
 endor
@@ -3054,7 +3082,6 @@ es-us
 et
 eta
 etc
-eternal
 eth
 ethereum
 ethics
@@ -3064,6 +3091,8 @@ ets
 etx
 eu
 eu1
+eu-api-alexa
+eu-api-avs-idrs
 eudev-www
 euler
 eum
@@ -3084,8 +3113,8 @@ event
 eventbrite
 events
 everbank
+everest
 evergreen
-everything
 evo
 evolivecasino
 evolution
@@ -3097,7 +3126,6 @@ ex
 exam
 example
 exams
-excel
 excellence
 exceptions
 exch
@@ -3169,6 +3197,7 @@ fas
 fashion
 fast
 fastly
+fastly-www
 fatima
 faucet
 fax
@@ -3188,6 +3217,8 @@ fdp
 fdr
 fds
 fe
+fe-api-alexa
+fe-api-avs-idrs
 feature
 features
 fed
@@ -3200,12 +3231,13 @@ feds
 feed
 feedback
 feedback2
+feed-browserapps
+feed.browserapps
 feeds
 feeds.english
 felix
 f.emails
 fenix
-fes
 festival
 ff
 ffm
@@ -3223,7 +3255,6 @@ filecap
 filecloud
 filedrop
 files
-files2
 fileserver
 fileshare
 files.messenger
@@ -3238,10 +3269,8 @@ financial
 financials
 financien
 financing
-finch
 find
 finland
-finn
 fio
 fire
 firebird
@@ -3261,7 +3290,6 @@ fix
 fixit
 fj
 fl
-flames
 flamingo
 flash
 flat
@@ -3270,7 +3298,6 @@ fleet
 flex
 flight
 flights
-flo
 flora
 florida
 flow
@@ -3278,6 +3305,8 @@ flower
 flowers
 flowmailer-tracking
 floyd
+fls-eu
+fls-eu-opf
 flux
 fly
 flyer
@@ -3295,6 +3324,7 @@ fog
 foia
 foiaxpress
 folder
+folio
 follow
 fonts
 foo
@@ -3338,6 +3368,7 @@ fps
 fpt
 fr
 fra
+fractal
 frame
 francais
 france
@@ -3356,6 +3387,7 @@ free
 freedom
 freedompop
 freelance
+freetime
 freight
 french
 fresh
@@ -3446,7 +3478,6 @@ gallery
 gama
 gambit
 game
-gamedev
 gamer
 games
 gaming
@@ -3469,7 +3500,6 @@ gateway1
 gateway2
 gator
 gauntlet
-gawker
 gb
 gba
 gbi
@@ -3555,7 +3585,6 @@ giftshop
 gig
 gigya
 gin
-gina
 ginger
 gio
 gip
@@ -3565,6 +3594,7 @@ gisibgeoserver
 gisibgeoserver-test
 gisib-test
 gisportal
+gist
 gist.github
 git
 git.corp
@@ -3578,6 +3608,7 @@ gl
 glass
 glb
 global
+global2
 globe
 globus
 gloria
@@ -3597,7 +3628,6 @@ goa
 goals
 goat
 goblin
-godzilla
 gogo
 gold
 golem
@@ -3662,7 +3692,6 @@ grip
 grok
 groove
 group
-groupon
 groups
 grow
 growth
@@ -3690,6 +3719,7 @@ gtm2
 gtr
 gts
 gu
+guam
 guangzhou
 guard
 guardian
@@ -3704,6 +3734,7 @@ guia
 guidance
 guide
 guides
+guipitan
 guitar
 gum
 gus
@@ -3742,7 +3773,6 @@ hall
 halloween
 halo
 ham
-hamilton
 hamlet
 hammer
 han
@@ -3757,9 +3787,7 @@ hannah
 hanoi
 hans
 hansa
-hanson
 hao
-hapi
 harbor
 harley
 harmony
@@ -3785,14 +3813,12 @@ hd
 hds
 he
 head
-headlines
 heal
 health
 healthcare
 healthy
 heart
 heartbeat
-heat
 heaven
 hec
 hecate
@@ -3812,7 +3838,6 @@ helpme
 help.stage
 help-staging
 helpstopthevirus
-helsinki
 henri
 henry
 hera
@@ -3836,7 +3861,6 @@ hilfe
 hindi
 hip
 hipchat
-hippo
 hire
 hiring
 his
@@ -3882,8 +3906,8 @@ hootsuite
 hoover
 hope
 horizon
+horizonte.browserapps
 horoscope
-horse
 horus
 hos
 hospitality
@@ -4065,6 +4089,7 @@ host28
 host29
 host3
 host30
+host31
 host32
 host33
 host34
@@ -4099,7 +4124,9 @@ host6
 host60
 host61
 host62
+host63
 host64
+host67
 host68
 host7
 host72
@@ -4144,7 +4171,6 @@ hotels
 hotfix
 hotfix.profile
 hotline
-hotmail
 hotspot
 house
 housing
@@ -4158,6 +4184,7 @@ hpe
 hp.my
 hq
 hr
+hrc
 hrd
 hris
 hrm
@@ -4180,6 +4207,7 @@ hu
 huawei
 hub
 hubble
+hubportal
 hubspot
 hud
 huddle
@@ -4190,7 +4218,6 @@ human
 humanresources
 humanrights
 hummer
-humor
 hun
 hunter
 huodong
@@ -4228,6 +4255,8 @@ iaportal
 ias
 ib
 ibabs
+ibanking
+ibankinguat
 ibc
 ibcm
 ibis
@@ -4266,7 +4295,10 @@ idea
 ideal
 ideas
 identity
+identity-browserapps
+identity.browserapps
 identity-dev
+identity.sandbox
 idm
 idp
 idp-dev
@@ -4282,7 +4314,6 @@ ig
 igloo
 ignite
 igo
-igor
 ihg
 ihr
 ihub
@@ -4299,7 +4330,6 @@ im
 im2
 ima
 image
-image1
 image2
 image.connect
 image.e
@@ -4344,7 +4374,6 @@ img.news
 img.newsletter
 imk
 imm
-immigration
 imp
 imp2
 imp3
@@ -4373,7 +4402,6 @@ indonesia
 industry
 inet
 inf
-inferno
 infinite
 infinity
 influx
@@ -4432,6 +4460,8 @@ interface
 interflex
 intern
 internal
+internal-campfire-eu
+internal.dev
 internaljobs
 internal.staging
 international
@@ -4476,6 +4506,7 @@ ipad
 ipam
 iparticipatie
 ipc
+ipfs
 iphone
 ipi
 ipm
@@ -4529,10 +4560,10 @@ iss
 issue
 issues
 ist
+istanbul
 istore
 isv
 it
-it1
 ita
 italy
 itc
@@ -4575,7 +4606,6 @@ jaguar
 jam
 james
 jamf
-jamie
 jane
 japan
 japanese
@@ -4594,13 +4624,11 @@ jd
 je
 jedi
 jeep
-jeff
 jefferson
 jen
 jenkins
 jenkins.dev
 jennifer
-jenny
 jerry
 jess
 jesse
@@ -4634,7 +4662,6 @@ jk
 jko
 jm
 jo
-joan
 job
 job-openings
 jobs
@@ -4680,7 +4707,6 @@ juno
 jupiter
 jupyter
 jupyterhub
-jura
 just
 justice
 justin
@@ -4704,20 +4730,17 @@ kai
 kairos
 kaizen
 kaleidoscope
-kalender
 kaltura
 kamikaze
 kan
 kana
 kane
-kangaroo
 kansas
 kansascity
 kaplan
 kappa
 karaoke
 kardamena-uncovered
-karina
 karma
 karriere
 kas
@@ -4739,7 +4762,6 @@ keeper
 kei
 keith
 kelly
-kelvin
 kemp
 kennisbank
 kenny
@@ -4747,6 +4769,7 @@ kent
 kentucky
 kenya
 kep
+kep-eu
 kerberos
 kerio
 kevin
@@ -4765,12 +4788,17 @@ kibana
 kick
 kid
 kids
-kif
 kiki
 kiks
 kim
 kinder
 kindle
+kindledirectpublishing
+kindle-help
+kindlehelp
+kindle-store-proxy-endpoint
+kindlestore-sha-proxy
+kindlesupport
 king
 kings
 kingston
@@ -4782,14 +4810,13 @@ kit
 kitchen
 kite
 kiteworks
-kitten
 kitty
 kiwi
 kj
 kk
 kl
 klantcontact
-klm
+klite-services
 km
 kmc
 kms
@@ -4801,7 +4828,6 @@ knowledgemanagement
 ko
 koa
 koala
-kobe
 kodak
 kon
 kong
@@ -4821,7 +4847,6 @@ kronos
 krs
 ks
 ksa
-ksi
 ks-inventory-api
 ks-invoice-api
 ks-limits-api
@@ -4853,7 +4878,6 @@ lab
 labrador
 labs
 lady
-laguna
 lambda
 lan
 lancaster
@@ -4871,7 +4895,6 @@ laptop
 lara
 lark
 las
-lastminute
 lasvegas
 latam
 latest
@@ -4888,7 +4911,6 @@ lb
 lb01
 lb1
 lb2
-lb3
 lbr
 lbs
 lc
@@ -4908,7 +4930,6 @@ leaderboard
 leadership
 leads
 leaf
-league
 leap
 learn
 learn2
@@ -4965,7 +4986,6 @@ lighting
 lightning
 like
 lil
-lilo
 lily
 lima
 lime
@@ -4979,6 +4999,7 @@ link2
 linkedin
 link.email
 links
+link-staging
 linux
 lion
 lip
@@ -4992,9 +5013,9 @@ listserv
 listsync
 lite
 lithium
-little
 littlerock
 live
+livecasino
 livechat
 livehelp
 live-orders
@@ -5070,6 +5091,7 @@ lola
 lon
 loncov5
 london
+longbeach
 lookbook
 looker
 lookingglass
@@ -5078,7 +5100,6 @@ loop
 loopback
 lord
 loreal
-lori
 losangeles
 lost
 lot
@@ -5104,7 +5125,6 @@ lsu
 lt
 lti
 ltp
-lts
 lu
 lucas
 luck
@@ -5137,15 +5157,12 @@ lyris
 lys
 lz
 m
-m0
 m1
 m10
 m11
 m12
 m13
-m18
 m2
-m20
 m2m
 m3
 m365
@@ -5215,7 +5232,6 @@ mail23
 mail24
 mail25
 mail3
-mail30
 mail32
 mail33
 mail34
@@ -5226,9 +5242,6 @@ mail37
 mail38
 mail39
 mail4
-mail40
-mail42
-mail43
 mail45
 mail5
 mail6
@@ -5248,6 +5261,7 @@ mailer2
 mailgate
 mailgate2
 mailgw
+mailgw1
 mailhost
 mailhub
 mail-in
@@ -5266,7 +5280,6 @@ mail-relay
 mailrelay
 mailrelay2
 mails
-mailserv
 mailserver
 mail.test
 mailtest
@@ -5311,7 +5324,7 @@ m.app
 mapp
 mapping
 maps
-mara
+maps2
 marc
 maria
 marian
@@ -5365,15 +5378,16 @@ maximo
 maximus
 maxwell
 maxx
-may
 maya
 maze
 mb
 mba
+mbanking
 m-beta
 m.beta
 m.beta.www
 mbg
+mbl
 mbm
 mbox
 mbp
@@ -5429,6 +5443,7 @@ medialab
 media.www
 medical
 medium
+medrio
 medusa
 meedoen
 meesho
@@ -5505,6 +5520,7 @@ mfg
 mfi
 mfm
 mfp
+m.fr
 mfs
 mft
 mg
@@ -5538,6 +5554,7 @@ mig
 migrate
 migratie
 migration
+migration.business
 miguel
 mijn
 mijn-acc
@@ -5566,7 +5583,6 @@ mina
 mind
 mine
 minecraft
-mineral
 minerva
 ming
 mini
@@ -5580,7 +5596,6 @@ mio
 mip
 mips
 mir
-miracle
 mirage
 mirror
 mirrors
@@ -5628,13 +5643,14 @@ mobil
 mobile
 mobile1
 mobile2
-mobile3
 mobile-api
+mobile.api
 mobileapi
 mobileapp
 mobileapps
 mobile.dev
 mobiledev
+mobile-identity.browserapps
 mobileiron
 mobilemail
 mobilemoney
@@ -5643,6 +5659,7 @@ mobile.staging
 mobiletest
 mobile.www
 mobility
+mobius
 moca
 mocha
 mock
@@ -5669,9 +5686,7 @@ monica
 monitor
 monitor2
 monitoring
-monk
 monkey
-mono
 monolith
 monster
 montana
@@ -5721,17 +5736,21 @@ mr
 mrc
 mrm
 mrs
+mrs1
 mrs2
 mrt
+mrtg
 ms
 ms1
 ms2
 msa
 msc
+mscisv3prod
 msd
 mse
 msg
 msh
+msh-tablet
 msi
 msk
 msl
@@ -5874,6 +5893,7 @@ myapps
 mybenefits
 my.beta
 mybusiness
+mycard
 mychart
 mycloud
 mydata
@@ -5893,7 +5913,7 @@ mylearning
 mymail
 mymobile
 mymtn
-mypage
+mynews
 mypassword
 mypc
 myportal
@@ -5904,11 +5924,11 @@ myrewards
 myservices
 mysite
 mysites
-myspace
 mysql
-mysql01
 mysql3
 my.staging
+mystic
+mystore
 mysupport
 my-test
 mytest
@@ -5922,6 +5942,8 @@ n2
 na
 na2
 na61-na62.wagbridge.alibaba
+na-api-alexa
+na-api-avs-idrs
 naas
 nac
 nagios
@@ -5931,13 +5953,11 @@ name
 names
 nancy
 nano
-nap
 nas
 nasa
 nascar
 nat
 natasha
-nate
 national
 native
 nato
@@ -6038,7 +6058,6 @@ nginx-newest1
 ngn
 ngs
 nh
-nhl
 ni
 nia
 nib
@@ -6046,7 +6065,6 @@ nic
 nice
 niche
 nick
-nico
 nicole
 nieuw
 nieuws
@@ -6058,7 +6076,6 @@ nikita
 nimbus
 nina
 ninja
-nintendo
 nip
 nirvana
 nis
@@ -6074,7 +6091,6 @@ nmc
 nmr
 nms
 nn
-nnn
 no
 noah
 noc
@@ -6088,15 +6104,14 @@ nokia
 nomad
 none
 non-prod
+nonprod
 nonprofits
 nop
 nor
-norman
 north
 northeast
 northeastern
 northstar
-norton
 norway
 note
 notebook
@@ -6142,8 +6157,6 @@ ns109
 ns11
 ns110
 ns111
-ns112
-ns113
 ns114
 ns115
 ns116
@@ -6161,7 +6174,6 @@ ns13
 ns131
 ns14
 ns140
-ns141
 ns15
 ns150
 ns16
@@ -6191,7 +6203,6 @@ ns33
 ns34
 ns35
 ns36
-ns37
 ns38
 ns4
 ns40
@@ -6201,17 +6212,12 @@ ns43
 ns44
 ns45
 ns47
-ns48
 ns5
 ns51
-ns52
 ns54
-ns57
 ns6
 ns60
 ns61
-ns62
-ns63
 ns64
 ns65
 ns66
@@ -6221,16 +6227,13 @@ ns69
 ns7
 ns70
 ns73
-ns76
 ns77
-ns78
 ns8
 ns80
 ns81
 ns82
 ns84
 ns85
-ns88
 ns89
 ns9
 ns90
@@ -6292,6 +6295,7 @@ o1.sg
 o2
 o20.email
 o2.email
+o2.mail
 o2o
 o2.sendgrid
 o365
@@ -6322,14 +6326,12 @@ oc
 occ
 ocd
 ocean
-oceanus
 ocp
 ocr
 ocs
 ocsp
 oct
 octopus
-oculus
 ocw
 od
 odc
@@ -6368,7 +6370,6 @@ old
 old.www
 oldwww
 ole
-olive
 oliver
 olivia
 olm
@@ -6387,7 +6388,6 @@ omg
 omgevingsvisie
 omgevingswet
 omi
-omicron
 omni
 omnichannel
 omp.e
@@ -6408,12 +6408,15 @@ one
 onedrive
 onemedical
 onepiece
+onesource
 onetrust
 oneview
 onion
 online
+onlinebanking
 onlinefx
 onlinemarketing
+onlinestore
 only
 ons
 onsite
@@ -6428,7 +6431,6 @@ op
 opa
 opac
 opal
-opel
 open
 openapi
 openbanking
@@ -6446,6 +6448,8 @@ openx
 opera
 operations
 operator
+opf-sellercentral
+opf-www
 opm
 opportunity
 ops
@@ -6479,11 +6483,15 @@ origin2
 origin-api
 origin-content
 origin-dl
+origin-logistics
 origin-m
+origin-music
 origin-qa.www
+origin-sellercentral
 origin-stage
 origin.staging
 origin-staging.www
+origin-supplychainconnect
 origin-www
 origin.www
 orinoco
@@ -6498,7 +6506,6 @@ osc
 oscar
 osd
 ose
-osi
 osiris
 osm
 osp
@@ -6533,6 +6540,7 @@ outreach
 outside
 outsite
 ov
+overwatch
 ovi
 ovpn
 owa
@@ -6567,7 +6575,6 @@ pacs
 pad
 pag
 page
-pagerank
 pagerduty
 pages
 pages.e
@@ -6655,17 +6662,24 @@ pay
 payapi
 payment
 payments
+payments-na
+payments-sandbox
 paynow
 payouts
+paypage
+paypage.sandbox
 paypal
+pay-preprod-v2
 payroll
 paytm
+pay-v2
 pb
 pba
 pbi
 pbs
 pbx
 pc
+pcc
 pci
 pci-tf
 pcm
@@ -6694,6 +6708,7 @@ pecos
 pegasus
 pegasys
 pelican
+pem
 peng
 penguin
 pennsylvania
@@ -6704,17 +6719,14 @@ people
 peoplesearch
 pep
 pepper
-peppermint
 pepsi
 per
 perf
 performance
 perks
-perm
 permissions
 permits
 pers
-persian
 persona
 personal
 personalization
@@ -6732,7 +6744,6 @@ ph
 phabricator
 phantom
 pharm
-pharma
 pharmacy
 pharos
 phd
@@ -6752,6 +6763,7 @@ photo
 photography
 photon
 photos
+photos-internal.aka
 photo.upload.maps
 php
 phpmyadmin
@@ -6776,7 +6788,6 @@ pikachu
 pilot
 pim
 pin
-pine
 ping
 pinnacle
 pinterest
@@ -6809,6 +6820,7 @@ place
 places
 plan
 planet
+plangrid
 planner
 planning
 planon
@@ -6847,12 +6859,10 @@ pmo
 pmp
 pms
 pmt
-pn
 pna
 pns
 po
 poc
-pocket
 poc.login
 poc.sso
 poczta
@@ -6871,12 +6881,12 @@ pokupki
 pol
 pola
 poland
-polar
 polaris
 police
 policies
 policy
 polish
+politemail
 politics
 poll
 polls
@@ -6895,6 +6905,7 @@ portal2
 portal.api
 portal-dev
 portals
+portal.sandbox
 portal-test
 portal.test
 portaltest
@@ -6911,7 +6922,6 @@ postman
 postmaster
 postoffice
 pot
-potomac
 power
 powerbi
 poweredby
@@ -6976,6 +6986,7 @@ pricing
 pride
 prima
 prime
+primenow
 primer
 primus
 prince
@@ -6986,7 +6997,6 @@ printers
 printing
 prism
 prisma
-priv
 privacy
 private
 prive
@@ -7005,6 +7015,7 @@ prod2
 prod.cloud
 prod-dictu
 product
+product.browserapps
 productie
 production
 products
@@ -7072,7 +7083,6 @@ pt-br
 ptc
 ptest
 pti
-pt-pt
 ptr
 pts
 pub
@@ -7096,6 +7106,7 @@ punto
 pup
 puppet
 puppetmaster
+puptrack-eu
 purchase
 pure
 purple
@@ -7142,6 +7153,7 @@ qa.myaccount
 qa.preview.m
 qa.preview.www
 qa.search
+qa-www
 qa.www
 qb
 qc
@@ -7177,6 +7189,7 @@ queue
 quicksilver
 quincy
 quiz
+quora
 quote
 quotes
 qww
@@ -7203,16 +7216,14 @@ radio
 radius
 radius2
 radon
-rahul
 raid
 rail
 rails
 rain
 rainbow
 rainier
-ralph
+rally
 ram
-rambo
 ramp
 rams
 rancher
@@ -7238,6 +7249,7 @@ raymond
 rb
 rbi
 rbl
+rbm
 rbs
 rbt
 rc
@@ -7250,6 +7262,7 @@ rcs
 rd
 rdap
 rdc
+rdcaccess
 rdg
 rdm
 rdns2
@@ -7269,6 +7282,7 @@ realty
 rec
 receipts
 recherche
+recognition
 recommend
 recon
 record
@@ -7297,7 +7311,6 @@ redis
 redmine
 red.news
 red.newsletter
-redstone
 redventures
 ref
 refer
@@ -7309,15 +7322,14 @@ refresh
 refund
 reg
 reg.emails
-regina
 regione
-regions
 regis
 register
 registrar
 registration
 registry
 registry.corp
+reinstate
 reklama
 rel
 relativity
@@ -7344,7 +7356,9 @@ render.github
 rendering
 renew
 renewals
+renewed
 rent
+rental-account.hubportal
 rentals
 rep
 repair
@@ -7353,6 +7367,8 @@ reply
 repo
 report
 reporter
+reporter-browserapps
+reporter.browserapps
 reporting
 reports
 reports2
@@ -7374,7 +7390,6 @@ reservations
 reserve
 reserved
 reset
-resolve
 resolver
 resource
 resourcecenter
@@ -7403,8 +7418,9 @@ rf
 rfa
 rfi
 rg
+rga
+rgb
 rh
-rhea
 rhino
 rho
 rhodes
@@ -7446,7 +7462,6 @@ roadrunner
 roaming
 rob
 robert
-roberto
 robin
 robo
 robot
@@ -7457,7 +7472,6 @@ rocket
 rocketchat
 rocky
 rod
-rodeo
 rog
 rogers
 rogue
@@ -7468,9 +7482,7 @@ rom
 roman
 romania
 rome
-romeo
 ron
-roo
 rooms
 ro-online
 rooster
@@ -7491,7 +7503,9 @@ rowan
 roxy
 roy
 rp
+rpa
 rpc
+rpg
 rpm
 rps
 rr
@@ -7507,6 +7521,7 @@ rsync
 rt
 rtb
 rtc
+rtfm
 rtm
 rtp
 rts
@@ -7525,7 +7540,6 @@ rumble
 run
 rundeck
 rune
-runner
 running
 rus
 rush
@@ -7548,7 +7562,6 @@ s100
 s11
 s110
 s12
-s16
 s2
 s200
 s21
@@ -7612,7 +7625,6 @@ sandbox.pay
 sandiego
 sanfrancisco
 santa
-santafe
 sante
 sao
 sap
@@ -7654,6 +7666,7 @@ scd
 sce
 scenarios
 scep
+scf
 sch
 schedule
 scheduler
@@ -7682,16 +7695,15 @@ scp
 scr
 screen
 scribe
-script
 scripts
 scrm
 scs
 scu
 scuba
 sd
-sda
 sdb
 sdc
+sdcaccess
 sde
 sdf
 sdg
@@ -7726,12 +7738,11 @@ search-test
 seas
 seat
 seattle
-sebastian
 sec
 sec.api.browser
 sec.api-new.browser
+se-cde-ta-g7g
 secmail
-secondary
 secondlife
 secops
 secret
@@ -7751,6 +7762,7 @@ secureemail
 secureftp
 securelogin
 securemail
+securephotostorageservice-eu-external
 secureportal
 secureshare
 secure.staging
@@ -7762,7 +7774,6 @@ security
 sed
 see
 seed
-seema
 seer
 seg
 seguro
@@ -7776,6 +7787,11 @@ selfservice-staging
 sell
 seller
 sellercenter
+sellercenter-staging
+sellercentral
+sellercentral.cdn
+seller-central-pilot
+sellerflex
 sellers
 sem
 seminars
@@ -7797,7 +7813,6 @@ ser
 seraph
 serenity
 serv
-serve
 server
 server01
 server1
@@ -7818,6 +7833,7 @@ services
 services2
 services.dev
 services-test
+servicesuat
 ses
 sessions
 set
@@ -7830,6 +7846,7 @@ sfb
 sfc
 sfdc
 sfe
+sfmc
 sfp
 sfs
 sft
@@ -7844,9 +7861,9 @@ sgp
 sgs
 sgw
 sh
+sha256.webservices
 shadow
 shanghai
-shape
 share
 shared
 sharedservices
@@ -7864,7 +7881,6 @@ sheridan
 sherlock
 sherpa
 shi
-shib
 shield
 shine
 shiny
@@ -7880,14 +7896,12 @@ shopify
 shopping
 shops
 short
-shortcuts
 shouji
 show
 showcase
 showroom
 showtime
 shp
-shrek
 shu
 shuttle
 sh.wagbridge
@@ -7966,9 +7980,12 @@ sk
 sketch
 ski
 skills
+skills-store
+skills-store-eu
+skills-store-fe
+skills-store-na
 skin
 skinner
-skins
 sklep
 sks
 sky
@@ -7978,7 +7995,6 @@ skywalker
 sl
 sla
 slack
-slackbot
 slash
 slate
 slc
@@ -7989,7 +8005,6 @@ slice
 slides
 slim
 slingshot
-slipknot
 slm
 slovari
 slp
@@ -8014,16 +8029,14 @@ smc
 smd
 sme
 smetrics
+smetrics.flex
 smf
 smg
 smi
 smile
 smith
-sml
 smm
-smoke
 smp
-smpp
 smr
 sms
 smt
@@ -8036,7 +8049,6 @@ smtp10
 smtp11
 smtp12
 smtp14
-smtp15
 smtp2
 smtp3
 smtp4
@@ -8077,6 +8089,7 @@ soccer
 social
 socialekaart
 socialmedia
+socialtest
 socket
 socrates
 soe
@@ -8146,7 +8159,6 @@ speakup
 spec
 special
 specials
-spectre
 spectrum
 speech
 speed
@@ -8180,7 +8192,6 @@ splash
 split
 splunk
 spm
-spo
 spock
 sponge
 sponsor
@@ -8197,7 +8208,9 @@ springboard
 sprint
 sprite
 spruce
+spryker
 sps
+spt
 spu
 sputnik
 spy
@@ -8219,12 +8232,12 @@ sri
 srm
 srp
 srs
+srt
 srv
 srv1
 srv10
 srv2
 ss
-ss1
 ssa
 ssb
 ssc
@@ -8300,7 +8313,6 @@ staging-www
 staging.www
 stake
 stan
-standard
 standardbank
 standards
 standby
@@ -8309,7 +8321,6 @@ star
 starbucks
 starfish
 stargate
-stark
 starnet
 stars
 start
@@ -8347,6 +8358,7 @@ stats.www
 status
 status.cloud
 status.developer
+statuspage
 status-staging
 stc
 std
@@ -8354,8 +8366,6 @@ steel
 stella
 stem
 step
-stephanie
-sterling
 steve
 stg
 stg1
@@ -8375,6 +8385,8 @@ stock
 stocks
 stone
 storage
+storage-browserapps
+storage.browserapps
 store
 store1
 store2
@@ -8385,6 +8397,8 @@ stories
 storm
 story
 storybook
+storyplayerbeta-photos
+storyplayer-photos
 stp
 str
 strands
@@ -8396,6 +8410,7 @@ stream1
 streamer
 streaming
 streams
+stress
 strong
 stryker
 sts
@@ -8457,20 +8472,20 @@ super
 superman
 supernova
 superset
-superstar
 suporte
 supplier
+supplierconnect
 supplierportal
 suppliers
 supply
 supplychain
+supplychainconnect
 support
 support1
 support2
 support-dev
 support-staging
 support-test
-supra
 sur
 surf
 survey
@@ -8490,7 +8505,6 @@ swa
 swag
 swagger
 swamp
-swan
 swap
 swarm
 swe
@@ -8498,7 +8512,6 @@ sweden
 sweepstakes
 sweet
 swift
-swiss
 switch
 switchboard
 switzerland
@@ -8548,12 +8561,10 @@ taksi
 tal
 talent
 talk
-tallahassee
 talos
 tam
 tamil
 tan
-tandem
 tang
 tango
 tanium
@@ -8568,7 +8579,6 @@ target
 tars
 tas
 task
-tasker
 tasks
 tata
 tattoo
@@ -8607,7 +8617,6 @@ teamsites
 tec
 tech
 techblog
-techno
 technology
 techradar
 techsupport
@@ -8617,7 +8626,6 @@ teen
 teens
 tek
 tel
-tele
 telecom
 telegram
 telehealth
@@ -8658,9 +8666,9 @@ test111
 test12
 test123
 test1234
+test19
 test2
 test20
-test22
 test3
 test4
 test5
@@ -8673,6 +8681,7 @@ test.api
 testapi
 test.app
 testapp
+test-assets
 testbed
 testblog
 testcert
@@ -8716,6 +8725,7 @@ test-shop
 test.shop
 testshop
 testsite
+test.social
 tests-restaurants
 test.staging
 testvpn
@@ -8745,11 +8755,11 @@ theory
 think
 thomas
 thor
-thot
 thread
 thrive
 thuiswerken
 thumbnails
+thumbnails-photos
 thumbs
 thumbtack
 thunder
@@ -8771,13 +8781,10 @@ time1
 time2
 time4
 timeline
-timemachine
 timesheet
 timetable
 timetell
 timmy
-tinker
-tintin
 tiny
 tip
 tips
@@ -8893,6 +8900,7 @@ transaction
 transfer
 transfers
 transform
+transient
 transit
 transition
 translate
@@ -8903,7 +8911,6 @@ transparency
 transport
 transportation
 trap
-trash
 travel
 traveler
 travis
@@ -8917,10 +8924,8 @@ trex
 triage
 trial
 trials
-triangle
 tribunale
 trident
-trigger
 trinity
 trip
 tripactions
@@ -8934,6 +8939,7 @@ trout
 troy
 trs
 trt
+tru
 trunk.api.login
 trunk.guce
 trunk.login
@@ -8985,8 +8991,6 @@ tvguide
 tw
 tw.blog
 twd
-tweety
-twiki
 twilight
 twilio
 twins
@@ -9004,6 +9008,7 @@ typhoon
 tyr
 tz
 u
+u1
 u2
 ua
 uab
@@ -9017,6 +9022,7 @@ uat6.dash
 uat6.listsync
 uat6.solo
 uat-api
+uat-digiaud
 uat.profile
 uatwindscreencover
 uat-www
@@ -9073,6 +9079,7 @@ umt
 un
 una
 unagi
+unagi-eu
 unauthorized
 unavailable
 unbounce
@@ -9082,6 +9089,7 @@ underground
 uni
 unicorn
 unifi
+unified
 union
 unite
 unitedway
@@ -9094,7 +9102,6 @@ unknown
 uno
 unsubscribe
 up
-up1
 upc
 upd
 update
@@ -9143,6 +9150,7 @@ uus
 uwa
 uws
 ux
+uy
 uz
 uzi
 v
@@ -9150,7 +9158,6 @@ v1
 v2
 v3
 v3.staging
-v5
 va
 vac
 vacation
@@ -9172,6 +9179,7 @@ vana
 vance
 vancouver
 vanguard
+vanity
 vap
 var
 varnish
@@ -9202,6 +9210,7 @@ vendev.dash
 vendev.solo
 vendor
 vendor-api
+vendorcentral
 vendorportal
 vendors
 venom
@@ -9217,7 +9226,6 @@ ven.solo
 venspare.dash
 ventures
 venus
-ver
 vera
 verification
 verify
@@ -9251,6 +9259,7 @@ vidyo
 vienna
 vietnam
 view
+view.comms
 view.connect
 view.e
 view.eg
@@ -9272,7 +9281,6 @@ vintage
 violet
 vip
 viper
-virgil
 virginia
 virgo
 virtual
@@ -9293,10 +9301,8 @@ visitor
 visitors
 vista
 visual
-vita
 vital
 vito
-vivaldi
 vive
 viz
 vl
@@ -9335,7 +9341,6 @@ vpn.corp
 vpnssl
 vpn-test
 vpntest
-vpn-uk
 vpr
 vps
 vps1
@@ -9378,7 +9383,6 @@ wallet-api
 wallet-staging
 wallpaper
 walmart
-walnut
 walrus
 wan
 wap
@@ -9411,6 +9415,7 @@ wcms
 wcs
 wd
 wdm
+wds
 we
 wealth
 weather
@@ -9432,7 +9437,6 @@ web12
 web13
 web13200
 web13210
-web14
 web15
 web16
 web17
@@ -9461,10 +9465,7 @@ web18900
 web19
 web2
 web20
-web25
-web28
 web3
-web30
 web34
 web3400
 web3410
@@ -9549,7 +9550,6 @@ webdev
 webdisk
 webdisk.api
 webdisk.beta
-webdisk.blog
 webdisk.dev
 webdisk.forums
 webdisk.staging
@@ -9586,6 +9586,7 @@ webservice
 webservices
 webshop
 website
+website-g7g
 websites
 websrv
 web-staging
@@ -9629,6 +9630,7 @@ wg
 wga
 wh
 whale
+whatever
 whatfix
 whiteboard
 whitelabel
@@ -9659,8 +9661,6 @@ win10
 wind
 window
 windows
-windowsphone
-wine
 wing
 wings
 winkel
@@ -9676,6 +9676,7 @@ wireless
 wisconsin
 wise
 wish
+wishlist.browserapps
 wizard
 wk
 wku
@@ -9686,7 +9687,6 @@ wm
 wmail
 wmo
 wms
-wms1
 wo
 wob
 wolf
@@ -9696,7 +9696,6 @@ wombat
 women
 wonder
 woo
-wood
 woody
 word
 wordpress
@@ -9731,6 +9730,7 @@ wps
 ws
 ws02qa000
 ws1
+ws10
 ws11
 ws2
 ws3
@@ -9782,11 +9782,11 @@ www2
 www20
 www21
 www22
-www25
-www27
+www23
 www2s
 www2u
 www3
+www31
 www4
 www4b
 www-5
@@ -9916,6 +9916,8 @@ you
 young
 your-account
 youraccount
+your-orders
+yourorders
 youth
 youtube
 yp
@@ -9939,6 +9941,7 @@ zabbix
 zakelijk
 zaken
 zaphod
+zapier
 zara
 zb
 zc
@@ -9963,7 +9966,6 @@ zg
 zh
 zhaopin
 zh-cn
-zia
 zik
 zillow
 zim
@@ -9975,9 +9977,7 @@ zk
 zm
 zmail
 zodiac
-zoe
 zoeken
-zoidberg
 zone
 zoo
 zookeeper

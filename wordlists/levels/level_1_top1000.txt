@@ -57,7 +57,6 @@ a-magazinesintern
 amazon
 amp
 ams
-an
 analytics
 android
 answers
@@ -71,9 +70,11 @@ api-staging
 api-test
 apollo
 app
+apple
 apply
 apps
 appstore
+aps
 apt
 ar
 archive
@@ -88,12 +89,12 @@ athena
 atlas
 au
 auth
+author
 auto
 autoconfig
 autodiscover
 av
 aws
-awsdashboard
 a-www
 az
 azure
@@ -137,6 +138,7 @@ campaign
 campaigns
 campus
 canada
+cap
 card
 care
 career
@@ -145,16 +147,11 @@ cart
 cas
 cat
 catalog
-cb
-cbs
 cc
 ccc
 cd
 cdn
-cdn1
 cdn2
-cdq-api
-cds
 cert
 certificate
 cf
@@ -227,6 +224,7 @@ dashboard
 data
 db
 dc
+dcp
 dd
 de
 delivery
@@ -278,7 +276,6 @@ dt
 dyn
 e
 ea
-east
 ec
 echo
 ecs
@@ -332,7 +329,7 @@ fi
 file
 files
 finance
-find
+flex
 fm
 foia
 forms
@@ -349,10 +346,10 @@ g
 ga
 game
 games
+gaming
 gateway
 gcom-product-find-qa
 gcp
-ge
 gemeenteraad
 geo
 get
@@ -379,10 +376,7 @@ gui
 guide
 gw
 gws
-gws-api-sandbox
-gws-dev
 gws-qa
-gws-uat
 h
 ha
 health
@@ -409,7 +403,6 @@ iam
 iburgerzaken
 ibzpink
 ic
-ice
 id
 ideas
 identity
@@ -500,6 +493,7 @@ local
 localhost
 log
 login
+logistics
 logs
 loket
 love
@@ -511,7 +505,6 @@ lyncdiscoverinternal
 m
 m2
 ma
-mac
 magazine
 magazines
 magazinesintern
@@ -560,6 +553,7 @@ mms
 mo
 mobile
 mon
+money
 mongo
 mongodb
 monitor
@@ -665,6 +659,7 @@ payments
 pc
 pe
 people
+perf
 performance
 ph
 phoenix
@@ -714,7 +709,6 @@ pt
 pub
 public
 publish
-publishing-catalog
 pulse
 push
 pv
@@ -726,6 +720,7 @@ ra
 raad
 radar
 radio
+ras
 rc
 rd
 rds
@@ -764,6 +759,7 @@ s1
 s2
 s3
 sa
+saas
 safe
 sales
 salesforce
@@ -785,6 +781,7 @@ secure
 securemail
 security
 selfservice
+sell
 sentry
 seo
 server
@@ -851,12 +848,13 @@ status
 stg
 storage
 store
+storefront
 stories
 storybook
 stream
-streaming
 sts
 studio
+subscriptions
 success
 supplier
 support
@@ -879,6 +877,7 @@ test2
 test3
 testing
 test-shop
+test-www
 th
 ticket
 tickets
@@ -895,7 +894,6 @@ track
 tracker
 tracking
 trade
-train
 training
 transfer
 translate
@@ -922,13 +920,11 @@ updates
 upload
 us
 us-east
-useast
 us-east-1
 user
 users
 ux
 v
-va
 vault
 vc
 vdi
@@ -954,10 +950,14 @@ weather
 web
 web1
 web2
+webapp
+webapps
+webcon
 webconf
 webdisk
 webhook
 webmail
+webmail2
 webservices
 website
 welcome
@@ -974,7 +974,6 @@ wireless
 wordpress
 work
 workspace
-world
 wp
 ws
 ww
@@ -985,6 +984,7 @@ www1
 www2
 www3
 www4
+www-dev
 www-staging
 www-test
 wwww

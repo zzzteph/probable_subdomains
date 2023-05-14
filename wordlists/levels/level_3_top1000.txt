@@ -1,5 +1,4 @@
 0
-00000-okta-idp
 01
 02
 03
@@ -62,7 +61,6 @@
 165
 166
 17
-171
 174
 177
 178
@@ -141,6 +139,7 @@
 44
 45
 46
+47
 48
 49
 4ba16751-testnoexistdomain-bcc738dc-this-exist
@@ -214,7 +213,6 @@ accounts
 acs
 ad
 adfs
-adm
 admin
 ads
 adsl
@@ -243,9 +241,10 @@ api2
 api-dev
 api-docs
 apigw
-apim
+api-int
 apis
 api-test
+apm
 ap-northeast-1
 ap-northeast-2
 apollo
@@ -353,6 +352,7 @@ code
 collab
 collector
 com
+commerce
 common
 community
 compute
@@ -374,6 +374,7 @@ cpe
 cps
 cr
 crm
+crowd
 cs
 css
 ct
@@ -385,9 +386,7 @@ cw-api
 cz
 d
 da
-dash
 dashboard
-dashboards
 data
 db
 db2
@@ -442,6 +441,7 @@ east
 ec
 echo
 edge
+edgeflow
 edit
 edu
 elastic
@@ -495,6 +495,8 @@ fw
 g
 ga
 game
+games
+gamma
 gate
 gatekeeper
 gateway
@@ -556,7 +558,6 @@ inbound
 info
 infra
 ingest
-ingress
 insights
 int
 integration
@@ -605,6 +606,7 @@ local
 log
 login
 logs
+logstash
 loki
 london
 lt
@@ -612,7 +614,6 @@ lyncdiscover
 lyncdiscoverinternal
 m
 m1
-m2
 ma
 mail
 mail01
@@ -658,7 +659,6 @@ msg
 mt
 mta
 mta2
-_mta-sts
 mta-sts
 mtls
 mx
@@ -699,6 +699,7 @@ o
 o1
 o10
 o11
+o12
 o13
 o14
 o2
@@ -741,7 +742,6 @@ phoenix
 photo
 pi
 pilot
-pki
 pl
 platform
 pm
@@ -915,6 +915,7 @@ test2
 test3
 test4
 test5
+test-api
 testing
 th
 thanos
@@ -945,6 +946,7 @@ update
 upload
 uploads
 us
+use
 use1
 us-east-1
 us-east-2
@@ -959,7 +961,6 @@ v4
 va
 vault
 vdi
-vega
 vendor
 verify
 video
@@ -989,7 +990,6 @@ wildcard
 wireless
 wordpress
 worker
-workflow
 wp
 ws
 ws2

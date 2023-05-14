@@ -330,7 +330,6 @@ acc-raadplegen
 acc-rd
 accreditatie
 acc-referentiegegevens
-acc-reftool-portal
 acc-saml
 accschuldhulp
 accsso
@@ -2531,7 +2530,6 @@ dev-ls3
 dev-ls5
 devops
 dev-protocol
-dev-reftool-portal
 dev-rotterdam
 devs
 dewolden
@@ -2886,6 +2884,7 @@ droppki
 droptestpki
 druktebeeld
 drupal
+drupalacc
 drupalintranet
 drupaloverheid
 druten
@@ -3020,6 +3019,7 @@ eca
 ecaccess
 ecaccess-bologna
 ecad
+ecadadaguc
 ecadev
 eccl01
 ecdis
@@ -3490,6 +3490,7 @@ flexg
 flexibeleschil
 fleximap
 flexplek
+flits
 flitspanel
 floriade
 flowmailer-tracking
@@ -7108,6 +7109,7 @@ pre-ows-emssapi
 pre-ows-emssapi-test
 pre-ows-websrvc
 pre-ows-websrvc-test
+prepod-machtigen
 prepplace
 pre-prod
 preprod
@@ -8080,7 +8082,6 @@ smtprelay
 smtprelay1
 smtprelay2
 smtptls
-snd
 snd-data-exchange
 snd-developer-portal
 snd-developer-portal-management
@@ -8949,7 +8950,6 @@ tst-nl-iszw-minezk-tvs-etd-saml-client-enc
 tst-nl-iszw-minezk-tvs-etd-saml-client-sign
 tst-protocol
 tst-referentiegegevens
-tst-reftool-portal
 tst-ubor
 tst-www
 ttgbav-prod

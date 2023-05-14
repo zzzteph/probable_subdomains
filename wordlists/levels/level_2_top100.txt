@@ -19,13 +19,13 @@ cms
 co
 com
 connect
-content
 cpanel
 dashboard
 data
 de
 demo
 dev
+developer
 docs
 download
 e
@@ -39,7 +39,6 @@ gitlab
 go
 grafana
 help
-home
 image
 images
 img
@@ -72,6 +71,7 @@ preview
 prod
 proxy
 qa
+s
 sandbox
 search
 secure
