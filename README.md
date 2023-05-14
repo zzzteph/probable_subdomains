@@ -10,7 +10,6 @@ Online tool: [https://weakpass.com/generate/domains](https://weakpass.com/genera
 
 
 
-
 ## TL;DR
 
 

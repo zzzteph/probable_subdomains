@@ -1,4 +1,3 @@
-*
 0
 1
 10
@@ -18,6 +17,7 @@ ap
 api
 app
 apps
+assets
 auth
 aws
 b
@@ -42,11 +42,13 @@ dsl
 dynamic
 es
 eu
-eu-west-1
 fbx
 frontend
 ftp
 gateway
+gitlab
+global
+google
 grafana
 hostmaster
 i
@@ -61,7 +63,6 @@ mail
 ml
 monitoring
 mx
-neoplus
 net
 new
 org
@@ -72,15 +73,14 @@ preprod
 preview
 prod
 prometheus
-protection
 proxy
 public
 qa
 registry
 s
 sandbox
-search
 secure
+service
 services
 sso
 stage
@@ -89,7 +89,6 @@ static
 stg
 support
 test
-testing
 uat
 ui
 uk
@@ -99,4 +98,5 @@ us-west-2
 vault
 vpn
 web
+ws
 www

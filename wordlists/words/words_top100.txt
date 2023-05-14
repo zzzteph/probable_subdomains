@@ -68,6 +68,7 @@ mijn
 nl
 ns01
 nsx02
+openpdc
 openpub
 participatie
 portaal
@@ -91,7 +92,6 @@ testafspraken
 toegang
 tst-loket
 veiligdelen
-wachtwoord
 web
 webapps
 webmail

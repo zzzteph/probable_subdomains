@@ -1,5 +1,4 @@
 
-*
 acc
 acceptatie
 admin
@@ -46,7 +45,6 @@ home
 images
 info
 intranet
-it
 jira
 jobs
 link
@@ -59,6 +57,7 @@ mail
 mail2
 media
 meet
+mijn
 mobile
 mx
 my
@@ -81,6 +80,7 @@ remote
 s
 search
 secure
+service
 services
 shop
 sip

@@ -1,4 +1,3 @@
-*
 a
 acc
 admin
@@ -27,7 +26,6 @@ data
 de
 demo
 dev
-developer
 docs
 download
 e
@@ -35,15 +33,16 @@ email
 es
 eu
 feeds
-fr
 ftp
 git
 gitlab
 go
 grafana
 help
+home
 image
 images
+img
 int
 internal
 jenkins
@@ -88,6 +87,7 @@ stg
 support
 t
 test
+tools
 uat
 uk
 us

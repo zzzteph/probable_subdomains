@@ -1,5 +1,4 @@
 
-*
 acc
 admin
 analytics
@@ -64,6 +63,7 @@ mobile
 mx
 mx1
 my
+new
 news
 ns1
 ns2
