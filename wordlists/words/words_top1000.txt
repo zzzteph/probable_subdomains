@@ -251,6 +251,7 @@ designsystem
 desktop
 deurwaardersloket
 dev
+dev3
 dex
 dgdialog
 dhcp-10
@@ -716,7 +717,6 @@ password
 passwordreset
 pbbodem
 pdc
-pilot-digitaleplannen
 pingping
 piwik
 pix-ia-sth

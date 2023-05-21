@@ -2499,6 +2499,7 @@ deutsche-telekom-salesforce
 deutsche-telekom-salesforce-sandbox
 dev
 dev01
+dev3
 devacc
 dev-api-portal
 devapps3
@@ -7445,7 +7446,6 @@ rees
 ref
 referentiegegevens
 reflex
-reftool-portal
 reg
 regelen
 regelen-acc

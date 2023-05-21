@@ -39,6 +39,7 @@ gitlab
 go
 grafana
 help
+home
 image
 images
 img
@@ -71,7 +72,6 @@ preview
 prod
 proxy
 qa
-s
 sandbox
 search
 secure

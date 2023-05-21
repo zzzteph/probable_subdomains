@@ -430,6 +430,7 @@ aims
 aip
 air
 airbnb
+airdrop
 airflow
 airmail
 airport
@@ -629,7 +630,6 @@ api.a
 api-acc
 api.acc
 api.acceptatie
-api.ads
 api-amazondevices
 api.app
 api.appmetrica
@@ -677,7 +677,6 @@ api.openstad
 api-origin
 api.ott
 apip
-api.pay
 api.payments
 apiportal
 api-preprod
@@ -735,7 +734,6 @@ applink
 apply
 applynow
 appmail
-app.market
 appmetrica
 appmetrika
 appointment
@@ -1422,6 +1420,7 @@ build
 buildbot
 builder
 builders
+building
 builds
 bulldog
 bulletin
@@ -2359,6 +2358,7 @@ dbadmin
 dbb
 dbd
 dbs
+dbt
 dc
 dc2
 dca
@@ -2487,6 +2487,7 @@ device
 devices
 dev-login
 dev.login
+dev-my
 dev.myaccount
 devon
 devops
@@ -2905,7 +2906,6 @@ einstein
 eip
 eir
 eis
-eit
 el
 elaine
 elastic
@@ -3620,7 +3620,6 @@ gmd
 gms
 gmt
 gmu
-gmw
 gn
 go
 go2
@@ -3838,6 +3837,7 @@ helpme
 help.stage
 help-staging
 helpstopthevirus
+helptest
 henri
 henry
 hera
@@ -4546,6 +4546,7 @@ isd
 ise
 iservice
 isg
+ishop
 isi
 isis
 isk
@@ -5078,7 +5079,6 @@ logitech
 logo
 logon
 logos
-logout
 logs
 lois
 loja
@@ -5379,7 +5379,6 @@ maximus
 maxwell
 maxx
 maya
-maze
 mb
 mba
 mbanking
@@ -5471,7 +5470,6 @@ membership
 meme
 memory
 memphis
-men
 mena
 mendel
 mentoring
@@ -5749,6 +5747,7 @@ mscisv3prod
 msd
 mse
 msg
+msgacs-m
 msh
 msh-tablet
 msi
@@ -5796,6 +5795,7 @@ mta5.e
 mta5.email
 mta5.news
 mta6.e
+mta6.email
 mta6.news
 mta7.e
 mta7.news
@@ -5844,7 +5844,6 @@ music
 musik
 mustang
 mv
-m.video
 mvn
 mvp
 mvt
@@ -5910,6 +5909,7 @@ myhr
 myinfo
 myit
 mylearning
+my-m
 mymail
 mymobile
 mymtn
@@ -6388,6 +6388,7 @@ omg
 omgevingsvisie
 omgevingswet
 omi
+omicron
 omni
 omnichannel
 omp.e
@@ -6500,6 +6501,7 @@ orlando
 ort
 os
 osa
+osaka
 osb
 osbacc
 osc
@@ -6997,6 +6999,7 @@ printers
 printing
 prism
 prisma
+priv
 privacy
 private
 prive
@@ -7143,6 +7146,7 @@ qa7.dash
 qa8.dash
 qa8.listsync
 qa8.solo
+qa9
 qa-agentexperience
 qa-api
 qa.api
@@ -7625,6 +7629,7 @@ sandbox.pay
 sandiego
 sanfrancisco
 santa
+santafe
 sante
 sao
 sap
@@ -7666,7 +7671,6 @@ scd
 sce
 scenarios
 scep
-scf
 sch
 schedule
 scheduler
@@ -7930,7 +7934,6 @@ signon
 signup
 sil
 sila
-silicon
 silver
 sim
 simba
@@ -8098,7 +8101,6 @@ sofia
 soft
 software
 soi
-sok
 sol
 solar
 solaris
@@ -8130,7 +8132,6 @@ sorry
 sos
 sot
 sota
-sound
 source
 sourcecode
 sourcegraph
@@ -8662,7 +8663,6 @@ test02
 test-1
 test1
 test10
-test111
 test12
 test123
 test1234

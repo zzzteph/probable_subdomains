@@ -310,6 +310,7 @@ external
 extranet
 f
 facebook
+falcon
 faq
 fb
 federation
@@ -460,7 +461,6 @@ knowledge
 knowledgemanagement
 ko
 kr
-ks-inventory-api
 ks-invoice-api
 ks-limits-api
 ks-order-api
@@ -522,6 +522,7 @@ mail3
 mail4
 mail5
 mailer
+mailhost
 mailing
 mailserver
 maintenance
@@ -835,7 +836,6 @@ sslvpn
 sso
 ssp
 st
-staff
 stage
 stage.guce
 staging
