@@ -242,6 +242,8 @@ dcatd-admin
 ddi
 dditest
 deboswinkel
+decosbinf
+decosdvl
 decosvor
 decoswonen
 demirandabad
@@ -371,7 +373,6 @@ flevoparkbad
 floriade
 flowmailer-tracking
 fm
-fm01
 fm02
 forms
 formulier
@@ -415,7 +416,6 @@ gisibgeoserver-test
 gisib-test
 git
 gitlab
-gndiko
 goud
 gp
 groenengezond
@@ -614,7 +614,6 @@ nac
 naheffingsaanslag
 naheffingsaanslag-acc
 naheffingsaanslag-tst
-ndes
 nedwion
 netbox
 nha
@@ -916,6 +915,7 @@ uem
 uniwin
 uniwin-acc
 upload
+uwdorpofwijk
 vaarkaart
 vaarvergunningen
 vdi

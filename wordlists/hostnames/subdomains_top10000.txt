@@ -297,6 +297,7 @@ ack
 acl
 acm
 acme
+acookie
 acorn
 acp
 acquia
@@ -1120,7 +1121,6 @@ bcp
 bcs
 bd
 bdc
-bdp
 bdr
 bds
 be
@@ -1592,7 +1592,6 @@ cci
 ccm
 cco
 ccp
-ccr
 ccs
 ccsp
 cct
@@ -1723,7 +1722,6 @@ china
 chinese
 chip
 chirp
-choco
 choice
 chong
 choose
@@ -3190,6 +3188,7 @@ fang
 fans
 fantasy
 fao
+fapi
 faq
 faraday
 farm
@@ -5892,7 +5891,6 @@ myapps
 mybenefits
 my.beta
 mybusiness
-mycard
 mychart
 mycloud
 mydata
@@ -5918,7 +5916,6 @@ mypassword
 mypc
 myportal
 myprint
-myprivacy
 myprofile
 myrewards
 myservices
@@ -6326,6 +6323,7 @@ oc
 occ
 ocd
 ocean
+oceans
 ocp
 ocr
 ocs
@@ -6495,6 +6493,7 @@ origin-staging.www
 origin-supplychainconnect
 origin-www
 origin.www
+origin-www2
 orinoco
 orion
 orlando
@@ -7022,6 +7021,7 @@ product.browserapps
 productie
 production
 products
+prod-www
 prof
 professional
 profile
@@ -7898,6 +7898,7 @@ shop1
 shop2
 shopify
 shopping
+shoppingcart
 shops
 short
 shouji
@@ -8857,7 +8858,6 @@ toro
 toronto
 tos
 toshiba
-toss
 tot
 total
 totem

@@ -237,7 +237,6 @@ acc-cir
 acc-cms
 acc-consular
 acc-cruks
-acc-data-exchange
 acc-dh
 acc-dictu
 acc-dkb
@@ -315,6 +314,9 @@ acc-nl-iszw-minezk-tvs-etd-saml-client-2wssl
 acc-nl-iszw-minezk-tvs-etd-saml-client-enc
 acc-nl-iszw-minezk-tvs-etd-saml-client-sign
 acc-nl-nvwa-dkb-sign
+acc-notificaties
+acc-objecten
+acc-objecttypen
 accommodatieverhuur
 acc-onlineform
 acc-openformulieren
@@ -1223,6 +1225,7 @@ begroting2020
 begroting2021
 begroting2022
 begroting2023
+begroting2024
 beh
 behandel
 beheer
@@ -1446,6 +1449,7 @@ blankenburgverbinding
 blaricum
 blauwegolfverbindend
 blauweknop
+blddcyz163051
 bliek
 bliek-acc
 bliekcms
@@ -1534,7 +1538,6 @@ bouwplaatsirm
 bouwtekeningen
 bovendebaandert
 bowers
-box
 boxmeer
 boxtel
 boywonder
@@ -2291,7 +2294,6 @@ databeheer
 databronnencovid19
 datachallenge
 datadis
-data-exchange
 datahuiswadden
 datakluis
 datakoppelingdacceptatiemidoffice
@@ -2400,6 +2402,8 @@ deboswinkel
 debouwagenda
 decoradecora
 decos
+decosbinf
+decosdvl
 decosvor
 decoswonen
 deegree
@@ -2503,20 +2507,12 @@ dev3
 devacc
 dev-api-portal
 devapps3
-dev-biometric-service
 dev-biometricservice
 devcmgs1
 devcmgs2
 dev-consular
-dev-data-exchange
-dev-developer-portal
-dev-developer-portal-management
-dev-developer-portal-scm
 develop
 developer
-developer-portal
-developer-portal-management
-developer-portal-scm
 deventer
 deventerbinnenbereik
 deventit
@@ -2647,6 +2643,7 @@ digid-parkeervergunningen
 digid-parkeervergunningen-acc
 digid-parkeren
 digid-parkeren-acc
+digid-subsidies-login
 digidzakelijk
 digieplan-corsa-tst
 digiforms
@@ -3028,6 +3025,7 @@ ecearth
 e-cert
 ecesvit
 echo
+ec-hrm
 echt-susteren
 economicdiplomacy
 economie
@@ -5034,6 +5032,7 @@ kadernota2018
 kadernota2020
 kadernota2021
 kadernota2022
+kadernota2023
 kafka-facet
 kairos-apim
 kairos-apim-portal
@@ -6303,6 +6302,7 @@ node3
 nogknapper
 noord
 noord-beveland
+noorderkwartier
 noorderparkbad
 noord-holland
 noordholland
@@ -7133,6 +7133,7 @@ preprod-gembelasting
 preprod-gemeentelijkebelastingen
 preprod-globe-wus-internet
 preprod-iszw-ca
+preprod-machtigen
 preprod-mijn
 preprod-mijnbelastingen
 preprod-mijninkomen
@@ -8049,6 +8050,7 @@ smartdoc-brlacc
 smartdocbrlacc
 smartdoctest
 smartdocuments
+smartdocumentsacc
 smartdocuments-test
 smartdoc-wvn
 smartdocwvn
@@ -8082,10 +8084,6 @@ smtprelay
 smtprelay1
 smtprelay2
 smtptls
-snd-data-exchange
-snd-developer-portal
-snd-developer-portal-management
-snd-developer-portal-scm
 snelbalie
 snelbaliepp
 snelbalietest
@@ -8639,6 +8637,7 @@ testextsec
 test-fe
 test-flash
 testform
+test-formulier
 testformulieren
 testftpservice
 testfunctionaliteit-dbb-acc
@@ -8682,6 +8681,9 @@ testmks
 test-monitor
 testnetwork
 test-nopnet
+test-notificaties
+test-objecten
+test-objecttypen
 testomgeving
 test-onderwijsdata
 test-opname
@@ -8932,13 +8934,8 @@ tst2-nl-iszw-minezk-tvs-etd-saml-client-sign
 tst3-login
 tst4
 tst8
-tst-biometric-service
 tst-biometricservice
 tst-consular
-tst-data-exchange
-tst-developer-portal
-tst-developer-portal-management
-tst-developer-portal-scm
 tst-login
 tst-loket
 tstmijnswf
@@ -9071,6 +9068,7 @@ us
 usedcarsale
 user
 user-api
+user-stagingteamregister
 usw
 uswolk
 utm
@@ -9078,6 +9076,7 @@ utrecht
 utrechtbinnenstad2040
 utrecht-west
 uu
+uwdorpofwijk
 uwmening
 uwvergunning
 ux
@@ -9768,6 +9767,7 @@ woz-loket
 wozloket
 woz-loketacc
 wozloket-acc
+woz-loket-accept
 woz-portaal
 wozportaal
 woz-portaal-eemnes

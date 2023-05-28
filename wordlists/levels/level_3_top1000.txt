@@ -515,7 +515,6 @@ grafana
 graph
 graphql
 green
-grpc
 gw
 h
 h5
@@ -952,6 +951,7 @@ us-east-1
 us-east-2
 user
 users
+usw2
 us-west-1
 us-west-2
 v
