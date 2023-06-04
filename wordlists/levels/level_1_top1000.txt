@@ -83,6 +83,7 @@ artifactory
 as
 asia
 ask
+asset
 assets
 at
 athena
@@ -216,7 +217,6 @@ customer
 cz
 d
 da
-dacceptatieloket
 dam
 dash
 dashboard
@@ -455,6 +455,7 @@ join
 jp
 js
 jss
+k
 k8s
 kb
 kibana
@@ -550,7 +551,6 @@ mirror
 ml
 mm
 mms
-mo
 mobile
 mon
 money

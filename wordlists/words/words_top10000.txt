@@ -223,7 +223,6 @@ acc-api
 acc-artifact
 acc-auth
 acc-auth2
-acc-biometric-service
 acc-biometricservice
 acc-cdb
 acc-cdb-01234572
@@ -235,7 +234,6 @@ acc-cdb-v6
 acc-cdb-v7
 acc-cir
 acc-cms
-acc-consular
 acc-cruks
 acc-dh
 acc-dictu
@@ -1093,7 +1091,6 @@ baarle-nassau
 baarn
 b-acc
 backend
-backend-bao-services
 backend-dvg
 backflowmasters-com
 backoffice
@@ -1137,7 +1134,6 @@ balkenhaventerrein
 balthus
 bam
 banyon
-bao-services
 bar
 barendrecht
 barfly
@@ -1423,7 +1419,6 @@ binnnz
 biociden
 biodiversiteit
 biokap
-biometric-service
 biosecuritykwetsbaarheidsanalyse
 biosecurityselfscan
 biosecurityvulnerabilityscan
@@ -1433,6 +1428,7 @@ birma1
 birma2
 bis
 bisnis
+bi-sociaal
 bis-test
 bitdefender
 bitvax
@@ -2069,9 +2065,6 @@ connect-with
 conquest
 consent
 consul
-consular
-consular-api
-consular-service
 consultatie
 consul-tst
 contact
@@ -2510,7 +2503,6 @@ devapps3
 dev-biometricservice
 devcmgs1
 devcmgs2
-dev-consular
 develop
 developer
 deventer
@@ -2646,6 +2638,7 @@ digid-parkeren-acc
 digid-subsidies-login
 digidzakelijk
 digieplan-corsa-tst
+digiform
 digiforms
 digigateway
 digigead2
@@ -2976,6 +2969,7 @@ dwhaps-exporttool
 dwhaps-postkantoor
 dwhaps-procesapplicatie
 dwhbzk
+dwh-sociaal
 dwi
 dwiweb
 dwo
@@ -3269,10 +3263,6 @@ esgf
 esm
 esp
 espanol
-esp-api
-esp-api-portal
-esp-portal-api
-esp-service
 esrce
 ests
 esuite
@@ -3535,7 +3525,9 @@ formulierenpb
 formulieren-preprod
 formulieren-test
 formulierna
+formulier-test
 fortbijrijnauwen
+fortianalyzer
 forticlient
 fortinet
 forum
@@ -3560,7 +3552,6 @@ freehdgirls
 friesland
 frl
 front
-frontend-bao-services
 frontoffice-parkeervergunningen
 frontoffice-parkeervergunningen-acc
 frontpage
@@ -4145,6 +4136,7 @@ hior
 hislead
 historie
 historischarchief
+histor-web
 hitkans
 hitsuke
 hld
@@ -4492,6 +4484,7 @@ hvd
 hw
 hwbp
 hwok
+hwok-test
 h-www
 hwww
 hybrid
@@ -4779,6 +4772,7 @@ intern
 internal
 internalbeacon
 internationaalondernemen
+international
 internationalerechtshulp
 internetafspraken
 internetconsultatie
@@ -5034,8 +5028,6 @@ kadernota2021
 kadernota2022
 kadernota2023
 kafka-facet
-kairos-apim
-kairos-apim-portal
 kamervoordebinnenvisserij
 kampen
 kanadocumenten
@@ -5193,6 +5185,7 @@ kli-maatmonitor
 klimaat-moni-tor
 klimaat-monitor
 klimaatmonitor
+klimaatplein
 klimaatwebwinkel
 klinieken
 klooster
@@ -5464,6 +5457,7 @@ logilink001
 login
 login1
 login2
+login-acc
 login-pre
 logintest
 logius
@@ -5783,7 +5777,6 @@ mev
 mexico
 mf27k0i
 mfa
-mfa-con-kai-sf01
 mfawerkplek
 mft
 mft-acc
@@ -7301,8 +7294,6 @@ pti
 ptr
 ptr1802
 ptr1924
-ptr4698
-ptr6472
 ptr6943
 pub
 pubgov
@@ -7747,6 +7738,8 @@ sbb10vm011v-ms
 sbc
 sbc-01
 sbc01
+sbc1
+sbc2
 sbc-aw365
 sb-dictu
 sbir1
@@ -7758,6 +7751,7 @@ scada-zt-node10
 scada-zt-ts03
 scan
 scandinavie
+scanhulp
 scatterometer
 sccmmp
 scenario
@@ -8164,6 +8158,7 @@ sportaccommodatieverhuur
 sportakkoord
 sportbedrijf
 sporten
+sportenbeweeg
 sportencultuur
 sportgelderland
 sportief
@@ -8856,6 +8851,7 @@ topedamvolendam
 topvorm
 totallytots
 tour
+tourbuzz
 tourist
 touristinfo
 tpaw
@@ -8935,7 +8931,6 @@ tst3-login
 tst4
 tst8
 tst-biometricservice
-tst-consular
 tst-login
 tst-loket
 tstmijnswf
@@ -9194,6 +9189,8 @@ verslavingsinfo
 verstandelijkgehandicaptenzorg
 versterkenenvernieuwen
 vertex
+vertexobjecten
+vertexobjecten-accp
 vertex-test
 vervoernederland
 vervoertoezicht
@@ -9404,8 +9401,10 @@ w906
 wa
 waadhoeke
 waalre
+waalsprong
 waalweelde
 waalwijk
+waarderingsprijs
 waarmerk
 waarstemjijvoor
 waas-m4
@@ -9653,6 +9652,7 @@ wijkberichten
 wijkbijduurstede
 wijkbudgetlaakcentraal
 wijkbudgetvruchtenbuurt
+wijkbudgetypenburg
 wijken
 wijkenwebsite
 wijkgerichte-aanpak

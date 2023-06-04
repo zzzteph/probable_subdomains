@@ -130,6 +130,7 @@ acceptatie
 access
 account
 accounts
+ace
 acs
 ad
 adfs
@@ -258,7 +259,6 @@ cim-api-uat
 cim-data-quality-qa
 cim-dev
 cim-geo-dev
-cis
 citrix
 click
 client
@@ -417,7 +417,6 @@ g
 ga
 gac-rds-external-readonly
 gac-rds-external-readonly-preprod
-game
 games
 gamma
 gate
@@ -537,6 +536,7 @@ lists
 live
 liveupdate
 lms
+load
 local
 localhost
 log

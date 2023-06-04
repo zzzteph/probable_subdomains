@@ -377,6 +377,7 @@ ae
 aea
 aegis
 aem
+aem-dev
 a-english
 aeolus
 aep
@@ -645,7 +646,6 @@ api-dev
 api.dev
 apidev
 api.developer
-api.devsandbox
 api.directory
 api.disk
 apidoc
@@ -662,7 +662,6 @@ api-int
 api.int
 api-internal
 api.lbs
-api.load
 api.login
 api.m
 apim
@@ -861,6 +860,7 @@ aspen
 aspera
 aspire
 asr
+ass
 assessment
 asset
 assets
@@ -1614,7 +1614,6 @@ cdn4
 cdn5
 cdn-dev
 cdn.dev
-cdnjs
 cdn.ncnd
 cdntest
 cdn.www
@@ -2766,6 +2765,7 @@ dv
 dvd
 dw
 dwo
+dws
 dx
 dy
 dyn
@@ -2889,7 +2889,6 @@ eform
 eforms
 efs
 eft
-efx
 eg
 ege
 egov
@@ -4243,7 +4242,6 @@ i3
 i4
 i40
 i76
-i9
 ia
 iac
 iad
@@ -4914,6 +4912,7 @@ lb2
 lbr
 lbs
 lc
+lca
 lcms
 lcp
 lcs
@@ -6002,6 +6001,7 @@ net2
 netapp
 netbox
 netflix
+netlify
 netmon
 netnod-ix-ge-a-sth-1500
 netnod-ix-ge-a-sth-4470
@@ -6311,6 +6311,7 @@ oam
 oas
 oasis
 oauth
+oauth2
 oauth-test
 obi
 obiwan
@@ -7153,7 +7154,6 @@ qa.api
 qa.dash
 qa.developer
 qa.m
-qa.myaccount
 qa.preview.m
 qa.preview.www
 qa.search
@@ -7429,7 +7429,6 @@ rhino
 rho
 rhodes
 ri
-ria
 ric
 rice
 rich
@@ -8245,6 +8244,7 @@ ssb
 ssc
 ssd
 sse
+ssg
 ssh
 ssi
 ssl
@@ -8518,6 +8518,7 @@ switch
 switchboard
 switzerland
 sword
+swp
 sws
 swt
 swww
@@ -8863,7 +8864,6 @@ total
 totem
 toto
 touch
-touchstone
 tour
 tourism
 tours
@@ -8894,7 +8894,6 @@ traffic
 trail
 train
 training
-training2
 trans
 transaction
 transfer
@@ -9036,6 +9035,7 @@ uca
 ucaccess01
 ucaccess02
 ucc
+ucd
 ucenter
 ucf
 uci
@@ -9148,7 +9148,6 @@ utils
 utm
 uus
 uwa
-uws
 ux
 uy
 uz
@@ -9299,6 +9298,7 @@ vision
 visit
 visitor
 visitors
+viss
 vista
 visual
 vital

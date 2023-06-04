@@ -38,7 +38,6 @@ afspraken
 afvalkalender
 aga
 agbi
-agis
 agndiko
 agwp01
 aip
@@ -80,7 +79,6 @@ alsb
 ameland
 amersfoort
 amersfoortinbeeld
-amo
 amstelveen
 amsterdam
 analytics
@@ -115,7 +113,6 @@ a-surveys3
 asvatr002
 ata
 ateliers
-atijdschrijven
 atlas
 auth
 authenticatie
@@ -164,6 +161,7 @@ bijzondereprojecten
 bikecity
 binnenwaterbeheer
 bis
+bi-sociaal
 bl-sbc0003
 bl-vms0021
 bl-vms0022
@@ -285,13 +283,13 @@ dialin
 dict
 diemerzeedijk
 diensten
+digiform
 digikoppeling
 digikoppeling-prod
 digikoppeling-test
 digitaalerfgoed
 digitaalgemeenteloket
 digitaalnachtregister
-digitaleplannen
 digitaletweeling
 diko
 directadmin
@@ -320,6 +318,7 @@ druktebeeld
 dso
 duurzaam
 dvl-wmf-cca
+dwh-sociaal
 dwi
 dwiweb
 ebms
@@ -372,13 +371,13 @@ fise02
 flevoparkbad
 floriade
 flowmailer-tracking
-fm
 fm02
 forms
 formulier
 formulieren
 formulieren1
 formulieren-g4-acc
+formulier-test
 fotobank
 frontpage
 fs
@@ -409,7 +408,6 @@ geoprdb
 geovisia
 gezond
 ggd
-gis
 gisib
 gisibgeoserver
 gisibgeoserver-test
@@ -432,6 +430,7 @@ haven
 hc
 helpdesk
 hior
+histor-web
 hitkans
 hosts-rembrandtplein
 hosts-wallen
@@ -603,6 +602,7 @@ mo
 mobile
 mobiliteit
 monitorsociaal
+monumenten
 msm
 mtls
 mv1
@@ -759,7 +759,6 @@ relatie-scheiding
 remcon
 remote
 riv
-riviewer
 rnd
 roles
 rom
@@ -777,6 +776,7 @@ sandbox
 sarphati
 sbc
 sbs
+scanhulp
 schemas
 schoolwijzer
 schoon
@@ -881,7 +881,6 @@ terrasvergunningen
 test
 testafspraken
 testdigitaalgemeenteloket
-test-e-loket
 testhandhaving
 test-kaart
 testkaart
@@ -903,6 +902,7 @@ ton
 top
 topdesk
 topvorm
+tourbuzz
 tracking
 training
 transform

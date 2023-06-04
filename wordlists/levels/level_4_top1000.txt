@@ -312,6 +312,7 @@ api-gateway
 apigw
 api-int
 apim
+apm
 ap-northeast-1
 apollo
 app
@@ -375,7 +376,6 @@ c100
 c2
 c3
 c4
-c7
 ca
 cable
 cache
@@ -524,6 +524,7 @@ fi
 files
 finance
 fl
+fleet
 fm
 foo
 forum
@@ -711,7 +712,6 @@ ns1
 ns2
 ns3
 ns4
-nt
 nz
 o
 o1
@@ -729,6 +729,7 @@ one
 online
 op
 open
+opensearch
 openshift
 ops
 or
@@ -767,7 +768,6 @@ portal
 pp
 ppe
 ppp
-ppp11
 pppoe
 pr
 prd

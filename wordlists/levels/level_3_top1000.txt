@@ -19,7 +19,6 @@
 112
 113
 114
-115
 116
 117
 118
@@ -229,6 +228,7 @@ alex
 alpha
 alt
 am
+amazon
 ams
 analytics
 android
@@ -557,7 +557,6 @@ inbound
 info
 infra
 ingest
-insights
 int
 integration
 internal
@@ -889,6 +888,7 @@ status
 stg
 storage
 store
+storybook
 stream
 streaming
 sts

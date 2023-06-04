@@ -43,7 +43,6 @@ akamai-test
 akamai-test-origin
 alerts
 alpha
-alumni
 am
 a-magazines
 a-magazines.a-english
@@ -78,6 +77,7 @@ artifactory
 as
 asia
 ask
+asset
 assets
 at
 athena
@@ -107,7 +107,6 @@ beta
 bg
 bi
 billing
-biz
 blog
 blogs
 book
@@ -288,6 +287,7 @@ emails
 embed
 ems
 en
+energy
 eng
 engage
 engineering
@@ -425,7 +425,6 @@ insights
 insurance
 int
 integration
-integrations
 intern
 internal
 international
@@ -607,6 +606,7 @@ ns
 ns01
 ns02
 ns1
+ns11
 ns2
 ns3
 ns4
