@@ -102,11 +102,11 @@ bb
 bbs
 be
 beeldbank
-benefits
 beta
 bg
 bi
 billing
+biz
 blog
 blogs
 book
@@ -193,7 +193,6 @@ content
 core
 corp
 corporate
-covid19
 cp
 cpanel
 crl
@@ -271,13 +270,13 @@ dyn
 e
 ec
 echo
-ecs
 edge
 edienstenburgerzaken
 edienstenburgerzaken-test
 edit
 edu
 education
+eg
 elastic
 elearning
 eloket
@@ -362,7 +361,6 @@ graph
 green
 groups
 gs
-gt
 gtm
 guce
 guest
@@ -431,6 +429,7 @@ international
 internet
 intra
 intranet
+inventory
 investor
 investors
 io
@@ -514,6 +513,7 @@ magazines.english
 magazinesintern
 magazinesintern.english
 mail
+mail01
 mail02
 mail1
 mail2
@@ -666,7 +666,6 @@ performance
 ph
 phoenix
 photos
-pilot
 piwik
 pki
 pl
@@ -702,6 +701,7 @@ profiles
 projects
 prometheus
 promo
+promotion
 promotions
 proxy
 ps

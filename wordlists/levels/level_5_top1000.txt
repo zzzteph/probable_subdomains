@@ -758,7 +758,6 @@ orders
 org
 origin
 orion
-outlook
 owa
 p
 p2
@@ -959,6 +958,7 @@ us-east-2
 user
 users
 usw2
+us-west-1
 us-west-2
 utils
 v

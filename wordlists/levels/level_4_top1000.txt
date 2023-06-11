@@ -756,6 +756,7 @@ perf
 perf2
 pgadmin
 ph
+php
 pilot
 pl
 platform
@@ -966,7 +967,6 @@ vic
 video
 view
 vip
-virtual
 virus
 vm
 voice

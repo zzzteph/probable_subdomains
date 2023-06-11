@@ -274,6 +274,7 @@ dt
 dyn
 e
 ea
+east
 ec
 echo
 ecs
@@ -601,7 +602,6 @@ notify
 now
 ns
 ns01
-ns02
 ns1
 ns2
 ns3
@@ -742,6 +742,7 @@ resource
 resources
 restaurants
 retail
+review
 reviews
 rewards
 rms
@@ -798,7 +799,6 @@ sharepoint
 shop
 shopping
 si
-siam
 signin
 signup
 simcms

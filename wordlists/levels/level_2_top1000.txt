@@ -10,6 +10,7 @@
 12
 120
 121
+123
 125
 128
 13
@@ -155,6 +156,7 @@ alt
 am
 a-magazines
 a-magazinesintern
+amazon
 amp
 ams
 analytics
@@ -171,7 +173,6 @@ api-staging
 api-test
 apollo
 app
-app1
 app2
 apple
 apply
@@ -201,7 +202,6 @@ azure
 b
 b2b
 backend
-backoffice
 backup
 basic
 basic-nodejs-dev
@@ -457,6 +457,7 @@ hk
 home
 host
 hostmaster
+hotfix
 hr
 httpbin
 hub
@@ -572,7 +573,6 @@ marketing
 marketplace
 mars
 master
-max
 mc
 mdm
 me

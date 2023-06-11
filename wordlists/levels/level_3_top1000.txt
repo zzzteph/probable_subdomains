@@ -9,6 +9,7 @@
 102
 103
 104
+105
 106
 107
 108
@@ -36,6 +37,7 @@
 133
 134
 135
+137
 138
 14
 140
@@ -54,12 +56,10 @@
 159
 16
 160
-162
 163
 165
 166
 17
-174
 177
 178
 18
@@ -82,7 +82,6 @@
 203
 204
 205
-207
 21
 212
 213
@@ -200,7 +199,6 @@ a
 a1
 a2
 aa
-abc
 abo
 ac
 acc
@@ -211,6 +209,7 @@ accounts
 acs
 ad
 adfs
+adm
 admin
 ads
 adsl
@@ -826,7 +825,6 @@ s2s
 s3
 sa
 sa-east-1
-saml
 sandbox
 sap
 saturn
@@ -969,6 +967,8 @@ view
 vip
 voice
 vpn
+vpn2
+vs
 w
 w3
 wap
