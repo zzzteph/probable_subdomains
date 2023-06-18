@@ -645,7 +645,6 @@ k12
 k8s
 kafka
 keycloak
-kf
 kibana
 king
 ko-kr
@@ -854,6 +853,7 @@ search
 sec
 secondary
 secure
+secure1
 security
 server
 server2

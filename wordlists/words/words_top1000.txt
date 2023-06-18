@@ -150,7 +150,6 @@ bestandversturen
 bestemmingsplannen
 betalen
 betalingen
-bewegen
 bewustwording
 bhg
 bhgtest
@@ -197,6 +196,8 @@ buurtbudgetzuidoudzuid
 camera-sport
 campus
 camunda
+cardaccess
+cardsonline
 catalogus
 cc
 cctst
@@ -219,11 +220,9 @@ containersweesperbuurt
 copper
 crk
 csg
-csp-report
 css
 da
 dab
-dagbesteding
 dali
 dap
 data
@@ -371,6 +370,7 @@ flevoparkbad
 floriade
 flowmailer-tracking
 fm02
+focus
 forms
 formulier
 formulieren
@@ -428,6 +428,7 @@ hartenziel
 haven
 hc
 helpdesk
+herber-web
 hior
 histor-web
 hitkans
@@ -475,6 +476,7 @@ inkoopplein
 inspraakmaatregel15
 intern
 internetafspraken
+intra
 intranet
 intunecollector
 io
@@ -562,7 +564,6 @@ mas-tst
 mdm
 me-api
 medeleven
-meedoen
 meent
 meet
 melddesk
@@ -595,7 +596,6 @@ mijnsociaalplein
 mijnsubsidies
 mijnws
 mijnzorgvraag
-mijnzorgvraag-test
 mks
 mo
 mobile
@@ -757,7 +757,6 @@ rekenkamer
 relatie-scheiding
 remcon
 remote
-riv
 rnd
 roles
 rom
@@ -794,6 +793,7 @@ sfte
 sftp
 sharefile
 sharepoint
+sherlock
 shi
 shopng
 shvmonitor
@@ -831,7 +831,6 @@ staatvandeparticipatie
 stadoost
 stadsarchief
 stadsgesprekken
-stadspas
 stadstoezicht
 stadwest
 staging
@@ -977,6 +976,7 @@ wonenportaal
 wordookleraarin
 woz
 wp
+wppbeheer
 www
 www2
 wzs

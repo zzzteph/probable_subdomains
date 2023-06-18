@@ -220,9 +220,7 @@ acc9s
 acc-afvalkalender
 acc-api
 acc-artifact
-acc-auth
 acc-auth2
-acc-biometricservice
 acc-cdb
 acc-cdb-01234572
 acc-cdb-v2
@@ -267,7 +265,6 @@ acceptweb1
 acceptweb2
 accept-zaaksysteem
 acces2514
-acc-esb
 access
 access01
 access-156
@@ -293,8 +290,6 @@ acc-m
 acc-maps
 acc-mediabank
 accmeldingen
-acc-mft
-acc-mft-signing
 acc-midoffice
 acc-mijnloket
 acc-nieuwsbrief
@@ -320,10 +315,8 @@ acc-openwave
 accp
 accpki
 acc-podiumd-logs
-acc-portal
 acc-portal2
 acc-preview
-acc-protocol
 acc-publicaties
 acc-raadplegen
 acc-rd
@@ -733,7 +726,6 @@ api-demo
 api-dev
 apidoc
 api-docwash-acc
-api-docwash-prd
 api-gateway
 apigateway
 apigateway2
@@ -1491,6 +1483,7 @@ bodemloket
 bodemplus
 bodemrichtlijn
 bodemvizier
+bodemvondsten
 boekel
 boekenprijs
 bofeb
@@ -1737,6 +1730,8 @@ capptions
 ca-pre
 car
 caransscoop
+cardaccess
+cardsonline
 cars
 cas
 casa
@@ -2075,7 +2070,6 @@ content
 content04
 contentbeheer
 content-retrieval-api-sf-consular-acc
-content-retrieval-api-sf-consular-prd
 content-retrieval-api-sf-docwash-acc
 content-retrieval-api-sf-docwash-prd
 contenttoolsrijksoverheid
@@ -2416,7 +2410,6 @@ delfzijl
 delhi
 delichtkogel
 deliver-documents-api-sf-consular-acc
-deliver-documents-api-sf-consular-prd
 deliver-documents-api-sf-docwash-acc
 deliver-documents-api-sf-docwash-prd
 dell1
@@ -2497,7 +2490,6 @@ dev3
 devacc
 dev-api-portal
 devapps3
-dev-biometricservice
 devcmgs1
 devcmgs2
 develop
@@ -2515,9 +2507,9 @@ dev-ls1
 dev-ls3
 dev-ls5
 devops
-dev-protocol
 dev-rotterdam
 devs
+dewaardevanouderworden
 dewolden
 dex
 dfg
@@ -3492,6 +3484,7 @@ fmiskoppeling-test
 fobida
 foc-parkeervergunningen
 foc-parkeervergunningen-acc
+focus
 focus02
 focus2023
 followyourdreams
@@ -4099,6 +4092,7 @@ hembrugterrein
 hendrik-ido-ambacht
 hengelo
 heraclides
+herber-web
 herinrichtingmolenstraat
 hermes
 heroverwegingtaken
@@ -4536,6 +4530,7 @@ i-cms2
 iconnect-pkio
 icontroler-api-test
 icontroler-test
+ict
 id
 id-beheer-erfpacht-dev
 id-beheer-erfpacht-ont
@@ -5013,6 +5008,7 @@ kaarten
 kaarten-acc
 kaartlaag
 kaartviewer
+kaartviewer-test
 kabga
 kabinetvandekoning
 kadbrkwkpd
@@ -5584,6 +5580,7 @@ mail3
 mail3a
 mail4
 mail4a
+mail5
 mail9
 mailarchief
 mail-attachment
@@ -5779,7 +5776,6 @@ mfawerkplek
 mft
 mft-acc
 mftacc
-mft-signing
 mg
 mgapp
 mgmt
@@ -5962,6 +5958,7 @@ mmiprod
 mmitest
 mmjjyc
 mn
+mngt
 mo
 mobiel
 mobiel1
@@ -7255,7 +7252,6 @@ property
 protection
 protectus
 protide
-protocol
 prototype
 provider
 proxy
@@ -7657,6 +7653,7 @@ s2gop
 s2got
 s2gotest
 s3
+s4
 s4b
 s4b2
 saas
@@ -7920,6 +7917,7 @@ sharepoint-acc
 sharepoint-conf
 shares
 share-storage
+sherlock
 s-hertogenbosch
 shi
 shop
@@ -8314,6 +8312,7 @@ storefront
 storefrontintern
 storefronttest
 storing
+storingenovl
 str4
 straatnamen
 straatnotes
@@ -8732,6 +8731,7 @@ tgk
 tgms
 th
 thailand
+thanos
 thd
 themalessen
 themastemmen
@@ -8929,7 +8929,6 @@ tst2-nl-iszw-minezk-tvs-etd-saml-client-sign
 tst3-login
 tst4
 tst8
-tst-biometricservice
 tst-login
 tst-loket
 tstmijnswf
@@ -8939,7 +8938,6 @@ tst-nl-at-minezk-tvs-etd-saml-client-sign
 tst-nl-iszw-minezk-tvs-etd-saml-client-2wssl
 tst-nl-iszw-minezk-tvs-etd-saml-client-enc
 tst-nl-iszw-minezk-tvs-etd-saml-client-sign
-tst-protocol
 tst-referentiegegevens
 tst-ubor
 tst-www
@@ -9777,6 +9775,7 @@ wpdagast1
 wpdagast2
 w-p-exc-0005
 w-p-exc-0006
+wppbeheer
 wps
 wpss
 wpvh
@@ -9866,6 +9865,7 @@ xentialtest
 xentialtst
 xential-vold92
 xerox
+xidmrbpacc
 xmlgw
 xml-test
 xmstore

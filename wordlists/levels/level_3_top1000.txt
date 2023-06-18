@@ -9,7 +9,6 @@
 102
 103
 104
-105
 106
 107
 108
@@ -59,6 +58,7 @@
 163
 165
 166
+168
 17
 177
 178
@@ -66,6 +66,7 @@
 180
 185
 186
+188
 189
 19
 190
@@ -73,6 +74,7 @@
 193
 194
 195
+196
 197
 198
 199
@@ -82,11 +84,14 @@
 203
 204
 205
+209
 21
 212
 213
 215
+216
 218
+219
 22
 221
 222
@@ -105,6 +110,8 @@
 239
 24
 240
+241
+242
 243
 244
 248
@@ -112,6 +119,7 @@
 25
 250
 251
+253
 254
 255
 26
@@ -132,6 +140,7 @@
 4
 40
 41
+42
 43
 44
 45
@@ -254,7 +263,6 @@ apps
 ap-south-1
 ap-southeast-1
 ap-southeast-2
-aqua
 ar
 argo
 argocd
@@ -316,7 +324,6 @@ cable
 cac
 cache
 canary
-cap
 cat
 catalog
 cc
@@ -376,7 +383,6 @@ crowd
 cs
 css
 ct
-cus
 cust
 customer
 customers
@@ -385,6 +391,7 @@ cz
 d
 da
 dashboard
+dashboards
 data
 db
 db2
@@ -499,7 +506,6 @@ gamma
 gate
 gatekeeper
 gateway
-gb
 geo
 gis
 git
@@ -509,14 +515,12 @@ global
 go
 google
 gov
-gr
 grafana
 graph
 graphql
 green
 gw
 h
-h5
 harbor
 health
 hec
@@ -591,14 +595,12 @@ labs
 lb
 ldap
 legacy
-library
 link
 links
 lists
 live
 lms
 lo0
-load
 local
 log
 login
@@ -709,6 +711,7 @@ o7
 o8
 o9
 oauth
+ocp
 office
 oidc
 okta
@@ -812,11 +815,10 @@ restricted
 retail
 rev
 reverse
-review
-ro
 root
 router
 rr
+rs
 ru
 s
 s1
@@ -968,7 +970,6 @@ vip
 voice
 vpn
 vpn2
-vs
 w
 w3
 wap
@@ -992,7 +993,6 @@ wordpress
 worker
 wp
 ws
-ws2
 www
 www1
 www2

@@ -323,6 +323,7 @@ files
 finance
 find
 flex
+foia
 form
 forms
 formulieren
@@ -360,7 +361,6 @@ grafana
 graph
 green
 groups
-gs
 gtm
 guce
 guest

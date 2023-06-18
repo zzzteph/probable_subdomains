@@ -512,7 +512,6 @@ euw1
 eu-west-1
 event
 events
-example
 ext
 external
 f
@@ -900,6 +899,7 @@ stg
 storage
 store
 sts
+studio
 superset
 support
 survey
