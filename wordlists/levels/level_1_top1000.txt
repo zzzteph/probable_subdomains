@@ -172,6 +172,7 @@ cim-dev
 citrix
 cl
 click
+clicks
 client
 cloud
 club
@@ -433,6 +434,7 @@ international
 internet
 intra
 intranet
+inventory
 investor
 investors
 io
@@ -601,7 +603,6 @@ notifications
 notify
 now
 ns
-ns01
 ns1
 ns2
 ns3
@@ -952,7 +953,6 @@ web
 web1
 web2
 webapp
-webapps
 webconf
 webdisk
 webhook

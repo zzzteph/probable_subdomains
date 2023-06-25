@@ -36,7 +36,6 @@ afis-ont
 afspraken
 afvalkalender
 aga
-agbi
 agndiko
 agwp01
 aip
@@ -888,6 +887,7 @@ testportaal
 testservices
 testwww
 thuiswerken
+thumbnail
 tijdelijk
 tiles1
 timetell

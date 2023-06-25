@@ -290,6 +290,7 @@ adilike
 adm
 admin
 admin-api
+administrator
 admins
 ads
 adserver
@@ -384,7 +385,6 @@ b5
 b6
 backend
 backstage
-base
 batch
 bb
 bbs
@@ -544,6 +544,7 @@ fc
 fd
 fe
 feature
+fi
 files
 fileserver
 finance
@@ -983,7 +984,6 @@ web
 web1
 webapp
 webdisk
-webhooks
 webmail
 webproxy
 west
