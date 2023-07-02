@@ -620,6 +620,7 @@ aop
 a-opendata
 a-opendata.a-english
 aos
+aov
 ap
 ap1
 ap2
@@ -929,7 +930,6 @@ auc
 auckland
 auction
 auctions
-audi
 audience
 audio
 audit

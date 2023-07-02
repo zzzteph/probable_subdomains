@@ -22,7 +22,6 @@ activiteiten
 adam
 adfs
 a-digikoppeling
-adiko
 admin
 admin-acc
 adp
@@ -36,7 +35,6 @@ afis-ont
 afspraken
 afvalkalender
 aga
-agndiko
 agwp01
 aip
 alblasserdam
@@ -288,7 +286,6 @@ digitaalerfgoed
 digitaalgemeenteloket
 digitaalnachtregister
 digitaletweeling
-diko
 directadmin
 dkd
 dkd-prod
@@ -342,15 +339,19 @@ erfpacht
 erfpacht-acc
 erfpacht-codekwal-dev
 erfpacht-codekwal-ont
+erfpacht-gwextern-acc
 erfpacht-gwextern-dev
 erfpacht-gwextern-ont
 erfpacht-gwextern-tst
+erfpachtmedewerkers-acc
 erfpachtmedewerkers-dev
 erfpachtmedewerkers-ont
 erfpachtmedewerkers-tst
+erfpachtprofessionals-acc
 erfpachtprofessionals-dev
 erfpachtprofessionals-ont
 erfpachtprofessionals-tst
+erfpachtzakelijk-acc
 erfpachtzakelijk-dev
 erfpachtzakelijk-ont
 erfpachtzakelijk-tst
@@ -368,7 +369,6 @@ fise02
 flevoparkbad
 floriade
 flowmailer-tracking
-fm02
 focus
 forms
 formulier
@@ -453,9 +453,11 @@ iba
 iburgerzaken
 ibzpink
 id
+id-beheer-erfpacht-acc
 id-beheer-erfpacht-dev
 id-beheer-erfpacht-ont
 id-beheer-erfpacht-tst
+id-erfpacht-acc
 id-erfpacht-dev
 id-erfpacht-ont
 id-erfpacht-tst
@@ -507,6 +509,7 @@ kimgoa
 kinderburgemeester
 klachten
 koppelpoort
+kre-acc
 kre-dev
 krefia
 krefia-acceptatie
@@ -550,6 +553,7 @@ makelaar-test
 makelpunt
 makkelijkemarkt-api
 makkelijkemarkt-dashboard
+makkie
 mam
 map
 maps
@@ -562,7 +566,6 @@ mas-mobile-tst
 mas-tst
 mdm
 me-api
-medeleven
 meent
 meet
 melddesk
@@ -582,7 +585,6 @@ mijn
 mijnbelastingen
 mijn-bff
 mijnerfpacht
-mijngeldzakenacc
 mijnict
 mijninkomen
 mijninkomen-test
@@ -594,11 +596,10 @@ mijnsbl-test
 mijnsociaalplein
 mijnsubsidies
 mijnws
-mijnzorgvraag
 mks
-mo
 mobile
 mobiliteit
+mokummatch
 monitorsociaal
 monumenten
 msm
@@ -899,7 +900,6 @@ tokenregistratie
 ton
 top
 topdesk
-topvorm
 tourbuzz
 tracking
 training

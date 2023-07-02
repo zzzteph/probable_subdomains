@@ -220,7 +220,6 @@ acc9s
 acc-afvalkalender
 acc-api
 acc-artifact
-acc-auth2
 acc-cdb
 acc-cdb-01234572
 acc-cdb-v2
@@ -277,12 +276,6 @@ acc-kaart
 acc-kadata
 acc-login
 acc-lrza
-acc-ls1
-acc-ls2
-acc-ls3
-acc-ls4
-acc-ls5
-acc-ls6
 acc-m
 acc-maps
 acc-mediabank
@@ -312,7 +305,6 @@ acc-openwave
 accp
 accpki
 acc-podiumd-logs
-acc-portal2
 acc-preview
 acc-publicaties
 acc-raadplegen
@@ -492,7 +484,6 @@ aggregator-tst
 agima
 agis
 agndiko
-agrifood
 agrifoodtech
 agris
 agroberichtenbuitenland
@@ -833,7 +824,6 @@ app-sccm35
 appserver
 app-sfbedge21
 app-shp24-stor
-appstore
 app-t
 app-t1
 app-t2
@@ -1286,6 +1276,7 @@ bestanden
 bestandsportaal
 bestandversturen
 bestandverzenden
+bestelportaal
 bestemmingsplan
 bestemmingsplannen
 bestie
@@ -1367,6 +1358,7 @@ bibis
 bibliotheek
 bics
 bicsaccweb1
+bicsdrupalacc
 bicsweb1
 bicsweb2
 bidbook
@@ -2074,7 +2066,6 @@ continuverbeterenjmo-acc
 controle-informatieplicht
 convert
 coogherveld
-cookiebeleid
 coordinatiestroomlijn
 c-opendata
 copper
@@ -2494,9 +2485,6 @@ devis
 devisie2020
 dev-kwaliteitsmonitor
 dev-lis01-dhy
-dev-ls1
-dev-ls3
-dev-ls5
 devops
 dev-rotterdam
 devs
@@ -2792,6 +2780,7 @@ doesburg
 doetinchem
 doffen
 dok
+dolph
 domain-admin
 _domainkey
 domapp
@@ -3205,7 +3194,6 @@ eranetbioenergy
 e-recruitment
 er-extra
 erfgoed
-erfgoedalliantie
 erfgoedbalans
 erfgoeddeal
 erfgoedinspectie
@@ -3216,15 +3204,19 @@ erfpacht
 erfpacht-acc
 erfpacht-codekwal-dev
 erfpacht-codekwal-ont
+erfpacht-gwextern-acc
 erfpacht-gwextern-dev
 erfpacht-gwextern-ont
 erfpacht-gwextern-tst
+erfpachtmedewerkers-acc
 erfpachtmedewerkers-dev
 erfpachtmedewerkers-ont
 erfpachtmedewerkers-tst
+erfpachtprofessionals-acc
 erfpachtprofessionals-dev
 erfpachtprofessionals-ont
 erfpachtprofessionals-tst
+erfpachtzakelijk-acc
 erfpachtzakelijk-dev
 erfpachtzakelijk-ont
 erfpachtzakelijk-tst
@@ -3370,8 +3362,8 @@ f4b330
 facet
 facmgmt
 faculteitmilitairewetenschappen
-fagoed
 fairproject
+falco
 fan-ci
 fanet
 fao
@@ -3513,7 +3505,9 @@ formulier-test
 fortbijrijnauwen
 fortianalyzer
 forticlient
+fortiems
 fortinet
+fortivpn
 forum
 forumgelderland
 forums
@@ -3801,6 +3795,7 @@ german
 geschilleninstantieszorg
 gesubsidieerde-rechtsbijstand
 getijdencentralebrouwersdam
+geuzenstatenkwartierfietst
 gewoonnijmegen
 gezinscoach
 gezo
@@ -4045,7 +4040,6 @@ hartvanzuid
 haruhiko
 hattem
 haven
-havenhart2punt0
 havenkwartieraanzet
 hc
 hcib
@@ -4526,6 +4520,7 @@ icontroler-api-test
 icontroler-test
 ict
 id
+id-beheer-erfpacht-acc
 id-beheer-erfpacht-dev
 id-beheer-erfpacht-ont
 id-beheer-erfpacht-tst
@@ -4542,6 +4537,7 @@ identiteitskaart
 identiteitskaart-acc1
 identity
 identityota
+id-erfpacht-acc
 id-erfpacht-dev
 id-erfpacht-ont
 id-erfpacht-tst
@@ -4565,6 +4561,7 @@ idp-svcs-tst
 ids
 idscanner
 ids-test
+id-subsidies-login
 idtst
 ie
 iedereendoetmee
@@ -4607,7 +4604,6 @@ iit-controle
 ijksoverheid
 ijsaeo1
 ijssellandscan
-ijsselmonde
 ijsselstein
 ijsselwerken
 ijvi
@@ -5177,7 +5173,6 @@ klimaatplein
 klimaatwebwinkel
 klinieken
 klooster
-kloppendhartwarmond
 klopt
 kloud
 klussenbank
@@ -5251,6 +5246,7 @@ kpn-eid-tst
 kpntst
 krachtigedorpen
 kranten
+kre-acc
 kre-dev
 kredietbank
 kredietbankwestbrabant
@@ -5373,7 +5369,6 @@ letoplood
 leudal
 leusden
 lev
-levendigbrabant2030
 leverancier
 levjenv
 lgf002
@@ -5389,7 +5384,6 @@ likmodel
 lil
 lima
 limburg
-limonadebrigade
 lims01
 lims02
 lincoln
@@ -5453,6 +5447,7 @@ logkoppelpunt
 logoff
 logon
 logosociety
+logs
 lois
 lois-acc
 lokaalklimaatbeleid
@@ -5483,12 +5478,6 @@ lpc
 lrjg
 lrza
 lrza-testtool
-ls1
-ls2
-ls3
-ls4
-ls5
-ls6
 luchen
 luchtvaartindetoekomst
 luchtvaartmeteo
@@ -5583,6 +5572,7 @@ mailb04
 mailbackup
 mailbeheer
 mailcamp
+mailct
 mailer
 mailexo
 mailgate
@@ -5617,6 +5607,7 @@ makelaar-test
 makelpunt
 makkelijkemarkt-api
 makkelijkemarkt-dashboard
+makkie
 malengo
 malengo-cms
 malengo-test
@@ -5745,6 +5736,10 @@ meldweb
 members
 memorix
 memorix-ontw
+menditectbco
+menditectdv
+menditectmo
+menditectsb
 menditectso
 menscentraal
 mensenrechtentulp
@@ -5913,6 +5908,9 @@ milieueducatie
 milieustraat
 mill
 millenniumloop
+mimir
+mimir-minio
+mimir-minio-console
 min3
 minimi
 minio
@@ -5984,6 +5982,7 @@ moh
 moh-acc
 mohis
 mohistest
+mokummatch
 molenlanden
 mom
 momo
@@ -6112,7 +6111,6 @@ mzdtest
 n
 n272-n615
 n34
-n340
 n377
 n65
 naardebasisschool
@@ -6135,7 +6133,6 @@ nat
 nat12
 nationaalpark
 nationaalwatermodel
-nationaalwaterstofprogramma
 nat-test-vpn
 natuur
 natuurlijkgroen
@@ -6345,8 +6342,10 @@ oap
 oauth
 oauthdec
 ob
+objecten
 objects
 objects-api
+objecttypen
 objecttypes
 objecttypes-api
 obl
@@ -6880,6 +6879,7 @@ pcw
 pda
 pda-portier2014
 pdc
+pdc-api
 pdc-frontend
 pdcschulddienstverlening
 pdc-strapi
@@ -7014,6 +7014,7 @@ poc-1-connect
 pocms
 pocpp
 pocppiz
+podiumd-logs
 point
 polen
 pollerscs
@@ -7150,6 +7151,7 @@ print
 printservice-plotter2
 priv
 privacy
+privacybewustzijn
 private
 private-test
 prkingkoppeling
@@ -7433,6 +7435,7 @@ regelen-acc
 regelgeving
 regelingsondersteuning
 regenboograad
+regentesseplein
 regieportaal
 regieportaal-acceptatie
 regieportaal-test
@@ -7670,7 +7673,6 @@ samenatwork
 samenbernheze
 samenduurzaam
 samenmet
-samenopdehoogte
 samenoverzorg
 samensittardgeleen
 samenspel
@@ -7766,7 +7768,6 @@ schiermonnikoog
 schipperskwartierbepaalt
 scholenwijzer
 scholenwijzer-acc
-schoneluchtakkoord
 school
 school115
 schoolwijzer
@@ -7959,6 +7960,7 @@ simcms-gemeenteraad
 simcmsintra
 simcms-klimaatbestendig
 simcms-omgevingsvisie
+simcms-omgevingswet
 simcms-open
 simcms-raad
 simcms-samenduurzaam
@@ -7995,6 +7997,7 @@ sip2
 sipa
 sipb
 sip-grnap094
+siraskalot
 sisa
 site
 site1
@@ -8810,7 +8813,6 @@ toegangdec
 toegang-vdi
 toegankelijk
 toegankelijkestad
-toegankelijkheid
 toekomstbehendigbrabant
 toekomstbestendigebegroting
 toekomstluchtvaart
@@ -8926,6 +8928,7 @@ tst2-nl-iszw-minezk-tvs-etd-saml-client-sign
 tst3-login
 tst4
 tst8
+tstidentity
 tst-login
 tst-loket
 tstmijnswf
@@ -9146,7 +9149,6 @@ venray
 venv
 venw
 verankering
-verbeteringregionalekeringen-brabantsedelta
 verbeterplanbrugbediening
 verduurzamingindustrie
 verenigde-staten
@@ -9689,7 +9691,6 @@ winkelen
 winkelgebiedenscan
 winkel-ot
 winkelsteeg
-winnovatie
 win-storage
 winter
 winterswijk
@@ -9732,7 +9733,6 @@ wolk
 womberichtenservice
 womberichtenservicetest
 wonen
-wonenalacarte
 wonen-click
 wonenenruimte
 wonenin
