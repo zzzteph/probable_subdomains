@@ -1,13 +1,17 @@
 0
 00
 00000-okta-idp
+00000-okta-idphwcdn
+00000-okta-idp-marina-town
+001
 008-okta-ops
 01
 02
 03
 04
-040uy5c4ksfktlc89q8tdjor6g
+0api-okta
 0-checkpoint
+0-okta-network-metrics-ametricc-pass
 0-ulrichsweb
 0-www
 1
@@ -172,7 +176,6 @@
 243
 244
 245
-246
 247
 248
 249
@@ -306,14 +309,12 @@ ap1
 apac
 apex
 api
-api1
 api2
 api-dev
 api-gateway
 apigw
 api-int
 apim
-apm
 ap-northeast-1
 apollo
 app
@@ -350,7 +351,7 @@ az
 b
 b2b
 backend
-backstage
+backup
 bar
 bastion
 batch
@@ -434,6 +435,7 @@ crowdtest
 cs
 cust
 customer
+customers
 cytanet
 cz
 d
@@ -532,6 +534,7 @@ fr
 fra
 front
 frontend
+frontpage
 fs
 ftp
 ftth
@@ -542,6 +545,7 @@ gamma
 gate
 gateway
 general
+gh
 gist
 git
 github
@@ -578,6 +582,7 @@ i
 ic
 id
 idc
+idcjoy
 identity
 idp
 ie
@@ -689,6 +694,7 @@ n
 n1
 na
 nat
+nautilus
 ne
 neoplus
 net
@@ -704,9 +710,6 @@ nlm
 no
 node
 node1
-node2
-node3
-node4
 nonprod
 ns
 ns1
@@ -716,7 +719,6 @@ ns4
 nz
 o
 o1
-o13
 o2
 o3
 o4
@@ -758,7 +760,6 @@ perf2
 pgadmin
 ph
 php
-pilot
 pl
 platform
 play
@@ -869,7 +870,6 @@ sit
 site
 sites
 sk
-sky
 sm
 sme
 sms
@@ -949,7 +949,6 @@ update
 upload
 us
 use1
-us-east
 us-east-1
 us-east-2
 user
@@ -972,6 +971,7 @@ vm
 voice
 vpn
 w
+w3
 wap
 web
 web1

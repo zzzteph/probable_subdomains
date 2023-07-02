@@ -46,6 +46,7 @@ fbx
 frontend
 ftp
 gateway
+gitlab
 global
 google
 grafana
@@ -53,7 +54,6 @@ hostmaster
 i
 int
 internal
-ip4
 jenkins
 kibana
 login

@@ -111,6 +111,7 @@
 3c
 3com
 3d
+3ds
 3g
 3ww
 3www
@@ -381,6 +382,7 @@ ae
 aea
 aegis
 aem
+aem-dev
 a-english
 aeolus
 aep
@@ -460,7 +462,6 @@ aktion
 al
 alabama
 aladdin
-alan
 alarm
 alaska
 alation
@@ -1274,7 +1275,6 @@ blt
 blue
 blueberry
 bluebird
-bluemoon
 blueprint
 blueprints
 blues
@@ -1359,6 +1359,7 @@ branch
 brand
 brandanalytics
 brandcenter
+brandcentral
 brandedcontent
 brandhub
 branding
@@ -1932,6 +1933,7 @@ collection
 collections
 collector
 college
+collins
 colombia
 color
 colorado
@@ -2057,7 +2059,6 @@ convert
 convex
 convoy
 coo
-cook
 cookie
 cookie.browserapps
 cookies
@@ -2237,6 +2238,7 @@ current
 curtis
 curve
 cust
+cust113
 custom
 customer
 customercare
@@ -2399,7 +2401,6 @@ default
 dei
 delaware
 delhi
-deli
 deliver
 delivery
 dell
@@ -2647,6 +2648,7 @@ docker-registry
 docs
 docs2
 docs-dev
+docs.dev
 docs.developer
 docstest
 doctor
@@ -2676,13 +2678,11 @@ dominos
 domo
 don
 donate
-donvirus
 doodle
 doom
 doors
 dora
 dorado
-doraemon
 dos
 dossier-browserapps
 dossier.browserapps
@@ -3091,6 +3091,7 @@ ethics
 etl
 etna
 ets
+ett
 etx
 eu
 eu1
@@ -3296,6 +3297,7 @@ fl
 flamingo
 flash
 flat
+flatiron
 flc
 fleet
 flex
@@ -3386,7 +3388,6 @@ fr-ca
 fred
 freddy
 free
-freeantivirus
 freedom
 freedompop
 freelance
@@ -3883,6 +3884,7 @@ hodor
 hol
 holiday
 holidays
+holland
 holly
 hollywood
 home
@@ -4828,7 +4830,6 @@ ko
 koa
 koala
 kodak
-kon
 kong
 konto
 kor
@@ -5097,7 +5098,6 @@ lookup
 loop
 loopback
 lord
-loreal
 losangeles
 lost
 lot
@@ -5362,7 +5362,6 @@ math
 matomo
 matrix
 matt
-mattel
 matter
 mattermost
 matthew
@@ -5764,6 +5763,7 @@ m.staging
 m.staging.www
 m.store
 mstr
+mstunnel
 msu
 mt
 mt2
@@ -5873,7 +5873,6 @@ mx7
 mx8
 mx9
 mxa
-mxm
 mxmail
 mxs
 mx.www
@@ -6022,7 +6021,6 @@ newcastle
 newengland
 newhire
 newjersey
-newlook
 newmail
 newman
 neworleans
@@ -6383,7 +6381,6 @@ omega
 omg
 omgevingsvisie
 omgevingswet
-omi
 omicron
 omni
 omnichannel
@@ -6560,6 +6557,7 @@ p2
 p2p
 p3
 p4
+p7
 p8
 pa
 paas
@@ -6736,6 +6734,7 @@ pets
 pf
 pg
 pgadmin
+pge
 pgp
 pgsql
 ph
@@ -6823,6 +6822,7 @@ plangrid
 planner
 planning
 planon
+planpro
 plans
 plant
 plasma
@@ -6839,6 +6839,7 @@ plaza
 plc
 plesk
 plm
+pls
 plug
 plugins
 plus
@@ -7621,6 +7622,7 @@ sandbox.api
 sandbox.pay
 sandiego
 sanfrancisco
+sanjose
 santa
 santafe
 sante
@@ -7855,6 +7857,7 @@ sfx
 sg
 sg1
 sga
+sgd
 sgm
 sgp
 sgs
@@ -8322,6 +8325,7 @@ star
 starbucks
 starfish
 stargate
+starlight
 starnet
 stars
 start
@@ -8596,7 +8600,6 @@ tc
 tcc
 tcd
 tce
-tcl
 tco
 tcp
 tcs
@@ -8729,6 +8732,7 @@ testsite
 test.social
 tests-restaurants
 test.staging
+test.support
 testvpn
 testweb
 test-www
@@ -8752,7 +8756,6 @@ thehub
 theme
 themes
 themis
-thevaccinesuk
 think
 thomas
 thor
@@ -8818,6 +8821,7 @@ tmv
 tmx
 tn
 t.notifications
+tns
 tnt
 to
 toaster
@@ -8913,7 +8917,6 @@ travis
 treatmas
 tree
 treehouse
-trek
 trend
 trends
 trex
@@ -8971,7 +8974,6 @@ tulsa
 tumblr
 tuna
 tune
-tungsten
 tunisia
 tunnel
 turbo
@@ -9082,7 +9084,6 @@ unauthorized
 unavailable
 unbounce
 unc
-uncovered
 underarmour
 underground
 uni
@@ -9277,15 +9278,12 @@ violet
 vip
 viper
 virginia
-virgo
 virtual
 virtuoso
 virus
 virus0316
 viruscomix
-virus-design
 viruslex
-viruswall
 viruswriter
 vis
 visa
@@ -9325,6 +9323,7 @@ voltage-pp-0000
 voltage-ps-0000
 volunteer
 vote
+vouch
 vouchers
 vox
 voyager
@@ -9424,6 +9423,7 @@ web01
 web02
 web03
 web04
+web06
 web1
 web10
 web100000
@@ -9739,7 +9739,6 @@ wsc
 wsd
 wse
 wsi
-wsm
 wss
 wstest
 wsus
@@ -9844,6 +9843,7 @@ x
 x10
 x2
 xa
+xapi
 xavier
 xb
 xbox

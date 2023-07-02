@@ -415,6 +415,7 @@ ca
 cable
 calendar
 canary
+cars
 cart
 catavira-free-antivirus
 cc
@@ -447,11 +448,13 @@ collab
 com
 combucky
 community
+compute
 config
 confluence
 connect
 console
 content
+control
 cookiesetter
 cool
 corp
@@ -481,7 +484,6 @@ delivery
 dell
 demo
 dep
-deployer
 dev
 dev01
 dev1
@@ -489,6 +491,7 @@ dev2
 dev3
 develop
 developer
+developers
 development
 device-service
 df
@@ -583,7 +586,6 @@ h
 harbor
 hc
 health
-hec
 hello
 hk
 home
@@ -768,11 +770,9 @@ pc
 perf
 perf-1
 pg
-pharmacy
 php
 pl
 place
-platform
 poc
 pool
 pop
@@ -830,6 +830,7 @@ registry
 relay
 render
 report
+repository
 res
 resetdata
 resnet
@@ -902,7 +903,6 @@ stl
 storage
 sub
 submit
-subscription
 support
 svc
 sw

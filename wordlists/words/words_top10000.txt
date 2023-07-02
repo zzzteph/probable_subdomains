@@ -283,9 +283,6 @@ acc-ls3
 acc-ls4
 acc-ls5
 acc-ls6
-acc-ls7
-acc-ls8
-acc-ls9
 acc-m
 acc-maps
 acc-mediabank
@@ -668,6 +665,7 @@ ansvlm2009
 ansvwl2015
 ansvwl2016
 ansvwl2019
+ansvwl2032
 ansvwl2903
 answerforbusiness
 antennebureau
@@ -686,6 +684,7 @@ aon
 aonold
 a-opc4
 a-opendata
+a-origin
 aov
 aovpn
 ap
@@ -5490,9 +5489,6 @@ ls3
 ls4
 ls5
 ls6
-ls7
-ls8
-ls9
 luchen
 luchtvaartindetoekomst
 luchtvaartmeteo
@@ -6575,6 +6571,7 @@ org
 organisatie
 organisaties
 organisatievisie2030
+origin
 ornl
 ortest
 os
@@ -6950,6 +6947,7 @@ piu
 piv
 piv-rest
 piwik
+piwik2
 piwikacc
 pix-ia-sth
 pix-ia-stk
@@ -7334,6 +7332,7 @@ q-matic
 qmatic
 qr
 quarantaine
+quarantine
 quarantinedeclaration
 quickscans
 quizsolved
@@ -9744,6 +9743,7 @@ woo
 woo-acc
 woods8
 woonvisies
+woordenboek
 wordookleraarin
 wordpress
 wordpress-staging

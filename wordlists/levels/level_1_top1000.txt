@@ -271,7 +271,6 @@ dr
 drive
 ds
 dsp
-dt
 dyn
 e
 ea
@@ -953,6 +952,7 @@ web
 web1
 web2
 webapp
+webapps
 webconf
 webdisk
 webhook

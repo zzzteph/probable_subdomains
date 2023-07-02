@@ -11,7 +11,6 @@
 12
 120
 121
-123
 125
 128
 13
@@ -168,6 +167,7 @@ amazon
 amp
 ams
 analytics
+android
 antivirus
 a-opendata
 ap
@@ -613,7 +613,6 @@ mta
 mta1
 mta10
 mta11
-mta12
 mta2
 mta3
 mta4
@@ -674,7 +673,6 @@ o6
 o7
 o8
 o9
-oa
 oauth
 office
 okta
@@ -784,6 +782,7 @@ reports
 repository
 res
 research
+reset
 resources
 rest
 retail
@@ -973,6 +972,7 @@ webapps
 webconf
 webdisk
 webhook
+webhooks
 webmail
 webservices
 website

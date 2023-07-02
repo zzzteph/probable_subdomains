@@ -5,6 +5,7 @@
 4
 a
 acc
+access
 admin
 ap
 api
@@ -73,7 +74,6 @@ public
 qa
 registry
 res
-s
 sandbox
 search
 secure
