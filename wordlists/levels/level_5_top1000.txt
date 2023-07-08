@@ -7,6 +7,7 @@
 002
 006
 02
+02v0-okta-sso
 02v0-okta-staging
 03
 092
@@ -280,6 +281,7 @@ a9
 aa
 ab
 ab0d
+about
 acc
 access
 account
@@ -299,7 +301,6 @@ ae
 agarcia-orders2
 agents
 akamai
-alert
 alertmanager
 alerts
 all
@@ -398,7 +399,6 @@ blog
 blue
 bootstrap
 br
-branch
 broad
 broker
 bsd
@@ -406,7 +406,6 @@ business
 by
 c
 c3
-c3-0
 c5
 c6
 c7
@@ -449,6 +448,7 @@ com
 combucky
 community
 compute
+conf
 config
 confluence
 connect
@@ -461,7 +461,6 @@ corp
 corporate
 cpanel
 cpe
-cs
 csa
 csg
 cust
@@ -479,7 +478,6 @@ dc
 de
 debug
 default
-deleteme
 delivery
 dell
 demo
@@ -498,6 +496,7 @@ df
 dhcp
 dhcp-dynamic
 dialup
+discourse
 dk
 dlw64-1antivirus
 _dmarc
@@ -524,6 +523,7 @@ echo
 edge
 ee
 elasticsearch
+em
 email
 emea
 ems
@@ -551,6 +551,7 @@ fi
 files
 fileserver
 finance
+find
 fj
 fl
 fleet-api
@@ -597,7 +598,7 @@ hq
 hsd1
 httpbin
 hub
-hva
+hv
 i
 iam
 id
@@ -613,7 +614,6 @@ images
 imap
 img
 in
-indexer
 info
 ingest
 ingester
@@ -642,6 +642,7 @@ jenkins
 jisc
 jobs-bdjobs-com
 jobstreet
+journals
 jp
 justice
 k12
@@ -704,6 +705,7 @@ mp
 ms
 mta
 mta-sts
+muse
 mvs
 mx
 mx01
@@ -768,7 +770,6 @@ partner
 pay
 pc
 perf
-perf-1
 pg
 php
 pl
@@ -778,9 +779,11 @@ pool
 pop
 pop3
 portal
+ppe
 ppp
 pqa
 prd
+prd1
 pre
 preprod
 preview
@@ -816,7 +819,6 @@ queue
 r
 r1
 r2
-r230
 r2d2
 r3
 r6
@@ -847,6 +849,7 @@ s3-antivirus
 s4171-antivirus
 sa
 sandbox
+sbx
 sc
 scanner
 scm
@@ -969,7 +972,6 @@ v2
 v3
 va
 vault
-vehicle-files
 version2
 video
 vip
@@ -992,11 +994,9 @@ wildcard
 wireless
 wline
 ws
-ws01
 wus
 www
 www2
 wwwqa
 x
-yellow
 zavira-free-antivirus

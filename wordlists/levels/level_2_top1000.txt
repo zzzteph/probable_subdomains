@@ -11,6 +11,7 @@
 12
 120
 121
+123
 125
 128
 13
@@ -19,6 +20,7 @@
 138
 14
 15
+154
 159
 16
 162
@@ -28,7 +30,6 @@
 17
 178
 18
-180
 183
 185
 186
@@ -104,12 +105,10 @@
 78
 79
 8
-80
 82
 83
 84
 85
-86
 87
 88
 89
@@ -167,13 +166,11 @@ amazon
 amp
 ams
 analytics
-android
 antivirus
 a-opendata
 ap
 apac
 api
-api1
 api2
 api-dev
 apis
@@ -181,6 +178,7 @@ api-staging
 api-test
 apollo
 app
+app1
 app2
 apple
 apply
@@ -210,6 +208,7 @@ azure
 b
 b2b
 backend
+backoffice
 backup
 basic
 basic-nodejs-dev
@@ -246,7 +245,6 @@ careers
 cas
 catalog
 cc
-ccs
 cd
 cdn
 cdq-api
@@ -267,6 +265,7 @@ cim-api-uat
 cim-data-quality-qa
 cim-dev
 cim-geo-dev
+cis
 citrix
 click
 client
@@ -301,6 +300,7 @@ cpe
 cps
 cr
 crm
+crs
 cs
 csg
 css
@@ -308,6 +308,7 @@ ct
 cust
 customer
 cveapi
+cvs
 d
 da
 danieapp
@@ -329,7 +330,6 @@ dev1
 dev2
 dev3
 dev4
-dev-api
 develop
 developer
 developers
@@ -339,6 +339,7 @@ dhcp
 dialin
 digikoppeling
 directory
+discover
 discovery
 dk
 dl
@@ -354,6 +355,7 @@ docs
 dogfood-dev
 download
 downloads
+dp
 dr
 ds
 dsl
@@ -371,7 +373,6 @@ edge
 edit
 editor
 edu
-ee
 elastic
 elasticsearch
 em
@@ -385,9 +386,9 @@ enterprise
 enterpriseregistration
 ep
 es
+ess
 eu
 eu1
-eu-central-1
 europe
 eu-west-1
 event
@@ -398,7 +399,7 @@ ext
 external
 extranet
 f
-faq
+falcon
 fb
 fbx
 fe
@@ -541,18 +542,17 @@ lists
 live
 liveupdate
 lms
-load
 local
 localhost
 log
 login
 logs
 loket
+loki
 lp
 lyncdiscover
 m
 m1
-m2
 ma
 magazines
 magazinesintern
@@ -571,11 +571,11 @@ management
 manager
 map
 maps
-market
 marketing
 marketplace
 mars
 master
+max
 mc
 mdm
 me
@@ -613,6 +613,7 @@ mta
 mta1
 mta10
 mta11
+mta12
 mta2
 mta3
 mta4
@@ -761,11 +762,12 @@ qa
 qa1
 qa2
 qa3
-qc
 r
-r1
 ra
+radar
+rancher
 rc
+rds
 red
 redirect
 reg
@@ -782,7 +784,6 @@ reports
 repository
 res
 research
-reset
 resources
 rest
 retail
@@ -806,7 +807,6 @@ sas
 sat
 saturn
 sb
-sbx
 sc
 scheduler
 scm
@@ -834,6 +834,7 @@ share
 sharepoint
 shop
 si
+sign
 signin
 signup
 sip
@@ -909,10 +910,10 @@ tls
 tms
 tools
 tp
-tps
 tr
 track
 tracking
+trade
 train
 training
 transfer
@@ -955,7 +956,6 @@ videos
 view
 vip
 vision
-vn
 voice
 vpn
 vpn1

@@ -74,7 +74,6 @@ apple
 apply
 apps
 appstore
-aps
 apt
 ar
 archive
@@ -83,7 +82,6 @@ artifactory
 as
 asia
 ask
-asset
 assets
 at
 athena
@@ -107,8 +105,10 @@ backup
 basic
 bb
 bbs
+bc
 be
 beeldbank
+beheer
 benefits
 beta
 bg
@@ -146,13 +146,13 @@ career
 careers
 cart
 cas
-cat
 catalog
 cc
 ccc
 cd
 cdn
 cdn2
+ce
 cert
 certificate
 cf
@@ -160,7 +160,6 @@ ch
 chat
 check
 checkout
-chef
 china
 ci
 cim-api
@@ -206,12 +205,10 @@ corporate
 cp
 cpanel
 cr
-create
 crl
 crm
 cs
 csp
-csr
 css
 ct
 customer
@@ -253,6 +250,7 @@ dl
 dm
 _dmarc
 dms
+dmz
 dnm
 dns
 dns1
@@ -300,9 +298,11 @@ eng
 engage
 engineering
 english
+enroll
 enterprise
 enterpriseenrollment
 enterpriseregistration
+er
 es
 espanol
 et
@@ -341,6 +341,7 @@ fr
 free
 fs
 ftp
+ftp2
 fw
 g
 ga
@@ -403,6 +404,7 @@ iam
 iburgerzaken
 ibzpink
 ic
+ice
 id
 ideas
 identity
@@ -457,7 +459,6 @@ join
 jp
 js
 jss
-k
 k8s
 kb
 kibana
@@ -512,6 +513,8 @@ magazine
 magazines
 magazinesintern
 mail
+mail01
+mail02
 mail1
 mail2
 mail3
@@ -529,7 +532,6 @@ market
 marketing
 marketplace
 mars
-master
 mc
 mdm
 me
@@ -576,7 +578,6 @@ mx3
 mx4
 my
 myaccount
-mysite
 mysql
 n
 na
@@ -602,6 +603,7 @@ notifications
 notify
 now
 ns
+ns02
 ns1
 ns2
 ns3
@@ -670,7 +672,6 @@ pki
 pl
 platform
 play
-player
 plus
 pm
 poc
@@ -702,6 +703,7 @@ profiles
 projects
 prometheus
 promo
+promotion
 promotions
 proxy
 ps
@@ -740,8 +742,8 @@ res
 research
 resource
 resources
-restaurants
 retail
+rev
 review
 reviews
 rewards
@@ -805,7 +807,6 @@ simcms
 simsite
 sip
 site
-sitecore
 sites
 sk
 sl
@@ -817,6 +818,7 @@ sms
 smtp
 smtp1
 smtp2
+smtp3
 social
 software
 solutions
@@ -877,7 +879,6 @@ test1
 test2
 test3
 testing
-test-shop
 test-www
 th
 ticket
@@ -889,7 +890,6 @@ tm
 tms
 tools
 top
-tp
 tr
 track
 tracker
@@ -953,6 +953,7 @@ web1
 web2
 webapp
 webapps
+webcon
 webconf
 webdisk
 webhook
@@ -996,7 +997,6 @@ za
 zaaksysteem-accept
 zabbix
 zendesk1
-zendesk2
 zendesk3
 zendesk4
 zh

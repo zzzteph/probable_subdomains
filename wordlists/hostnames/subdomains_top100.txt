@@ -40,14 +40,13 @@ ftp
 go
 help
 home
-iburgerzaken
-ibzpink
 images
 info
 intranet
 jira
 jobs
 link
+localhost
 login
 lyncdiscover
 m
@@ -76,6 +75,7 @@ partner
 partners
 portal
 preview
+prod
 qa
 remote
 search

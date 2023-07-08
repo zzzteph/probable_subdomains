@@ -7,8 +7,10 @@
 008-okta-ops
 01
 02
+02v0-okta-sso
 03
 04
+040uy5c4ksfktlc89q8tdjor6g
 0api-okta
 0-checkpoint
 0-okta-network-metrics-ametricc-pass
@@ -280,6 +282,7 @@ acceptatie
 access
 account
 accounts
+ace
 acs
 active
 ad
@@ -318,7 +321,6 @@ apim
 ap-northeast-1
 apollo
 app
-app1
 apple
 appleid
 application-okta
@@ -336,6 +338,7 @@ as
 aspmx
 assets
 at
+athena
 atlantis
 atlas
 att
@@ -380,7 +383,6 @@ c3
 c4
 ca
 cable
-cache
 cam
 campaign
 canary
@@ -410,8 +412,8 @@ cm
 cms
 cn
 cname
-cnc
 co
+code
 col
 com
 commerce
@@ -505,7 +507,6 @@ emea
 en
 eng
 engine
-engineering
 ent
 es
 esri
@@ -526,7 +527,6 @@ fi
 files
 finance
 fl
-fleet
 fm
 foo
 forum
@@ -545,7 +545,6 @@ gamma
 gate
 gateway
 general
-gh
 gist
 git
 github
@@ -594,7 +593,6 @@ images
 img
 ims
 in
-inf
 info
 infra
 ingest
@@ -619,6 +617,7 @@ jira
 jobs
 jp
 js
+jstor
 jupyter
 k
 k8s
@@ -645,7 +644,6 @@ load
 local
 localhost
 locust
-log
 logging
 login
 logs
@@ -725,6 +723,7 @@ o4
 o5
 oauth
 office
+oidc
 okta
 old
 on
@@ -759,7 +758,6 @@ perf
 perf2
 pgadmin
 ph
-php
 pl
 platform
 play
@@ -787,6 +785,7 @@ production
 profile
 prometheus
 promotion
+proquest
 protection
 provisioning
 proxad
@@ -797,6 +796,7 @@ ptr
 pub
 public
 publisher
+puppet
 push
 qa
 qa2
@@ -808,7 +808,6 @@ r2
 r3
 ra
 rancher
-raw
 rc
 redir
 redirectme
@@ -824,10 +823,10 @@ research
 resnet
 resources
 rest
+retail
 rev
 reverse
 router
-rpc
 rps
 rr
 rs
@@ -838,6 +837,7 @@ s2s
 s3
 sa
 sandbox
+sat
 saturn
 sb
 sbx
@@ -859,7 +859,6 @@ services
 sf
 sftp
 sg
-sgp
 sh
 shared
 shop
@@ -881,6 +880,7 @@ sp
 splunk
 sprint
 ss
+ssh
 ssl
 sso
 st
@@ -888,7 +888,6 @@ sta
 staff
 stage
 stage1
-stage2
 staging
 star
 static
@@ -923,10 +922,12 @@ test2
 test3
 testing
 th
+thanos
 tky
 tls
 tools
 tr
+tracker
 train
 training
 travel
@@ -956,7 +957,6 @@ users
 usw2
 us-west-1
 us-west-2
-v
 v1
 v2
 v4

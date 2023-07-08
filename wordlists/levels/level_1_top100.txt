@@ -45,6 +45,7 @@ home
 images
 info
 intranet
+it
 jira
 jobs
 link
@@ -57,7 +58,6 @@ mail
 mail2
 media
 meet
-mijn
 mobile
 mx
 my

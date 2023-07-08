@@ -11,7 +11,6 @@
 103
 104
 106
-107
 108
 109
 11
@@ -52,6 +51,7 @@
 152
 154
 155
+157
 158
 159
 16
@@ -80,10 +80,12 @@
 199
 2
 20
+201
 202
 203
 204
 205
+207
 209
 21
 212
@@ -103,6 +105,7 @@
 228
 229
 23
+230
 232
 234
 235
@@ -252,7 +255,6 @@ apigw
 api-int
 apim
 apis
-api-test
 apm
 ap-northeast-1
 ap-northeast-2
@@ -266,6 +268,7 @@ ap-south-1
 ap-southeast-1
 ap-southeast-2
 ar
+archive
 argo
 argocd
 army
@@ -281,6 +284,7 @@ au
 audit
 auth
 author
+authorization
 auto
 autoconfig
 autodiscover
@@ -290,7 +294,6 @@ aws
 az
 azure
 b
-b1
 b2b
 backend
 backoffice
@@ -309,11 +312,13 @@ blob
 blog
 blogs
 blue
+bm
 box
 br
 brand
 bridge
 broker
+bs
 build
 builder
 business
@@ -349,9 +354,7 @@ click
 client
 clients
 cloud
-cluster
 cm
-cmp
 cms
 cn
 cname
@@ -371,7 +374,6 @@ connect
 consent
 console
 consul
-consumer
 content
 control
 core
@@ -396,9 +398,7 @@ dashboard
 dashboards
 data
 db
-db2
 dc
-dd
 de
 delivery
 demo
@@ -440,10 +440,8 @@ dsl
 dyn
 dynamic
 e
-e1
 e2e
 ea
-earth
 east
 ec
 echo
@@ -489,6 +487,7 @@ fi
 file
 files
 fl
+fleet
 flow
 foo
 forms
@@ -512,6 +511,7 @@ gatekeeper
 gateway
 geo
 gis
+gist
 git
 github
 gitlab
@@ -532,7 +532,6 @@ hec
 hello
 help
 helpdesk
-hermes
 hk
 home
 hop
@@ -592,8 +591,8 @@ kb
 keycloak
 kibana
 kr
+kubernetes
 l
-la
 lab
 labs
 lb
@@ -606,6 +605,7 @@ live
 lms
 lo0
 local
+localhost
 log
 login
 logs
@@ -616,6 +616,7 @@ lyncdiscover
 lyncdiscoverinternal
 m
 m1
+m2
 ma
 mail
 mail01
@@ -636,7 +637,6 @@ mars
 master
 md
 mdm
-mds
 med
 media
 meet
@@ -655,7 +655,6 @@ mobile
 monitor
 monitoring
 mp
-mq
 ms
 msg
 mt
@@ -712,7 +711,6 @@ o7
 o8
 o9
 oauth
-ocp
 office
 oidc
 okta
@@ -724,6 +722,7 @@ ops
 or
 orange
 order
+oregon
 org
 origin
 orion
@@ -739,14 +738,15 @@ pay
 payment
 payments
 pc
+pe
 perf
 phoenix
 photo
 pi
 pilot
+pki
 pl
 platform
-pm
 poc
 pool
 pop
@@ -791,8 +791,8 @@ queue
 r
 rabbitmq
 rancher
+raw
 rc
-red
 redirect
 reg
 region
@@ -830,7 +830,6 @@ sa
 sa-east-1
 sandbox
 sap
-saturn
 sb
 sbx
 sc
@@ -908,7 +907,6 @@ teams
 teleport
 temp
 test
-test01
 test1
 test2
 test3
@@ -916,6 +914,7 @@ test4
 test5
 test-api
 testing
+tfs
 th
 thanos
 tls
@@ -930,6 +929,7 @@ tracking
 traefik
 training
 trk
+trn
 trunk
 ts
 tst
@@ -961,10 +961,10 @@ v4
 va
 vault
 vdi
+vega
 vendor
 verify
 video
-videos
 view
 vip
 voice
@@ -975,7 +975,6 @@ w3
 wap
 web
 web1
-web2
 webapp
 webdisk
 webhook
@@ -1000,3 +999,4 @@ www3
 www-test
 x
 z
+zeus

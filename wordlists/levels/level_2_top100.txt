@@ -19,7 +19,6 @@ cms
 co
 com
 connect
-cpanel
 dashboard
 data
 de
@@ -39,6 +38,7 @@ gitlab
 go
 grafana
 help
+home
 image
 images
 img

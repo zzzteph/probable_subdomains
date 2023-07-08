@@ -6,7 +6,6 @@
 20
 3
 4
-5
 8
 a
 aaa
@@ -77,7 +76,6 @@ artifactory
 as
 asia
 ask
-asset
 assets
 at
 athena
@@ -102,6 +100,7 @@ bb
 bbs
 be
 beeldbank
+benefits
 beta
 bg
 bi
@@ -137,7 +136,6 @@ cas
 catalog
 cc
 ccc
-cd
 cdn
 cdn1
 cdn2
@@ -150,7 +148,6 @@ chat
 check
 checkout
 chef
-china
 ci
 cim-api
 cim-api-dev
@@ -183,6 +180,7 @@ community
 company
 compass
 compliance
+conf
 conference
 config
 confluence
@@ -194,6 +192,7 @@ content
 core
 corp
 corporate
+covid19
 cp
 cpanel
 crl
@@ -203,7 +202,6 @@ csp
 css
 ct
 customer
-customerservice
 cveapi
 cz
 d
@@ -241,6 +239,7 @@ digital
 direct
 directory
 discover
+discovery
 dk
 dkd
 dl
@@ -285,7 +284,6 @@ eloket
 em
 email
 emails
-embed
 ems
 en
 energy
@@ -293,6 +291,7 @@ eng
 engage
 engineering
 english
+enroll
 enterprise
 enterpriseenrollment
 enterpriseregistration
@@ -325,7 +324,6 @@ files
 finance
 find
 flex
-foia
 form
 forms
 formulieren
@@ -461,6 +459,7 @@ knowledge
 knowledgemanagement
 ko
 kr
+ks-inventory-api
 ks-invoice-api
 ks-limits-api
 ks-order-api
@@ -542,7 +541,6 @@ me
 media
 meet
 meeting
-meetings
 mema
 mema.stage
 member
@@ -559,7 +557,9 @@ mirror
 ml
 mm
 mms
+mobiel
 mobile
+mobile-rest
 mongo
 mongodb
 monitor
@@ -594,6 +594,7 @@ newsroom
 next
 nexus
 nginx
+nginx-newest
 nginx-newest1
 nieuwsbrief
 nl
@@ -608,6 +609,7 @@ ns
 ns01
 ns02
 ns1
+ns11
 ns2
 ns3
 ns4
@@ -671,7 +673,6 @@ pki
 pl
 platform
 play
-player
 plus
 pm
 podcast
@@ -704,7 +705,6 @@ promo
 promotion
 promotions
 proxy
-ps
 pt
 pub
 public
@@ -836,6 +836,7 @@ sslvpn
 sso
 ssp
 st
+staff
 stage
 stage.guce
 staging
@@ -938,7 +939,6 @@ view.email
 vip
 voice
 voltage-pp-0000
-vote
 vpn
 vpn1
 vpn2
