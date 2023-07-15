@@ -30,6 +30,7 @@
 17
 178
 18
+180
 183
 185
 186
@@ -105,10 +106,12 @@
 78
 79
 8
+80
 82
 83
 84
 85
+86
 87
 88
 89
@@ -208,7 +211,6 @@ azure
 b
 b2b
 backend
-backoffice
 backup
 basic
 basic-nodejs-dev
@@ -240,7 +242,6 @@ ca
 cache
 calendar
 canary
-cap
 careers
 cas
 catalog
@@ -264,7 +265,6 @@ cim-api-qa
 cim-api-uat
 cim-data-quality-qa
 cim-dev
-cim-geo-dev
 cis
 citrix
 click
@@ -302,12 +302,12 @@ cr
 crm
 crs
 cs
+csc
 csg
 css
 ct
 cust
 customer
-cveapi
 cvs
 d
 da
@@ -386,9 +386,7 @@ enterprise
 enterpriseregistration
 ep
 es
-ess
 eu
-eu1
 europe
 eu-west-1
 event
@@ -415,6 +413,7 @@ forms
 forum
 forums
 fr
+fra
 frontend
 fs
 ftp
@@ -467,6 +466,7 @@ hotfix
 hr
 httpbin
 hub
+hydra
 i
 iam
 id
@@ -492,7 +492,6 @@ int
 integration
 internal
 intranet
-inventory
 io
 iot
 ip
@@ -529,6 +528,7 @@ ks-vendingtransactions-mq3
 ks-vendingtransactions-mq4
 kubernetes
 l
+la
 lab
 labs
 lb
@@ -553,6 +553,7 @@ lp
 lyncdiscover
 m
 m1
+m2
 ma
 magazines
 magazinesintern
@@ -577,6 +578,7 @@ mars
 master
 max
 mc
+md
 mdm
 me
 med
@@ -642,13 +644,11 @@ news
 next
 nexus
 nginx
-nginx-newest
 nginx-newest1
 nl
 no
 node
 nodejs
-nodejs-dev
 non-prod
 nonprod
 notifications
@@ -674,6 +674,7 @@ o6
 o7
 o8
 o9
+oa
 oauth
 office
 okta
@@ -696,6 +697,7 @@ outbound
 outlook
 owa
 p
+p1
 pa
 page
 pages
@@ -717,6 +719,7 @@ platform
 play
 playground
 plus
+pluto
 poc
 polaris
 pop
@@ -732,10 +735,10 @@ pre
 pre-prod
 preprod
 preview
+prism
 private
 pro
 prod
-prod2
 product
 production
 profile
@@ -765,7 +768,6 @@ qa3
 r
 ra
 radar
-rancher
 rc
 rds
 red
@@ -807,6 +809,7 @@ sas
 sat
 saturn
 sb
+sbx
 sc
 scheduler
 scm
@@ -834,7 +837,6 @@ share
 sharepoint
 shop
 si
-sign
 signin
 signup
 sip
@@ -888,7 +890,6 @@ surveys
 svc
 svn
 sync
-sys
 t
 t1
 tableau
@@ -972,7 +973,6 @@ webapps
 webconf
 webdisk
 webhook
-webhooks
 webmail
 webservices
 website

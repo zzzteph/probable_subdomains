@@ -733,7 +733,6 @@ api-test-gemnet
 a-pius
 a-pjn
 ap-lds-708
-apl-ecaccess
 a-pmss
 apol
 apollo
@@ -846,7 +845,6 @@ archeologie-acc
 archeologie-maasboulevard
 archie
 archief
-archiefviewer
 archief-yell
 archief-yell-cms
 archief-zaaksysteem
@@ -1394,7 +1392,6 @@ bjarke
 bjfw
 bjfw01
 bjfw-dm-v254
-bjfw-hades
 bkwi
 bkwi-acc
 blacksburg
@@ -1626,7 +1623,6 @@ buytenweghdeleyens
 bvd
 bvdi
 bvid
-bvlfls
 bvrin-acc-sign
 bvv
 bvv-07
@@ -1646,7 +1642,6 @@ bvv-s8
 bvv-t6
 bvv-t7
 bvv-t8
-bvwcass
 bvwdmegwp1
 bvwsrffd1
 bvwsrffd2
@@ -1726,7 +1721,6 @@ cdn
 cdn-a
 cdnla
 cdn-p
-cdn-t
 c-dts-001-v706
 ceas-2
 ceas-3
@@ -1830,7 +1824,6 @@ client
 client2
 clientondersteuning
 client-rd-dji-acc
-climate4impact
 climexp
 climexp-old
 clo
@@ -2180,7 +2173,6 @@ daf
 daf-eforms
 dafne
 dagbesteding
-daggegevens
 dagger
 dagkaarten
 dagvandeforensischezorg
@@ -2731,6 +2723,7 @@ diemen
 diemerzeedijk
 dienst1
 dienst2
+dienst3
 diensten
 diensten-acc
 dienstenportaal
@@ -3061,6 +3054,7 @@ dutchwebinar
 d-ut-hsrp-v1
 d-ut-p001-v1250
 duurzaam
+duurzaambouwen
 duurzaamdoor
 duurzaamgww
 duurzaamheidsroutea35
@@ -3078,6 +3072,7 @@ dvfz-acc
 dvfz-acc-auth
 dvfz-auth
 dvg
+dvi
 dvlm
 dvl-wmf-cca
 dvs
@@ -3142,7 +3137,6 @@ ebs-a
 ebscms
 ebsfin
 eca
-ecaccess
 ecadev
 eccl01
 ecdis
@@ -3154,7 +3148,6 @@ ec-hrm
 echt-susteren
 economicdiplomacy
 economie
-ecxs
 edam-volendam
 edboo
 ede
@@ -3468,7 +3461,6 @@ exo-mrs01
 exo-mrs02
 exo-mrs03
 exo-mrs04
-exons
 exo-smtp
 exp
 expertester
@@ -5202,6 +5194,7 @@ kcv
 kcwj
 kdw
 keerpunt
+keesy
 kei
 keiko
 keilir
@@ -5341,6 +5334,7 @@ koggenland
 kompol
 komverder
 koningsdag
+koopkoppeling
 koopplaats
 koppelen
 koppeling
@@ -5393,6 +5387,7 @@ krimpenaandenijssel
 krimpenerwaard
 ksnijmegen
 kso2011
+kta
 ktd
 kube01
 kubeapps
@@ -5716,7 +5711,6 @@ maps
 maps-tst
 marcel
 mariahoeveaanzet
-maris
 marketsaw
 markrathbun
 markt
@@ -6188,7 +6182,6 @@ naardebasisschool
 nac
 nadc01
 nadc02
-nadcorders
 nagios
 nagiosl02-int-p
 naheffingsaanslag
@@ -6197,7 +6190,6 @@ naheffingsaanslag-tst
 najaarsbrief
 najaarsrapportage
 nametest1
-namis
 namitest1
 nat
 nat12
@@ -6226,7 +6218,6 @@ nederlandschoon
 nederweert
 nedwion
 neptunus
-neries
 nescafe
 nessus
 net
@@ -6407,8 +6398,12 @@ oauth
 oauthdec
 ob
 objecten
+objecten-beheer-erfpacht-dev
+objecten-beheer-erfpacht-ont
 objects
 objects-api
+objecttype-beheer-erfpacht-dev
+objecttype-beheer-erfpacht-ont
 objecttypen
 objecttypes
 objecttypes-api
@@ -6494,6 +6489,7 @@ ondernemersportaal
 ondernemersportaal-acc
 ondersteuning
 ondertekenen
+ondertekening
 onderwijs
 onderwijsdata
 onderwijsloket
@@ -6573,6 +6569,8 @@ openformulieren
 open-formulieren-test
 openformulieren-test
 openformulieren-zgw
+openklant-beheer-erfpacht-dev
+openklant-beheer-erfpacht-ont
 open-notificaties
 open-notificaties-test
 openpdc
@@ -6622,7 +6620,6 @@ oranjekwartier
 oranjeplein
 orbit
 orchestrator
-orfeus
 org
 organisatie
 organisaties
@@ -6704,6 +6701,8 @@ p152st201
 p166st201
 p185st201
 p-2secure
+p8
+p8-test
 pack01
 packages
 pad
@@ -7296,6 +7295,7 @@ property
 protection
 protectus
 protide
+proto
 prototype
 provider
 proxy
@@ -7440,7 +7440,6 @@ rdgateway
 rdgw
 rds
 rdsa
-rdsa-prdt
 rdw
 rdweb
 rdweb01
@@ -7560,7 +7559,6 @@ ried
 rijbewijs
 rijkevoort
 rijksoverheid
-rijkspas
 rijkspas2ocsp
 rijkspascp
 rijkspascp-acc
@@ -7756,7 +7754,6 @@ sasmeta01
 sas-p
 sas-t
 sat
-satprojects
 sb
 sbb10vm011v-ms
 sbc
@@ -7777,7 +7774,6 @@ scandinavie
 scanhulp
 scanhulp-fa
 scanhulp-ft
-scatterometer
 sccmmp
 scenario
 scep
@@ -8435,6 +8431,7 @@ swe
 swipen
 swt
 sx
+symposium
 sync
 sync01
 sync2
@@ -8459,6 +8456,7 @@ tabsign
 tabsign-koppelvlak
 taiwan
 takkie
+talent
 talentcenter
 talentcenter2
 talentenbank
@@ -8503,12 +8501,14 @@ tdk
 tdl-web
 tea
 team-bdo
+team-conduction
 team-contezza
 team-foo
 team-frameless
 team-huishoudboekje
 team-huwelijksplanner
 team-maykinmedia
+team-migratiecommutr
 team-nlx
 team-otomi-test
 team-pdv
@@ -8523,6 +8523,8 @@ teams
 team-sandbox
 team-sensrnet
 team-signalen
+team-team-conduction
+team-team-migratiecommutr
 team-team-pdv
 team-test-temp
 team-tmp-flux-test
@@ -8579,7 +8581,6 @@ test-2secure
 test300
 test8
 test9
-testaccess
 testadfs
 testafnemer
 testafspraken
@@ -8654,7 +8655,6 @@ test-formulier
 testformulieren
 testftpservice
 testfunctionaliteit-dbb-acc
-testgeoservices
 testhandhaving
 test-hofnet
 testing
@@ -8746,7 +8746,6 @@ texel
 teylingen
 tezza-admin-tools
 tgk
-tgms
 th
 thailand
 thanos
@@ -9056,6 +9055,7 @@ unix
 unixware
 unjunk
 upc-g
+upk
 upload
 uploadmodule
 uploadmodule-acc
@@ -9805,6 +9805,7 @@ wwcs02
 wweppv-live
 wwex02
 wwfortimail01
+ww-i-0612023ffa6994b08-d48bdeb2
 ww-i-07226ffa3f0fe084d-a28a00ef
 wwng01
 wwt
@@ -9841,7 +9842,6 @@ www-qa4
 www-qa5
 www-qa6
 www-staging
-www-t
 www-test
 wwwtest
 www-toekomst

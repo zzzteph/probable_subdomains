@@ -152,6 +152,7 @@ ccc
 cd
 cdn
 cdn2
+cds
 ce
 cert
 certificate
@@ -160,6 +161,7 @@ ch
 chat
 check
 checkout
+chef
 china
 ci
 cim-api
@@ -171,7 +173,6 @@ cim-dev
 citrix
 cl
 click
-clicks
 client
 cloud
 club
@@ -377,6 +378,7 @@ gui
 guide
 gw
 gws
+gws-dev
 gws-qa
 h
 ha
@@ -762,7 +764,6 @@ s1
 s2
 s3
 sa
-saas
 safe
 sales
 salesforce
@@ -818,7 +819,6 @@ sms
 smtp
 smtp1
 smtp2
-smtp3
 social
 software
 solutions

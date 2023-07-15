@@ -35,7 +35,6 @@ console
 core
 d
 dashboard
-de
 demo
 dev
 dsl
@@ -89,6 +88,7 @@ static
 stg
 support
 test
+testing
 uat
 ui
 uk

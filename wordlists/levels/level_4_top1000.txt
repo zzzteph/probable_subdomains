@@ -402,6 +402,7 @@ ch
 chat
 checkout
 chef
+chem
 ci
 cl
 click
@@ -414,7 +415,6 @@ cn
 cname
 co
 code
-col
 com
 commerce
 community
@@ -585,7 +585,6 @@ idcjoy
 identity
 idp
 ie
-ifs
 il
 im
 image
@@ -636,6 +635,7 @@ labs
 lb
 ldap
 le
+learn
 legacy
 link
 live
@@ -767,7 +767,6 @@ pools
 pop
 portal
 pp
-ppe
 ppp
 pppoe
 pr
@@ -809,6 +808,7 @@ r3
 ra
 rancher
 rc
+red
 redir
 redirectme
 registry
@@ -837,7 +837,6 @@ s2s
 s3
 sa
 sandbox
-sat
 saturn
 sb
 sbx
@@ -925,6 +924,7 @@ th
 thanos
 tky
 tls
+tomcat
 tools
 tr
 tracker

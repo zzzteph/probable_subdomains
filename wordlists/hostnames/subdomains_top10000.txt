@@ -230,7 +230,6 @@ abm
 abonnement
 about
 abs
-abtest
 abuse
 abyss
 ac
@@ -639,7 +638,6 @@ api1
 api2
 api3
 api4
-api.a
 api-acc
 api.acc
 api.acceptatie
@@ -720,9 +718,11 @@ apix
 apl
 aplus
 apm
+apo
 apollo
 app
 app01
+app02
 app1
 app2
 app3
@@ -790,6 +790,7 @@ arcadia
 arcgis
 arch
 archer
+archibus
 archie
 archief
 architecture
@@ -818,6 +819,7 @@ arkansas
 arl
 arm
 armani
+arms
 army
 arnold
 arp
@@ -1013,6 +1015,7 @@ avs-idrs
 aw
 awacs.direct
 awards
+aware
 awc
 awconsole
 awds
@@ -1064,7 +1067,6 @@ backend.messenger
 backoffice
 backstage
 backup
-backup2
 backup-bar-navig
 bacon
 bad
@@ -1075,7 +1077,6 @@ baidu
 bailey
 baito
 baker
-bakery
 balance
 balancer
 bali
@@ -1309,6 +1310,8 @@ bomgar
 bond
 bone
 bones
+bonfire
+bonnie
 bono
 bonus
 book
@@ -1356,7 +1359,6 @@ br
 br1
 bradley
 brain
-brainstorm
 branch
 brand
 brandanalytics
@@ -1437,7 +1439,6 @@ burst
 bus
 business
 business2
-businesscenter
 butler
 buy
 buzz
@@ -1449,7 +1450,6 @@ bwc
 bws
 by
 byod
-byp
 bz
 c
 c1
@@ -1665,6 +1665,7 @@ ch
 cha
 chain
 challenge
+challenger
 challenges
 champions
 chan
@@ -1705,6 +1706,7 @@ cheetah
 chef
 chem
 chemistry
+cherokee
 cherry
 chess
 chester
@@ -1724,6 +1726,7 @@ chimera
 china
 chinese
 chip
+chipotle
 chirp
 choice
 choose
@@ -1771,7 +1774,6 @@ cisco-capwap-controller
 cisco-lwapp-controller
 cit
 citadel
-citi
 citrix
 citrus
 city
@@ -1853,7 +1855,6 @@ club
 clubs
 cluster
 cm
-cm2
 cma
 cmail
 cmc
@@ -1918,7 +1919,6 @@ coe
 coffee
 coin
 coinbase
-coins
 col
 colby
 colgate
@@ -2057,6 +2057,7 @@ converse
 convert
 convoy
 coo
+cook
 cookie
 cookie.browserapps
 cookies
@@ -2304,7 +2305,6 @@ dap
 daphne
 dapi
 dar
-dark
 dart
 darwin
 das
@@ -2358,7 +2358,6 @@ dbt
 dc
 dc2
 dca
-dcb
 dcc
 dce
 dcm
@@ -2456,6 +2455,7 @@ dev-api
 dev.api
 devapi
 dev.app
+dev-auth
 devblog
 dev-bot-middleware
 dev-business
@@ -2486,7 +2486,6 @@ dev.myaccount
 devon
 devops
 devportal
-devs
 dev.search
 dev.shop
 dev-static
@@ -2519,7 +2518,6 @@ dialin
 dialog
 diamond
 diana
-diary
 dic
 dice
 dict
@@ -2619,7 +2617,6 @@ dns1
 dns10
 dns-2
 dns2
-dns22
 dns3
 dns4
 dns5
@@ -2659,6 +2656,7 @@ dol
 dolphin
 dom
 domain
+domaindnszones
 domains
 dominio
 domino
@@ -2700,6 +2698,7 @@ dps
 dpt
 dq
 dr
+draco
 dracula
 draft
 dragon
@@ -2830,9 +2829,11 @@ ecco
 ece
 echo
 eci
+eclass
 eclipse
 ecm
 eco
+ecology
 ecom
 ecomm
 e-commerce
@@ -2849,6 +2850,7 @@ ed
 eda
 edata
 edc
+eddie
 eden
 edg
 edge
@@ -3025,7 +3027,6 @@ eportfolio
 epp
 eps
 epsilon
-eq
 eqix-dc2
 eqix-ema-da
 eqix-ema-dc
@@ -3086,6 +3087,7 @@ ethics
 etl
 etna
 ets
+ett
 etx
 eu
 eu1
@@ -3118,6 +3120,7 @@ evo
 evolivecasino
 evolution
 evolve
+evs
 ewa
 ews
 ex
@@ -3155,6 +3158,7 @@ extern
 external
 external-api.mediabilling
 extra
+extrahop
 extranet
 extranet2
 extras
@@ -3201,7 +3205,6 @@ fate
 fatima
 faucet
 fax
-faz
 fb
 fba
 fbapps
@@ -3268,6 +3271,7 @@ financien
 financing
 find
 finland
+finn
 fire
 firebird
 firefly
@@ -3506,7 +3510,6 @@ gbi
 gbm
 gbs
 gc
-gca
 gcc
 gci
 gcm
@@ -3536,6 +3539,7 @@ gen
 gene
 general
 genesis
+genetics
 geneva
 genie
 genius
@@ -3559,7 +3563,6 @@ german
 germany
 gerrit
 get
-getstarted
 gewinnspiel
 gezondheidsverklaring
 gf
@@ -3600,6 +3603,8 @@ gl
 glacier
 glass
 glb
+glb1
+glb2
 global
 global2
 globe
@@ -3620,6 +3625,7 @@ goals
 goat
 goblin
 gogo
+gojira
 gold
 golem
 golf
@@ -3654,7 +3660,6 @@ gr
 gra
 grab
 grace
-gradle
 graduation
 grafana
 grafana.internal
@@ -3674,7 +3679,6 @@ grc2go
 greece
 green
 greenhouse
-greenwich
 greetings
 greg
 gregory
@@ -3781,6 +3785,7 @@ hans
 hansa
 hanson
 hao
+happy
 harbor
 harley
 harmony
@@ -3851,7 +3856,6 @@ hh
 hi
 hidden
 highschool
-hikari
 hilfe
 hindi
 hip
@@ -4180,6 +4184,7 @@ hpdm
 hpe
 hp.my
 hq
+hqvpn
 hr
 hrc
 hrd
@@ -4257,7 +4262,6 @@ ibcm
 ibis
 ibm
 ibo
-ibp
 ibs
 iburgerzaken
 ibzpink
@@ -4303,9 +4307,9 @@ idp
 idp-dev
 idp-test
 ids
+idt
 ie
 iec
-iep
 ies
 if
 ifs
@@ -4314,9 +4318,9 @@ igloo
 ignite
 igo
 igor
+ih
 ihg
 ihr
-ihub
 ii
 iimahd
 iis
@@ -4404,6 +4408,7 @@ indus
 industry
 inet
 inf
+inferno
 infinite
 infinity
 influx
@@ -4485,7 +4490,6 @@ intro
 inv
 inventory
 invest
-investment
 investor
 investors
 invite
@@ -4577,7 +4581,6 @@ its
 itservicedesk
 itservices
 itsm
-itsolutions
 itsupport
 itunes
 iv
@@ -4606,6 +4609,7 @@ james
 jamf
 jamie
 jane
+janus
 japan
 japanese
 jarvis
@@ -4642,6 +4646,7 @@ jia
 jim
 jimmy
 jing
+jinx
 jip
 jira
 jira2
@@ -4862,6 +4867,7 @@ ku
 ku1720
 kubernetes
 kvm
+kvm1
 kvm2
 kw
 kx
@@ -4885,14 +4891,12 @@ landing
 landmark
 landscape
 lang
-language
 languages
 lantern
 lap
 laptop
 lara
 lark
-las
 laser
 lasvegas
 latam
@@ -5493,6 +5497,7 @@ met
 meta
 metabase
 metadata
+metal
 metaverse
 meteo
 meteor
@@ -5539,7 +5544,6 @@ microsite
 microsites
 microsoft
 microstrategy
-mid
 midas
 midget
 midwest
@@ -5833,7 +5837,6 @@ muffin
 multi
 multimedia
 mumbai
-mumble
 mundo
 munin
 mural
@@ -5876,7 +5879,6 @@ mx6
 mx7
 mx8
 mx9
-mxmail
 mxs
 mx.www
 my
@@ -5959,7 +5961,6 @@ nascar
 nat
 nate
 native
-nato
 nature
 nautilus
 nav
@@ -5968,7 +5969,7 @@ navigator
 navy
 nb
 nba
-nbb
+nbs
 nc
 ncc
 ncnd
@@ -6260,7 +6261,6 @@ ntp
 ntp1
 ntp2
 ntp3
-nts
 nu
 nucleus
 nuget
@@ -6382,7 +6382,6 @@ ole
 olive
 oliver
 olivia
-olm
 ols
 olympia
 olympic
@@ -6417,7 +6416,6 @@ onderwijs
 onderzoek
 one
 onedrive
-onelink
 onemedical
 onesource
 oneview
@@ -6426,7 +6424,6 @@ online
 onlinebanking
 onlinefx
 onlinemarketing
-onlinestore
 ons
 onsite
 ontheroad
@@ -6665,7 +6662,6 @@ patch
 path
 pathfinder
 patrick
-patriot
 paul
 pay
 payment
@@ -6709,6 +6705,7 @@ peace
 peach
 peak
 pearl
+pearson
 pebbles
 pec
 pecos
@@ -6732,6 +6729,7 @@ perks
 permissions
 permits
 pers
+perseus
 persona
 personal
 personalization
@@ -6938,7 +6936,6 @@ poweredby
 powerup
 pp
 ppc
-ppd
 ppe
 ppl
 ppm
@@ -6951,7 +6948,6 @@ pr1
 pra
 practice
 prada
-prc
 prd
 prd-sitecorexc
 pre
@@ -6966,6 +6962,7 @@ prepaid
 pre-prod
 preprod
 preprod-belastingen
+preprod-mijn
 preprod-mijninkomen
 preprod-mijnsociaalplein
 preproductie
@@ -7067,7 +7064,6 @@ prototypes
 providence
 provider
 provincia
-provision
 provisioning
 proxy
 proxy1
@@ -7150,7 +7146,6 @@ qa4.dash
 qa8.dash
 qa9
 qa.api
-qa.dash
 qa.developer
 qa.m
 qa.preview.m
@@ -7158,7 +7153,6 @@ qa.preview.www
 qa.search
 qa-www
 qa.www
-qb
 qc
 qh
 qian
@@ -7212,6 +7206,7 @@ radio
 radius
 radius2
 radon
+rads
 raid
 rails
 rain
@@ -7526,6 +7521,7 @@ ru
 ruben
 rubicon
 ruby
+rufus
 rugby
 ruimtelijkeplannen
 rule
@@ -7623,6 +7619,7 @@ sandbox.pay
 sandiego
 sanfrancisco
 sanjose
+sans
 santa
 santafe
 sante
@@ -7730,7 +7727,6 @@ search1
 search2
 search3
 search-dev
-search.dev
 searchportal
 searchportal-dev
 searchportal-qa
@@ -8041,6 +8037,7 @@ smi
 smile
 smith
 smm
+smo
 smokeping
 smp
 smr
@@ -8076,6 +8073,7 @@ smtp-virus
 smu
 smx
 sn
+snake
 snap
 snapshot
 snc
@@ -8321,7 +8319,6 @@ staging.preview.www
 staging.search
 staging-www
 staging.www
-stake
 stan
 standardbank
 standards
@@ -8369,7 +8366,6 @@ stats
 stats.www
 status
 status.cloud
-status.developer
 statuspage
 status-staging
 stc
@@ -8385,7 +8381,6 @@ stg-api
 stg.dash
 stg-www
 stg.www
-sting
 stitch
 stl
 stlouis
@@ -8597,6 +8592,7 @@ tata
 tats
 tattoo
 tau
+taurus
 tax
 taxi
 taz
@@ -8662,6 +8658,7 @@ ten
 tenable
 tennessee
 tennis
+ter
 terminal
 terminator
 terms
@@ -8953,6 +8950,7 @@ triton
 triumph
 trk
 trk.business
+troll
 tron
 trout
 troy
@@ -9073,10 +9071,10 @@ uic
 uipath
 uit
 uk
-uk2
 uk.api
 ul
 ultra
+ultron
 um
 uma
 umbraco
@@ -9129,6 +9127,7 @@ uptime
 ur
 uranus
 urban
+urchin
 url
 urs
 us
@@ -9150,6 +9149,7 @@ ust
 ut
 utah
 util
+utilities
 utility
 utils
 utm
@@ -9378,7 +9378,6 @@ wagbridge
 wagner
 walgreens
 walk
-walker
 wall
 wallace
 wallet
@@ -9427,7 +9426,6 @@ web01
 web02
 web03
 web04
-web06
 web1
 web10
 web100000
@@ -9627,12 +9625,15 @@ wfm
 wfm-service
 wfo
 wfp
+wfs
 wft
 wg
 wga
 wh
 whale
 whatever
+wheaton
+white
 whiteboard
 whitelabel
 whm
@@ -9652,6 +9653,7 @@ wiki2
 wiki.corp
 wiki.dev
 wildcard
+wildfire
 wilma
 wilmington
 wilson
@@ -9741,7 +9743,6 @@ ws3
 ws4
 ws6
 wsa
-ws-api
 wsc
 wse
 wsi
@@ -9866,7 +9867,6 @@ xh
 xi
 xid
 xin
-xk
 xl
 xm
 xmail

@@ -25,6 +25,7 @@
 119
 12
 120
+121
 122
 123
 124
@@ -39,7 +40,6 @@
 137
 138
 14
-140
 144
 145
 146
@@ -267,6 +267,7 @@ apps
 ap-south-1
 ap-southeast-1
 ap-southeast-2
+aqua
 ar
 archive
 argo
@@ -284,7 +285,6 @@ au
 audit
 auth
 author
-authorization
 auto
 autoconfig
 autodiscover
@@ -398,6 +398,7 @@ dashboard
 dashboards
 data
 db
+db2
 dc
 de
 delivery
@@ -504,7 +505,6 @@ fw
 g
 ga
 game
-games
 gamma
 gate
 gatekeeper
@@ -532,6 +532,7 @@ hec
 hello
 help
 helpdesk
+hermes
 hk
 home
 hop
@@ -591,7 +592,6 @@ kb
 keycloak
 kibana
 kr
-kubernetes
 l
 lab
 labs
@@ -716,7 +716,6 @@ oidc
 okta
 old
 one
-online
 open
 ops
 or
@@ -816,6 +815,7 @@ restricted
 retail
 rev
 reverse
+review
 root
 router
 rr
@@ -876,7 +876,6 @@ ssl
 sso
 st
 sta
-stag
 stage
 stage1
 staging
@@ -990,6 +989,7 @@ wildcard
 wireless
 wordpress
 worker
+workflow
 wp
 ws
 www

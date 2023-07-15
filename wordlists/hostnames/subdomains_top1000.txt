@@ -5,7 +5,6 @@
 2
 20
 3
-4
 8
 a
 aaa
@@ -277,7 +276,6 @@ edienstenburgerzaken-test
 edit
 edu
 education
-eg
 elastic
 elearning
 eloket
@@ -398,6 +396,7 @@ iam
 iburgerzaken
 ibzpink
 ic
+ice
 id
 ideas
 identity
@@ -502,6 +501,7 @@ loket
 loket.acceptatie
 love
 lp
+lv
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -668,6 +668,7 @@ performance
 ph
 phoenix
 photos
+pilot
 piwik
 pki
 pl
@@ -912,7 +913,6 @@ uc
 uk
 union
 university
-up
 update
 updates
 upload
