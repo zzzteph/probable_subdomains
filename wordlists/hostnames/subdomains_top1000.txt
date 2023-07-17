@@ -46,6 +46,7 @@ a-magazines
 a-magazines.a-english
 a-magazinesintern
 a-magazinesintern.a-english
+amazon
 amp
 ams
 analytics
@@ -499,7 +500,6 @@ logistics
 logs
 loket
 loket.acceptatie
-love
 lp
 lv
 lync

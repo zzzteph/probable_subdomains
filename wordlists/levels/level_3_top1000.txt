@@ -1,5 +1,7 @@
 0
+00
 00000-okta-idp
+000-996
 01
 02
 03
@@ -794,7 +796,6 @@ raw
 rc
 redirect
 reg
-region
 register
 registration
 registry
@@ -869,7 +870,6 @@ sp
 spf
 splunk
 sql
-sr
 sre
 ss
 ssl

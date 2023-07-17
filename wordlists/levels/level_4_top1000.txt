@@ -729,7 +729,6 @@ old
 on
 one
 online
-op
 open
 opensearch
 openshift
@@ -797,6 +796,7 @@ public
 publisher
 puppet
 push
+pushgateway
 qa
 qa2
 query

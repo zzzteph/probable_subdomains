@@ -1824,7 +1824,6 @@ client
 client2
 clientondersteuning
 client-rd-dji-acc
-climexp
 climexp-old
 clo
 clotest
@@ -3209,7 +3208,6 @@ eformulierenmaarssen
 eformulieren-test
 efpil
 egress-repro
-egvap
 egypte
 egza
 eh
@@ -5315,10 +5313,7 @@ klopt
 kloud
 klussenbank
 klussenbank-acc
-knmi-dc-w01p
-knmi-dc-w02p
 knmi-topas-w01a
-knmi-topas-w01p
 knooppunt
 knowledge
 knowledge-ivs
@@ -5757,6 +5752,7 @@ mdjcc
 mdliquit
 mdm
 mdmaes-t
+mdmcore
 mdmeas
 mdm-sentry
 mdm-t
@@ -6121,7 +6117,6 @@ msc-t1
 msc-t2
 msc-t3
 msft
-msgcpp
 msgcpp-adaguc
 msgcpp-ogc-archive
 msgcpp-ogc-realtime
@@ -6400,10 +6395,12 @@ ob
 objecten
 objecten-beheer-erfpacht-dev
 objecten-beheer-erfpacht-ont
+objecten-beheer-erfpacht-tst
 objects
 objects-api
 objecttype-beheer-erfpacht-dev
 objecttype-beheer-erfpacht-ont
+objecttype-beheer-erfpacht-tst
 objecttypen
 objecttypes
 objecttypes-api
@@ -6559,7 +6556,6 @@ openagenda
 openbaar
 openbaartoilet
 openbareruimte
-opendap
 opendap-dm1
 opendap-dm2
 opendata
@@ -6571,6 +6567,7 @@ openformulieren-test
 openformulieren-zgw
 openklant-beheer-erfpacht-dev
 openklant-beheer-erfpacht-ont
+openklant-beheer-erfpacht-tst
 open-notificaties
 open-notificaties-test
 openpdc
@@ -6955,7 +6952,6 @@ peoplesync
 peppiiii
 perfectview
 perfectviewtst
-perfsonar
 perl01
 persberichten
 personeelshandboek
@@ -7250,7 +7246,9 @@ prod-cdb-01-238-642-v1
 prod-cdb-01-238-646-v1
 prod-cdb-01-238-650-v1
 prod-cdb-01-238-718-v1
+prod-cdb-01-238-718-v2
 prod-cdb-01-250-307-v1
+prod-cdb-01-250-307-v2
 prod-cdb-01-252-809-v1
 prod-cdb-01-252-812-v1
 prod-cdb-01-252-814-v1
@@ -8030,6 +8028,7 @@ site3
 site4
 site7
 site8
+sitemap
 sites
 sittard-geleen
 sjaak
@@ -9654,6 +9653,7 @@ wijkbudgetypenburg
 wijken
 wijkgerichte-aanpak
 wijkmanagement
+wijkparkdelftlandenconcept
 wijkprofiel
 wijkraad
 wijkteam

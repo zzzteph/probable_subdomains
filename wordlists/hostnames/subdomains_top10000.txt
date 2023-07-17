@@ -745,6 +745,7 @@ applink
 apply
 applynow
 appmail
+app.market
 appmetrica
 appmetrika
 appointment
@@ -3629,7 +3630,6 @@ gojira
 gold
 golem
 golf
-gomez
 gong
 gongyi
 gonzo
@@ -5481,7 +5481,6 @@ merchandise
 merchandising-preview
 merchant
 merchants
-merchantservices
 mercury
 meridian
 merlin
@@ -5627,6 +5626,7 @@ mm
 mma
 m.mail
 mmc
+mmg
 mmm
 mmp
 mms
@@ -8611,6 +8611,7 @@ tcs
 td
 tdb
 tdc
+tdg
 tdm
 tdp
 tdr
@@ -8726,6 +8727,7 @@ test-mein
 testnet
 test.news
 testonly
+test-portal
 test.portal
 testportal
 testrail
@@ -8833,7 +8835,6 @@ tmt
 tmv
 tmx
 tn
-t.notifications
 tns
 tnt
 to
@@ -9946,7 +9947,6 @@ zb
 zc
 zebra
 zed
-zelda
 zen
 zen.crowdzeta.kaizen
 zendesk

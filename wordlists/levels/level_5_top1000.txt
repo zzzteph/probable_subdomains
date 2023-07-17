@@ -458,7 +458,6 @@ control
 cookiesetter
 cool
 corp
-corporate
 cpanel
 cpe
 csa
@@ -536,6 +535,7 @@ eu-central-1
 eu-west-1
 eu-west-2
 events
+example
 ext
 external
 f
@@ -756,6 +756,7 @@ onstats
 op
 opsman
 or
+orchestration
 order
 orders
 org
@@ -835,7 +836,6 @@ repository
 res
 resetdata
 resnet
-resourceoiaurants
 restaurantmappingapi
 restaurants
 restb
