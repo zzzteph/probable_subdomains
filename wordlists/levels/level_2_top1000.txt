@@ -492,6 +492,7 @@ int
 integration
 internal
 intranet
+inventory
 io
 iot
 ip
@@ -743,12 +744,10 @@ product
 production
 profile
 profiles
-project
 projects
 prometheus
 promo
 protection
-proxad
 proxy
 ps
 pt
@@ -768,6 +767,7 @@ qa3
 r
 ra
 radar
+ras
 rc
 rds
 red

@@ -699,6 +699,7 @@ apidoc
 api-gateway
 apigateway
 apigateway2
+api-gateway-encoded
 api-gateway-ot
 api-gemnet
 api-meldingen
@@ -1121,7 +1122,6 @@ bc
 bcis005
 bco-portaal
 bcsgmwvl01
-bcsorf
 bda
 bda-bi-01
 bda-mcafee-01
@@ -1539,7 +1539,6 @@ bronckhorst
 bronhouderportaal-bro
 bronro
 bros-academie
-browser
 brs
 brsoribi01
 brsoribi02
@@ -1692,7 +1691,6 @@ casa
 casta
 castricum
 catalan
-catalog
 catalogus
 cav
 cba
@@ -1720,7 +1718,6 @@ c-dhy-001-v704
 cdn
 cdn-a
 cdnla
-cdn-p
 c-dts-001-v706
 ceas-2
 ceas-3
@@ -2179,7 +2176,6 @@ daina
 dalfsen
 dali
 dam
-damg
 danaides
 dans
 dante-world
@@ -2212,7 +2208,6 @@ datalandprod
 datalandtest
 datamask
 data-o
-dataplatform
 dataportaal
 data-preview
 data-previewnext
@@ -2416,7 +2411,6 @@ devapps3
 devcmgs1
 devcmgs2
 develop
-developer
 deventer
 deventerbinnenbereik
 deventit
@@ -3109,11 +3103,18 @@ dynapool
 dzs
 e
 e09rudg
+e1
+e2
 e2s
 e2sgemnet
 e2s-test
 e2stest
+e3
+e4
 e48e6e95e7e67ad4677d88af05905c2bf
+e5
+e6
+e7
 ea
 eagle
 eagle-acc
@@ -3139,7 +3140,6 @@ eca
 ecadev
 eccl01
 ecdis
-ecearth
 e-cert
 ecesvit
 echo
@@ -3353,18 +3353,22 @@ erfpacht
 erfpacht-acc
 erfpacht-codekwal-dev
 erfpacht-codekwal-ont
+erfpacht-gwextern
 erfpacht-gwextern-acc
 erfpacht-gwextern-dev
 erfpacht-gwextern-ont
 erfpacht-gwextern-tst
+erfpachtmedewerkers
 erfpachtmedewerkers-acc
 erfpachtmedewerkers-dev
 erfpachtmedewerkers-ont
 erfpachtmedewerkers-tst
+erfpachtprofessionals
 erfpachtprofessionals-acc
 erfpachtprofessionals-dev
 erfpachtprofessionals-ont
 erfpachtprofessionals-tst
+erfpachtzakelijk
 erfpachtzakelijk-acc
 erfpachtzakelijk-dev
 erfpachtzakelijk-ont
@@ -3383,7 +3387,6 @@ esb-test
 escaperoom
 escharen
 esedge
-esgf
 esja
 esm
 esp
@@ -3477,7 +3480,6 @@ extern
 extern-acc
 external-api
 external-cloud
-externe-mail
 externemail
 externemail01
 externemail02
@@ -3710,9 +3712,7 @@ ftp2
 ftp-a
 ftp-a-ags
 ftpes
-ftpgig
 ftp-p
-ftppro
 ftppub
 ftps
 ftpservice
@@ -4656,6 +4656,7 @@ icontroler-api-test
 icontroler-test
 ict
 id
+id-beheer-erfpacht
 id-beheer-erfpacht-acc
 id-beheer-erfpacht-dev
 id-beheer-erfpacht-ont
@@ -4666,6 +4667,7 @@ ideal-acc
 ideevoorjebuurt
 ideevoormijnbuurt
 idefix
+idencys
 identificatie
 identificatie-acc
 identificatie-tst
@@ -4674,6 +4676,7 @@ identiteitskaart
 identiteitskaart-acc1
 identity
 identityota
+id-erfpacht
 id-erfpacht-acc
 id-erfpacht-dev
 id-erfpacht-ont
@@ -5341,6 +5344,8 @@ koppelpoort
 koppelvlak
 koppelvlaktest
 kopprd
+kop-pub-erp-mks
+kop-pub-erp-mks-tst
 kop-pub-hta
 kop-pub-hta-mks
 kop-pub-hta-tst
@@ -5370,6 +5375,7 @@ kpn-eid-tst
 kpntst
 krachtigedorpen
 kranten
+kre
 kre-acc
 kre-dev
 kredietbank
@@ -5722,7 +5728,6 @@ mas-mobile-acc
 mas-mobile-tst
 mass
 master
-master-browser
 masterlist
 mas-tst
 mataf
@@ -5730,7 +5735,6 @@ matchpointbhr
 matchpointkp
 materiaal
 matomo
-matomo-cdk
 matter
 mattermost
 maturityscan
@@ -6189,7 +6193,6 @@ namitest1
 nat
 nat12
 nationaalpark
-nationaalwatermodel
 nat-test-vpn
 natuur
 natuurlijkgroen
@@ -6216,7 +6219,6 @@ neptunus
 nescafe
 nessus
 net
-netauth
 netbox
 netftp
 net-pw-hide
@@ -6230,7 +6232,6 @@ neuronprodsrvr
 neuron-test
 nevo
 new
-newhirlam
 newjersey
 newmail
 news
@@ -6393,11 +6394,13 @@ oauth
 oauthdec
 ob
 objecten
+objecten-beheer-erfpacht
 objecten-beheer-erfpacht-dev
 objecten-beheer-erfpacht-ont
 objecten-beheer-erfpacht-tst
 objects
 objects-api
+objecttype-beheer-erfpacht
 objecttype-beheer-erfpacht-dev
 objecttype-beheer-erfpacht-ont
 objecttype-beheer-erfpacht-tst
@@ -6565,6 +6568,7 @@ openformulieren
 open-formulieren-test
 openformulieren-test
 openformulieren-zgw
+openklant-beheer-erfpacht
 openklant-beheer-erfpacht-dev
 openklant-beheer-erfpacht-ont
 openklant-beheer-erfpacht-tst
@@ -7690,7 +7694,6 @@ s4b
 s4b2
 saas
 sabzarman
-saca-bmkg
 sad
 sad-acc
 safenet
@@ -8029,6 +8032,7 @@ site4
 site7
 site8
 sitemap
+sitemaps
 sites
 sittard-geleen
 sjaak
@@ -8426,7 +8430,6 @@ svpgwsdkd01
 svrmks
 sw01
 swa1158ot
-swe
 swipen
 swt
 sx
@@ -8586,6 +8589,7 @@ testafspraken
 testapps
 testarchief
 testarchitectuur
+test-azure06
 testbed
 testbeheerderdot
 testbeheeropenbareruimte
@@ -8622,7 +8626,6 @@ test-cmssocialintranet
 test-cmsurknet
 testcms-westernet
 test-cmszaanzoeker
-testconn
 test-connect
 testdds
 test-dha-001
@@ -8675,7 +8678,6 @@ test-kennisbank
 testkoppeling
 test-kv
 testloket
-testmail
 test-mam
 testmarkt1
 test-mbotransparant
@@ -8779,7 +8781,6 @@ thuiswerken-webmail
 thuiswinkelen
 thuiswinkelen-dev
 thumbnail
-tib
 ticket
 tickets
 tiel
@@ -8811,7 +8812,6 @@ tkrparkerentest
 tl
 tloket
 tls-metadata-bsnk-tijdelijk
-tm
 tma
 tmakelaar
 tmcc
@@ -9513,6 +9513,7 @@ webkassa
 weblog
 web-ls-po03
 webmail
+webmail2
 webmail2016
 webmailpost
 webmeeting
@@ -9653,6 +9654,7 @@ wijkbudgetypenburg
 wijken
 wijkgerichte-aanpak
 wijkmanagement
+wijkparkdelftlanden
 wijkparkdelftlandenconcept
 wijkprofiel
 wijkraad
@@ -9721,7 +9723,6 @@ wmoportaal-productbepaler
 wmoportaal-wyber
 wmoservice
 wms
-wms-viewer
 wmw-vvc02
 wo2
 woa
@@ -9829,7 +9830,6 @@ www-demo
 www-dev
 wwwext
 wwwnieuw
-www-o
 www-old
 www-origin
 www-ow

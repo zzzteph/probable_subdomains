@@ -20,7 +20,6 @@ c
 ca
 cdn
 cloud
-cn
 co
 com
 d
@@ -56,6 +55,7 @@ login
 m
 mail
 media
+mema
 mobile
 mx
 net

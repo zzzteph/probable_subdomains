@@ -173,6 +173,7 @@ cim-dev
 citrix
 cl
 click
+clicks
 client
 cloud
 club
@@ -359,6 +360,7 @@ gis
 git
 github
 gitlab
+glb
 global
 go
 google
@@ -516,7 +518,6 @@ magazines
 magazinesintern
 mail
 mail01
-mail02
 mail1
 mail2
 mail3
@@ -854,7 +855,6 @@ storefront
 stories
 storybook
 stream
-streaming
 sts
 studio
 subscriptions

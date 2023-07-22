@@ -56,6 +56,7 @@
 157
 158
 159
+15-okta
 16
 160
 163
@@ -109,7 +110,6 @@
 23
 230
 232
-234
 235
 236
 238
@@ -125,7 +125,6 @@
 25
 250
 251
-253
 254
 255
 26
@@ -146,7 +145,6 @@
 4
 40
 41
-42
 43
 44
 45
@@ -368,7 +366,6 @@ com
 commerce
 common
 community
-compute
 conf
 config
 confluence
@@ -443,6 +440,7 @@ dsl
 dyn
 dynamic
 e
+e1
 e2e
 ea
 east
@@ -642,6 +640,7 @@ mdm
 med
 media
 meet
+mema
 mercury
 messaging
 meta
@@ -671,6 +670,7 @@ my
 mysql
 n
 na
+nagios
 nat
 ne
 neoplus

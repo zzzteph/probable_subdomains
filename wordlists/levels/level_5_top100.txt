@@ -29,7 +29,6 @@
 52
 55
 62
-68
 69
 7
 72
@@ -97,6 +96,7 @@ uat
 uk
 us
 us-east-1
+vault
 web
 webproxy
 www

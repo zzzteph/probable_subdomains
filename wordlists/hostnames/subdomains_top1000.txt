@@ -360,6 +360,7 @@ grafana
 graph
 green
 groups
+gs
 gtm
 guce
 guest
@@ -868,7 +869,6 @@ sync
 t
 tableau
 tags
-tc
 team
 teams
 tech

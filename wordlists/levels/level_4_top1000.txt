@@ -178,6 +178,7 @@
 243
 244
 245
+246
 247
 248
 249
@@ -514,7 +515,6 @@ eu
 eu-central-1
 euw1
 eu-west-1
-event
 events
 ext
 external
