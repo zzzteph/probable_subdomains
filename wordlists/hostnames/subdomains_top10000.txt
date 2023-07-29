@@ -46,7 +46,6 @@
 14
 15
 151
-154
 159
 16
 162
@@ -1746,6 +1745,7 @@ cia
 ciam
 cib
 cic
+cicd
 cid
 cie
 cig
@@ -2164,6 +2164,7 @@ crisp
 crl
 crm
 crm-dev
+crmtest
 cro
 croatia
 cron
@@ -2321,7 +2322,6 @@ databases
 databricks
 datacenter
 data-dev
-datadog
 data-exchange
 datahub
 datalab
@@ -3040,7 +3040,6 @@ eris
 erm
 ero
 eroom
-eros
 erp
 err
 error
@@ -3452,7 +3451,6 @@ fuwu
 fw
 fw1
 fw2
-fw3
 fws
 fwww
 fx
@@ -4425,6 +4423,7 @@ infosec
 infosys
 infra
 ing
+ingest
 ingress
 ink
 inloggen
@@ -4500,6 +4499,7 @@ iot
 iota
 iowa
 ip
+ip1
 ipa
 ipad
 ipam
@@ -4913,7 +4913,6 @@ lb2
 lbr
 lbs
 lc
-lca
 lcms
 lcp
 lcs
@@ -5052,7 +5051,6 @@ lod
 log
 log02
 logan
-logbook
 logger
 logging
 logic
@@ -7273,6 +7271,7 @@ receipts
 recherche
 recognition
 recommend
+recon
 record
 records
 recovery
@@ -7495,7 +7494,6 @@ rover
 rowan
 roxy
 rp
-rpa
 rpc
 rpg
 rpm
@@ -8038,6 +8036,7 @@ smith
 smm
 smo
 smokeping
+smon
 smp
 smr
 sms
@@ -8488,6 +8487,7 @@ supplychainconnect
 support
 support1
 support2
+supportcenter
 support-dev
 support-staging
 support-test
