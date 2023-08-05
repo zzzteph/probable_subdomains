@@ -627,6 +627,7 @@ keysight
 kiali
 kibana
 kr
+kubecost
 kubeflow
 l
 la
@@ -851,7 +852,6 @@ security
 sentry
 server
 server1
-server3
 service
 services
 sf

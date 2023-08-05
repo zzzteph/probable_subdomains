@@ -468,6 +468,7 @@ eu
 eu1
 eu-central-1
 europe
+euw1
 eu-west-1
 eu-west-2
 events
@@ -504,7 +505,6 @@ ftth
 fw
 g
 ga
-game
 gamma
 gate
 gatekeeper
@@ -703,7 +703,6 @@ o11
 o12
 o13
 o14
-o15
 o2
 o3
 o4
@@ -784,6 +783,7 @@ public
 publish
 puppet
 push
+pwa
 qa
 qa1
 qa2
@@ -911,7 +911,6 @@ test2
 test3
 test4
 test5
-test-api
 testing
 tfs
 th
@@ -966,6 +965,7 @@ verify
 video
 view
 vip
+vm
 voice
 vpn
 vpn2

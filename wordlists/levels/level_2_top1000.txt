@@ -973,6 +973,7 @@ webapps
 webconf
 webdisk
 webhook
+webhooks
 webmail
 webservices
 website
@@ -985,7 +986,6 @@ wiki
 wildcard
 wireless
 wordpress
-work
 workflow
 wp
 ws

@@ -1486,6 +1486,7 @@ cag
 cai
 cal
 calc
+calculator
 caldav
 calendar
 california
@@ -2092,6 +2093,7 @@ cosmo
 cosmos
 costa
 costco
+cotton
 cougar
 count
 counter
@@ -2324,6 +2326,7 @@ datacenter
 data-dev
 data-exchange
 datahub
+datainsights
 datalab
 dataportal
 datascience
@@ -3074,7 +3077,6 @@ est
 esteelauder
 estore
 esupport
-es-us
 et
 eta
 etc
@@ -5613,6 +5615,7 @@ mktg
 mkto
 ml
 mlb
+mlive
 mlm
 mlp
 mls
@@ -7982,7 +7985,6 @@ skills-store
 skills-store-eu
 skills-store-fe
 skills-store-na
-skin
 skinner
 sklep
 sks
@@ -8295,7 +8297,6 @@ stage.guce
 stage.login
 stage.oidc
 stages
-stagestore
 stage-www
 stage.www
 staging
@@ -8807,7 +8808,6 @@ tip
 tips
 tires
 titan
-titanic
 titanium
 tix
 tj
