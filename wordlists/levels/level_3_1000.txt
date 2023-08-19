@@ -285,6 +285,7 @@ ap-southeast-2
 ar
 archive
 argocd
+art
 artifactory
 as
 assets
@@ -741,7 +742,6 @@ perf
 ph
 phoenix
 photo
-pi
 pilot
 pl
 platform
