@@ -26,7 +26,7 @@ And, of course, [wordlists](https://github.com/zzzteph/probable_subdomains/tree/
 
 ## Methodology
 
-As sources, I used lists of subdomains from public bugbounty programs, that were collected by [chaos.projectdiscovery.io](https://chaos.projectdiscovery.io/), [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data/) or that just had responsible disclosure programs with a total number of more than **7500** domains! If subdomains appear more than in 5-10 **different** scopes, they will be put in a certain list. For example, if **dev.stg** appears both in **\*.google.com** and **\*.twitter.com**, it will have a frequency of 2. It does not matter how often **dev.stg** appears in **\*.google.com**. That's all - **nothing more, nothing less**.
+As sources, I used lists of subdomains that were collected by [shrewdeye.app](https://shrewdeye.app/), [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data/) or that just had responsible disclosure programs. If subdomains appear more than in 5-10 **different** scopes, they will be put in a certain list. For example, if **dev.stg** appears both in **\*.google.com** and **\*.twitter.com**, it will have a frequency of 2. It does not matter how often **dev.stg** appears in **\*.google.com**. That's all - **nothing more, nothing less**.
 
 
 
@@ -39,16 +39,19 @@ As sources, I used lists of subdomains from public bugbounty programs, that were
 
 ### Subdomains
 
-In these lists you will find most popular subdomains **as is**.
+In these lists, you will find the most popular subdomains **as is**. 100,1000,10k,100k,1m - are the most popular subdomains sorted by their frequency. 
 
-- [subdomains.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains.txt.7z)
-- [subdomains_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_top100.txt) 
-- [subdomains_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_top100.txt) 
-- [subdomains_top10000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_top100.txt) 
+- [subdomains.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/)
+- [subdomains_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_100.txt) 
+- [subdomains_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_1000.txt) 
+- [subdomains_10k.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_10k.txt) 
+- [subdomains_100k.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_100k.txt)
+- [subdomains_1m.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_1m.txt)
+
 
 ### Subdomain levels
 
-In these lists, you will find the most popular words from subdomains split by levels. F.E - **dev.stg** subdomain will be split into two words **dev** and **stg**. **dev** will have level = 2, **stg** - level = 1. You can use these wordlists for combinatory attacks for subdomain searches. There are several types of level.txt wordlists that follow the idea of subdomains.
+You will find the most popular words from subdomains split by levels in these lists. F.E - **dev.stg** subdomain will be split into two words **dev** and **stg**. **dev** will have level = 2, **stg** - level = 1. You can use these wordlists for combinatory attacks for subdomain searches. 
 
 
 - [level_1.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1.txt.7z)
@@ -56,28 +59,28 @@ In these lists, you will find the most popular words from subdomains split by le
 - [level_3.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3.txt.7z)
 - [level_4.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4.txt.7z)
 - [level_5.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5.txt.7z)
-- [level_1_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top100.txt)
-- [level_1_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_top1000.txt)
-- [level_2_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_top100.txt)
-- [level_2_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_top1000.txt)
-- [level_3_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3_top100.txt)
-- [level_3_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3_top1000.txt)
-- [level_4_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4_top100.txt)
-- [level_4_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4_top1000.txt)
-- [level_5_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5_top100.txt)
-- [level_5_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5_top1000.txt)
+- [level_1_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_100.txt)
+- [level_1_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_1000.txt)
+- [level_2_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_100.txt)
+- [level_2_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_1000.txt)
+- [level_3_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3_100.txt)
+- [level_3_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3_1000.txt)
+- [level_4_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4_100.txt)
+- [level_4_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4_1000.txt)
+- [level_5_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5_100.txt)
+- [level_5_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5_1000.txt)
 
 
-### Popular splitted subdomains
+### Popular subdomain words
 
 
-In these lists, you will find the most popular splitted words from subdomains on all levels. For example - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. 
+You will find the most popular words from subdomains on all levels in these lists. For example - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. 
 
 
-- [words.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words.txt.7z)
-- [words_top100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top100.txt)
-- [words_top1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top1000.txt)
-- [words_top10000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_top10000.txt)
+- [words.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/)
+- [words_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_100.txt)
+- [words_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_1000.txt)
+- [words_10000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_10000.txt)
 
 
 
@@ -86,6 +89,7 @@ In these lists, you will find the most popular splitted words from subdomains on
 
 ## Attributions
 
+- [shrewdeye.app](https://shrewdeye.app) 
 - [berzerk0](https://github.com/berzerk0) for the inspiration with the great work [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists)
 - [chaos.projectdiscovery.io](https://chaos.projectdiscovery.io/)
 - [bounty-targets-data/](https://github.com/arkadiyt/bounty-targets-data/)
