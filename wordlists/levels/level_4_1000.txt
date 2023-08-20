@@ -759,6 +759,7 @@ pilot
 pl
 platform
 play
+playground
 poc
 pool
 pools
@@ -881,7 +882,6 @@ st
 sta
 stage
 stage1
-stage2
 staging
 star
 star-mini

@@ -10427,6 +10427,7 @@ app-gateway.uat.builder-svcs
 app.go
 appgw
 apphealth
+app.hello
 apphelp
 apphub
 appi
@@ -27553,6 +27554,7 @@ cssm
 cssp
 csss
 cs-staging
+cs.staging
 cssupport
 cst
 cstar
@@ -32051,6 +32053,7 @@ docservice
 docservices
 docsite
 docs.net
+docs.openbanking
 docs-origin
 docs.platform
 docs-preview
@@ -37538,6 +37541,7 @@ faceoff
 faces
 facet
 facetime
+facetoface
 facetofacegames
 facetraining
 facets
@@ -48836,6 +48840,7 @@ images.eu
 imageseu
 images.go
 imageshd
+images.hello
 images.info
 images.messenger
 images.news
@@ -52703,6 +52708,7 @@ jss.corp
 jss-dev
 jssdev
 jssdk
+js.staging
 js.static
 jst
 jstn
@@ -63845,6 +63851,7 @@ mydesktop
 my-dev
 my.dev
 mydev
+mydevelopment
 mydevice
 mydevices
 mydigitalcodecs
@@ -70183,12 +70190,14 @@ pay.test
 paytest
 paytm
 payu
+payusa
 pay-v2
 payview
 pay.vip
 paywall
 payway
 payweb
+paywith
 paz
 pb
 pb1.lync
@@ -79563,7 +79572,6 @@ serasa
 serb
 serbia
 serc
-sercan
 serch
 serco
 serd
@@ -79573,10 +79581,7 @@ serendipity
 serene
 serenetech
 serenity
-serenityhealth
-seres
 serg
-sergeo
 sergey
 sergio
 sergo
@@ -79585,11 +79590,8 @@ serial
 serialio
 sericulture
 series
-serif
-serio
 serious
 seriously
-serkan
 serl
 sero
 serov
@@ -79673,13 +79675,10 @@ servercentral
 server.iad
 serverless
 servers
-servers1
 servers.api
 servers.app
 servers.www
-servertest
 server.www
-servet
 service
 service1
 service-109.248.196
@@ -79703,7 +79702,6 @@ serviceclients
 service.cloud
 service-club
 service-club-test
-service-delivery
 service-desk
 servicedesk
 servicedesk2
@@ -80488,9 +80486,11 @@ signon
 signout
 signs
 signup
+signup-api
 signup.api
 signup.app
 signups
+signup-staging
 signup.staging
 signup.www
 sign-zorgplatform

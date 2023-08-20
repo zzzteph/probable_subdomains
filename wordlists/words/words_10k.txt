@@ -5625,6 +5625,7 @@ mediakit
 medias
 mediaserver
 mediasite
+mediawiki
 medical
 medicine
 medium
@@ -9440,7 +9441,6 @@ walter
 wam
 wan
 wanda
-wander
 wang
 wap
 wap1
