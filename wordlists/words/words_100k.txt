@@ -19496,6 +19496,7 @@ capsule
 capt
 captain
 captainamerica
+captaincook
 captainds
 captainjack
 captcha
@@ -72495,7 +72496,6 @@ reporting-test
 reportit
 reportportal
 reports
-reports1
 reports2
 reportsapi
 reports-dev
@@ -72520,7 +72520,6 @@ representation
 repro
 reps
 repsol
-reptile
 republic
 republican
 republicans
@@ -96005,6 +96004,7 @@ win8
 win9
 wina
 winamp
+winapp
 winapps
 winc
 winchester
