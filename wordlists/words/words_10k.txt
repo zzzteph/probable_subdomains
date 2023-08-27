@@ -518,7 +518,6 @@ afs
 afspraak
 afspraken
 ag
-ag1
 aga
 agape
 agata
@@ -1415,7 +1414,6 @@ blocked
 blog
 blog1
 blog2
-blog3
 blog-dev
 blogdev
 blogger
@@ -1687,7 +1685,6 @@ canal
 canary
 cancel
 cancer
-candle
 candy
 canon
 canopus
@@ -1930,7 +1927,6 @@ children
 childsupport
 chile
 chili
-chill
 chilli
 chimera
 china
@@ -2403,6 +2399,7 @@ csi
 csj
 csl
 csm
+csm-nat-10
 csngok
 cso
 csp
@@ -2904,7 +2901,6 @@ doris
 dos
 dot
 dota
-dotnet
 dots
 douglas
 dove
@@ -3278,6 +3274,7 @@ era
 erasmus
 erc
 eric
+erica
 ericsson
 erik
 eris
@@ -5067,7 +5064,6 @@ layout
 lazarus
 lb
 lb01
-lb02
 lb1
 lb2
 lb3
@@ -5881,6 +5877,7 @@ mos
 mosaic
 moscow
 moss
+most
 mot
 mother
 motion
@@ -6510,6 +6507,7 @@ openapi
 opendata
 openid
 opensource
+openstack
 openvpn
 openx
 opera
@@ -7082,7 +7080,6 @@ program
 programming
 programs
 progress
-proj
 project
 projects
 projekty
@@ -7143,6 +7140,7 @@ psn
 psp
 pss
 psy
+psych
 psycho
 psychology
 pt
@@ -8115,7 +8113,6 @@ slave
 slc
 sleep
 sli
-slice
 slides
 slim
 slm
@@ -8485,6 +8482,7 @@ story
 storybook
 stp
 str
+strategy
 stratus
 stream
 stream1
@@ -8982,7 +8980,6 @@ trc
 treasurer
 treasury
 tree
-treehouse
 trek
 trend
 trends
@@ -9484,8 +9481,10 @@ web06
 web1
 web10
 web11
+web110
 web12
 web13
+web13210
 web14
 web15
 web16
@@ -9500,8 +9499,8 @@ web22
 web25
 web3
 web30
-web31
 web34
+web3710
 web4
 web4300
 web4410
@@ -9531,6 +9530,7 @@ webcon
 webconf
 webconf01
 webconference
+webct
 webdav
 webdb
 webdemo

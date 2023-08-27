@@ -75,10 +75,10 @@ apis
 apollo
 app
 apple
-applications
 apply
 apps
 ar
+arc
 archive
 archives
 art
@@ -606,7 +606,6 @@ mysql
 na
 nagios
 nc
-ne
 net
 network
 new
@@ -686,6 +685,7 @@ play
 plus
 pm
 poc
+police
 pop
 pop3
 portal

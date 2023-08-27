@@ -266,6 +266,7 @@ contentbeheer
 control
 core
 corp
+courses
 cp
 cpanel
 cpcalendars
@@ -714,7 +715,6 @@ pki
 pl
 platform
 play
-plus
 poc
 pop
 pop3

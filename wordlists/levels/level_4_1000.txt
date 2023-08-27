@@ -665,6 +665,7 @@ mds
 me
 med
 media
+meet
 mesh
 messaging
 metrics
@@ -762,7 +763,6 @@ play
 playground
 poc
 pool
-pools
 pop
 pop3
 portal
@@ -876,6 +876,7 @@ splunk
 sports
 sprint
 ss
+ssh
 ssl
 sso
 st
@@ -987,7 +988,6 @@ wildcard
 wiley
 wire
 wireless
-wline
 wordpress
 wp
 ws

@@ -33,7 +33,6 @@ ads
 adserver
 adv
 advertising
-adwords
 ae
 af
 a-feeds
@@ -754,6 +753,7 @@ resume
 retail
 reviews
 rewards
+rms
 ro
 root
 rootsweb
