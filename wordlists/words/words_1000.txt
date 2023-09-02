@@ -313,6 +313,7 @@ eu
 europe
 event
 events
+example
 exchange
 explore
 ext
@@ -406,7 +407,6 @@ hub
 hybrid
 iam
 iburgerzaken
-ibzpink
 id
 ideas
 identity

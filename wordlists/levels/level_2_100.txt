@@ -45,7 +45,6 @@ info
 int
 internal
 jira
-link
 login
 magazines
 mail
@@ -69,6 +68,7 @@ owa
 pages
 pop
 portal
+preprod
 preview
 prod
 proxy

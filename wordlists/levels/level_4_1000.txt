@@ -470,7 +470,6 @@ docs
 dod
 doi
 download
-dp
 dr
 ds
 dsl
@@ -544,6 +543,7 @@ galegroup
 game
 games
 gateway
+gist
 git
 github
 gitlab
@@ -719,10 +719,12 @@ ns4
 nz
 o1
 o2
+o3
 oauth
 oem
 of
 office
+oidc
 old
 on
 one
@@ -733,7 +735,6 @@ openshift
 operations
 ops
 or
-orange
 order
 orders
 org
@@ -751,7 +752,6 @@ payment
 payments
 paypal
 pc
-pe
 perf
 pgadmin
 ph
@@ -818,6 +818,7 @@ registration
 registry
 relay
 remote
+render
 repo
 report
 reporting
@@ -831,6 +832,7 @@ rest
 retail
 rev
 reverse
+rpc
 rs
 ru
 s1
@@ -874,7 +876,6 @@ sonarqube
 sp
 splunk
 sports
-sprint
 ss
 ssh
 ssl
@@ -982,7 +983,6 @@ webmail
 webproxy
 webservices
 west
-whm
 wiki
 wildcard
 wiley

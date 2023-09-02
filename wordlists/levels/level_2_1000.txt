@@ -688,7 +688,6 @@ orion
 outlook
 owa
 p1
-p2
 pa
 page
 pages
@@ -967,6 +966,7 @@ web2
 webapp
 webapps
 webconf
+webdev
 webdisk
 webhook
 webmail

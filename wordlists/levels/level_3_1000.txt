@@ -324,7 +324,6 @@ biz
 blob
 blog
 blue
-books
 border-even
 border-odd
 box
@@ -344,7 +343,6 @@ canary
 careers
 cas
 catalog
-cb
 cc
 ccs
 cd
@@ -630,6 +628,7 @@ mail01
 mail1
 mail2
 mail3
+mailserver
 main
 maintenance
 manage
@@ -728,6 +727,7 @@ order
 orders
 org
 origin
+oss
 outlook
 owa
 pa
@@ -785,6 +785,7 @@ push
 qa
 qa1
 qa2
+queue
 r1
 rabbitmq
 rancher
@@ -823,7 +824,6 @@ s1
 s2
 s3
 sa
-sagepub
 sales
 saml
 sandbox

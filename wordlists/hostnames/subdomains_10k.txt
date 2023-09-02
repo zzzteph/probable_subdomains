@@ -888,10 +888,8 @@ at
 ata
 atb
 atc
-ateam
 atelier
 atendimento
-atenea
 atest
 athena
 athens
@@ -1554,7 +1552,6 @@ calls
 calvin
 calypso
 cam
-cam3
 cam4
 cambodia
 cambridge
@@ -1763,7 +1760,6 @@ channels
 chantal
 chaos
 chaotic
-chaplin
 charge
 charity
 charles
@@ -3004,6 +3000,7 @@ elements
 elena
 elephant
 eleven
+eli
 elias
 elibrary
 elis
@@ -3417,6 +3414,7 @@ first
 fis
 fish
 fisher
+fisheries
 fisheye
 fishing
 fist
@@ -7602,6 +7600,7 @@ salsa
 salt
 salud
 sam
+sama
 samara
 sametime
 saml
@@ -8523,6 +8522,7 @@ tag
 tags
 taichi
 taiwan
+take
 takeoff
 tal
 talent
