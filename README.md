@@ -41,7 +41,7 @@ As sources, I used lists of subdomains that were collected by [shrewdeye.app](ht
 
 In these lists, you will find the most popular subdomains **as is**. 100,1000,10k,100k,1m - are the most popular subdomains sorted by their frequency. 
 
-- [subdomains.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/)
+- [subdomains.txt.7z](https://shrewdeye.app/files/subdomains.txt.7z)
 - [subdomains_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_100.txt) 
 - [subdomains_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_1000.txt) 
 - [subdomains_10k.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/hostnames/subdomains_10k.txt) 
@@ -54,11 +54,11 @@ In these lists, you will find the most popular subdomains **as is**. 100,1000,10
 You will find the most popular words from subdomains split by levels in these lists. F.E - **dev.stg** subdomain will be split into two words **dev** and **stg**. **dev** will have level = 2, **stg** - level = 1. You can use these wordlists for combinatory attacks for subdomain searches. 
 
 
-- [level_1.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1.txt.7z)
-- [level_2.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2.txt.7z)
-- [level_3.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_3.txt.7z)
-- [level_4.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_4.txt.7z)
-- [level_5.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_5.txt.7z)
+- [level_1.txt.7z](https://shrewdeye.app/files/levels/level_1.txt.7z)
+- [level_2.txt.7z](https://shrewdeye.app/files/levels/level_2.txt.7z)
+- [level_3.txt.7z](https://shrewdeye.app/files/levels/level_3.txt.7z)
+- [level_4.txt.7z](https://shrewdeye.app/files/levels/level_4.txt.7z)
+- [level_5.txt.7z](https://shrewdeye.app/files/levels/level_5.txt.7z)
 - [level_1_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_100.txt)
 - [level_1_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_1_1000.txt)
 - [level_2_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/main/wordlists/levels/level_2_100.txt)
@@ -77,7 +77,7 @@ You will find the most popular words from subdomains split by levels in these li
 You will find the most popular words from subdomains on all levels in these lists. For example - **dev.stg** subdomain will be splitted in two words **dev** and **stg**. 
 
 
-- [words.txt.7z](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/)
+- [words.txt.7z](https://shrewdeye.app/files/words.txt.7z)
 - [words_100.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_100.txt)
 - [words_1000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_1000.txt)
 - [words_10000.txt](https://raw.githubusercontent.com/zzzteph/probable_subdomains/blob/main/wordlists/words/words_10000.txt)

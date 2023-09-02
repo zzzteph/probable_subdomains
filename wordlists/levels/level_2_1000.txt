@@ -958,6 +958,7 @@ vpn
 vpn1
 vpn2
 w3
+wa
 wap
 weather
 web
@@ -975,7 +976,6 @@ west
 wfm-service
 whm
 whois
-widget
 wifi
 wiki
 wildcard

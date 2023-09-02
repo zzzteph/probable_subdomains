@@ -139,7 +139,6 @@ care
 career
 careers
 cars
-cart
 cas
 catalog
 cc
@@ -264,6 +263,7 @@ documents
 dogfood-dev
 domain
 domains
+dot
 download
 downloads
 dr
@@ -580,7 +580,6 @@ mongodb
 monitor
 monitoring
 moodle
-movie
 movies
 mp
 mp3
@@ -873,6 +872,7 @@ ticket
 tickets
 time
 tls
+tm
 tms
 toolbar
 tools

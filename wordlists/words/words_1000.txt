@@ -75,6 +75,7 @@ apis
 apollo
 app
 apple
+applications
 apply
 apps
 ar
@@ -277,7 +278,6 @@ downloads
 dr
 drive
 ds
-dsl
 dwp-cis
 dyn
 dynamic

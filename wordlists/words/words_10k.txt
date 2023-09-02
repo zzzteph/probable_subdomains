@@ -1372,6 +1372,7 @@ birds
 birmingham
 birthday
 bis
+bishop
 bison
 bit
 bitbucket
@@ -1811,6 +1812,7 @@ ced
 cedar
 cedric
 cee
+cei
 cel
 celebrity
 celeste
@@ -1974,6 +1976,7 @@ cine
 cinema
 cio
 cip
+circe
 circle
 circus
 cirrus
@@ -2242,7 +2245,6 @@ convert
 converter
 cook
 cookie
-cookies
 cooking
 cool
 coop
@@ -2537,7 +2539,6 @@ data1
 data2
 data3
 database
-database2
 databases
 datacenter
 datahub
@@ -3650,7 +3651,6 @@ frankfurt
 franklin
 franz
 fred
-freddy
 frederick
 free
 freebsd
@@ -4806,6 +4806,7 @@ jt
 juan
 judith
 judo
+judy
 juegos
 juice
 julia
@@ -5718,6 +5719,7 @@ microsites
 microsoft
 mid
 midas
+midgard
 midwest
 mig
 migrate
@@ -6027,6 +6029,7 @@ myaccess
 myaccount
 myadmin
 myapps
+mybenefits
 myblog
 mydesktop
 mydev
@@ -6042,7 +6045,6 @@ mymail
 myoffice
 mypage
 mypc
-myplace
 myportal
 myshop
 mysite
@@ -6795,6 +6797,7 @@ phi
 phil
 philadelphia
 philip
+philippe
 philippines
 philips
 phillip
@@ -6901,6 +6904,7 @@ pluto
 pm
 pm1
 pma
+pmb
 pmc
 pmd
 pmi
@@ -7596,6 +7600,7 @@ rrr
 rs
 rs1
 rs2
+rs3
 rsa
 rsc
 rsm
@@ -7718,7 +7723,6 @@ salt
 salud
 sam
 samara
-samba
 sametime
 saml
 sample
@@ -8248,7 +8252,6 @@ sou
 soul
 sound
 source
-sourcing
 south
 southpark
 sow
@@ -9232,7 +9235,6 @@ vb
 vc
 vc1
 vc2
-vcd
 vcenter
 vcs
 vcse
@@ -9456,7 +9458,6 @@ washington
 wat
 watch
 watchdog
-watcher
 water
 watson
 wave
@@ -9645,7 +9646,6 @@ william
 willow
 wilson
 win
-win1
 win2
 winchester
 wind
