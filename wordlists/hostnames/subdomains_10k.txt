@@ -25,7 +25,6 @@
 111
 1111
 112
-11285521401250
 114
 117
 118
@@ -1085,7 +1084,6 @@ bank
 banking
 banner
 banners
-bao
 baobao
 bap
 bar
@@ -1781,6 +1779,7 @@ chatter
 che
 cheap
 cheats
+cheboksary
 check
 checkin
 checkmate
@@ -3717,7 +3716,6 @@ gh
 ghc
 ghost
 gi
-giant
 gib
 gif
 gift
@@ -3954,6 +3952,7 @@ haven
 havoc
 hawaii
 hawk
+hawkeye
 hayden
 hb
 hc
@@ -4004,7 +4003,6 @@ hero
 heroes
 heron
 hertz
-hestia
 hf
 hg
 hh
@@ -4527,7 +4525,6 @@ ironport2
 irs
 is
 isa
-isaac
 isabel
 isc
 isd
@@ -4770,7 +4767,6 @@ kbox
 kc
 kcc
 kd
-kdc
 kds
 ke
 kea
@@ -4969,7 +4965,6 @@ ldap1
 ldap2
 ldap3
 ldaps
-ldc
 ldp
 lds
 le
@@ -6381,6 +6376,7 @@ onboard
 onboarding
 ondemand
 one
+oneclick
 onedrive
 onelove
 onepiece
@@ -7163,6 +7159,7 @@ rail
 rails
 rain
 rainbow
+rally
 ralph
 ram
 rambo
@@ -7251,6 +7248,7 @@ redirector
 redirects
 redline
 redmine
+redstone
 redtube
 redwood
 reed
@@ -8783,10 +8781,10 @@ token
 tokens
 tokyo
 toledo
+tolyatti
 tom
 tomato
 tomcat
-tommy
 tomsk
 tomtom
 toni
@@ -8924,7 +8922,6 @@ tube
 tucows
 tucson
 tui
-tuijian
 tula
 tulip
 tumblr
@@ -9556,6 +9553,7 @@ webinar
 webinars
 weblink
 weblog
+weblync
 webmail
 webmail1
 webmail10
@@ -9657,6 +9655,7 @@ wins
 winston
 winter
 wip
+wire
 wired
 wireless
 wis
@@ -9897,6 +9896,7 @@ yamaha
 yang
 yar
 yara
+yaroslavl
 yb
 yc
 ycg

@@ -33,6 +33,7 @@ ads
 adserver
 adv
 advertising
+adwords
 ae
 af
 a-feeds
@@ -695,7 +696,6 @@ post
 postmaster
 pp
 pr
-prd
 pre
 premium
 pre-prod

@@ -194,6 +194,7 @@ blog
 blogs
 blue
 bo
+boards
 bounce
 box
 br
@@ -460,7 +461,6 @@ img1
 ims
 in
 inbound
-index
 info
 infra
 inproces

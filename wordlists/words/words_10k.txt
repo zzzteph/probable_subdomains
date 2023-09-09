@@ -1045,6 +1045,7 @@ att
 attach
 attachments
 attendance
+atv
 atwww
 au
 auburn
@@ -1936,6 +1937,7 @@ china
 chinese
 chip
 chita
+chitchat
 chloe
 chm
 cho
@@ -2491,7 +2493,6 @@ daas
 dac
 dacceptatieloket
 dacceptatiemidoffice
-dada
 daedalus
 daemon
 daffy
@@ -2866,6 +2867,7 @@ doctor
 document
 documentation
 documents
+docusign
 dod
 dodo
 doe
@@ -3038,6 +3040,7 @@ ecards
 ecc
 ece
 echo
+eci
 eclass
 eclipse
 ecm
@@ -4340,6 +4343,7 @@ ibc
 ibis
 ibiza
 ibm
+ibrahim
 ibs
 iburgerzaken
 ibzpink
@@ -5427,11 +5431,11 @@ mailer
 mailer1
 mailer2
 mailers
+mailex
 mailfilter
 mailgate
 mailgate1
 mailgate2
-mailgate3
 mailgateway
 mailgw
 mailgw1
@@ -5883,7 +5887,6 @@ mother
 motion
 moto
 motor
-motoryzacja
 mountain
 mouse
 mov
@@ -6504,6 +6507,7 @@ opal
 opel
 open
 openapi
+openbanking
 opendata
 openid
 opensource
@@ -6796,7 +6800,6 @@ phi
 phil
 philadelphia
 philip
-philippe
 philippines
 philips
 phillip
@@ -7003,7 +7006,6 @@ ppt
 pptp
 pr
 pr1
-pr2
 pra
 praca
 practice
@@ -7668,7 +7670,6 @@ s22
 s24
 s25
 s26
-s28
 s3
 s30
 s35
@@ -8077,7 +8078,6 @@ sir
 sire
 sirius
 sis
-sisko
 sistema
 sistemas
 sit
@@ -8152,7 +8152,6 @@ smolensk
 smp
 smr
 sms
-sms2
 smt
 smtp
 smtp0
@@ -8721,6 +8720,7 @@ template
 templates
 temple
 tempo
+temporal
 tempus
 ten
 tender
@@ -8767,7 +8767,6 @@ test6
 test7
 test8
 test9
-testa
 testadmin
 test-api
 testapi
@@ -9081,11 +9080,13 @@ u1
 u2
 ua
 uaa
+uae
 uag
 uat
 uat1
 uat2
 uat3
+uat-api
 uat-www
 ub
 uber
@@ -9427,7 +9428,6 @@ wac
 waf
 wagner
 wakeup
-walk
 walker
 wall
 wallet
