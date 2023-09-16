@@ -263,7 +263,6 @@ documents
 dogfood-dev
 domain
 domains
-dot
 download
 downloads
 dr
@@ -997,6 +996,7 @@ www-staging
 www-test
 wwww
 wwwwww
+xmpp
 xroads
 yahoo
 zh

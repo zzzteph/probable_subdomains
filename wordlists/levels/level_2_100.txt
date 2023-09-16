@@ -27,7 +27,6 @@ dev
 docs
 download
 email
-en
 es
 feeds
 ftp
@@ -45,6 +44,7 @@ info
 int
 internal
 jira
+link
 login
 magazines
 mail

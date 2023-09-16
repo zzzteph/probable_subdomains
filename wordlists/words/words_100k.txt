@@ -16,7 +16,6 @@
 00000-okta-idpnote
 00000-okta-idp-support
 00001
-00002
 00003
 0000b
 0001
@@ -65,7 +64,6 @@
 0039
 003vps
 004
-0044
 0045
 005
 0055
@@ -105,7 +103,6 @@
 0102
 0104
 0105
-0108
 0-11
 011
 0110
@@ -262,7 +259,6 @@
 07
 0-70
 070
-0707
 071
 0711
 0712
@@ -3747,6 +3743,7 @@
 80-90
 8090
 80s
+80www
 8-1
 81
 81-0
@@ -6163,6 +6160,7 @@ adrien
 adrienne
 adrina
 adrix
+adrm
 adrms
 adroit
 adroll
@@ -8203,13 +8201,9 @@ alpha21
 alpha-3
 alpha3
 alpha31
-alpha-4
 alpha4
-alpha42
-alpha-43
 alpha5
 alpha50
-alpha57
 alpha6
 alpha60
 alpha7
@@ -9170,6 +9164,7 @@ anhth
 anhui
 ani
 ania
+anica
 anicon
 anid
 anida
@@ -9806,7 +9801,6 @@ aphsa
 api
 api-0
 api0
-api00
 api001
 api002
 api-01
@@ -9815,23 +9809,17 @@ api-02
 api02
 api-03
 api03
-api-04
 api04
 api05
 api06
-api-07
 api07
 api08
-api09
 api-1
 api1
-api-10
 api10
-api-11
 api11
 api-12
 api12
-api-13
 api13
 api14
 api15
@@ -10425,6 +10413,7 @@ apps7
 apps8
 app-sa
 appsa
+app-sandbox
 apps-api
 appsbuilder
 appsc
@@ -10538,6 +10527,7 @@ apserver
 apsheronsk
 ap-south-1
 ap-south-2
+ap-southeast
 ap-southeast-1
 ap-southeast-2
 ap-southeast-3
@@ -11701,7 +11691,6 @@ assetportal
 assetprotection
 assets
 assets0
-assets-1
 assets1
 assets10
 assets2
@@ -12375,10 +12364,8 @@ auth01
 auth02
 auth03
 auth04
-auth06
 auth1
 auth10
-auth13
 auth2
 auth3
 auth4
@@ -12386,7 +12373,6 @@ auth5
 auth6
 auth7
 auth8
-auth9
 auth-admin
 auth-api
 authapi
@@ -15214,7 +15200,6 @@ beyoung
 beyourownboss
 beyourself
 bez
-bezier
 bezies
 bezoekersparkeren
 bezoekersparkeren-acc
@@ -16314,29 +16299,20 @@ blocky
 blod
 blofeld
 blog
-blog0
 blog01
 blog02
 blog03
 blog-1
 blog1
 blog10
-blog11
-blog12
 blog13
-blog14
-blog17
-blog18
 blog2
 blog21
 blog22
-blog-3
 blog3
 blog4
 blog5
-blog6
 blog7
-blog-8
 blog8
 blog9
 blog-admin
@@ -17205,6 +17181,7 @@ bout
 boutique
 boutique1
 bouw
+bouwen
 bouygues
 bouyguestelecom
 bov
@@ -17915,6 +17892,7 @@ bsd2
 bse
 bsearch
 bsem
+bserv
 bsf
 bsg
 bsh
@@ -18495,6 +18473,7 @@ bvh
 bvi
 bvip
 bvk
+bvn
 bvo
 bvp
 b-vpn
@@ -19434,7 +19413,6 @@ capelle
 capemay
 caper
 capeside
-cape-town
 capetown
 capex
 capex2
@@ -20687,6 +20665,7 @@ celect
 celena
 celentano
 celer
+celeritas
 celerity
 celery
 celest
@@ -20980,6 +20959,7 @@ cf3
 cf5
 cf7
 cfa
+cfadmin
 cfainstitute
 cfan
 cfao
@@ -21414,6 +21394,7 @@ chat-test
 chattest
 chatting
 chatty
+chatuat
 chaturbate
 chatweb
 chatwork
@@ -22839,6 +22820,7 @@ cloudpages
 cloudpath
 cloudpbx
 cloudpc
+cloudphone
 cloud-platform
 cloudplatform
 cloudplayer
@@ -28788,11 +28770,13 @@ device
 device1
 device2
 device42
+device-api
 devicebind
 deviceinfo
 devicelab
 devicemanagement
 devicereg
+deviceregistration
 devices
 devicesupport
 dev-id
@@ -33385,6 +33369,7 @@ emulator
 emule
 emulsion
 emus
+emuseum
 emusic
 emv
 emw
@@ -33627,6 +33612,7 @@ enshi
 ensighten
 ensino
 enso
+ensorings
 ensure
 ent
 ent1
@@ -36203,6 +36189,7 @@ fernandes
 fernandez
 fernando
 ferndale
+fernsehen
 ferox
 ferr
 ferrara
@@ -38631,7 +38618,6 @@ galina
 gall
 gallagher
 gallant
-gallardo
 gallatin
 gallaudet
 galle
@@ -38673,7 +38659,6 @@ game3
 game4
 game5
 game8
-game9
 gameapi
 gameapp
 gamebase
@@ -40561,7 +40546,6 @@ govroam
 govt
 govuk
 govwww
-govyty
 gow
 goweb
 gowest
@@ -42002,7 +41986,6 @@ hala
 halala
 halbert
 halcyon
-haldane
 halden
 hale
 haley
@@ -42390,6 +42373,7 @@ haveri
 haveyoursay
 haviafotokopi
 havit
+havn
 havoc
 havok
 haw
@@ -42804,7 +42788,6 @@ help-2
 help2
 help-3
 help3
-help-4
 help4
 help4u
 help-5
@@ -42813,9 +42796,7 @@ help-6
 help6
 help-7
 help7
-help-8
 help8
-help9
 helpadmin
 help-api
 help-center
@@ -45374,6 +45355,7 @@ iclick
 icloud
 iclub
 icm
+icmm
 icmp
 icmr
 i-cms
@@ -45624,6 +45606,7 @@ id-uat
 idv
 idverify
 idw
+idweb
 idwww
 idx
 idy
@@ -46061,6 +46044,7 @@ images5
 images6
 images7
 images8
+images-cdn
 images-dev
 imagesearch
 imageserver
@@ -46223,7 +46207,6 @@ img36
 img37
 img38
 img39
-img-4
 img4
 img40
 img41
@@ -46461,6 +46444,7 @@ inboundmarketing
 inbound-smtp
 inbox
 inbuild
+inburgeren
 inc
 inca
 incap
@@ -46783,7 +46767,6 @@ initial
 initiative
 initiatives
 injector
-injury
 ink
 inka
 inkling
@@ -47381,7 +47364,6 @@ iora
 iori
 i-origin
 ios
-ios2
 iosapp
 iosapps
 iosdev
@@ -47947,6 +47929,7 @@ ispic
 ispnet
 isport
 isportal
+ispp
 isps
 ispy
 isq
@@ -50287,6 +50270,7 @@ katara
 katarina
 katch
 kate
+katelyn
 kater
 katerina
 katespade
@@ -51280,6 +51264,7 @@ koncert
 koncove-prevody-hydromotory
 kondo
 kone
+konf
 konfer
 konference
 konferenzen
@@ -51325,7 +51310,6 @@ kopo
 koppal
 koppe
 koppelingen
-koppelvlak
 kops
 kor
 kora
@@ -51772,6 +51756,7 @@ kya
 kyan
 kyb
 kyc
+kyc-api
 kycremedyweb
 kye
 kyg
@@ -53955,7 +53940,6 @@ lookaside
 lookatme
 lookbook
 looker
-lookfantastic
 looking-glass
 lookingglass
 lookout
@@ -54943,7 +54927,6 @@ magasin
 magasins
 magazin
 magazine
-magazine2
 magazines
 magazinesintern
 magcomm
@@ -55290,6 +55273,7 @@ mailgw01
 mailgw02
 mail-gw1
 mailgw1
+mail-gw2
 mailgw2
 mailgw3
 mailgw4
@@ -57072,6 +57056,7 @@ meld
 melddesk
 melding
 meldingen
+meldingen-acc
 mele
 melhor-antivirus
 meli
@@ -57311,6 +57296,7 @@ messageboards
 messagecenter
 messageconnect
 messagegears
+messagelabs
 messagent
 messagerie
 messages
@@ -57922,6 +57908,7 @@ mindmap
 mindmixer
 minds
 mindset
+mindshare
 mindspring
 mindtickle
 mindtouch
@@ -58398,7 +58385,6 @@ mobilab
 mobile
 mobile0
 mobile01
-mobile-1
 mobile1
 mobile-2
 mobile2
@@ -58408,11 +58394,8 @@ mobile3
 mobile4
 mobile5
 mobile6
-mobile-7
 mobile7
-mobile-8
 mobile8
-mobile-9
 mobile9
 mobile-acc
 mobileaccess
@@ -58470,6 +58453,7 @@ mobilemailderef-bap
 mobilemoney
 mobilenet
 mobileonline
+mobilep
 mobilepay
 mobilephone
 mobilephones
@@ -58494,6 +58478,7 @@ mobilestore
 mobile-support
 mobilesupport
 mobilesync
+mobilet
 mobiletalk
 mobile-test
 mobiletest
@@ -60048,7 +60033,6 @@ mvt
 mvu
 mvv
 mvw
-mvweb
 m-w
 mw
 mw1
@@ -60139,7 +60123,6 @@ mx144
 mx146
 mx148
 mx15
-mx152
 mx16
 mx161
 mx162
@@ -60430,6 +60413,7 @@ myeducation
 myemail
 myemma
 myer
+myers
 myevent
 myexperience
 myface
@@ -60665,6 +60649,7 @@ mysql9
 mysqladmin
 mysqldb
 mysqltest
+mysso
 myst
 my-stage
 my-staging
@@ -61329,6 +61314,7 @@ navy
 navyfederal
 naw
 nawal
+nawe
 nawww
 nax
 naxos
@@ -62474,6 +62460,7 @@ nintendoswitch
 nio
 niobe
 niobium
+nioo
 nios
 nip
 nipper
@@ -63046,6 +63033,7 @@ npa
 npb
 npc
 npca
+npci
 npd
 npe
 npfc
@@ -63490,6 +63478,7 @@ nullmx
 num
 numark
 numb
+numbat
 number
 number1
 numberone
@@ -63913,6 +63902,7 @@ obu
 obv
 obweb
 obx
+oby
 oc
 oc1
 oc2
@@ -64026,6 +64016,7 @@ ocx
 ocy
 od
 od1
+od2
 oda
 odata
 oday
@@ -67153,6 +67144,7 @@ percentage
 perception
 perceptive
 perceptyx
+percipio
 percival
 percolate
 percona
@@ -67833,6 +67825,7 @@ piter-ix
 pitest
 pitneybowes
 pito
+pits
 pitstop
 pitt
 pitti
@@ -69695,6 +69688,7 @@ provider-api
 providerportal
 providers
 providersearch
+proview
 province
 provincia
 provision
@@ -74868,6 +74862,7 @@ sao-paulo
 saopaulo
 sap
 sapbc
+sapbo
 sapdev
 sape
 sapere
@@ -75003,6 +74998,7 @@ satellites
 sa-test
 satest
 sati
+satin
 satira
 satis
 satisfaction
@@ -78394,7 +78390,6 @@ smtp32
 smtp35
 smtp36
 smtp365
-smtp-4
 smtp4
 smtp5
 smtp6
@@ -78883,6 +78878,7 @@ so-net
 sonet
 song
 songbird
+songda
 songguifang
 songkick
 songs
@@ -79264,6 +79260,7 @@ spf
 spf1
 spf2
 spf3
+spf4
 spf-a
 spfa
 spfb
@@ -80292,16 +80289,13 @@ static1
 static10
 static11
 static12
-static13
 static14
 static15
 static-2
 static2
 static-3
 static3
-static-4
 static4
-static-5
 static5
 static-6
 static6
@@ -81686,7 +81680,6 @@ s-www
 swww
 swx
 swy
-swz
 sx
 sxc
 sxd
@@ -83099,7 +83092,6 @@ test56
 test57
 test58
 test59
-test-6
 test6
 test60
 test61
@@ -83134,7 +83126,6 @@ test86
 test87
 test88
 test89
-test-9
 test9
 test90
 test91
@@ -83999,6 +83990,7 @@ tianshu
 tianshui
 tiantian
 tianwang
+tianwen
 tianyi
 tianyu
 tianyuan
@@ -85053,6 +85045,7 @@ transparent
 transplants
 transport
 transport2
+transportal
 transportation
 transporte
 transporter
@@ -85707,6 +85700,7 @@ tuscaloosa
 tuscany
 tusculum
 tushar
+tushu
 tusindfryd
 tusk
 tuskegee
@@ -86048,10 +86042,12 @@ uat-m
 uatmobile
 uat-my
 uat-new
+uatpayment
 uat-photon
 uat-portal
 uatportal
 uat-preview
+uatservices
 uat-static
 uat-vaccines
 uatvaccines
@@ -86075,6 +86071,7 @@ uberdata
 ubereats
 uberproxy-san
 ubezpieczenia
+ubf
 ubi
 ubik
 ubiquitous
@@ -86344,7 +86341,6 @@ uj
 uji
 ujjain
 uk
-uk0
 uk1
 uk2
 uk3
@@ -86355,6 +86351,7 @@ uk-api
 ukb
 ukba
 ukconnect
+uke
 ukf
 ukg
 uki
@@ -86519,7 +86516,6 @@ unapi
 unas
 unassigned
 unauthorized
-unauthorized0
 unav
 unavailable
 unbelievable
@@ -86629,6 +86625,7 @@ uninews
 uninstall
 union
 unionstation
+unipart
 unipay
 uniplex
 unipro
@@ -89271,6 +89268,7 @@ vs4
 vsa
 vsaq
 vsat
+vsb
 vsbooklady
 vsc
 vscan
@@ -89350,6 +89348,7 @@ vueworks
 vuforia
 vui
 vuk
+vul
 vulcan
 vulcano
 vulgar
@@ -89810,6 +89809,7 @@ watcher
 watches
 watchguard
 watching-tv
+watchit
 watchlist
 watchman
 watchmen
@@ -89819,7 +89819,6 @@ waterbill
 waterbury
 watercooler
 watercraft
-waterdata
 waterfall
 waterfalls
 waterford
@@ -95658,6 +95657,7 @@ weymouth
 wez
 wf
 wf1
+wf23
 wfa
 wfaas
 wfb
@@ -96819,7 +96819,6 @@ wsba
 wsc
 wsd
 wsd3
-wsdc
 ws-dev
 wsdev
 wsdl
@@ -98487,6 +98486,7 @@ xp
 xp1
 xp2
 xp4
+xpand
 xpay
 xpd
 xperia
@@ -98593,6 +98593,7 @@ xuchang
 xue
 xuebao
 xueshu
+xuexi
 xueyuan
 xuhui
 xui
@@ -99760,7 +99761,6 @@ zlatoust
 zlb
 zlf
 zlin
-zlj
 zlk
 zlm
 zlo

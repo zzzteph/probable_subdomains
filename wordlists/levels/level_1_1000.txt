@@ -521,7 +521,6 @@ login
 logs
 love
 lp
-lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -696,6 +695,7 @@ post
 postmaster
 pp
 pr
+prd
 pre
 premium
 pre-prod

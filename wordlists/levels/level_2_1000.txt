@@ -362,6 +362,7 @@ europe
 eu-west-1
 event
 events
+ews
 exchange
 ext
 external
@@ -957,7 +958,6 @@ vpn
 vpn1
 vpn2
 w3
-wa
 wap
 weather
 web
