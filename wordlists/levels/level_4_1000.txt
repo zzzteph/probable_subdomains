@@ -118,6 +118,7 @@
 197
 198
 199
+1debit
 20
 200
 201
@@ -286,7 +287,6 @@ alpha
 alt
 alumni
 am
-amer
 ams
 analytics
 and
@@ -520,7 +520,6 @@ facebook
 fb
 fbx
 fe
-ff
 fi
 file
 files
@@ -644,6 +643,7 @@ load
 local
 localhost
 log
+logging
 login
 logs
 loki
@@ -661,7 +661,6 @@ manager
 master
 mb
 mdm
-mds
 me
 med
 media
@@ -730,6 +729,7 @@ on
 one
 online
 onlinelibrary
+open
 opensearch
 openshift
 operations

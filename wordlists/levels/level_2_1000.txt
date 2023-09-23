@@ -207,6 +207,7 @@ c3
 ca
 cache
 calendar
+canada
 careers
 cas
 cat
@@ -337,8 +338,8 @@ dyn
 dynamic
 eas
 east
-ebm
 ec
+echo
 ecs
 ed
 edge
@@ -462,6 +463,7 @@ img1
 ims
 in
 inbound
+index
 info
 infra
 inproces
@@ -621,7 +623,6 @@ mx2
 mx3
 my
 myaccount
-mysite
 mysql
 na
 nagios
@@ -640,7 +641,6 @@ nginx-newest
 nginx-newest1
 nic
 nl
-nm
 no
 node
 nodejs

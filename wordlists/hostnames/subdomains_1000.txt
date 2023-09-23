@@ -1,4 +1,5 @@
 10
+123
 1www
 20
 222
@@ -21,7 +22,6 @@ acs
 act
 ad
 adfs
-adm
 admin
 admissions
 ads
@@ -263,6 +263,7 @@ documents
 dogfood-dev
 domain
 domains
+dot
 download
 downloads
 dr
@@ -579,6 +580,7 @@ mongodb
 monitor
 monitoring
 moodle
+movie
 movies
 mp
 mp3
@@ -871,7 +873,6 @@ ticket
 tickets
 time
 tls
-tm
 tms
 toolbar
 tools
@@ -906,7 +907,6 @@ updates
 upload
 us
 usa
-us-east
 us-east-1
 user
 users

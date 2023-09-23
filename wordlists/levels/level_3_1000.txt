@@ -62,7 +62,6 @@
 159
 16
 160
-161
 162
 163
 165
@@ -86,7 +85,6 @@
 188
 189
 19
-190
 191
 192
 193
@@ -128,7 +126,6 @@
 228
 229
 23
-230
 232
 235
 236
@@ -336,6 +333,7 @@ c1
 c2
 c3
 c4
+c5
 ca
 cable
 cache
@@ -372,6 +370,7 @@ cn
 cname
 co
 code
+codeload
 collab
 collector
 com
@@ -743,6 +742,7 @@ perf
 ph
 phoenix
 photo
+pi
 pilot
 pl
 platform
@@ -817,7 +817,6 @@ review
 ro
 root
 router
-rr
 rs
 ru
 s1
@@ -865,6 +864,7 @@ smtp
 sonar
 sonarqube
 sp
+spf
 splunk
 sports
 sql

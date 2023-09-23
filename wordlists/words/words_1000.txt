@@ -662,7 +662,6 @@ parking
 partner
 partners
 passport
-password
 pay
 payment
 payments
@@ -686,6 +685,7 @@ play
 plus
 pm
 poc
+police
 pop
 pop3
 portal
