@@ -12,7 +12,6 @@ blogs
 careers
 cdn
 chat
-click
 cloud
 cms
 co
@@ -95,6 +94,7 @@ vpn
 web
 webdisk
 webmail
+wiki
 ww
 www
 www1

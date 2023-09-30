@@ -27,7 +27,6 @@ data
 de
 demo
 dev
-developer
 docs
 download
 email
@@ -70,6 +69,7 @@ ns
 ns1
 ns2
 ns3
+old
 org
 owa
 pop

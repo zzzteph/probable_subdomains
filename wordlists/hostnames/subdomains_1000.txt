@@ -209,7 +209,6 @@ cpanel
 cpcalendars
 cpcontacts
 cr
-creative
 crl
 crm
 cs
@@ -873,6 +872,7 @@ ticket
 tickets
 time
 tls
+tm
 tms
 toolbar
 tools

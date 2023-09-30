@@ -558,6 +558,7 @@ gc
 ge
 general
 gh
+ghcpi
 gist
 git
 github
@@ -625,7 +626,6 @@ iot
 ip
 ip4
 ipv4
-ipv6
 is
 it
 jenkins

@@ -322,7 +322,6 @@ adler
 adlog
 adm
 adm2
-admanager
 admin
 admin01
 admin1
@@ -489,6 +488,8 @@ alf
 alfa
 alfred
 alfresco
+algeria
+algerie
 ali
 alibaba
 alice
@@ -547,7 +548,6 @@ amc
 amd
 america
 american
-americanart
 americas
 amethyst
 amg
@@ -1968,7 +1968,6 @@ cms
 cms1
 cms2
 cmsdev
-cmsoo
 cmstest
 cmt
 cn
@@ -2625,7 +2624,6 @@ dieta
 dig
 digi
 digikoppeling
-digikoppeling-test
 digilander
 digit
 digital
@@ -3069,7 +3067,6 @@ employment
 empresas
 emr
 ems
-emsonline
 emu
 en
 encoder
@@ -3424,7 +3421,6 @@ first
 fis
 fish
 fisher
-fisheries
 fisheye
 fishing
 fist
@@ -3972,6 +3968,7 @@ hcs
 hd
 he
 headlines
+healing
 health
 healthcare
 healthy
@@ -4489,7 +4486,6 @@ ip
 ip1
 ip2
 ip3
-ip6
 ipa
 ipac
 ipad
@@ -4555,6 +4551,7 @@ issue
 issues
 ist
 istanbul
+isv
 it
 it1
 ita
@@ -4786,6 +4783,7 @@ kennisbank
 kenny
 kent
 kentucky
+kenya
 kenzo
 kepler
 kerala
@@ -4803,7 +4801,6 @@ kf
 kg
 kh
 khan
-khms0
 khms1
 ki
 kia
@@ -5793,6 +5790,7 @@ morton
 mos
 mosaic
 moscow
+moskva
 moss
 mot
 mother
@@ -6007,6 +6005,7 @@ natalia
 nate
 nathan
 national
+nato
 nats
 nature
 nautilus
@@ -7052,6 +7051,7 @@ public
 publicaccess
 publicaties
 publications
+publichealth
 publicidad
 publiker
 publish
@@ -7922,6 +7922,7 @@ siga
 sigma
 sign
 signal
+signature
 signin
 signon
 signup
@@ -7967,6 +7968,7 @@ site5
 siteadmin
 sitebuilder
 sitecore
+sitemanager
 sitemap
 sitemaps
 sites
@@ -8500,6 +8502,7 @@ symphony
 symposium
 synapse
 sync
+sync2
 synd
 syndication
 synergy
@@ -8518,7 +8521,6 @@ t3
 t4
 t5
 ta
-tab
 tableau
 tablet
 tac
@@ -8670,7 +8672,6 @@ testing
 testing1
 testing123
 testing2
-test-ipa
 testlink
 testm
 testmail
@@ -9277,6 +9278,7 @@ vr
 vrn
 vs
 vs4
+vserver
 vsp
 vss
 vt
@@ -9521,7 +9523,6 @@ webapp
 webapps
 webapps1
 webapps2
-webapps-common.alioth
 webauth
 webboard
 webcache
@@ -9531,6 +9532,7 @@ webchat
 webcon
 webconf
 webconf01
+webconf2
 webconference
 webconnect
 webdav
@@ -9741,7 +9743,6 @@ ww3
 ww35
 ww38
 ww4
-ww41
 ww5
 ww6
 ww7
@@ -9940,7 +9941,6 @@ z1
 za
 zaaksysteem-accept
 zabbix
-zakelijk
 zaken
 zaken.acceptatie
 zakupki

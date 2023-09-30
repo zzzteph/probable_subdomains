@@ -182,7 +182,6 @@ basic-nodejs-dev
 bb
 bbs
 bc
-bd
 be
 beta
 bi
@@ -641,6 +640,7 @@ nginx-newest
 nginx-newest1
 nic
 nl
+nm
 no
 node
 nodejs

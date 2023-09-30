@@ -258,7 +258,6 @@
 99
 a1
 a3
-aa
 aaa
 abc
 abo
@@ -298,6 +297,7 @@ apac
 api
 api2
 api-dev
+api-docs
 api-gateway
 apigw
 api-int
@@ -372,6 +372,7 @@ card
 careers
 cart
 cas
+cat
 catalog
 cb
 cc
@@ -405,6 +406,7 @@ code
 com
 commerce
 community
+comp
 compute
 config
 confluence
@@ -536,7 +538,6 @@ frontend
 fs
 ftp
 fusion
-fw
 ga
 galegroup
 game
@@ -632,6 +633,7 @@ ldap
 le
 legacy
 lexisnexis
+lib
 library
 lightspeed
 link
@@ -756,7 +758,6 @@ perf
 pgadmin
 ph
 php
-pilot
 pl
 platform
 play
@@ -795,6 +796,7 @@ pt
 ptr
 pub
 public
+publish
 publisher
 pubs
 push
@@ -816,7 +818,6 @@ rds
 reg
 registration
 registry
-relay
 remote
 render
 repo
@@ -840,10 +841,10 @@ s3
 sa
 sandbox
 sb
-sbx
 sc
 sca
 scholar
+scitation
 scm
 se
 search
@@ -885,7 +886,6 @@ sta
 stage
 stage1
 staging
-star
 star-mini
 stat
 static
@@ -973,7 +973,6 @@ wap
 web
 web03
 web1
-web2
 web3
 webapi
 webapp
@@ -983,6 +982,7 @@ webmail
 webproxy
 webservices
 west
+whoami
 wiki
 wildcard
 wiley

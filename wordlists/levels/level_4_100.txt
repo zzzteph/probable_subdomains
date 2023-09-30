@@ -6,6 +6,7 @@
 45
 72
 76
+ac
 admin
 alertmanager
 antivirus
@@ -43,7 +44,6 @@ frontend
 ftp
 gateway
 gitlab
-global
 go
 google
 grafana

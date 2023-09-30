@@ -520,6 +520,7 @@ afs
 afspraak
 afspraken
 ag
+ag1
 aga
 agape
 agata
@@ -895,6 +896,7 @@ archivio
 archivo
 arctic
 arcturus
+ard
 are
 area
 area51
@@ -1341,7 +1343,6 @@ bgp
 bgs
 bgt
 bh
-bhm
 bi
 bia
 bianca
@@ -1945,7 +1946,6 @@ china
 chinese
 chip
 chita
-chitchat
 chloe
 chm
 cho
@@ -1970,6 +1970,7 @@ ci
 cia
 cib
 cic
+cicd
 cid
 cie
 cielo
@@ -2059,7 +2060,6 @@ cloud
 cloud1
 cloud2
 cloud3
-cloud4
 cloud9
 cloudapp
 cloudflare
@@ -3099,6 +3099,7 @@ eduroam
 edwin
 ee
 eee
+ees
 ef
 efile
 eform
@@ -3265,10 +3266,8 @@ epic
 epm
 epo
 eportal
-eportfolio
 epos
 epost
-eposta
 epp
 eprints
 eproc
@@ -3356,7 +3355,6 @@ eum
 eur
 eureka
 euro
-euro2008
 euro2012
 europa
 europe
@@ -3907,6 +3905,7 @@ goa
 goal
 goat
 goblin
+gobo
 god
 godzilla
 gogo
@@ -4037,7 +4036,6 @@ gx
 gy
 gz
 h1
-h14
 h2
 h3
 h4
@@ -4421,7 +4419,6 @@ ils
 im
 im1
 im2
-im3
 ima
 image
 image1
@@ -4735,6 +4732,7 @@ jedi
 jeep
 jeff
 jefferson
+jelly
 jellyfish
 jen
 jenkins
@@ -4904,6 +4902,7 @@ kennedy
 kenny
 kent
 kentucky
+kenya
 kepler
 kerala
 kerberos
@@ -5294,6 +5293,7 @@ lrs
 ls
 lsg
 lsrp
+lst
 lt
 lts
 lu
@@ -5884,7 +5884,6 @@ moria
 morpheus
 morris
 mortgage
-morton
 mos
 mosaic
 moscow
@@ -5931,7 +5930,6 @@ msc
 msd
 mse
 mse21
-mse3
 mse5
 msf
 msg
@@ -6041,6 +6039,7 @@ myadmin
 myapps
 mybenefits
 myblog
+mydata
 mydesktop
 mydev
 mydevices
@@ -6187,6 +6186,7 @@ newsletters
 newspaper
 newsroom
 newton
+newweb
 newworld
 newyear
 newyork
@@ -6993,7 +6993,6 @@ post
 posta
 postal
 postbox
-postfix
 postman
 postmaster
 postoffice
@@ -8335,6 +8334,7 @@ sq
 sql
 sql01
 sql1
+sqladmin
 sqlserver
 square
 squid
@@ -8378,6 +8378,7 @@ ssm
 sso
 sso2
 sso-dev
+sso-test
 ssotest
 ssp
 sspr
@@ -8600,6 +8601,7 @@ swift
 swim
 swiss
 switch
+switzerland
 sword
 sws
 sww
@@ -9042,6 +9044,7 @@ tulip
 tumblr
 tuna
 tuning
+tunisia
 tunnel
 turbo
 turing
@@ -9180,8 +9183,6 @@ us-east-1
 us-east-2
 used
 user
-user1
-user2
 username
 users
 usertest
@@ -9531,7 +9532,6 @@ webcon
 webconf
 webconf01
 webconference
-webct
 webdav
 webdemo
 webdesign
