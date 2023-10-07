@@ -1,5 +1,4 @@
 10
-123
 1www
 20
 222
@@ -122,7 +121,6 @@ br
 brand
 bt
 budget
-bugs
 build
 builder
 business
@@ -209,6 +207,7 @@ cpanel
 cpcalendars
 cpcontacts
 cr
+creative
 crl
 crm
 cs
@@ -353,6 +352,7 @@ geo
 get
 gis
 git
+github
 gitlab
 global
 go
@@ -545,7 +545,6 @@ maps
 market
 marketing
 marketplace
-mars
 master
 math
 maven
@@ -579,7 +578,6 @@ mongodb
 monitor
 monitoring
 moodle
-movie
 movies
 mp
 mp3
@@ -667,8 +665,8 @@ pc
 pda
 people
 permits
-pg
 ph
+phoenix
 photo
 photos
 pic
@@ -712,6 +710,7 @@ provincia
 proxy
 ps
 pt
+pub
 public
 publicaccess
 publishing-catalog
@@ -764,6 +763,7 @@ s3
 sa
 sales
 sandbox
+sap
 sc
 sd
 se

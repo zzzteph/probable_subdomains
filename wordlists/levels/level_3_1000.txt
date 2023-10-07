@@ -320,6 +320,7 @@ biz
 blob
 blog
 blue
+bo
 border-even
 border-odd
 box
@@ -339,9 +340,9 @@ cache
 canary
 careers
 cas
+cat
 catalog
 cc
-ccs
 cd
 cdn
 ce
@@ -356,6 +357,7 @@ check
 checkout
 chef
 ci
+cis
 citrix
 cl
 click
@@ -466,7 +468,6 @@ en
 eng
 engine
 engineering
-ent
 enterprise
 enterpriseregistration
 es
@@ -537,7 +538,6 @@ home
 host
 hosting
 hostmaster
-hq
 hr
 http
 httpbin
@@ -745,7 +745,6 @@ pilot
 pl
 platform
 play
-plus
 poc
 pool
 pop
@@ -805,6 +804,7 @@ repo
 report
 reporting
 reports
+repository
 res
 research
 resources
@@ -857,7 +857,6 @@ sip
 sit
 site
 sites
-sm
 sms
 smtp
 sonar
@@ -985,6 +984,7 @@ whois
 wiki
 wildcard
 wiley
+wire
 wireless
 wordpress
 wp

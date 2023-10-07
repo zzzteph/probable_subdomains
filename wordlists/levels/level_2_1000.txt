@@ -83,6 +83,7 @@
 98
 99
 a1
+a2
 aa
 ab
 abc
@@ -495,7 +496,6 @@ jp
 js
 k8s
 kb
-keycloak
 kibana
 kids
 knowledgemanagement
@@ -689,6 +689,7 @@ orion
 outlook
 owa
 p1
+p2
 pa
 page
 pages
@@ -844,7 +845,6 @@ sms
 smtp
 smtp1
 smtp2
-so
 social
 sonar
 sonarqube
@@ -882,6 +882,7 @@ studio
 support
 survey
 surveys
+sv
 svc
 svn
 sync
@@ -966,7 +967,6 @@ web2
 webapp
 webapps
 webconf
-webdev
 webdisk
 webhook
 webmail

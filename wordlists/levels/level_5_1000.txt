@@ -312,6 +312,7 @@ api2
 api3
 apidocs
 apigw
+api-proxy
 apitest
 apm
 ap-northeast-1
@@ -356,6 +357,7 @@ backend
 backstage
 backup
 bar
+bastion
 batch
 bb
 bbs
@@ -459,6 +461,7 @@ delivery
 demo
 desktop
 dev
+dev01
 dev1
 dev2
 dev3
@@ -554,7 +557,6 @@ game
 gamma
 gate
 gateway
-gc
 ge
 general
 gh
@@ -581,7 +583,6 @@ h250
 h68
 h98
 harbor
-hc
 health
 hello
 help
@@ -611,7 +612,6 @@ images
 imap
 img
 in
-influxdb
 info
 infra
 ingest

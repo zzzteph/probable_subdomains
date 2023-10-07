@@ -22,11 +22,11 @@ corp
 cpanel
 cpcalendars
 cpcontacts
-cs
 data
 de
 demo
 dev
+developer
 docs
 download
 email

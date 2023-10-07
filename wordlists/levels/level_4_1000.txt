@@ -300,7 +300,6 @@ api-dev
 api-docs
 api-gateway
 apigw
-api-int
 apim
 ap-northeast-1
 apollo
@@ -345,6 +344,7 @@ bbs
 bc
 bd
 be
+beacon
 beta
 bf
 bf1
@@ -373,7 +373,6 @@ careers
 cart
 cas
 cat
-catalog
 cb
 cc
 cd
@@ -480,7 +479,6 @@ dummy
 dx
 dyn
 dynamic
-e1
 e2e
 ea
 east
@@ -680,6 +678,7 @@ mobile
 monitor
 monitoring
 mq
+ms
 msn
 mta
 mta-sts
@@ -918,6 +917,7 @@ test4
 testing
 th
 thanos
+the
 tls
 to
 tools

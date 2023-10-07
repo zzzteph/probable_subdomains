@@ -121,7 +121,6 @@
 3awww
 3c
 3d
-3ds
 3g
 3w
 3ww
@@ -209,6 +208,7 @@ aaaaaa
 aam
 aap
 aaron
+aas
 ab
 aba
 abacus
@@ -224,7 +224,6 @@ abcnews
 abe
 abel
 abhi
-abm
 abo
 about
 abraham
@@ -422,7 +421,6 @@ ahwp
 ai
 aia
 aic
-aid
 aida
 aide
 aikido
@@ -649,7 +647,6 @@ anything
 anywhere
 ao
 aoa
-aoc
 aol
 a-opendata
 a-opendata.a-english
@@ -658,7 +655,6 @@ aovpn
 ap
 ap1
 ap2
-apa
 apac
 apache
 apartment
@@ -1780,7 +1776,6 @@ charlotte
 charm
 charmed
 charon
-chart
 charts
 chase
 chat
@@ -1960,7 +1955,6 @@ cmc
 cmd
 cmdb
 cme
-cmg
 cmi
 cmis
 cmp
@@ -2040,6 +2034,7 @@ communication
 communications
 communities
 community
+community-stage
 comodo
 comp
 company
@@ -2840,7 +2835,6 @@ dt
 dtc
 dtk
 dtm
-dtp
 dts
 du
 dual
@@ -3008,6 +3002,7 @@ element
 elements
 elena
 elephant
+elevate
 eleven
 eli
 elias
@@ -3099,6 +3094,7 @@ enterprise
 enterpriseenrollment
 enterpriseregistration
 entertainment
+entest
 entrepreneur
 entry
 env
@@ -3783,6 +3779,7 @@ gogo
 gold
 golden
 goldmine
+golestan
 golf
 gollum
 gomez
@@ -3927,7 +3924,6 @@ hamburg
 hamilton
 hammer
 hamster
-han
 hana
 handbook
 handy
@@ -4173,6 +4169,7 @@ hulk
 human
 humanresources
 humor
+hun
 hungary
 hunter
 hunting
@@ -4654,6 +4651,7 @@ jinx
 jira
 jira.corp
 jitsi
+jiuye
 jive
 jj
 jjc
@@ -4769,6 +4767,7 @@ kbox
 kc
 kcc
 kd
+kdc
 kds
 ke
 kea
@@ -6486,7 +6485,6 @@ ott
 ottawa
 otto
 oud
-our
 out
 out1
 outage
@@ -7051,7 +7049,6 @@ public
 publicaccess
 publicaties
 publications
-publichealth
 publicidad
 publiker
 publish
@@ -7305,7 +7302,6 @@ remoteaccess
 remotesupport
 remoto
 ren
-render
 renew
 renewal
 rent
@@ -7823,6 +7819,7 @@ service
 service1
 service2
 service3
+servicecenter
 servicedesk
 servicenow
 services
@@ -8672,6 +8669,7 @@ testing
 testing1
 testing123
 testing2
+test-ipa
 testlink
 testm
 testmail
@@ -9830,6 +9828,7 @@ www-old
 wwwold
 www-org
 www-origin
+www-qa
 wwws
 www-stage
 www-staging
@@ -9941,6 +9940,7 @@ z1
 za
 zaaksysteem-accept
 zabbix
+zakelijk
 zaken
 zaken.acceptatie
 zakupki
