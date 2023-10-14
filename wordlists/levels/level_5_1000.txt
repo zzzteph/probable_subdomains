@@ -599,6 +599,7 @@ http
 httpbin
 hub
 hw
+i1
 i2
 iam
 id
@@ -621,6 +622,7 @@ int
 integration
 internal
 intranet
+inventory
 io
 iot
 ip
@@ -895,7 +897,6 @@ sta
 stage
 stage2
 staging
-star
 start
 stat
 static
@@ -918,7 +919,6 @@ t1
 technology
 test
 test1
-test10
 test-2
 test2
 test22

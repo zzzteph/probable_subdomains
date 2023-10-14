@@ -97,7 +97,6 @@ acceptatie
 access
 account
 accounts
-ace
 acs
 act
 ad
@@ -268,7 +267,6 @@ contentbeheer
 control
 core
 corp
-courses
 cp
 cpanel
 cpcalendars
@@ -579,6 +577,7 @@ member
 members
 merchandising-preview
 mercury
+meta
 metrics
 mfa
 mgmt
@@ -882,7 +881,6 @@ studio
 support
 survey
 surveys
-sv
 svc
 svn
 sync
@@ -928,6 +926,7 @@ uk
 up
 update
 upload
+uploads
 us
 usa
 us-east
@@ -967,6 +966,7 @@ web2
 webapp
 webapps
 webconf
+webdev
 webdisk
 webhook
 webmail

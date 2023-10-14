@@ -387,7 +387,6 @@ afisha
 afm
 afp
 africa
-afrodita
 afs
 afspraak
 afspraken
@@ -931,6 +930,7 @@ august
 auk
 aukro
 aula
+aulavirtual
 aura
 aurora
 aussie
@@ -1581,7 +1581,6 @@ canal
 canary
 cancel
 cancer
-candidatsbe
 candle
 candy
 canon
@@ -1955,6 +1954,7 @@ cmc
 cmd
 cmdb
 cme
+cmg
 cmi
 cmis
 cmp
@@ -2124,6 +2124,7 @@ cooking
 cool
 coop
 cooper
+cop
 copper
 copy
 copyright
@@ -3017,7 +3018,6 @@ elnino
 elo
 eloket
 elpaso
-elrond
 els
 elsa
 elvis
@@ -3098,7 +3098,6 @@ entest
 entrepreneur
 entry
 env
-envios
 environment
 enzo
 eo
@@ -3121,7 +3120,6 @@ epm
 epo
 eportal
 eportfolio
-epos
 epost
 eposta
 epp
@@ -3578,6 +3576,7 @@ ftp8
 ftps
 ftpserver
 ftp.shop
+ftp.test
 ftptest
 fts
 fuck
@@ -4614,6 +4613,7 @@ javascript
 jay
 jazz
 jb
+jbc
 jc
 jcc
 jd
@@ -4730,7 +4730,6 @@ ka
 kaart
 kagami
 kai
-kain
 kairos
 kaiser
 kaizen
@@ -4872,6 +4871,7 @@ kristine
 kronos
 krs
 krsk
+krypton
 ks
 ksi
 ks-inventory-api
@@ -4887,6 +4887,7 @@ ks-vendingtransactions-mq2
 ks-vendingtransactions-mq3
 ks-vendingtransactions-mq4
 kt
+ktc
 ktm
 ku
 ku1720
@@ -4966,6 +4967,7 @@ ldap1
 ldap2
 ldap3
 ldaps
+ldc
 ldp
 lds
 le
@@ -6041,6 +6043,7 @@ nestor
 net
 net1
 net2
+netbox
 netflow
 netlab
 netloan
@@ -6468,7 +6471,6 @@ oscar
 osd
 osi
 osiris
-oslo
 osm
 osprey
 oss
@@ -6738,6 +6740,7 @@ pilot
 pim
 pimp
 pin
+pine
 ping
 pinger
 pingpong
@@ -7165,6 +7168,7 @@ rail
 rails
 rain
 rainbow
+raja
 ralph
 ram
 rambo
@@ -7338,6 +7342,7 @@ resolver1
 resolver2
 resource
 resources
+respect
 response
 rest
 restaurant
@@ -7352,7 +7357,6 @@ retailers
 retro
 return
 returns
-reunion
 rev
 revelation
 revenue
@@ -8061,7 +8065,6 @@ smtp7
 smtp8
 smtp9
 smtpauth
-smtpgw
 smtp-in
 smtp.mail
 smtp-out
@@ -8541,7 +8544,6 @@ tandem
 tandplejen
 tang
 tango
-tank
 tanya
 tao
 taobao
@@ -8853,6 +8855,7 @@ trailers
 train
 training
 training1
+training2
 trance
 trans
 transfer
@@ -9215,7 +9218,6 @@ vk
 vkontakte
 vl
 vlad
-vladimir
 vladivostok
 vle
 vlg
@@ -9271,7 +9273,6 @@ vpn-test
 vpn-uk
 vps
 vps1
-vps5
 vr
 vrn
 vs
@@ -9304,7 +9305,6 @@ w9
 wa
 waarmerk
 wac
-waf
 wagner
 wahlen
 wakeup
@@ -9516,6 +9516,7 @@ web8
 web9
 webaccess
 webadmin
+webanalytics
 webapi
 webapp
 webapps
@@ -9968,7 +9969,6 @@ zeus
 zf
 zh
 zhaopin
-zhibo
 zia
 zim
 zimbra

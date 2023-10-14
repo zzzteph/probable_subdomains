@@ -402,6 +402,7 @@ customer
 cz
 da
 dashboard
+dashboards
 data
 db
 db1
@@ -455,6 +456,7 @@ ec
 echo
 edge
 edgeflow
+edi
 edit
 edu
 ee
@@ -468,6 +470,7 @@ en
 eng
 engine
 engineering
+enroll
 enterprise
 enterpriseregistration
 es
@@ -664,7 +667,6 @@ ms
 mta
 mta2
 mta-sts
-music
 mx
 mx01
 mx1
@@ -782,7 +784,6 @@ push
 qa
 qa1
 qa2
-queue
 r1
 rabbitmq
 rancher
@@ -866,7 +867,6 @@ spf
 splunk
 sports
 sql
-sr
 ss
 ssl
 sslvpn

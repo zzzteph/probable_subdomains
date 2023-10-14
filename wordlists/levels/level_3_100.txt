@@ -29,6 +29,7 @@ download
 email
 es
 eu
+files
 ftp
 gateway
 git
@@ -44,7 +45,6 @@ images
 in
 int
 internal
-it
 jenkins
 jira
 kibana

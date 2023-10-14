@@ -280,7 +280,6 @@ drive
 ds
 dwp-cis
 dyn
-dynamic
 ea
 ec
 edge
@@ -935,6 +934,7 @@ vote
 vpn
 vpn1
 vpn2
+w3
 waarmerk
 wap
 weather

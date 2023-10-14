@@ -74,7 +74,6 @@ arc
 archive
 archives
 art
-arts
 as
 asia
 ask
@@ -273,6 +272,7 @@ drive
 ds
 dwp-cis
 dyn
+ea
 ec
 edge
 edit

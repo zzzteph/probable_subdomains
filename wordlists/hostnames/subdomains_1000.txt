@@ -121,6 +121,7 @@ br
 brand
 bt
 budget
+bugs
 build
 builder
 business
@@ -137,6 +138,7 @@ care
 career
 careers
 cars
+cart
 cas
 catalog
 cc
@@ -183,7 +185,6 @@ code
 collab
 collab-edge
 com
-comment
 commerce
 community
 company
@@ -206,7 +207,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cr
 creative
 crl
 crm
@@ -665,6 +665,7 @@ pc
 pda
 people
 permits
+pg
 ph
 phoenix
 photo
@@ -992,7 +993,6 @@ www7a
 www7b
 www8
 www9
-www-staging
 www-test
 wwww
 wwwwww
