@@ -399,7 +399,6 @@ horizon
 host
 hosting
 hostmaster
-hotels
 house
 housing
 hr
@@ -804,6 +803,7 @@ signup
 simsite
 sip
 site
+sitecore
 sites
 sk
 sl

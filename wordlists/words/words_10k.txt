@@ -623,7 +623,6 @@ alien
 alim
 alina
 alioth
-alisa
 alive
 all
 allegro
@@ -687,8 +686,8 @@ amos
 amp
 ampcid
 amplify
+amr
 ams
-ams2
 amsterdam
 amt
 amur
@@ -1697,6 +1696,7 @@ canal
 canary
 cancel
 cancer
+candle
 candy
 canon
 canopus
@@ -2182,6 +2182,7 @@ compton
 compute
 computer
 computers
+computing
 coms
 comune
 comunidad
@@ -2208,6 +2209,7 @@ confirmation
 confluence
 confluence-test
 connect
+connect1
 connect2
 connected
 connection
@@ -2252,6 +2254,7 @@ convert
 converter
 cook
 cookie
+cookies
 cooking
 cool
 coop
@@ -3195,6 +3198,7 @@ emma
 emmanuel
 emmy
 emo
+emoney
 emotion
 emp
 empire
@@ -3264,6 +3268,7 @@ epic
 epm
 epo
 eportal
+eportfolio
 epos
 epost
 epp
@@ -3515,6 +3520,7 @@ fg
 fh
 fi
 fiat
+fiber
 fic
 fiction
 field
@@ -3968,7 +3974,6 @@ grid
 gridpp
 grievance
 groove
-groovy
 group
 groupon
 groups
@@ -4194,6 +4199,7 @@ homepage3
 homepages
 homer
 homes
+homolog
 honda
 honduras
 honey
@@ -4275,7 +4281,6 @@ hsp
 hss
 hst
 ht
-htc
 html
 html5
 hts
@@ -4361,7 +4366,6 @@ icarus
 icc
 ice
 iceberg
-iceland
 iceman
 icg
 ici
@@ -4555,6 +4559,7 @@ intelligence
 inter
 interactive
 interface
+interior
 intern
 internal
 internal-api
@@ -5093,7 +5098,6 @@ ldap1
 ldap2
 ldap3
 ldaps
-ldc
 ldp
 lds
 le
@@ -5295,7 +5299,6 @@ lrs
 ls
 lsg
 lsrp
-lst
 lt
 lts
 lu
@@ -5890,7 +5893,6 @@ mos
 mosaic
 moscow
 moss
-most
 mot
 mother
 motion
@@ -6102,6 +6104,7 @@ nascar
 nash
 nashville
 nat
+nat1
 natalia
 natasha
 nate
@@ -6314,7 +6317,6 @@ ns04
 ns1
 ns10
 ns100
-ns101
 ns11
 ns110
 ns12
@@ -6666,7 +6668,6 @@ panasonic
 panda
 pandora
 panel
-panelstatsmail
 panic
 panorama
 pantera
@@ -6695,6 +6696,7 @@ part
 partenaires
 partner
 partner2
+partner-api
 partnerapi
 partnerportal
 partners
@@ -6885,7 +6887,6 @@ pki
 pl
 pla
 place
-placeholder
 placement
 places
 plan
@@ -6995,7 +6996,6 @@ poseidon
 post
 posta
 postal
-postbox
 postman
 postmaster
 postoffice
@@ -7420,7 +7420,6 @@ release
 releases
 religion
 rem
-remax
 remedy
 remix
 remote
@@ -7429,6 +7428,7 @@ remote2
 remoteaccess
 remoteapps
 remotesupport
+remoto
 remus
 ren
 render
@@ -7619,6 +7619,7 @@ rstudio
 rsvp
 rsync
 rt
+rt1
 rta
 rtc
 rti
@@ -8110,6 +8111,7 @@ skills
 skin
 skins
 sklep
+skoda
 sks
 sky
 skyline
@@ -8138,6 +8140,7 @@ smail
 small
 smallbusiness
 smart
+smart2
 smarthost
 smartphone
 smash
@@ -8457,7 +8460,6 @@ stellar
 stem
 step
 stephanie
-stephen
 sterling
 steve
 steven
@@ -8885,7 +8887,6 @@ tld
 tls
 tm
 tma
-tmb
 tmc
 tmg
 tmm
@@ -9527,7 +9528,6 @@ webcache
 webcam
 webcast
 webchat
-webclient
 webcon
 webconf
 webconf01

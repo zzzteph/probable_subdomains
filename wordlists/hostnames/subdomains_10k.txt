@@ -214,7 +214,6 @@ aba
 abacus
 abba
 abc
-abc1
 abc123
 abcd
 abcde
@@ -678,6 +677,7 @@ api-gateway
 apigateway
 apigw
 api.int
+apim
 api-qa
 api.qa
 apis
@@ -1925,6 +1925,7 @@ clio
 clip
 clips
 clk
+clm
 clock
 clone
 clothing
@@ -3189,7 +3190,6 @@ eta
 etc
 etech
 eternal
-eternity
 etherpad
 ethics
 eticket
@@ -3993,7 +3993,6 @@ helpme
 helsinki
 henry
 hentai
-hep
 hera
 herbalife
 hercules
@@ -4491,7 +4490,6 @@ ipc
 ipe
 iphone
 ipm
-ipmonitor
 ipn
 ipo
 ipod
@@ -4799,6 +4797,7 @@ kf
 kg
 kh
 khan
+khms0
 khms1
 ki
 kia
@@ -5063,7 +5062,6 @@ lion
 lions
 lip
 lipetsk
-liquid
 lis
 lisa
 list
@@ -5301,6 +5299,7 @@ mail36
 mail37
 mail39
 mail4
+mail40
 mail43
 mail44
 mail46
@@ -6537,6 +6536,7 @@ pagerank
 pages
 pages.email
 pai
+pain
 painel
 paint
 paintball
@@ -6652,7 +6652,6 @@ pentest
 penza
 people
 pepper
-peppermint
 pepsi
 per
 perf
@@ -7586,7 +7585,6 @@ saffron
 saga
 sagar
 sage
-sagittarius
 sahara
 sailing
 sakura
@@ -8675,6 +8673,7 @@ test-ipa
 testlink
 testm
 testmail
+testmobile
 testnet
 testonline
 testonly
@@ -9000,6 +8999,7 @@ uma
 umbrella
 umfrage
 ums
+umwelt
 un
 unagi
 unauthorized
@@ -9053,7 +9053,6 @@ usa
 us-east
 useast
 us-east-1
-used
 user
 user1
 user2
@@ -9061,6 +9060,7 @@ username
 users
 usertest
 uss
+usuarios
 ut
 utah
 util

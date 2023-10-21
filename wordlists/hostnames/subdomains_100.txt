@@ -30,7 +30,6 @@ download
 email
 en
 es
-events
 feeds
 forum
 forums
@@ -48,6 +47,7 @@ img
 info
 intranet
 jobs
+link
 login
 lyncdiscover
 mail

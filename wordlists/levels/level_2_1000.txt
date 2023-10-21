@@ -193,7 +193,6 @@ blog
 blogs
 blue
 bo
-boards
 bounce
 box
 br
@@ -334,10 +333,11 @@ ds
 dsl
 dyn
 dynamic
+ea
 eas
 east
+ebm
 ec
-echo
 ecs
 ed
 edge
@@ -399,6 +399,7 @@ gateway
 gb
 gcom-product-find-dev
 gcom-product-find-qa
+gcp
 geo
 get
 gis
@@ -923,7 +924,6 @@ uat2
 uc
 ui
 uk
-up
 update
 upload
 uploads
