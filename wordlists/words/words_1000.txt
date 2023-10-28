@@ -563,6 +563,7 @@ mfa
 mg
 mgmt
 mi
+microsoft
 mijn
 mil
 mirror
@@ -726,7 +727,6 @@ push
 qa
 ra
 radio
-radius
 rc
 rd
 rds

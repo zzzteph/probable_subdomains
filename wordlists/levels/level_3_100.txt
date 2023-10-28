@@ -42,9 +42,9 @@ home
 hostmaster
 image
 images
-in
 int
 internal
+it
 jenkins
 jira
 kibana

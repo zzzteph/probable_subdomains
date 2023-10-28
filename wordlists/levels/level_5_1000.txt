@@ -274,6 +274,7 @@ account
 accounts
 ad
 adapter
+adilike
 adm
 admin
 administrator
@@ -451,12 +452,10 @@ dashboard
 data
 db
 db01
-db2
 dc
 dc2
 dd
 de
-debug
 dec
 default
 delivery
@@ -679,6 +678,7 @@ manage
 management
 manager
 maps
+market
 marketing
 master
 max
@@ -761,6 +761,7 @@ orchestration
 order
 orders
 org
+orgwww
 origin
 orion
 ovidsp
@@ -973,7 +974,6 @@ video
 vip
 virus
 vpn
-wa
 wap
 watch
 weather

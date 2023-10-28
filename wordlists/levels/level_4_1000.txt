@@ -330,6 +330,7 @@ autodiscover
 avatars
 aws
 az
+azure
 b2b
 backbone
 backend
@@ -468,7 +469,6 @@ dns1
 doc
 docker
 docs
-dod
 doi
 download
 dr
@@ -589,6 +589,7 @@ image
 images
 imap
 img
+img1
 in
 info
 infra
@@ -675,11 +676,11 @@ minio
 mirror
 ml
 mobile
+mongo
 monitor
 monitoring
 mq
 ms
-msn
 mta
 mta-sts
 mtls
@@ -831,7 +832,6 @@ resources
 rest
 retail
 rev
-reverse
 rpc
 rs
 ru
@@ -861,7 +861,6 @@ sh
 shared
 shop
 signin
-signup
 sip
 sit
 site
@@ -896,10 +895,12 @@ stg2
 storage
 store
 sts
+studio
 sub
 support
 survey
 svc
+swagger
 sys
 system
 t1
@@ -967,7 +968,6 @@ vip
 virus
 vm
 vn
-vod
 vpn
 wap
 web

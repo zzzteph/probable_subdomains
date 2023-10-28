@@ -138,7 +138,6 @@ care
 career
 careers
 cars
-cart
 cas
 catalog
 cc
@@ -545,6 +544,7 @@ maps
 market
 marketing
 marketplace
+mars
 master
 math
 maven

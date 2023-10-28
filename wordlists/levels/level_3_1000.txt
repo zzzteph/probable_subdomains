@@ -261,7 +261,6 @@ api1
 api2
 api-dev
 api-docs
-apigw
 apim
 apis
 api-test
@@ -522,6 +521,7 @@ git
 github
 gitlab
 global
+gmail
 go
 google
 gov
@@ -568,6 +568,7 @@ ingress
 int
 integration
 internal
+intra
 intranet
 inventory
 io
@@ -791,7 +792,6 @@ rd
 rds
 redbull
 redirect
-redmine
 reg
 register
 registration

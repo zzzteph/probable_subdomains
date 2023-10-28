@@ -1,5 +1,6 @@
 00
 000
+00000-okta-idp
 001
 002
 007
@@ -269,6 +270,7 @@
 58
 59
 60
+60minutes
 60www
 61
 62
@@ -352,6 +354,7 @@ abcdef
 abcnews
 abe
 abel
+abi
 ablink
 abm
 abmail
@@ -373,6 +376,7 @@ academico
 academie
 academy
 acapi
+acb
 acc
 acca
 accelerator
@@ -445,6 +449,7 @@ adhoc
 adi
 adidas
 adimg
+adis
 adler
 adlog
 adm
@@ -623,6 +628,7 @@ alien
 alim
 alina
 alioth
+alisa
 alive
 all
 allegro
@@ -677,6 +683,7 @@ amigo
 amigos
 amin
 amir
+amira
 amis
 amit
 aml
@@ -707,6 +714,7 @@ anchor
 and
 anders
 anderson
+andi
 andre
 andrea
 andreas
@@ -918,6 +926,7 @@ aries
 arion
 aris
 arizona
+arjuna
 ark
 arkansas
 arlington
@@ -1577,7 +1586,6 @@ bu
 bubba
 bubble
 bubbles
-bubu
 buck
 bucket
 budapest
@@ -2212,6 +2220,7 @@ connect
 connect1
 connect2
 connected
+connecticut
 connection
 connections
 connector
@@ -2253,6 +2262,7 @@ convergence
 convert
 converter
 cook
+cookbook
 cookie
 cookies
 cooking
@@ -2562,6 +2572,7 @@ david
 davinci
 davis
 dawn
+daxue
 day
 db
 db0
@@ -3050,7 +3061,6 @@ eclass
 eclipse
 ecm
 ecms
-ecn
 eco
 ecology
 ecom
@@ -3859,7 +3869,6 @@ gift
 giftcards
 gifts
 giga
-gigabyte
 gigi
 gin
 gina
@@ -4123,7 +4132,6 @@ hello
 helloworld
 helm
 help
-help2
 helpcenter
 helpdesk
 helper
@@ -4207,7 +4215,6 @@ hongkong
 honolulu
 hood
 hook
-hoover
 hop
 hope
 horde
@@ -4557,6 +4564,7 @@ integrations
 intel
 intelligence
 inter
+interact
 interactive
 interface
 interior
@@ -4683,7 +4691,6 @@ itsupport
 itunes
 itv
 iutnb
-iv
 iva
 ivan
 ivanovo
@@ -4792,7 +4799,6 @@ joel
 joey
 john
 johnny
-johnson
 join
 joinus
 jojo
@@ -5278,7 +5284,6 @@ looker
 lookup
 loopback
 lord
-lori
 losangeles
 lost
 lottery
@@ -5422,7 +5427,6 @@ mail25
 mail26
 mail27
 mail28
-mail29
 mail3
 mail30
 mail32
@@ -5504,7 +5508,6 @@ mammoth
 man
 mana
 manage
-managed
 management
 manager
 manchester
@@ -5724,6 +5727,7 @@ mhs
 mi
 mia
 miami
+mib
 mic
 mica
 michael
@@ -5955,7 +5959,6 @@ msx
 mt
 mta
 mta01
-mta02
 mta1
 mta10
 mta11
@@ -5965,6 +5968,7 @@ mta14
 mta15
 mta16
 mta2
+mta20
 mta3
 mta4
 mta5
@@ -6091,7 +6095,6 @@ nam
 name
 nana
 nancy
-nanjing
 nano
 naomi
 nap
@@ -6126,7 +6129,6 @@ ncp
 ncr
 ncs
 nd
-ndes
 nds
 ne
 nebraska
@@ -6564,7 +6566,6 @@ orientation
 oriflame
 origami
 origin
-origin2
 original
 origin-api
 origin-blog
@@ -6904,7 +6905,6 @@ playbook
 playboy
 player
 playground
-playstation
 plaza
 plesk
 plm
@@ -7356,6 +7356,7 @@ rebel
 reboot
 rec
 recherche
+recipe
 recipes
 recommend
 recon
@@ -7369,7 +7370,6 @@ recruiter
 recruiting
 recruitment
 recycle
-recycling
 red
 redactie
 redash
@@ -7731,6 +7731,7 @@ salud
 sam
 samara
 sametime
+sami
 saml
 sample
 samples
@@ -7795,7 +7796,6 @@ scan
 scanner
 scarlet
 scc
-sccm
 scd
 sce
 sch
@@ -8068,7 +8068,6 @@ simcms
 simg
 simon
 simple
-simply
 simpsons
 sims
 simsite
@@ -8159,6 +8158,7 @@ smoke
 smokeping
 smolensk
 smp
+smpp
 smr
 sms
 smt
@@ -8329,6 +8329,7 @@ spotlight
 spp
 spr
 spring
+springfield
 sprint
 sprite
 spruce
@@ -9734,7 +9735,6 @@ wts
 wu
 wuhan
 wv
-wvw
 ww
 ww1
 ww11
