@@ -351,9 +351,11 @@ abc123
 abcd
 abcde
 abcdef
+abcdefg
 abcnews
 abe
 abel
+abf
 abi
 ablink
 abm
@@ -860,6 +862,7 @@ appserver
 apps-test
 appstore
 apptest
+app-west
 apricot
 april
 aps
@@ -2040,7 +2043,6 @@ cleo
 clerk
 cleveland
 cli
-clic
 click
 click1
 clicks
@@ -2342,6 +2344,7 @@ cpl
 cpm
 cpn
 cpp
+cppm
 cpr
 cps
 cpt
@@ -2358,6 +2361,7 @@ crash
 crater
 crawl
 crawler
+crayon
 crazy
 crc
 cream
@@ -2421,6 +2425,7 @@ csi
 csj
 csl
 csm
+csm-nat-10
 csngok
 cso
 csp
@@ -2654,6 +2659,7 @@ demo
 demo1
 demo10
 demo2
+demo20
 demo3
 demo4
 demo5
@@ -2694,7 +2700,6 @@ destek
 destiny
 det
 detroit
-deutsch
 dev
 dev0
 dev01
@@ -3163,6 +3168,7 @@ element
 elements
 elena
 elephant
+elevate
 eleven
 eli
 elias
@@ -3367,6 +3373,7 @@ eum
 eur
 eureka
 euro
+euro2008
 euro2012
 europa
 europe
@@ -4934,6 +4941,7 @@ khan
 ki
 kia
 kibana
+kick
 kid
 kids
 kiev
@@ -5055,6 +5063,7 @@ lala
 lambda
 lamp
 lan
+lana
 lancaster
 lance
 land
@@ -5436,6 +5445,7 @@ mail35
 mail36
 mail39
 mail4
+mail40
 mail43
 mail5
 mail6
@@ -6339,6 +6349,7 @@ ns3
 ns30
 ns4
 ns5
+ns50
 ns6
 ns7
 ns8
@@ -6359,6 +6370,7 @@ ntp1
 ntp2
 ntp3
 nts
+ntt
 nu
 nucleus
 nuget
@@ -6749,7 +6761,6 @@ pdf
 pdi
 pdm
 pdns
-pdp
 pds
 pdx
 pe
@@ -6905,6 +6916,7 @@ playbook
 playboy
 player
 playground
+playstation
 plaza
 plesk
 plm
@@ -7012,6 +7024,7 @@ ppm
 ppp
 ppr
 pps
+pps00
 ppt
 pptp
 pr
@@ -7297,6 +7310,7 @@ rain
 rainbow
 ralph
 ram
+rambler
 rambo
 rams
 ran
@@ -7659,6 +7673,7 @@ s1
 s10
 s100
 s11
+s110
 s12
 s128
 s13
@@ -7699,7 +7714,6 @@ saa
 saas
 sab
 saba
-sable
 sabrina
 sac
 sacramento
@@ -7917,7 +7931,6 @@ send
 sender
 sendgrid
 sendmail
-seneca
 senior
 sensor
 sentinel
@@ -8059,7 +8072,6 @@ signin
 signing
 signon
 signup
-silicon
 silver
 silvia
 sim
@@ -8184,7 +8196,6 @@ smtp6
 smtp7
 smtp8
 smtpauth
-smtpgw
 smtp-in
 smtp-out
 smtpout
@@ -8424,7 +8435,6 @@ standard
 standards
 standby
 star
-stardust
 stargate
 stark
 starlight
@@ -8504,8 +8514,6 @@ streamer
 streaming
 streams
 street
-stress
-strider
 strong
 sts
 stt
@@ -8607,7 +8615,6 @@ swift
 swim
 swiss
 switch
-switzerland
 sword
 sws
 sww
@@ -8675,7 +8682,6 @@ tattoo
 tau
 taurus
 tax
-taxes
 taxi
 taylor
 taz
@@ -8704,7 +8710,6 @@ teams
 teamwork
 tec
 tech
-tech1
 techblog
 technet
 techno
@@ -8817,7 +8822,6 @@ tf
 tfs
 tftp
 tg
-tgp
 th
 thai
 thailand
@@ -8931,7 +8935,6 @@ tornado
 toro
 toronto
 torrent
-tortuga
 tos
 toshiba
 tot
@@ -8986,7 +8989,6 @@ transportation
 trauma
 travel
 traveler
-traveller
 travian
 travis
 trc
@@ -9435,7 +9437,6 @@ waarmerk
 wac
 waf
 wagner
-wakeup
 walker
 wall
 wallet
@@ -9448,7 +9449,6 @@ walter
 wam
 wan
 wanda
-wang
 wap
 wap1
 wap2
@@ -9498,6 +9498,7 @@ web15
 web16
 web17
 web18
+web18140
 web18210
 web19
 web2
@@ -9505,6 +9506,7 @@ web20
 web22
 web25
 web3
+web30
 web34
 web4
 web4300
@@ -9717,7 +9719,6 @@ writer
 wroclaw
 ws
 ws1
-ws11
 ws2
 ws3
 ws4
@@ -9797,6 +9798,7 @@ www36
 www37
 www39
 www4
+www40
 www41
 www42
 www44
@@ -9827,7 +9829,6 @@ wwwdev
 wwwe
 wwwl
 www-new
-wwwnew
 www-old
 wwwold
 www-origin
@@ -9988,7 +9989,6 @@ zona
 zone
 zoo
 zoom
-zoot
 zozo
 zp
 zs

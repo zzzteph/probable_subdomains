@@ -1,11 +1,13 @@
 00
 000
 00000-okta-idp
+001-esri
 002
 006
 01
 02
 03
+0-checkpoint
 0-www
 10
 100
@@ -118,8 +120,10 @@
 197
 198
 199
+1debit
 20
 200
+2008
 201
 2019
 202
@@ -302,7 +306,6 @@ amux
 an
 anaheim
 analytics
-android
 antivirus
 ao
 ap
@@ -315,12 +318,10 @@ api3
 apidocs
 apigw
 api-proxy
-apitest
 apm
 ap-northeast-1
 apollo
 app
-app01
 app1
 app2
 app3
@@ -332,6 +333,7 @@ ap-south-1
 ap-southeast-1
 ap-southeast-2
 ar
+arcade
 archive
 argocd
 army
@@ -358,8 +360,6 @@ back
 backend
 backstage
 backup
-bar
-base
 bastion
 batch
 bb
@@ -380,6 +380,7 @@ bootstrap
 br
 broad
 broker
+build
 business
 by
 c1
@@ -405,7 +406,6 @@ cf
 ch
 checkout
 chelyabinsk-rnoc-rr02
-china
 ci
 client
 clientes
@@ -419,6 +419,7 @@ cn
 cname
 co
 com
+combucky
 community
 communityctjobbank
 comwww
@@ -472,15 +473,14 @@ development
 devs
 dex
 df
-dfs
 dhcp
 dhcp-dynamic
 dialup
 digital
+dir
 direct
 directory
 discourse
-discover
 dk
 dm
 dns
@@ -491,7 +491,6 @@ docs
 download
 downloads
 dp
-dragon
 dsl
 dx
 dyn
@@ -501,6 +500,7 @@ e2
 e2e
 ea
 east
+eastus2
 ec
 echo
 edge
@@ -519,6 +519,7 @@ eu2
 eu-central-1
 eu-west-1
 eu-west-2
+eu-west-3
 events
 example
 ext
@@ -530,7 +531,6 @@ fbx
 fc
 fd
 fe
-fe01
 feature
 fi
 file
@@ -630,7 +630,7 @@ is
 it
 jenkins
 jira
-jm
+jisc
 journals
 jp
 k8s
@@ -678,7 +678,6 @@ manage
 management
 manager
 maps
-market
 marketing
 master
 max
@@ -836,7 +835,6 @@ redirectme
 reg
 registry
 relay
-release
 remote
 render
 report
@@ -850,7 +848,6 @@ rss
 ru
 rulegodosoft-022facebookapp-xsrvjpinsys-staging
 ruleus-east-2
-rz
 s1
 s3
 sa
@@ -940,6 +937,7 @@ tr
 traefik
 train
 training
+travel
 trn
 ts
 tst
@@ -982,10 +980,12 @@ web1
 webapp
 webdav
 webdisk
+webhook
 webhooks
 webmail
 webproxy
 west
+westeurope
 westus2
 wifi
 wiki

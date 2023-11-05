@@ -1,11 +1,13 @@
+00000-okta-idp
 10
 11
 12
-171
+17
 18
 45
 72
 76
+ac
 acc
 admin
 alertmanager
@@ -48,12 +50,10 @@ go
 google
 grafana
 hostmaster
-in
 int
 internal
 jenkins
 kibana
-live
 login
 mail
 media

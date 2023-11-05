@@ -405,7 +405,6 @@ hu
 hub
 hybrid
 iam
-iburgerzaken
 id
 ideas
 identity
@@ -559,11 +558,9 @@ merchandising-preview
 mercury
 messenger
 metrics
-mfa
 mg
 mgmt
 mi
-microsoft
 mijn
 mil
 mirror
@@ -582,6 +579,7 @@ moodle
 movies
 mp
 mpk
+mr
 ms
 msg
 msn
@@ -727,6 +725,7 @@ push
 qa
 ra
 radio
+radius
 rc
 rd
 rds
@@ -935,6 +934,7 @@ vote
 vpn
 vpn1
 vpn2
+w3
 waarmerk
 wap
 weather

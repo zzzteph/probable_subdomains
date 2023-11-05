@@ -115,6 +115,7 @@ book
 booking
 bookmarks
 books
+bot
 bounce
 box
 br
@@ -206,7 +207,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-creative
 crl
 crm
 cs
@@ -544,7 +544,6 @@ maps
 market
 marketing
 marketplace
-mars
 master
 math
 maven
@@ -993,6 +992,7 @@ www7a
 www7b
 www8
 www9
+www-staging
 www-test
 wwww
 wwwwww

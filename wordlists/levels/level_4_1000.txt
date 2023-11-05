@@ -6,6 +6,7 @@
 01
 02
 03
+0-checkpoint
 0-www
 10
 100
@@ -73,6 +74,7 @@
 157
 158
 159
+15-okta
 16
 160
 161
@@ -304,6 +306,7 @@ ap-northeast-1
 apollo
 app
 app1
+appleid
 apps
 aps
 ap-southeast-1
@@ -322,7 +325,6 @@ atlas
 att
 au
 auth
-auth2
 author
 auto
 autoconfig
@@ -379,7 +381,6 @@ cc
 cd
 cdn
 cds
-ce
 central
 cert
 certauth
@@ -403,6 +404,7 @@ cn
 cname
 co
 code
+collector
 com
 commerce
 community
@@ -427,7 +429,6 @@ crm
 crowdtest
 cs
 cshm-sbsc01
-csp
 cust
 customer
 cz
@@ -501,11 +502,11 @@ email
 emea
 en
 eng
+engine
 engineering
 ent
 enterprise
 es
-esb
 esp
 eu
 eu-central-1
@@ -571,7 +572,6 @@ host
 hostmaster
 hp
 hq
-hr
 httpbin
 hu
 hub
@@ -598,7 +598,6 @@ int
 integration
 internal
 internetdsl
-intl
 inventory
 io
 ip
@@ -643,7 +642,6 @@ load
 local
 localhost
 log
-logging
 login
 logs
 loki
@@ -722,9 +720,11 @@ o1
 o2
 o3
 oauth
+oauth2
 oem
 office
 oidc
+okta
 old
 on
 one
@@ -843,6 +843,7 @@ sb
 sc
 sca
 scholar
+sciencedirect
 scitation
 scm
 se
@@ -855,7 +856,6 @@ server
 service
 services
 sf
-sftp
 sg
 sh
 shared
