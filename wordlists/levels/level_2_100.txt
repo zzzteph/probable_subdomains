@@ -27,6 +27,7 @@ dev
 docs
 download
 email
+en
 es
 feeds
 ftp
@@ -68,7 +69,6 @@ owa
 pages
 pop
 portal
-preprod
 preview
 prod
 proxy

@@ -24,7 +24,6 @@
 a1
 aa
 aaa
-ab
 abc
 about
 ac
@@ -72,6 +71,7 @@ api
 api2
 api-dev
 apis
+api-test
 apollo
 app
 apple
@@ -156,7 +156,6 @@ cd
 cdn
 cdn1
 cdn2
-cdq-api
 ce
 central
 cert
@@ -188,6 +187,7 @@ clients
 cloud
 club
 cm
+cmp
 cms
 cn
 cname
@@ -312,7 +312,6 @@ eu
 europe
 event
 events
-example
 exchange
 explore
 ext
@@ -337,6 +336,7 @@ fr
 free
 fs
 ftp
+fun
 fw
 ga
 gac-rds-external-readonly
@@ -346,7 +346,6 @@ game
 games
 gate
 gateway
-gcom-product-find-dev
 gcom-product-find-qa
 geo
 get
@@ -397,6 +396,7 @@ horizon
 host
 hosting
 hostmaster
+house
 hp
 hr
 http
@@ -536,6 +536,7 @@ main
 maintenance
 mall
 manage
+management
 manager
 map
 maps
@@ -561,6 +562,7 @@ metrics
 mg
 mgmt
 mi
+microsoft
 mijn
 mil
 mirror
@@ -579,7 +581,6 @@ moodle
 movies
 mp
 mpk
-mr
 ms
 msg
 msn
@@ -621,7 +622,6 @@ nl
 nn
 no
 nodejs
-nodejs-dev
 non-prod
 notifications
 notify
@@ -929,6 +929,7 @@ videos
 view
 vip
 vn
+vod
 voice
 vote
 vpn
@@ -953,7 +954,6 @@ webservices
 website
 welcome
 wenku
-wfm-service
 whm
 whois
 widget

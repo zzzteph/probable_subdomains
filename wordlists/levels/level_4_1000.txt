@@ -302,13 +302,13 @@ api-docs
 api-gateway
 apigw
 apim
+api-test
 ap-northeast-1
 apollo
 app
 app1
 appleid
 apps
-aps
 ap-southeast-1
 ap-southeast-2
 ar
@@ -332,7 +332,6 @@ autodiscover
 avatars
 aws
 az
-azure
 b2b
 backbone
 backend
@@ -346,7 +345,6 @@ bbs
 bc
 bd
 be
-beacon
 beta
 bf
 bf1
@@ -354,6 +352,7 @@ bi
 billing
 biz
 blog
+blogs
 blue
 box
 br
@@ -461,6 +460,7 @@ df
 dhcp
 dialup
 direct
+directory
 discovery
 dk
 dl
@@ -491,9 +491,7 @@ ecs
 ed
 edge
 editor
-edu
 ee
-eg
 eks
 elastic
 elasticsearch
@@ -542,7 +540,6 @@ galegroup
 game
 games
 gateway
-gist
 git
 github
 gitlab
@@ -556,22 +553,20 @@ gr
 grafana
 graph
 green
-group
 grpc
 gw
 h1
-h2
 harbor
 health
 hello
 helloworld
 help
+history
 hk
 home
 host
 hostmaster
 hp
-hq
 httpbin
 hu
 hub
@@ -598,6 +593,7 @@ int
 integration
 internal
 internetdsl
+intranet
 inventory
 io
 ip
@@ -645,6 +641,7 @@ log
 login
 logs
 loki
+love
 lt
 lyncdiscover
 m2
@@ -656,6 +653,7 @@ main
 manage
 management
 manager
+maps
 marketing
 master
 mb
@@ -708,7 +706,6 @@ no
 node
 node1
 nonprod
-notification
 now
 ns
 ns1
@@ -736,6 +733,7 @@ openshift
 operations
 ops
 or
+orange
 order
 orders
 org
@@ -786,6 +784,7 @@ prod2
 product
 production
 profile
+project
 prometheus
 promo
 proquest
@@ -819,7 +818,6 @@ reg
 registration
 registry
 remote
-render
 repo
 report
 reporting
@@ -846,6 +844,7 @@ scholar
 sciencedirect
 scitation
 scm
+scott
 se
 search
 sec
@@ -881,6 +880,7 @@ ssl
 sso
 st
 sta
+staff
 stage
 stage1
 staging
@@ -937,6 +937,7 @@ ua
 uaa
 uat
 uat1
+uat2
 ui
 uk
 um
@@ -946,7 +947,6 @@ update
 upload
 uploads
 us
-usa
 use1
 us-east-1
 us-east-2

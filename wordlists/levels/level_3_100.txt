@@ -1,5 +1,4 @@
 72
-access
 admin
 api
 app
@@ -41,6 +40,8 @@ help
 home
 hostmaster
 image
+images
+in
 int
 internal
 it
@@ -51,7 +52,6 @@ login
 mail
 media
 mobile
-mta
 mta-sts
 mx
 my

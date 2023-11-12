@@ -385,7 +385,6 @@ business
 by
 c1
 c5
-c6
 c7
 c8
 ca
@@ -400,6 +399,7 @@ cb
 cc
 cd
 cdn
+cerebro
 cert
 certauth
 cf
@@ -531,6 +531,7 @@ fbx
 fc
 fd
 fe
+fe3
 feature
 fi
 file
@@ -555,6 +556,7 @@ game
 gamma
 gate
 gateway
+gd
 ge
 general
 gh
@@ -578,8 +580,6 @@ h116
 h2
 h228
 h250
-h68
-h98
 harbor
 health
 hello
@@ -644,6 +644,7 @@ king
 ko-kr
 korea
 kr
+kube
 kubecost
 lab
 lb
@@ -652,7 +653,6 @@ legacy
 les
 lib
 library
-license
 lightspeed
 link
 live
@@ -688,7 +688,6 @@ med
 media
 mef-emh
 melhor-antivirus
-mercury
 messaging
 metrics
 mgmt
@@ -786,6 +785,7 @@ pop
 pop3
 portal
 ppe
+ppp
 prd
 pre
 preprod
@@ -798,6 +798,7 @@ prod2
 prod-green
 product
 production
+products
 profile
 profiles
 projects
@@ -819,7 +820,6 @@ py
 qa
 qa1
 qa2
-qa4
 qld
 r0
 r1
@@ -828,6 +828,7 @@ r3
 ra
 rabbitmq
 rancher
+ranger
 rc
 re
 redir
@@ -843,6 +844,7 @@ reports
 resnet
 rev
 reverse
+review
 rm
 rss
 ru
@@ -877,7 +879,6 @@ sip
 sit
 site
 sl
-slr
 smart
 sms
 smtp
@@ -911,10 +912,12 @@ support
 survey
 svc
 swagger
+sync
 sys
 system
 t1
 technology
+temp
 test
 test1
 test-2
@@ -941,9 +944,7 @@ travel
 trn
 ts
 tst
-tv
 tw
-two
 tx
 uaa
 uat
@@ -967,7 +968,6 @@ v2
 v4
 va
 vault
-vf
 video
 vip
 virus

@@ -62,11 +62,9 @@
 159
 16
 160
-162
 163
 165
 166
-167
 168
 169
 17
@@ -169,7 +167,6 @@
 44
 45
 46
-47
 48
 49
 50
@@ -317,8 +314,10 @@ bitbucket
 biz
 blob
 blog
+blogs
 blue
 bo
+books
 border-even
 border-odd
 box
@@ -331,7 +330,6 @@ c1
 c2
 c3
 c4
-c5
 ca
 cable
 cache
@@ -341,6 +339,8 @@ cas
 cat
 catalog
 cc
+ccc
+ccs
 cd
 cdn
 ce
@@ -457,6 +457,7 @@ edgeflow
 edi
 edit
 edu
+education
 ee
 elastic
 elasticsearch
@@ -468,7 +469,6 @@ en
 eng
 engine
 engineering
-enroll
 enterprise
 enterpriseregistration
 es
@@ -510,6 +510,7 @@ fs
 ftp
 fw
 ga
+gallery
 game
 games
 gate
@@ -521,7 +522,6 @@ git
 github
 gitlab
 global
-gmail
 go
 google
 gov
@@ -540,6 +540,7 @@ home
 host
 hosting
 hostmaster
+hp
 hr
 http
 httpbin
@@ -568,7 +569,6 @@ ingress
 int
 integration
 internal
-intra
 intranet
 inventory
 io
@@ -616,6 +616,7 @@ login
 logs
 loki
 london
+love
 lt
 lyncdiscover
 lyncdiscoverinternal
@@ -635,6 +636,7 @@ management
 manager
 map
 maps
+marketing
 mars
 master
 md
@@ -649,7 +651,6 @@ messaging
 metrics
 mgmt
 mi
-migration
 minio
 mirror
 ml
@@ -666,6 +667,7 @@ ms
 mta
 mta2
 mta-sts
+music
 mx
 mx01
 mx1
@@ -692,7 +694,6 @@ nl
 no
 node
 nonprod
-notifications
 notify
 np
 ns
@@ -739,13 +740,13 @@ pc
 pe
 perf
 ph
-phoenix
 photo
 pi
 pilot
 pl
 platform
 play
+plus
 poc
 pool
 pop
@@ -783,7 +784,6 @@ push
 qa
 qa1
 qa2
-r1
 rabbitmq
 rancher
 raw
@@ -846,6 +846,7 @@ services
 sf
 sftp
 sg
+sgw
 sh
 share
 shared
@@ -882,7 +883,6 @@ static
 stats
 status
 stg
-stg1
 stg2
 storage
 store
@@ -916,7 +916,6 @@ tickets
 tls
 tn
 token
-tomcat
 tools
 tr
 tracker
@@ -943,7 +942,9 @@ upload
 uploads
 urc
 us
+us1
 usa
+us-east
 us-east-1
 us-east-2
 user
@@ -988,7 +989,6 @@ wireless
 wordpress
 wp
 ws
-ws2
 ww
 ww1
 www

@@ -21,6 +21,7 @@ acs
 act
 ad
 adfs
+adm
 admin
 admissions
 ads
@@ -92,6 +93,7 @@ awsdashboard
 a-www
 az
 b2b
+baby
 backend
 backup
 baidu
@@ -100,8 +102,8 @@ basic
 basic-nodejs-dev
 bb
 bbs
+bc
 be
-benefits
 beta
 bg
 bi
@@ -115,7 +117,6 @@ book
 booking
 bookmarks
 books
-bot
 bounce
 box
 br
@@ -139,6 +140,7 @@ care
 career
 careers
 cars
+cart
 cas
 catalog
 cc
@@ -148,7 +150,6 @@ cdn1
 cdn2
 cdq-api
 ce
-central
 cert
 certificate
 cf
@@ -185,6 +186,7 @@ code
 collab
 collab-edge
 com
+comment
 commerce
 community
 company
@@ -207,6 +209,7 @@ cp
 cpanel
 cpcalendars
 cpcontacts
+creative
 crl
 crm
 cs
@@ -233,6 +236,7 @@ desktop
 dev
 dev1
 dev2
+develop
 developer
 developers
 development
@@ -271,7 +275,6 @@ dyn
 ec
 edge
 edienstenburgerzaken
-edienstenburgerzaken-test
 edit
 edu
 education
@@ -316,6 +319,7 @@ facebook
 faq
 fashion
 fb
+feed
 feedback
 feeds
 feeds.english
@@ -351,7 +355,6 @@ geo
 get
 gis
 git
-github
 gitlab
 global
 go
@@ -395,6 +398,7 @@ horizon
 host
 hosting
 hostmaster
+hotels
 housing
 hr
 http
@@ -544,6 +548,7 @@ maps
 market
 marketing
 marketplace
+mars
 master
 math
 maven
@@ -560,7 +565,6 @@ merchandising-preview
 mercury
 messenger
 metrics
-mfa
 mi
 mijn
 mirror
@@ -577,6 +581,7 @@ mongodb
 monitor
 monitoring
 moodle
+movie
 movies
 mp
 mp3
@@ -643,6 +648,7 @@ online
 open
 opendata
 opendata.english
+opensource
 ops
 order
 orders
@@ -666,7 +672,6 @@ people
 permits
 pg
 ph
-phoenix
 photo
 photos
 pic
@@ -708,7 +713,6 @@ projects
 promo
 provincia
 proxy
-ps
 pt
 pub
 public
@@ -763,7 +767,6 @@ s3
 sa
 sales
 sandbox
-sap
 sc
 sd
 se
@@ -872,7 +875,6 @@ ticket
 tickets
 time
 tls
-tm
 tms
 toolbar
 tools
@@ -928,6 +930,7 @@ vote
 vpn
 vpn1
 vpn2
+w3
 waarmerk
 wallet
 wap
@@ -967,7 +970,6 @@ ww12
 ww17
 ww2
 ww25
-ww3
 ww38
 ww5
 ww7
@@ -992,11 +994,9 @@ www7a
 www7b
 www8
 www9
-www-staging
 www-test
 wwww
 wwwwww
 xmpp
 xroads
 yahoo
-zh

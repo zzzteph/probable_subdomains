@@ -16,10 +16,10 @@ cms
 community
 connect
 content
-cp
 cpanel
 cpcalendars
 cpcontacts
+cs
 data
 de
 demo
@@ -30,6 +30,7 @@ download
 email
 en
 es
+events
 feeds
 forum
 forums
@@ -95,7 +96,6 @@ webdisk
 webmail
 wiki
 ww
-ww1
 www
 www1
 www2

@@ -79,7 +79,6 @@ asia
 ask
 assets
 at
-athena
 atlas
 atwww
 au
@@ -100,7 +99,6 @@ baby
 backend
 backup
 baidu
-barracuda
 basic
 basic-nodejs-dev
 bb
@@ -364,7 +362,6 @@ gr
 grafana
 grc2go
 green
-group
 groups
 gs
 gslb
@@ -385,7 +382,6 @@ health
 hello
 help
 helpdesk
-hermes
 hh
 hi
 history
@@ -399,8 +395,10 @@ horizon
 host
 hosting
 hostmaster
+hotels
 house
 housing
+hq
 hr
 http
 httpbin
@@ -441,6 +439,7 @@ inst
 insurance
 int
 integration
+intern
 internal
 international
 internet
@@ -519,9 +518,11 @@ login
 logs
 love
 lp
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal
+lyncweb
 m1
 m2
 ma
@@ -668,7 +669,6 @@ pc
 pda
 pe
 people
-permits
 pg
 ph
 phoenix
@@ -726,6 +726,7 @@ pulse
 pup
 push
 qa
+qr
 quiz
 ra
 radio
@@ -761,7 +762,6 @@ rs
 rss
 rt
 ru
-rx
 s1
 s2
 s3
@@ -783,6 +783,7 @@ securemail
 security
 selfservice
 sentry
+seo
 server
 server1
 servers
@@ -803,7 +804,6 @@ signup
 simsite
 sip
 site
-sitecore
 sites
 sk
 sl

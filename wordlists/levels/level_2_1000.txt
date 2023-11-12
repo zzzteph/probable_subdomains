@@ -7,7 +7,6 @@
 120
 123
 13
-136
 14
 15
 159
@@ -79,9 +78,7 @@
 98
 99
 a1
-a2
 aa
-ab
 abc
 ablink
 abmail
@@ -159,6 +156,7 @@ atlantis
 atlas
 atwww
 au
+audio
 auth
 author
 auto
@@ -189,7 +187,6 @@ blog
 blogs
 blue
 bo
-boards
 bounce
 box
 br
@@ -202,10 +199,12 @@ c3
 ca
 cache
 calendar
+campaign
 careers
 cas
 cat
 catalog
+cbs
 cc
 cd
 cdn
@@ -275,6 +274,7 @@ css
 ct
 customer
 cveapi
+cvs
 cz
 da
 danieapp
@@ -332,7 +332,6 @@ dynamic
 ea
 eas
 east
-ebm
 ec
 echo
 ecs
@@ -358,7 +357,6 @@ europe
 eu-west-1
 event
 events
-ews
 exchange
 ext
 external
@@ -382,7 +380,6 @@ fr
 free
 fs
 ftp
-ftp2
 fw
 ga
 gac-rds-external-readonly
@@ -396,7 +393,6 @@ gateway
 gb
 gcom-product-find-dev
 gcom-product-find-qa
-gcp
 geo
 get
 gis
@@ -424,6 +420,7 @@ gws-uat
 ha
 hd
 health
+hello
 help
 helpdesk
 hermes
@@ -434,6 +431,7 @@ home
 horizon
 horizon-api
 host
+hosting
 hostmaster
 hp
 hq
@@ -517,6 +515,7 @@ ldap
 learn
 learning
 legacy
+lib
 library
 link
 links
@@ -610,6 +609,7 @@ mta5
 mta6
 mta7
 mta8
+mta9
 mta-sts
 multimedia
 music
@@ -623,7 +623,6 @@ myaccount
 mysql
 na
 nagios
-nat
 nc
 ne
 net
@@ -638,7 +637,6 @@ nginx-newest
 nginx-newest1
 nic
 nl
-nm
 no
 node
 nodejs
@@ -653,6 +651,7 @@ ns1
 ns2
 ns3
 ns4
+nz
 o1
 o2
 o3
@@ -699,7 +698,6 @@ pay
 payment
 payments
 pc
-pda
 pe
 people
 perf
@@ -708,13 +706,14 @@ ph
 phoenix
 photo
 photos
+pi
 pic
 pilot
 pki
 pl
 platform
 play
-plus
+pm
 poc
 pop
 pop3
@@ -904,6 +903,7 @@ time
 tls
 tms
 tools
+top
 tp
 tr
 track

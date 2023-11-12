@@ -26,7 +26,6 @@ data
 de
 demo
 dev
-developer
 docs
 download
 email
@@ -53,7 +52,6 @@ jobs
 login
 lyncdiscover
 mail
-mail1
 mail2
 maps
 media
@@ -76,6 +74,7 @@ pop
 portal
 preview
 remote
+ru
 search
 secure
 shop
@@ -95,6 +94,7 @@ wap
 web
 webdisk
 webmail
+wiki
 ww
 www
 www1
