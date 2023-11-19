@@ -307,7 +307,6 @@ ap-northeast-1
 apollo
 app
 app1
-appleid
 apps
 ap-southeast-1
 ap-southeast-2
@@ -332,6 +331,7 @@ autodiscover
 avatars
 aws
 az
+azure
 b2b
 backbone
 backend
@@ -347,15 +347,16 @@ bd
 be
 beta
 bf
-bf1
 bi
 billing
 biz
 blog
 blogs
 blue
+booking
 box
 br
+bridge
 bt
 build
 business
@@ -363,6 +364,7 @@ c1
 c2
 c3
 c4
+c5
 c6
 c7
 ca
@@ -396,6 +398,7 @@ click
 client
 clients
 cloud
+club
 cluster
 cm
 cms
@@ -407,7 +410,6 @@ collector
 com
 commerce
 community
-comp
 compute
 config
 confluence
@@ -450,7 +452,6 @@ dev01
 dev1
 dev2
 dev3
-dev4
 develop
 developer
 development
@@ -475,7 +476,6 @@ download
 dr
 ds
 dsl
-dss
 dummy
 dx
 dyn
@@ -490,9 +490,7 @@ echo
 ecs
 ed
 edge
-editor
 ee
-eks
 elastic
 elasticsearch
 elb
@@ -506,6 +504,7 @@ ent
 enterprise
 es
 esp
+esri
 eu
 eu-central-1
 europe
@@ -641,7 +640,6 @@ log
 login
 logs
 loki
-love
 lt
 lyncdiscover
 m2
@@ -671,6 +669,7 @@ mi
 minio
 mirror
 ml
+mms
 mobile
 mongo
 monitor
@@ -759,7 +758,6 @@ php
 pl
 platform
 play
-playground
 poc
 pool
 pop
@@ -860,6 +858,7 @@ sh
 shared
 shop
 signin
+signup
 sip
 sit
 site
@@ -897,6 +896,7 @@ store
 sts
 studio
 sub
+superset
 support
 survey
 svc
@@ -917,7 +917,6 @@ test3
 test4
 testing
 th
-thanos
 the
 tls
 to
@@ -979,6 +978,7 @@ webapp
 webdisk
 webhook
 webmail
+webofknowledge
 webproxy
 webservices
 west

@@ -103,6 +103,7 @@ basic-nodejs-dev
 bb
 bbs
 bc
+bd
 be
 beta
 bg
@@ -134,7 +135,6 @@ calendar
 campaign
 campaigns
 campus
-car
 card
 care
 career
@@ -209,7 +209,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-creative
 crl
 crm
 cs
@@ -274,7 +273,6 @@ dwp-cis
 dyn
 ec
 edge
-edienstenburgerzaken
 edit
 edu
 education
@@ -581,7 +579,6 @@ mongodb
 monitor
 monitoring
 moodle
-movie
 movies
 mp
 mp3
@@ -672,6 +669,7 @@ people
 permits
 pg
 ph
+phoenix
 photo
 photos
 pic
@@ -713,6 +711,7 @@ projects
 promo
 provincia
 proxy
+ps
 pt
 pub
 public
@@ -780,6 +779,7 @@ securemail
 security
 selfservice
 sentry
+seo
 server
 server1
 servers
@@ -896,6 +896,7 @@ ts
 tv
 tw
 tx
+ua
 uat
 uc
 uk
@@ -997,6 +998,5 @@ www9
 www-test
 wwww
 wwwwww
-xmpp
 xroads
 yahoo

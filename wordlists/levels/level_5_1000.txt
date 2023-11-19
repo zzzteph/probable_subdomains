@@ -189,7 +189,6 @@
 27
 28
 29
-2c
 30
 31
 32
@@ -337,6 +336,7 @@ arcade
 archive
 argocd
 army
+artifactory
 as
 assets
 at
@@ -484,6 +484,7 @@ discourse
 dk
 dm
 dns
+dns1
 dns2
 docker
 docker-registry
@@ -501,11 +502,11 @@ e2e
 ea
 east
 eastus2
-ec
 echo
 edge
 ee
 elasticsearch
+em
 email
 emea
 en
@@ -576,10 +577,7 @@ green
 gw
 gw1
 h108
-h116
 h2
-h228
-h250
 harbor
 health
 hello
@@ -612,7 +610,6 @@ imap
 img
 in
 info
-infra
 ingest
 ingress
 insights
@@ -628,9 +625,12 @@ ip4
 ipv4
 is
 it
+java
+jb
 jenkins
 jira
 jisc
+jobs
 journals
 jp
 k8s
@@ -641,7 +641,6 @@ keycloak
 ki
 kibana
 king
-ko-kr
 korea
 kr
 kube
@@ -746,7 +745,6 @@ ns3
 ns4
 nt
 ny
-off
 okta
 old
 on
@@ -834,6 +832,7 @@ re
 redir
 redirectme
 reg
+registration
 registry
 relay
 remote
@@ -885,6 +884,7 @@ smtp
 solr
 sonar
 sonarqube
+sp
 spark
 splunk
 sports
@@ -912,7 +912,6 @@ support
 survey
 svc
 swagger
-sync
 sys
 system
 t1
@@ -993,6 +992,7 @@ wildcard
 wire
 wireless
 ws
+ww
 www
 www1
 www2

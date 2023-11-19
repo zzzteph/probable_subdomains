@@ -27,7 +27,6 @@ dev
 docs
 download
 email
-en
 es
 feeds
 ftp
@@ -73,6 +72,7 @@ preview
 prod
 proxy
 qa
+res
 sandbox
 search
 secure

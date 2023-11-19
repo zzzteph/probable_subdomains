@@ -136,6 +136,7 @@ br
 brand
 bt
 budget
+bugs
 build
 builder
 business
@@ -148,6 +149,7 @@ campus
 card
 career
 careers
+cars
 cas
 cat
 catalog
@@ -312,6 +314,7 @@ eu
 europe
 event
 events
+example
 exchange
 explore
 ext
@@ -372,7 +375,6 @@ gws
 gws-api-sandbox
 gws-dev
 gws-qa
-gws-rds-external-readonly-uat
 gws-uat
 h2
 h3
@@ -396,7 +398,6 @@ horizon
 host
 hosting
 hostmaster
-house
 hp
 hr
 http
@@ -474,7 +475,6 @@ ks-inventory-api
 ks-invoice-api
 ks-limits-api
 ks-order-api
-ks-program-api
 ks-vendingtransactions-mq0
 ks-vendingtransactions-mq1
 ks-vendingtransactions-mq2
@@ -562,7 +562,6 @@ metrics
 mg
 mgmt
 mi
-microsoft
 mijn
 mil
 mirror
@@ -615,7 +614,6 @@ newsletters
 next
 nexus
 nginx
-nginx-newest
 nginx-newest1
 nic
 nl
@@ -725,11 +723,11 @@ push
 qa
 ra
 radio
-radius
 rc
 rd
 rds
 recruitment
+red
 redbull
 redirect
 reg
@@ -845,6 +843,7 @@ status
 stg
 storage
 store
+stories
 storybook
 stream
 streaming
@@ -871,6 +870,7 @@ test2
 test3
 testing
 th
+ticket
 tickets
 time
 tls
@@ -929,7 +929,6 @@ videos
 view
 vip
 vn
-vod
 voice
 vote
 vpn
@@ -993,6 +992,7 @@ www6
 www7
 www7a
 www7b
+www8
 www-test
 wwww
 wwwwww

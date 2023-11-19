@@ -318,7 +318,6 @@ blogs
 blue
 bo
 books
-border-even
 border-odd
 box
 br
@@ -348,7 +347,6 @@ central
 cert
 certauth
 cf
-cgi
 ch
 chat
 check
@@ -428,7 +426,6 @@ dialin
 digital
 direct
 directory
-dis
 discovery
 dk
 dl
@@ -510,7 +507,6 @@ fs
 ftp
 fw
 ga
-gallery
 game
 games
 gate
@@ -522,6 +518,7 @@ git
 github
 gitlab
 global
+gmail
 go
 google
 gov
@@ -540,6 +537,7 @@ home
 host
 hosting
 hostmaster
+hotmail
 hp
 hr
 http
@@ -614,9 +612,8 @@ log
 logging
 login
 logs
+logstash
 loki
-london
-love
 lt
 lyncdiscover
 lyncdiscoverinternal
@@ -651,6 +648,7 @@ messaging
 metrics
 mgmt
 mi
+migration
 minio
 mirror
 ml
@@ -664,6 +662,7 @@ moodle
 mp
 mq
 ms
+msg
 mta
 mta2
 mta-sts
@@ -740,6 +739,7 @@ pc
 pe
 perf
 ph
+phoenix
 photo
 pi
 pilot
@@ -784,6 +784,7 @@ push
 qa
 qa1
 qa2
+qa3
 rabbitmq
 rancher
 raw
@@ -797,6 +798,7 @@ register
 registration
 registry
 relay
+release
 remote
 render
 reply
@@ -841,6 +843,7 @@ security
 selfservice
 sentry
 server
+server1
 service
 services
 sf
@@ -943,7 +946,6 @@ uploads
 urc
 us
 us1
-usa
 us-east
 us-east-1
 us-east-2
@@ -954,7 +956,6 @@ us-west-2
 v1
 v10
 v2
-va
 vault
 vdi
 verify
@@ -984,7 +985,6 @@ whois
 wiki
 wildcard
 wiley
-wire
 wireless
 wordpress
 wp

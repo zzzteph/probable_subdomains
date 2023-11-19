@@ -51,14 +51,12 @@ alpha
 alumni
 am
 a-magazines
-a-magazinesintern
 amazon
 amp
 ams
 analytics
 android
 answers
-a-opendata
 ap
 api
 api2
@@ -99,6 +97,7 @@ baby
 backend
 backup
 baidu
+barracuda
 basic
 basic-nodejs-dev
 bb
@@ -114,6 +113,7 @@ bip
 biz
 blog
 blogs
+boards
 book
 booking
 bookmarks
@@ -140,6 +140,7 @@ care
 career
 careers
 cars
+cart
 cas
 cat
 catalog
@@ -188,6 +189,7 @@ collab-edge
 com
 commerce
 community
+company
 comune
 comwww
 conf
@@ -362,6 +364,7 @@ gr
 grafana
 grc2go
 green
+group
 groups
 gs
 gslb
@@ -402,6 +405,7 @@ hq
 hr
 http
 httpbin
+httpwww
 hu
 hub
 hybrid
@@ -439,7 +443,6 @@ inst
 insurance
 int
 integration
-intern
 internal
 international
 internet
@@ -693,7 +696,6 @@ post
 postmaster
 pp
 pr
-prd
 pre
 premium
 pre-prod
@@ -730,7 +732,6 @@ qr
 quiz
 ra
 radio
-radius
 rc
 rd
 rds
@@ -872,7 +873,6 @@ test2
 test3
 testing
 th
-ticket
 tickets
 time
 tls
@@ -944,7 +944,6 @@ webapps
 webcon
 webconf
 webdisk
-webhook
 webmail
 webmail2
 webservices
@@ -967,6 +966,7 @@ wp
 ws
 ww
 ww1
+ww12
 ww2
 ww25
 ww38
