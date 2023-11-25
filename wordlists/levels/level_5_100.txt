@@ -10,11 +10,13 @@
 162
 164
 166
+17
 171
 173
 177
 18
 181
+192
 199
 20
 204
@@ -22,11 +24,9 @@
 23
 247
 29
-38
-39
-40
 55
 59
+67
 69
 72
 85
@@ -37,6 +37,7 @@ antivirus
 api
 app
 apps
+argocd
 assets
 au
 auth
@@ -45,10 +46,10 @@ blog
 cdn
 ci
 client
-cloud
 cms
 co
 com
+comwww
 dashboard
 data
 db
@@ -56,8 +57,8 @@ de
 demo
 dev
 dsl
+dx
 dynamic
-es
 google
 grafana
 hostmaster
@@ -72,7 +73,6 @@ ml
 monitoring
 mx
 net
-org
 origin
 portal
 prd
@@ -84,7 +84,6 @@ qa
 sandbox
 search
 secure
-service
 stage
 staging
 static
@@ -99,4 +98,5 @@ us
 us-east-1
 vault
 web
+ws
 www

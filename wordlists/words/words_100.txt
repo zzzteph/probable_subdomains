@@ -1,4 +1,3 @@
-ac
 admin
 api
 app
@@ -12,6 +11,7 @@ blogs
 careers
 cdn
 chat
+click
 cloud
 cms
 co

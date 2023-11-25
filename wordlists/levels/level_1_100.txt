@@ -36,7 +36,6 @@ forum
 forums
 fr
 ftp
-gis
 go
 gov
 help
@@ -49,6 +48,7 @@ in
 info
 intranet
 jobs
+link
 login
 lyncdiscover
 mail

@@ -27,6 +27,7 @@ dev
 docs
 download
 email
+en
 es
 feeds
 ftp
@@ -46,7 +47,6 @@ internal
 jira
 link
 login
-magazines
 mail
 mail2
 media
@@ -68,6 +68,7 @@ owa
 pages
 pop
 portal
+preprod
 preview
 prod
 proxy
@@ -89,7 +90,6 @@ store
 support
 test
 uat
-uk
 us
 video
 view

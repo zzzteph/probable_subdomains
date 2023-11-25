@@ -7,8 +7,9 @@
 171
 18
 45
+72
+76
 ac
-acc
 admin
 alertmanager
 antivirus
@@ -30,10 +31,10 @@ cn
 co
 com
 console
+content
 core
 dashboard
 data
-de
 demo
 dev
 docs
@@ -52,7 +53,6 @@ grafana
 hostmaster
 int
 internal
-it
 jenkins
 kibana
 login

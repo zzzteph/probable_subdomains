@@ -7,6 +7,7 @@
 14
 15
 16
+163
 17
 18
 180
@@ -20,7 +21,6 @@
 24
 50
 72
-86
 a1
 aa
 aaa
@@ -75,7 +75,6 @@ api-test
 apollo
 app
 apple
-applications
 apply
 apps
 ar
@@ -89,7 +88,6 @@ asia
 ask
 assets
 at
-athena
 atlas
 atwww
 au
@@ -145,11 +143,11 @@ ca
 cache
 calendar
 campaign
+campaigns
 campus
 card
 career
 careers
-cars
 cas
 cat
 catalog
@@ -162,7 +160,6 @@ ce
 central
 cert
 certauth
-certificate
 cf
 cgi
 ch
@@ -228,7 +225,6 @@ cse
 css
 ct
 customer
-cveapi
 cz
 da
 danieapp
@@ -314,7 +310,6 @@ eu
 europe
 event
 events
-example
 exchange
 explore
 ext
@@ -323,6 +318,7 @@ extranet
 facebook
 faq
 fb
+feed
 feedback
 feeds
 ff
@@ -339,7 +335,6 @@ fr
 free
 fs
 ftp
-fun
 fw
 ga
 gac-rds-external-readonly
@@ -381,6 +376,7 @@ h3
 h4
 h6
 h7
+hd
 health
 hello
 help
@@ -398,6 +394,7 @@ horizon
 host
 hosting
 hostmaster
+house
 hp
 hr
 http
@@ -469,7 +466,6 @@ kb
 kibana
 kids
 kk
-knowledgemanagement
 kr
 ks-inventory-api
 ks-invoice-api
@@ -513,12 +509,14 @@ login
 logs
 love
 lp
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal
 m1
 m2
 ma
+magazine
 magazines
 magazinesintern
 mail
@@ -536,7 +534,6 @@ main
 maintenance
 mall
 manage
-management
 manager
 map
 maps
@@ -565,7 +562,6 @@ mi
 mijn
 mil
 mirror
-mis
 ml
 mm
 mms
@@ -604,7 +600,6 @@ mysql
 na
 nagios
 nc
-ne
 net
 network
 new
@@ -658,6 +653,7 @@ parking
 partner
 partners
 passport
+password
 pay
 payment
 payments
@@ -678,9 +674,11 @@ pl
 planning
 platform
 play
+player
 plus
 pm
 poc
+podcast
 pop
 pop3
 portal
@@ -721,13 +719,15 @@ pulse
 pup
 push
 qa
+qa2
+quiz
 ra
 radio
+radius
 rc
 rd
 rds
 recruitment
-red
 redbull
 redirect
 reg
@@ -782,7 +782,6 @@ selfservice
 sentry
 server
 server1
-servers
 service
 servicedesk
 services
@@ -816,7 +815,6 @@ social
 software
 solutions
 sonar
-sos
 sp
 speedtest
 spf
@@ -837,6 +835,7 @@ star
 start
 stat
 static
+static1
 static2
 stats
 status
@@ -859,7 +858,6 @@ svn
 symposium
 sync
 tableau
-tax
 tc
 team
 tech
@@ -870,7 +868,6 @@ test2
 test3
 testing
 th
-ticket
 tickets
 time
 tls
@@ -929,6 +926,7 @@ videos
 view
 vip
 vn
+vod
 voice
 vote
 vpn
@@ -993,6 +991,7 @@ www7
 www7a
 www7b
 www8
+www9
 www-test
 wwww
 wwwwww
@@ -1000,3 +999,4 @@ xroads
 yahoo
 za
 zabbix
+zh

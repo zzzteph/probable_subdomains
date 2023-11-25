@@ -1,11 +1,10 @@
 10
 1www
 20
+2010
 222
 2fwww
-aa
 aaa
-ab
 abc
 about
 ac
@@ -19,6 +18,7 @@ accounts
 acp
 acs
 act
+action
 ad
 adfs
 adm
@@ -36,7 +36,6 @@ affiliate
 affiliates
 afspraken
 ag
-agenda
 agent
 ai
 akamai
@@ -47,14 +46,12 @@ alpha
 alumni
 am
 a-magazines
-a-magazinesintern
 amp
 ams
 analytics
 android
 answers
 antivirus
-a-opendata
 ap
 api
 api2
@@ -63,20 +60,20 @@ api.dev
 apis
 apollo
 app
+apple
 applications
 apply
 apps
 ar
+arc
 archive
 archives
 art
-arts
 as
 asia
 ask
 assets
 at
-athena
 atlas
 atwww
 au
@@ -103,7 +100,6 @@ basic-nodejs-dev
 bb
 bbs
 bc
-bd
 be
 beta
 bg
@@ -118,7 +114,7 @@ book
 booking
 bookmarks
 books
-bounce
+bot
 box
 br
 brand
@@ -129,12 +125,14 @@ build
 builder
 business
 buy
+buzz
 ca
 cache
 calendar
 campaign
 campaigns
 campus
+car
 card
 care
 career
@@ -150,6 +148,7 @@ cdn1
 cdn2
 cdq-api
 ce
+central
 cert
 certificate
 cf
@@ -159,6 +158,7 @@ chat
 check
 checkout
 china
+chrome
 ci
 cim-api
 cim-api-dev
@@ -276,7 +276,6 @@ edge
 edit
 edu
 education
-ee
 eforms
 elastic
 elearning
@@ -313,6 +312,7 @@ explore
 ext
 external
 extranet
+fa
 facebook
 faq
 fashion
@@ -327,6 +327,7 @@ file
 files
 finance
 fire
+flash
 food
 forms
 forum
@@ -355,6 +356,7 @@ gis
 git
 gitlab
 global
+gmail
 go
 google
 gov
@@ -365,7 +367,6 @@ grc2go
 green
 groups
 guest
-gui
 gw
 gws
 gws-api-sandbox
@@ -378,6 +379,7 @@ h3
 h4
 h6
 h7
+hd
 health
 hello
 help
@@ -483,6 +485,7 @@ ks-vendingtransactions-mq3
 ks-vendingtransactions-mq4
 ku1720
 kubernetes
+la
 lab
 labs
 landing
@@ -510,9 +513,9 @@ localhost
 log
 login
 logs
-loket
 love
 lp
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -546,7 +549,6 @@ maps
 market
 marketing
 marketplace
-mars
 master
 math
 maven
@@ -579,6 +581,7 @@ mongodb
 monitor
 monitoring
 moodle
+movie
 movies
 mp
 mp3
@@ -640,12 +643,12 @@ offers
 office
 okta
 old
+on
 one
 online
 open
 opendata
 opendata.english
-opensource
 ops
 order
 orders
@@ -669,7 +672,6 @@ people
 permits
 pg
 ph
-phoenix
 photo
 photos
 pic
@@ -744,6 +746,7 @@ repo
 report
 reporting
 reports
+res
 research
 resources
 results
@@ -759,7 +762,6 @@ rs
 rss
 rt
 ru
-rx
 s1
 s2
 s3
@@ -767,6 +769,7 @@ sa
 sales
 sandbox
 sc
+school
 sd
 se
 search
@@ -798,13 +801,11 @@ signup
 simsite
 sip
 site
-sitecore
 sites
 sk
 sl
 sli
 slovari
-sm
 smart
 smetrics
 sms
@@ -845,7 +846,6 @@ status
 stg
 storage
 store
-storefront
 stories
 storybook
 stream
@@ -853,6 +853,7 @@ streaming
 sts
 studio
 subscribe
+subscriptions
 support
 survey
 surveys
@@ -896,7 +897,6 @@ ts
 tv
 tw
 tx
-ua
 uat
 uc
 uk
@@ -910,7 +910,6 @@ updates
 upload
 us
 usa
-us-east-1
 user
 users
 v2
@@ -926,6 +925,7 @@ videos
 view
 view.email
 vip
+vod
 voice
 vote
 vpn
@@ -939,12 +939,10 @@ weather
 web
 web1
 web2
-webapp
 webapps
 webcon
 webconf
 webdisk
-webhook
 webmail
 webmail2
 webservices
@@ -971,6 +969,7 @@ ww12
 ww17
 ww2
 ww25
+ww3
 ww38
 ww5
 ww7
@@ -1000,3 +999,4 @@ wwww
 wwwwww
 xroads
 yahoo
+zh

@@ -2,9 +2,10 @@
 11
 12
 123
-18
+14
 1www
 20
+2010
 222
 2fwww
 3g
@@ -35,7 +36,6 @@ advertising
 adwords
 ae
 af
-a-feeds
 affiliate
 affiliates
 afspraken
@@ -50,8 +50,6 @@ alerts
 alpha
 alumni
 am
-a-magazines
-amazon
 amp
 ams
 analytics
@@ -64,7 +62,6 @@ apis
 apollo
 app
 apple
-applications
 apply
 apps
 ar
@@ -97,7 +94,6 @@ baby
 backend
 backup
 baidu
-barracuda
 basic
 basic-nodejs-dev
 bb
@@ -111,8 +107,10 @@ bi
 billing
 bip
 biz
+bj
 blog
 blogs
+bo
 boards
 book
 booking
@@ -128,6 +126,7 @@ build
 builder
 business
 buy
+buzz
 ca
 cache
 calendar
@@ -153,7 +152,6 @@ cdq-api
 ce
 central
 cert
-certificate
 cf
 cgi
 ch
@@ -169,6 +167,7 @@ cim-api-uat
 cim-data-quality-qa
 cim-dev
 cim-geo-dev
+cis
 citrix
 city
 cl
@@ -187,6 +186,7 @@ code
 collab
 collab-edge
 com
+comment
 commerce
 community
 company
@@ -247,7 +247,6 @@ dir
 direct
 directory
 discover
-discovery
 dk
 dl
 dm
@@ -272,14 +271,13 @@ drive
 ds
 dwp-cis
 dyn
-ea
+earth
 ec
 edge
 edit
 edu
 education
 ee
-eforms
 elastic
 elearning
 elections
@@ -308,7 +306,6 @@ eu
 europe
 event
 events
-ews
 exchange
 experience
 explore
@@ -319,6 +316,7 @@ facebook
 faq
 fashion
 fb
+feed
 feedback
 feeds
 ff
@@ -327,6 +325,7 @@ file
 files
 finance
 fire
+flash
 fm
 food
 forms
@@ -381,6 +380,7 @@ h3
 h4
 h6
 h7
+hd
 health
 hello
 help
@@ -412,7 +412,6 @@ hybrid
 iam
 iburgerzaken
 ibzpink
-ic
 id
 ideas
 identity
@@ -427,6 +426,7 @@ imap
 img
 img1
 img2
+img3
 ims
 in
 inbound
@@ -434,7 +434,6 @@ india
 info
 infolab
 informatik
-infra
 innovation
 inside
 insight
@@ -525,7 +524,6 @@ lt
 lync
 lyncdiscover
 lyncdiscoverinternal
-lyncweb
 m1
 m2
 ma
@@ -542,7 +540,6 @@ mailer
 mailhost
 mailing
 mailserver
-main
 maintenance
 mall
 manage
@@ -571,7 +568,6 @@ mi
 mijn
 mil
 mirror
-mis
 ml
 mm
 mms
@@ -735,6 +731,7 @@ radio
 rc
 rd
 rds
+realestate
 recruitment
 redirect
 reg
@@ -748,14 +745,15 @@ repo
 report
 reporting
 reports
+res
 research
 resources
 results
 resume
 retail
+review
 reviews
 rewards
-rms
 ro
 root
 rootsweb
@@ -802,12 +800,12 @@ shopping
 si
 signin
 signup
-simsite
 sip
 site
 sites
 sk
 sl
+sli
 slovari
 sm
 smart
@@ -843,6 +841,7 @@ star
 start
 stat
 static
+static1
 static2
 stats
 status
@@ -852,6 +851,7 @@ store
 stories
 storybook
 stream
+streaming
 sts
 studio
 subscribe
@@ -928,13 +928,13 @@ videos
 view
 vip
 vn
+vod
 voice
 vote
 vpn
 vpn1
 vpn2
 waarmerk
-wallet
 wap
 weather
 web
@@ -947,7 +947,6 @@ webdisk
 webmail
 webmail2
 webservices
-website
 welcome
 wenku
 wfm-service
@@ -957,6 +956,7 @@ widget
 widgets
 wifi
 wiki
+wildcard
 wireless
 wordpress
 work

@@ -16,7 +16,6 @@ cms
 community
 connect
 content
-cp
 cpanel
 cpcalendars
 cpcontacts
@@ -30,6 +29,7 @@ download
 email
 en
 es
+events
 feeds
 forum
 forums
@@ -75,7 +75,6 @@ preview
 remote
 search
 secure
-server
 shop
 sip
 smtp
@@ -99,4 +98,5 @@ ww1
 www
 www1
 www2
+www3
 wwww
