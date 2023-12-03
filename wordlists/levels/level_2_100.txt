@@ -30,6 +30,7 @@ email
 en
 es
 feeds
+forum
 ftp
 git
 gitlab
@@ -46,6 +47,7 @@ int
 internal
 jira
 link
+live
 login
 mail
 mail2
@@ -66,14 +68,12 @@ org
 origin
 owa
 pages
-pop
 portal
 preprod
 preview
 prod
 proxy
 qa
-res
 sandbox
 search
 secure

@@ -2,7 +2,7 @@
 11
 12
 123
-14
+13
 1www
 20
 2010
@@ -24,11 +24,11 @@ accounts
 acp
 acs
 act
+action
 ad
 adfs
 adm
 admin
-admissions
 ads
 adserver
 adv
@@ -38,7 +38,6 @@ ae
 af
 affiliate
 affiliates
-afspraken
 ag
 agent
 ai
@@ -52,6 +51,7 @@ alumni
 am
 amp
 ams
+an
 analytics
 android
 answers
@@ -90,10 +90,12 @@ awsdashboard
 a-www
 az
 b2b
+ba
 baby
 backend
 backup
 baidu
+base
 basic
 basic-nodejs-dev
 bb
@@ -101,6 +103,7 @@ bbs
 bc
 bd
 be
+beauty
 beta
 bg
 bi
@@ -110,6 +113,7 @@ biz
 bj
 blog
 blogs
+bn
 bo
 boards
 book
@@ -139,7 +143,6 @@ care
 career
 careers
 cars
-cart
 cas
 cat
 catalog
@@ -167,7 +170,6 @@ cim-api-uat
 cim-data-quality-qa
 cim-dev
 cim-geo-dev
-cis
 citrix
 city
 cl
@@ -215,6 +217,7 @@ cs
 cse
 css
 ct
+culture
 customer
 cveapi
 cz
@@ -240,7 +243,6 @@ developer
 developers
 development
 dialin
-digikoppeling
 digilander
 digital
 dir
@@ -261,7 +263,6 @@ docker
 docs
 documents
 dogfood-dev
-domain
 domains
 dot
 download
@@ -273,11 +274,13 @@ dwp-cis
 dyn
 earth
 ec
+eco
 edge
 edit
 edu
 education
 ee
+el
 elastic
 elearning
 elections
@@ -296,10 +299,8 @@ enterprise
 enterpriseenrollment
 enterpriseregistration
 entertainment
-eoffice
 erp
 es
-espanol
 ess
 et
 eu
@@ -312,6 +313,7 @@ explore
 ext
 external
 extranet
+fa
 facebook
 faq
 fashion
@@ -323,8 +325,8 @@ ff
 fi
 file
 files
+film
 finance
-fire
 flash
 fm
 food
@@ -334,6 +336,7 @@ forums
 foto
 fr
 free
+friends
 fs
 ftp
 fun
@@ -401,7 +404,6 @@ hostmaster
 hotels
 house
 housing
-hq
 hr
 http
 httpbin
@@ -410,8 +412,6 @@ hu
 hub
 hybrid
 iam
-iburgerzaken
-ibzpink
 id
 ideas
 identity
@@ -430,7 +430,6 @@ img3
 ims
 in
 inbound
-india
 info
 infolab
 informatik
@@ -447,6 +446,7 @@ international
 internet
 intra
 intranet
+invest
 investor
 investors
 io
@@ -455,7 +455,6 @@ iphone
 ipv6
 ir
 irc
-iris
 is
 it
 ja
@@ -476,6 +475,7 @@ kids
 kk
 knowledge
 knowledgemanagement
+ko
 kr
 ks-inventory-api
 ks-invoice-api
@@ -512,6 +512,7 @@ list
 lists
 live
 liveupdate
+lk
 lms
 local
 localhost
@@ -527,6 +528,7 @@ lyncdiscoverinternal
 m1
 m2
 ma
+mag
 magazine
 magazines
 magazinesintern
@@ -540,6 +542,7 @@ mailer
 mailhost
 mailing
 mailserver
+main
 maintenance
 mall
 manage
@@ -604,9 +607,7 @@ mx4
 my
 myaccount
 myhome
-mymail
 mysql
-na
 nc
 net
 network
@@ -668,13 +669,13 @@ pc
 pda
 pe
 people
+perm
 pg
 ph
 phoenix
 photo
 photos
 pic
-piwik
 pki
 pl
 planning
@@ -704,7 +705,6 @@ pro
 prod
 product
 production
-products
 prof
 profile
 profiles
@@ -717,7 +717,6 @@ ps
 pt
 pub
 public
-publicaccess
 publishing-catalog
 publishing-preview
 pulse
@@ -745,7 +744,6 @@ repo
 report
 reporting
 reports
-res
 research
 resources
 results
@@ -766,10 +764,12 @@ s2
 s3
 sa
 sales
+samara
 sandbox
 sap
 sb
 sc
+school
 sd
 se
 search
@@ -785,7 +785,6 @@ sentry
 seo
 server
 server1
-servers
 service
 servicedesk
 services
@@ -819,12 +818,12 @@ so
 social
 software
 solutions
-sos
 sp
+space
 spam
+spb
 speedtest
 spf
-splunk
 sport
 sports
 sql
@@ -853,6 +852,7 @@ storybook
 stream
 streaming
 sts
+student
 studio
 subscribe
 support
@@ -863,7 +863,6 @@ svn
 symposium
 sync
 tableau
-tax
 tc
 team
 tech
@@ -873,9 +872,9 @@ test2
 test3
 testing
 th
+ticket
 tickets
 time
-tls
 tm
 tms
 toolbar
@@ -890,17 +889,18 @@ training
 transfer
 translate
 travel
-trends
 tribunale
 trust
 try
 ts
+tst
 tv
 tw
 tx
 ua
 uat
 uc
+ufa
 uk
 um
 uni
@@ -912,7 +912,6 @@ updates
 upload
 us
 usa
-us-east-1
 user
 users
 v2
@@ -928,7 +927,6 @@ videos
 view
 vip
 vn
-vod
 voice
 vote
 vpn
@@ -956,7 +954,7 @@ widget
 widgets
 wifi
 wiki
-wildcard
+win
 wireless
 wordpress
 work
@@ -1000,3 +998,5 @@ xroads
 xxx
 yahoo
 za
+zabbix
+zh

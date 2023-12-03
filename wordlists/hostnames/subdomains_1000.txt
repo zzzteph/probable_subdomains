@@ -1,4 +1,5 @@
 10
+123
 1www
 20
 2010
@@ -19,6 +20,7 @@ acp
 acs
 act
 action
+active
 ad
 adfs
 adm
@@ -31,10 +33,8 @@ advertising
 adwords
 ae
 af
-a-feeds
 affiliate
 affiliates
-afspraken
 ag
 agent
 ai
@@ -45,9 +45,9 @@ alerts
 alpha
 alumni
 am
-a-magazines
 amp
 ams
+an
 analytics
 android
 answers
@@ -61,7 +61,6 @@ apis
 apollo
 app
 apple
-applications
 apply
 apps
 ar
@@ -90,17 +89,21 @@ awsdashboard
 a-www
 az
 b2b
+ba
 baby
 backend
 backup
 baidu
-barracuda
+banner
+base
 basic
 basic-nodejs-dev
 bb
 bbs
 bc
+bd
 be
+beauty
 beta
 bg
 bi
@@ -109,6 +112,8 @@ bip
 biz
 blog
 blogs
+bn
+bo
 boards
 book
 booking
@@ -138,7 +143,6 @@ care
 career
 careers
 cars
-cart
 cas
 catalog
 cc
@@ -146,11 +150,11 @@ cd
 cdn
 cdn1
 cdn2
+cdn3
 cdq-api
 ce
 central
 cert
-certificate
 cf
 cgi
 ch
@@ -158,7 +162,6 @@ chat
 check
 checkout
 china
-chrome
 ci
 cim-api
 cim-api-dev
@@ -173,6 +176,7 @@ cl
 class
 click
 click.email
+clicks
 client
 cloud
 club
@@ -195,7 +199,6 @@ conf
 conference
 confluence
 connect
-consent
 console
 consul
 consult
@@ -209,7 +212,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-crl
 crm
 cs
 cse
@@ -240,7 +242,6 @@ developer
 developers
 development
 dialin
-digikoppeling
 digilander
 digital
 dir
@@ -261,9 +262,7 @@ docker
 docs
 documents
 dogfood-dev
-domain
 domains
-dot
 download
 downloads
 dr
@@ -276,7 +275,8 @@ edge
 edit
 edu
 education
-eforms
+ee
+el
 elastic
 elearning
 elections
@@ -305,12 +305,10 @@ eu
 europe
 event
 events
-ews
 exchange
 experience
 explore
 ext
-external
 extranet
 fa
 facebook
@@ -325,8 +323,8 @@ ff
 fi
 file
 files
+film
 finance
-fire
 flash
 food
 forms
@@ -335,6 +333,7 @@ forums
 foto
 fr
 free
+friends
 fs
 ftp
 ftp2
@@ -367,6 +366,7 @@ grc2go
 green
 groups
 guest
+guide
 gw
 gws
 gws-api-sandbox
@@ -399,6 +399,7 @@ host
 hosting
 hostmaster
 hotels
+house
 housing
 hr
 http
@@ -407,6 +408,7 @@ httpwww
 hu
 hub
 hybrid
+i2
 iam
 iburgerzaken
 ibzpink
@@ -446,6 +448,7 @@ intra
 intranet
 investor
 investors
+io
 ip
 iphone
 ipv6
@@ -467,12 +470,15 @@ k3
 k4
 k5
 k8s
+kazan
 kb
 kids
 kk
 knowledge
 knowledgemanagement
+ko
 kr
+krasnodar
 ks-inventory-api
 ks-invoice-api
 ks-limits-api
@@ -489,6 +495,7 @@ la
 lab
 labs
 landing
+law
 lb
 ldap
 learn
@@ -507,6 +514,7 @@ list
 lists
 live
 liveupdate
+lk
 lms
 local
 localhost
@@ -519,10 +527,10 @@ lt
 lync
 lyncdiscover
 lyncdiscoverinternal
-lyncweb
 m1
 m2
 ma
+mag
 magazine
 magazines
 magazines.english
@@ -536,10 +544,10 @@ mail3
 mail4
 mail5
 mailer
-mailgate
 mailhost
 mailing
 mailserver
+main
 maintenance
 mall
 manage
@@ -558,17 +566,14 @@ me
 media
 meet
 meeting
-meetings
 member
 members
 merchandising-preview
 mercury
-messenger
 metrics
 mi
 mijn
 mirror
-mis
 ml
 mm
 mms
@@ -588,6 +593,7 @@ mp3
 mpk
 ms
 msg
+msn
 msoid
 mssql
 mt
@@ -601,11 +607,11 @@ mx1
 mx2
 mx3
 mx4
+mx5
 my
 myaccount
 myhome
 mymail
-mysite
 mysql
 nagios
 net
@@ -643,7 +649,7 @@ offers
 office
 okta
 old
-on
+omsk
 one
 online
 open
@@ -669,8 +675,7 @@ payments
 pc
 pda
 people
-permits
-pg
+perm
 ph
 photo
 photos
@@ -705,10 +710,10 @@ pro
 prod
 product
 production
-products
 prof
 profile
 profiles
+project
 projects
 promo
 provincia
@@ -717,7 +722,6 @@ ps
 pt
 pub
 public
-publicaccess
 publishing-catalog
 publishing-preview
 pulse
@@ -728,7 +732,6 @@ qr
 quiz
 ra
 radio
-radius
 rc
 rd
 rds
@@ -746,7 +749,6 @@ repo
 report
 reporting
 reports
-res
 research
 resources
 results
@@ -754,7 +756,6 @@ resume
 retail
 reviews
 rewards
-rms
 ro
 root
 rootsweb
@@ -767,6 +768,7 @@ s2
 s3
 sa
 sales
+samara
 sandbox
 sc
 school
@@ -778,6 +780,7 @@ searchportal-dev
 searchportal-qa
 sec
 secure
+secure2
 securemail
 security
 selfservice
@@ -785,7 +788,6 @@ sentry
 seo
 server
 server1
-servers
 service
 servicedesk
 services
@@ -798,7 +800,6 @@ shop
 shopping
 signin
 signup
-simsite
 sip
 site
 sites
@@ -817,12 +818,11 @@ so
 social
 software
 solutions
-sos
 sp
 spam
+spb
 speedtest
 spf
-splunk
 sport
 sports
 sql
@@ -862,7 +862,6 @@ svn
 symposium
 sync
 tableau
-tax
 tc
 team
 tech
@@ -897,8 +896,10 @@ ts
 tv
 tw
 tx
+ua
 uat
 uc
+ufa
 uk
 um
 uni
@@ -925,7 +926,6 @@ videos
 view
 view.email
 vip
-vod
 voice
 vote
 vpn
@@ -966,7 +966,6 @@ ws
 ww
 ww1
 ww12
-ww17
 ww2
 ww25
 ww3
@@ -999,4 +998,5 @@ wwww
 wwwwww
 xroads
 yahoo
+zabbix
 zh

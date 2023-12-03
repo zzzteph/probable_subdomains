@@ -1,4 +1,5 @@
 admin
+ads
 api
 app
 apps
@@ -36,7 +37,6 @@ forums
 fr
 ftp
 games
-gis
 go
 help
 home
@@ -75,6 +75,7 @@ preview
 remote
 search
 secure
+services
 shop
 sip
 smtp
@@ -94,7 +95,6 @@ webdisk
 webmail
 wiki
 ww
-ww1
 www
 www1
 www2

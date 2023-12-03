@@ -38,8 +38,8 @@ go
 gov
 help
 home
+image
 images
-imap
 img
 in
 info
@@ -50,7 +50,6 @@ login
 lyncdiscover
 mail
 mail2
-maps
 media
 meet
 mobile
@@ -74,6 +73,7 @@ preview
 prod
 qa
 remote
+ru
 search
 secure
 services
