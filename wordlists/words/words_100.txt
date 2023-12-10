@@ -8,13 +8,10 @@ autodiscover
 beta
 blog
 blogs
-careers
 cdn
 chat
-click
 cloud
 cms
-co
 com
 connect
 content
@@ -30,7 +27,6 @@ download
 email
 en
 es
-feeds
 forum
 fr
 ftp
@@ -38,8 +34,10 @@ go
 gov
 help
 home
+hostmaster
 image
 images
+imap
 img
 in
 info
@@ -53,7 +51,9 @@ mail2
 media
 meet
 mobile
+mta-sts
 mx
+mx1
 my
 net
 new
@@ -76,11 +76,11 @@ remote
 ru
 search
 secure
+service
 services
 shop
 sip
 smtp
-sso
 stage
 staging
 static

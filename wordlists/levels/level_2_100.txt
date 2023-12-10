@@ -1,4 +1,5 @@
 ac
+acc
 admin
 api
 app
@@ -47,7 +48,6 @@ int
 internal
 jira
 link
-live
 login
 mail
 mail2
@@ -60,16 +60,17 @@ my
 new
 news
 nic
+ns
 ns1
 ns2
 o1
-opendata
+old
 org
 origin
 owa
 pages
+pop
 portal
-preprod
 preview
 prod
 proxy
@@ -86,7 +87,6 @@ stage
 staging
 static
 stg
-store
 support
 test
 uat

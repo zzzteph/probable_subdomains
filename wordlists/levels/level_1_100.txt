@@ -13,15 +13,13 @@ cdn
 chat
 cloud
 cms
-cn
 com
-community
 connect
 content
-corp
 cpanel
 cpcalendars
 cpcontacts
+crm
 data
 de
 demo
@@ -36,6 +34,7 @@ forum
 forums
 fr
 ftp
+games
 go
 gov
 help
@@ -53,11 +52,11 @@ login
 lyncdiscover
 mail
 mail2
-maps
 media
 meet
 mobile
 mx
+mx1
 my
 net
 new
@@ -77,6 +76,7 @@ remote
 ru
 search
 secure
+service
 shop
 sip
 smtp

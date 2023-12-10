@@ -1,12 +1,9 @@
 10
 11
 12
-13
 17
 171
 18
-23
-72
 ac
 acc
 admin
@@ -33,7 +30,6 @@ console
 core
 cpanel
 dashboard
-data
 de
 demo
 dev
@@ -60,6 +56,7 @@ login
 mail
 media
 mobile
+mta-sts
 mx
 my
 net
@@ -80,6 +77,8 @@ search
 secure
 service
 services
+shop
+smtp
 sso
 stage
 staging
@@ -100,3 +99,4 @@ webdisk
 webmail
 ws
 www
+www2

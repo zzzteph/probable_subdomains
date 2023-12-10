@@ -1,4 +1,5 @@
 72
+acc
 admin
 api
 app
@@ -29,6 +30,7 @@ email
 es
 eu
 files
+fr
 ftp
 gateway
 git
@@ -39,13 +41,12 @@ hostmaster
 image
 images
 img
-in
+info
 int
 internal
 jenkins
 jira
 kibana
-live
 login
 mail
 media
@@ -85,7 +86,6 @@ stg
 support
 test
 test2
-training
 uat
 uk
 us
