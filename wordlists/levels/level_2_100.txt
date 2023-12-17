@@ -9,13 +9,13 @@ auth
 autodiscover
 beta
 blog
+blogspot
 cdn
 click
 cloud
 cms
 co
 com
-connect
 content
 cpanel
 cpcalendars
@@ -37,6 +37,7 @@ git
 gitlab
 go
 gov
+grafana
 help
 home
 hostmaster
@@ -45,7 +46,6 @@ images
 img
 info
 int
-internal
 jira
 link
 login
@@ -60,7 +60,6 @@ my
 new
 news
 nic
-ns
 ns1
 ns2
 o1
@@ -87,6 +86,7 @@ stage
 staging
 static
 stg
+store
 support
 test
 uat

@@ -1,3 +1,4 @@
+acc
 admin
 api
 app
@@ -8,13 +9,11 @@ autodiscover
 beta
 blog
 blogs
-careers
 cdn
 chat
 cloud
 cms
 com
-connect
 content
 cpanel
 cpcalendars
@@ -29,12 +28,9 @@ download
 email
 en
 es
-feeds
 forum
-forums
 fr
 ftp
-games
 go
 gov
 help
@@ -46,6 +42,7 @@ img
 in
 info
 intranet
+ipv6
 jobs
 link
 login
@@ -54,7 +51,9 @@ mail
 mail2
 media
 meet
+mijn
 mobile
+mta-sts
 mx
 mx1
 my
@@ -76,6 +75,7 @@ remote
 ru
 search
 secure
+server
 service
 shop
 sip
@@ -83,6 +83,7 @@ smtp
 stage
 staging
 static
+stats
 status
 store
 support
@@ -90,7 +91,6 @@ test
 uk
 video
 vpn
-wap
 web
 webdisk
 webmail

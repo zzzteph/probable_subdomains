@@ -11,7 +11,6 @@ beta
 blog
 ca
 cdn
-ci
 click
 cloud
 cms
@@ -27,6 +26,7 @@ dev
 docs
 download
 email
+en
 es
 eu
 files
@@ -40,13 +40,12 @@ grafana
 hostmaster
 image
 images
-img
-info
 int
 internal
 jenkins
 jira
 kibana
+live
 login
 mail
 media
@@ -55,6 +54,8 @@ mta-sts
 mx
 my
 new
+nl
+nlwww
 ns1
 ns2
 o1
@@ -75,9 +76,9 @@ search
 secure
 service
 services
+shop
 sip
 smtp
-ssl
 sso
 stage
 staging
@@ -89,7 +90,6 @@ test2
 uat
 uk
 us
-us-east-1
 vault
 view
 vpn

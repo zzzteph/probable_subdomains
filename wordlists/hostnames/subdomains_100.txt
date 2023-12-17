@@ -1,5 +1,5 @@
+acc
 admin
-ads
 api
 app
 apps
@@ -30,11 +30,10 @@ download
 email
 en
 es
-events
 feeds
+files
 forum
 forums
-fr
 ftp
 games
 go
@@ -46,17 +45,19 @@ imap
 img
 info
 intranet
+ipv6
 jobs
 link
+live
 login
 lyncdiscover
 mail
-mail1
 mail2
-maps
 media
 meet
+mijn
 mobile
+mta-sts
 mx
 mx1
 my
@@ -98,5 +99,4 @@ ww
 www
 www1
 www2
-www3
 wwww
