@@ -42,12 +42,10 @@
 43
 44
 45
-47
 49
 50
 51
 52
-53
 55
 56
 59
@@ -84,7 +82,6 @@ ablink
 abmail
 about
 ac
-academy
 acc
 accept
 acceptance
@@ -182,7 +179,6 @@ blogs
 blogspot
 blue
 bo
-books
 bot
 bounce
 box
@@ -203,7 +199,6 @@ cat
 catalog
 cbs
 cc
-ccc
 cd
 cdn
 cdn1
@@ -221,8 +216,10 @@ chat
 check
 checkout
 chef
+china
 ci
 cim-api-qa
+cim-geo-dev
 cis
 citrix
 cl
@@ -382,6 +379,7 @@ fs
 ftp
 fw
 ga
+gac-rds-external-readonly
 gallery
 game
 games
@@ -482,6 +480,7 @@ jobs
 join
 jp
 js
+jupiter
 jupyter
 k8s
 kb
@@ -489,6 +488,7 @@ keycloak
 kibana
 kids
 kr
+ks-vendingtransactions-mq3
 kubernetes
 la
 lab
@@ -559,6 +559,7 @@ meeting
 member
 members
 mercury
+meta
 metrics
 mfa
 mgmt
@@ -653,7 +654,6 @@ one
 online
 open
 opendata
-openjfx
 ops
 or
 orange
@@ -775,7 +775,6 @@ rs
 rss
 rt
 ru
-ruby
 s1
 s2
 s3
@@ -799,6 +798,7 @@ selfservice
 sentry
 server
 server1
+servers
 service
 servicedesk
 services
@@ -837,7 +837,6 @@ sport
 sports
 sql
 sr
-srv
 ss
 ssl
 sslvpn
@@ -934,6 +933,7 @@ vc
 vcenter
 vdi
 vendor
+vendors
 verify
 vi
 video

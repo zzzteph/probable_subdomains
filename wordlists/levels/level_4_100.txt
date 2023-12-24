@@ -33,12 +33,12 @@ dashboard
 de
 demo
 dev
+docs
 dynamic
 en
 es
 eu
 fr
-frontend
 ftp
 gateway
 git

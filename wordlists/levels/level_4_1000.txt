@@ -256,6 +256,7 @@
 98
 99
 a1
+a3
 aa
 aaa
 abc
@@ -272,6 +273,7 @@ acm
 acs
 ad
 adfs
+adm
 admin
 ads
 adsl
@@ -279,6 +281,7 @@ af
 affiliates
 agent
 ai
+aip
 airflow
 akamai
 alb
@@ -324,9 +327,9 @@ at
 atlas
 att
 au
+audit
 auth
 author
-authorization
 auto
 autoconfig
 autodiscover
@@ -347,14 +350,16 @@ bbs
 bc
 be
 beta
-bf
+bg
 bi
 billing
 biz
 blog
+blogs
 blogspot
 blue
 bo
+booking
 br
 brillonline
 broker
@@ -529,8 +534,8 @@ front
 frontend
 fs
 ftp
-fun
 fusion
+fw
 ga
 galegroup
 game
@@ -559,9 +564,9 @@ help
 hk
 home
 host
-hosting
 hostmaster
 hp
+httpbin
 hu
 hub
 iad
@@ -579,6 +584,7 @@ image
 images
 imap
 img
+img1
 in
 info
 infra
@@ -587,7 +593,6 @@ int
 integration
 internal
 internet
-internetdsl
 interscience
 intranet
 inventory
@@ -595,6 +600,7 @@ io
 ip
 ip4
 ipv4
+ipv6
 is
 it
 jenkins
@@ -669,7 +675,6 @@ monitor
 monitoring
 movies
 mq
-msk
 msn
 mta
 mta-sts
@@ -700,7 +705,6 @@ no
 node
 node1
 nonprod
-notifications
 now
 ns
 ns1
@@ -732,7 +736,6 @@ outlook
 ovid
 owa
 oxfordjournals
-oxfordreference
 p1
 pa
 page
@@ -744,7 +747,6 @@ payment
 payments
 paypal
 pc
-pe
 perf
 pgadmin
 ph
@@ -821,7 +823,6 @@ retail
 rev
 rs
 rsc
-rss
 ru
 s1
 s3
@@ -853,10 +854,10 @@ sh
 shared
 shop
 signin
+signup
 sip
 sit
 site
-sites
 sk
 skyline
 sm
@@ -879,7 +880,6 @@ sta
 staff
 stage
 stage1
-stage2
 staging
 start
 stat
@@ -917,6 +917,7 @@ testing
 th
 the
 tickets
+tls
 to
 tools
 tr
@@ -943,7 +944,6 @@ update
 upload
 uploads
 us
-use
 use1
 us-east-1
 us-east-2
@@ -954,6 +954,7 @@ us-west-1
 us-west-2
 v1
 v2
+v4
 va
 vaccine
 vault
@@ -995,7 +996,6 @@ www
 www1
 www2
 www3
-www4
 www-dev
 yahoo
 yandex

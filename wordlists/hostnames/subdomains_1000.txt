@@ -245,6 +245,7 @@ doc
 docker
 docs
 documents
+domain
 download
 downloads
 drive
@@ -286,7 +287,6 @@ event
 events
 exchange
 extranet
-fa
 facebook
 faq
 fashion
@@ -495,7 +495,6 @@ magazine
 magazines
 magazines.english
 magazinesintern
-magazinesintern.english
 magento
 mail
 mail01
@@ -586,7 +585,6 @@ nginx
 nieuw
 nieuws
 nieuwsbrief
-nijmegen
 nl
 nn
 no
@@ -736,6 +734,7 @@ s2
 s3
 sa
 sales
+sam
 samara
 sandbox
 saratov
@@ -757,6 +756,7 @@ server2
 service
 servicedesk
 services
+sex
 sf
 sftp
 sg

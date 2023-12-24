@@ -417,7 +417,6 @@ cn
 cname
 co
 com
-combucky
 community
 communityctjobbank
 comwww
@@ -430,6 +429,7 @@ control
 core
 corp
 corporate
+cp
 cpanel
 cpcalendars
 cpcontacts
@@ -564,7 +564,6 @@ go
 google
 gov
 grafana
-graph
 green
 gw
 harbor
@@ -619,6 +618,7 @@ ip4
 ipv4
 is
 it
+ivr
 j1
 jama
 jb
@@ -737,9 +737,9 @@ one
 online
 onlinelibrary
 op
+ops
 or
 orchestration
-ord
 order
 orders
 org
@@ -841,7 +841,6 @@ s1
 s2s
 s3
 sa
-sales
 sandbox
 sat
 sber
@@ -892,6 +891,7 @@ staging
 start
 stat
 static
+static1
 stats
 status
 stg
@@ -960,12 +960,12 @@ v10
 v2
 vault
 video
+videos
 vip
 virus
 vpn
 wa
 wap
-watch
 weather
 web
 web1

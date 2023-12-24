@@ -41,6 +41,7 @@
 135
 137
 138
+139
 14
 140
 141
@@ -48,7 +49,6 @@
 144
 145
 146
-147
 148
 149
 15
@@ -270,6 +270,7 @@ api
 api1
 api2
 api-dev
+api-docs
 apigw
 apim
 apis
@@ -293,6 +294,7 @@ artifactory
 as
 assets
 at
+athena
 atlantis
 atlas
 au
@@ -326,6 +328,7 @@ blog
 blogs
 blue
 bo
+border-even
 border-odd
 bot
 box
@@ -373,6 +376,7 @@ cn
 cname
 co
 code
+collab
 collector
 com
 common
@@ -403,7 +407,6 @@ customer
 cz
 da
 dashboard
-dashboards
 data
 db
 db1
@@ -474,7 +477,6 @@ es
 esb
 eu
 eu-central-1
-europe
 eu-west-1
 event
 events
@@ -556,9 +558,9 @@ imap
 img
 ims
 in
+inbound
 info
 infra
-ingest
 ingress
 int
 integration
@@ -569,6 +571,7 @@ io
 ip
 ip4
 ipv6
+iris
 is
 it
 jaeger
@@ -611,7 +614,6 @@ loki
 london
 love
 lp
-lt
 lyncdiscover
 lyncdiscoverinternal
 m1
@@ -642,6 +644,7 @@ med
 media
 meet
 mema
+mercury
 messaging
 metrics
 mgmt
@@ -700,7 +703,6 @@ ns2
 ns3
 ns4
 o1
-o10
 o11
 o12
 o2
@@ -787,7 +789,6 @@ rabbitmq
 rancher
 raw
 rc
-rds
 redbull
 redirect
 redmine
@@ -914,7 +915,6 @@ testing
 th
 tickets
 tls
-tms
 token
 tools
 tr

@@ -285,7 +285,6 @@ email
 emails
 ems
 en
-energy
 eng
 engage
 engineering
@@ -493,7 +492,6 @@ login
 logs
 love
 lp
-lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -537,11 +535,11 @@ meet
 meeting
 member
 members
+mercury
 metrics
 mfa
 mg
 mi
-microsoft
 mijn
 mil
 mirror
@@ -883,6 +881,7 @@ tula
 tv
 tver
 tw
+tx
 ua
 uat
 uc
@@ -917,6 +916,7 @@ videos
 view
 vip
 vladimir
+vn
 voice
 voip
 volgograd

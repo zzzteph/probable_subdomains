@@ -30,7 +30,6 @@ en
 es
 eu
 files
-fr
 ftp
 gateway
 git
@@ -40,12 +39,13 @@ grafana
 hostmaster
 image
 images
+img
+info
 int
 internal
 jenkins
 jira
 kibana
-live
 login
 mail
 media
