@@ -3,9 +3,6 @@
 12
 17
 171
-18
-185
-ac
 acc
 admin
 alertmanager
@@ -13,6 +10,7 @@ antivirus
 api
 app
 apps
+argocd
 assets
 auth
 autodiscover
@@ -23,10 +21,10 @@ ca
 cdn
 client
 cms
-cn
 co
 com
 console
+content
 core
 cpanel
 dashboard
@@ -35,10 +33,10 @@ demo
 dev
 docs
 dynamic
-en
 es
 eu
 fr
+frontend
 ftp
 gateway
 git
@@ -48,10 +46,12 @@ go
 google
 grafana
 hostmaster
+in
 int
 internal
 jenkins
 kibana
+live
 login
 mail
 media
@@ -59,7 +59,6 @@ mobile
 mta-sts
 mx
 my
-net
 new
 origin
 portal
@@ -67,6 +66,7 @@ prd
 preprod
 preview
 prod
+production
 prometheus
 proxy
 public

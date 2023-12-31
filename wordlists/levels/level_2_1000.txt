@@ -4,12 +4,10 @@
 104
 11
 12
-120
 123
 13
 14
 15
-159
 16
 162
 163
@@ -42,46 +40,36 @@
 43
 44
 45
-49
 50
-51
 52
 55
 56
-59
 60
-63
 64
 65
 66
 68
 69
 71
-72
 75
 76
-77
 78
-79
 80
-82
 85
-88
 89
-92
-95
-96
 98
 99
 a1
 a2
 aa
 aaa
+ab
 abc
 ablink
 abmail
 about
 ac
+academy
 acc
 accept
 acceptance
@@ -122,11 +110,13 @@ android
 antivirus
 a-opendata
 ap
+apac
 api
 api2
 api-dev
 apis
 api-test
+apm
 apollo
 app
 app1
@@ -145,6 +135,7 @@ ask
 assets
 at
 athena
+atlantis
 atlas
 au
 auth
@@ -199,6 +190,7 @@ cat
 catalog
 cbs
 cc
+ccc
 cd
 cdn
 cdn1
@@ -219,7 +211,6 @@ chef
 china
 ci
 cim-api-qa
-cim-geo-dev
 cis
 citrix
 cl
@@ -263,11 +254,11 @@ cr
 crm
 crowd
 cs
+csg
 css
 ct
 customer
 cvs
-cyber
 cz
 da
 dash
@@ -282,7 +273,6 @@ delivery
 delta
 demo
 demo2
-demon
 deploy
 design
 desktop
@@ -293,6 +283,7 @@ dev2
 dev3
 dev4
 dev5
+dev-api
 develop
 developer
 developers
@@ -323,7 +314,6 @@ dp
 dr
 drive
 ds
-dsl
 dyn
 ea
 east
@@ -337,6 +327,7 @@ edu
 education
 ee
 elastic
+elearning
 em
 email
 emea
@@ -346,9 +337,10 @@ eng
 english
 enterprise
 enterpriseregistration
+erp
 es
-esb
 eu
+eu-west-1
 event
 events
 exchange
@@ -368,6 +360,7 @@ files
 finance
 fm
 focus
+form
 forms
 forum
 forums
@@ -379,7 +372,6 @@ fs
 ftp
 fw
 ga
-gac-rds-external-readonly
 gallery
 game
 games
@@ -401,7 +393,6 @@ gp
 gr
 grafana
 green
-groups
 gs
 guest
 gui
@@ -450,7 +441,6 @@ inbound
 index
 info
 infra
-inproces
 inside
 insight
 insights
@@ -488,7 +478,6 @@ keycloak
 kibana
 kids
 kr
-ks-vendingtransactions-mq3
 kubernetes
 la
 lab
@@ -546,6 +535,7 @@ map
 maps
 market
 marketing
+marketplace
 mars
 master
 max
@@ -559,14 +549,15 @@ meeting
 member
 members
 mercury
-meta
 metrics
 mfa
 mgmt
 mi
+migration
 mijn
 minio
 mirror
+mis
 ml
 mm
 mms
@@ -672,6 +663,7 @@ partner
 partners
 pass
 passport
+password
 pay
 payment
 payments
@@ -680,6 +672,7 @@ pda
 pe
 people
 perf
+personal
 pg
 ph
 phoenix
@@ -702,6 +695,7 @@ pma
 poc
 pop
 pop3
+portainer
 portal
 post
 postmaster
@@ -735,7 +729,6 @@ push
 qa
 qa1
 qa2
-qa3
 quest
 ra
 radius
@@ -813,6 +806,7 @@ si
 sidney
 signin
 signup
+sim
 sip
 sit
 site
@@ -837,6 +831,7 @@ sport
 sports
 sql
 sr
+srv
 ss
 ssl
 sslvpn
@@ -857,6 +852,7 @@ status
 stg
 storage
 store
+storefront
 storybook
 stream
 streaming
@@ -871,8 +867,10 @@ svc
 svn
 sync
 sys
+system
 sz
 t1
+t2
 tableau
 tc
 team
@@ -885,6 +883,7 @@ test3
 test4
 test5
 testing
+tfs
 th
 ticket
 tickets
@@ -903,6 +902,7 @@ train
 training
 transfer
 travel
+trial
 ts
 tst
 tv
@@ -919,6 +919,7 @@ update
 upload
 uploads
 us
+usa
 us-east
 us-east-1
 user
@@ -933,7 +934,6 @@ vc
 vcenter
 vdi
 vendor
-vendors
 verify
 vi
 video
@@ -958,6 +958,7 @@ web3
 webapp
 webapps
 webapps-common
+webcon
 webconf
 webdev
 webdisk
@@ -992,7 +993,6 @@ www4
 www5
 www6
 www-dev
-www-test
 wwww
 xmpp
 yahoo

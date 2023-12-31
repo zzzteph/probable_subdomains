@@ -53,6 +53,8 @@ ap
 api
 api2
 api-dev
+api.dev
+api.staging
 apollo
 app
 apple
@@ -62,7 +64,6 @@ ar
 archief
 archive
 archives
-arnhem
 art
 as
 ask
@@ -89,7 +90,6 @@ baidu
 banner
 banners
 barnaul
-barracuda
 base
 basic
 bb
@@ -149,6 +149,7 @@ cdn1
 cdn2
 cdn3
 cert
+cf
 cgi
 ch
 chat
@@ -214,6 +215,7 @@ dc
 dd
 de
 deals
+delivery
 demo
 denhaag
 design
@@ -245,7 +247,6 @@ doc
 docker
 docs
 documents
-domain
 download
 downloads
 drive
@@ -259,7 +260,6 @@ edu
 education
 eindhoven
 ekaterinburg
-el
 elastic
 elearning
 elections
@@ -274,6 +274,7 @@ engage
 engineering
 english
 enquete
+ent
 enterprise
 enterpriseenrollment
 enterpriseregistration
@@ -396,7 +397,9 @@ inbound
 info
 infolab
 informatik
+innovation
 inside
+insight
 insights
 inst
 insurance
@@ -444,13 +447,13 @@ kemerovo
 kids
 kirov
 kk
+knowledge
 kostroma
 kr
 krasnodar
 krasnoyarsk
 ku1720
 kubernetes
-kurgan
 kursk
 lab
 labs
@@ -459,7 +462,6 @@ lb
 ldap
 learn
 learning
-learno
 leden
 legacy
 legal
@@ -519,6 +521,7 @@ marketing
 marketplace
 master
 math
+matrix
 maven
 mc
 mdm
@@ -530,8 +533,8 @@ member
 members
 metrics
 mfa
-mg
 mi
+microsoft
 mijn
 mirror
 ml
@@ -540,7 +543,6 @@ mms
 mobiel
 mobil
 mobile
-mode
 money
 mongo
 mongodb
@@ -557,7 +559,6 @@ msn
 mt
 mta-sts
 mta-sts.mail
-multimedia
 murmansk
 music
 mvn
@@ -571,6 +572,7 @@ mx5
 my
 myaccount
 myhome
+mysite
 mysql
 nagios
 nas
@@ -581,6 +583,7 @@ news
 newsletter
 newsletters
 next
+nexus
 nginx
 nieuw
 nieuws
@@ -650,6 +653,7 @@ platform
 play
 player
 plus
+pm
 podcast
 poker
 pop
@@ -712,7 +716,6 @@ reporting
 reports
 research
 resources
-restaurant
 results
 resume
 retail
@@ -734,7 +737,6 @@ s2
 s3
 sa
 sales
-sam
 samara
 sandbox
 saratov
@@ -756,7 +758,6 @@ server2
 service
 servicedesk
 services
-sex
 sf
 sftp
 sg
@@ -773,8 +774,8 @@ sitemaps
 sites
 sk
 sl
-sli
 slovari
+sm
 smart
 smetrics
 smolensk
@@ -783,7 +784,6 @@ smtp
 smtp1
 smtp2
 smtp3
-so
 sochi
 social
 software
@@ -791,7 +791,6 @@ solutions
 sp
 spam
 spb
-special
 speedtest
 spf
 sport
@@ -839,6 +838,7 @@ sync
 synergy
 tableau
 tambov
+tc
 team
 tech
 temp
@@ -874,7 +874,6 @@ tula
 tv
 tver
 tw
-tyumen
 uat
 uc
 ufa
@@ -917,6 +916,7 @@ vpn
 vpn1
 vpn2
 vps
+w3
 waarmerk
 wap
 weather

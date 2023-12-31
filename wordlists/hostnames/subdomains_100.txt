@@ -33,7 +33,6 @@ es
 feeds
 files
 forum
-forums
 ftp
 games
 go
@@ -52,6 +51,7 @@ live
 login
 lyncdiscover
 mail
+mail1
 mail2
 media
 meet

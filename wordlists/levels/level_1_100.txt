@@ -9,11 +9,13 @@ autodiscover
 beta
 blog
 blogs
+careers
 cdn
 chat
 cloud
 cms
 com
+connect
 content
 cpanel
 cpcalendars
@@ -70,7 +72,6 @@ org
 owa
 pop
 portal
-preview
 remote
 ru
 search
@@ -83,7 +84,6 @@ smtp
 stage
 staging
 static
-stats
 status
 store
 support

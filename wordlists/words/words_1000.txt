@@ -42,7 +42,6 @@ adm
 admin
 ads
 adserver
-adv
 advertising
 ae
 af
@@ -80,13 +79,13 @@ archief
 archive
 archives
 art
+artifactory
 as
 asia
 ask
 assets
 at
 atlas
-atwww
 au
 audio
 auth
@@ -97,6 +96,7 @@ autos
 av
 aws
 az
+azure
 b2b
 baby
 backend
@@ -104,7 +104,6 @@ backoffice
 backup
 baidu
 banner
-barnaul
 base
 basic
 bb
@@ -145,7 +144,6 @@ calendar
 cam
 campaign
 campus
-canada
 card
 career
 careers
@@ -231,6 +229,7 @@ dd
 de
 deals
 delivery
+delta
 demo
 design
 desktop
@@ -242,6 +241,7 @@ develop
 developer
 developers
 development
+devops
 dialin
 digilander
 digital
@@ -285,6 +285,7 @@ email
 emails
 ems
 en
+energy
 eng
 engage
 engineering
@@ -388,6 +389,7 @@ hostmaster
 hotel
 hotels
 house
+hq
 hr
 http
 httpwww
@@ -415,6 +417,7 @@ info
 infolab
 informatik
 infra
+innovation
 inside
 insight
 insights
@@ -428,6 +431,7 @@ internet
 intra
 intranet
 investor
+investors
 io
 ip
 iphone
@@ -435,7 +439,6 @@ ipv6
 ir
 irc
 iris
-irkutsk
 is
 it
 ja
@@ -472,6 +475,7 @@ learn
 learning
 leden
 legacy
+legal
 li
 lib
 library
@@ -492,6 +496,7 @@ login
 logs
 love
 lp
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -540,6 +545,7 @@ metrics
 mfa
 mg
 mi
+microsoft
 mijn
 mil
 mirror
@@ -581,7 +587,6 @@ myhome
 mysql
 na
 nagios
-nas
 nc
 net
 network
@@ -637,6 +642,7 @@ panel
 partner
 partners
 passport
+password
 pay
 payment
 payments
@@ -674,7 +680,6 @@ pp
 pr
 prd
 pre
-pre-prod
 preprod
 press
 preview
@@ -747,6 +752,7 @@ sales
 sam
 samara
 sandbox
+sap
 saratov
 sb
 sc
@@ -767,7 +773,6 @@ server2
 service
 servicedesk
 services
-sex
 sf
 sftp
 sg
@@ -782,7 +787,6 @@ signup
 sip
 site
 sitemap
-sitemaps
 sites
 sk
 sl
@@ -814,6 +818,7 @@ ss
 ssl
 sslvpn
 sso
+ssp
 st
 staff
 stage
@@ -860,7 +865,6 @@ ticket
 tickets
 time
 tms
-tomsk
 tools
 top
 top100
@@ -879,9 +883,7 @@ ts
 tst
 tula
 tv
-tver
 tw
-tx
 ua
 uat
 uc
@@ -935,7 +937,6 @@ web1
 web2
 webapp
 webapps
-webcam
 webcon
 webconf
 webdisk
@@ -945,7 +946,6 @@ webmail2
 webservices
 webshop
 website
-webwinkel
 welcome
 wenku
 werkenbij
@@ -958,7 +958,6 @@ wifi
 wiki
 wildcard
 win
-winkel
 wireless
 wordpress
 work
@@ -997,6 +996,7 @@ xml
 xroads
 xxx
 yahoo
+za
 zabbix
 zakelijk
 zonemaster

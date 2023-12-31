@@ -29,7 +29,7 @@ email
 en
 es
 eu
-files
+fr
 ftp
 gateway
 git
@@ -39,13 +39,13 @@ grafana
 hostmaster
 image
 images
-img
 info
 int
 internal
 jenkins
 jira
 kibana
+live
 login
 mail
 media
@@ -76,7 +76,6 @@ search
 secure
 service
 services
-shop
 sip
 smtp
 sso
@@ -90,6 +89,7 @@ test2
 uat
 uk
 us
+us-east-1
 vault
 view
 vpn

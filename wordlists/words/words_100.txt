@@ -36,7 +36,6 @@ help
 home
 hostmaster
 images
-imap
 img
 in
 info
@@ -72,6 +71,7 @@ pop
 portal
 preview
 prod
+qa
 remote
 ru
 search

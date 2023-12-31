@@ -30,7 +30,6 @@ download
 email
 en
 es
-feeds
 forum
 ftp
 git
@@ -46,6 +45,7 @@ images
 img
 info
 int
+internal
 jira
 link
 login

@@ -1,6 +1,5 @@
 10
 11
-12
 123
 1www
 20
@@ -31,7 +30,6 @@ adm
 admin
 ads
 adserver
-adsl
 adv
 advertising
 adwords
@@ -39,6 +37,7 @@ ae
 af
 affiliate
 affiliates
+ag
 agenda
 agent
 ai
@@ -57,6 +56,7 @@ antivirus
 ap
 api
 api2
+api-dev
 apollo
 app
 apple
@@ -118,6 +118,7 @@ book
 booking
 bookmarks
 books
+bot
 box
 br
 brand
@@ -158,7 +159,6 @@ check
 checkout
 chelyabinsk
 china
-chita
 ci
 citrix
 city
@@ -263,10 +263,8 @@ edu
 education
 ee
 eindhoven
-ekaterinburg
 elastic
 elearning
-elections
 em
 email
 emails
@@ -289,7 +287,6 @@ es
 ess
 et
 eu
-euro
 europe
 event
 events
@@ -318,7 +315,6 @@ formulieren
 forum
 forums
 foto
-fotos
 fr
 free
 friends
@@ -359,12 +355,12 @@ h3
 h4
 h6
 h7
-haarlem
 health
 hello
 help
 helpdesk
 hh
+hi
 history
 hk
 home
@@ -402,13 +398,16 @@ img
 img1
 img2
 img3
+ims
 in
 inbound
+india
 info
 infolab
 informatik
 innovation
 inside
+insight
 insights
 inst
 insurance
@@ -420,6 +419,7 @@ international
 internet
 intra
 intranet
+invest
 investor
 investors
 io
@@ -433,7 +433,6 @@ irkutsk
 is
 it
 ivanovo
-izhevsk
 ja
 jaarverslag
 jenkins
@@ -457,7 +456,6 @@ kemerovo
 kids
 kirov
 kk
-kostroma
 kr
 krasnodar
 krasnoyarsk
@@ -542,6 +540,7 @@ metrics
 mfa
 mg
 mi
+microsoft
 mijn
 mil
 mirror
@@ -564,9 +563,9 @@ ms
 msk
 msn
 mt
+mta
 mta-sts
 multimedia
-murmansk
 music
 mvn
 mx
@@ -598,6 +597,7 @@ nlwww
 nn
 no
 noc
+notifications
 novosibirsk
 ns
 ns1
@@ -608,6 +608,7 @@ ns5
 ns6
 oa
 oauth
+offers
 office
 okta
 old
@@ -645,6 +646,7 @@ pda
 penza
 people
 perm
+ph
 photo
 photos
 php
@@ -680,6 +682,7 @@ print
 privacy
 pro
 prod
+product
 production
 prof
 profile
@@ -743,6 +746,7 @@ sa
 sales
 samara
 sandbox
+sap
 saratov
 sc
 school
@@ -757,7 +761,6 @@ selfservice
 sentry
 seo
 server
-server01
 server1
 server2
 service
@@ -789,12 +792,14 @@ sms
 smtp
 smtp1
 smtp2
+smtp3
 so
 sochi
 social
 software
 solutions
 sp
+space
 spam
 spb
 speedtest
@@ -841,11 +846,9 @@ svn
 symposium
 sync
 tableau
-tambov
 tc
 team
 tech
-telecom
 temp
 test
 test1
@@ -877,7 +880,6 @@ tula
 tv
 tver
 tw
-tyumen
 ua
 uat
 uc
@@ -909,7 +911,6 @@ videos
 view
 vip
 vladimir
-vladivostok
 vn
 voice
 voip
@@ -928,7 +929,6 @@ web
 web01
 web1
 web2
-webapp
 webapps
 webcam
 webcon
@@ -958,7 +958,6 @@ wiki
 win
 winkel
 wireless
-wonen
 wordpress
 work
 workspace
@@ -997,6 +996,7 @@ xml
 xroads
 xxx
 yaroslavl
+za
 zabbix
 zakelijk
 zonemaster
