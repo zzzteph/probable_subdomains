@@ -217,7 +217,6 @@
 57
 58
 59
-5c
 60
 61
 62
@@ -263,6 +262,7 @@ a1
 a2
 aa
 abc
+about
 ac
 academic
 acc
@@ -308,6 +308,7 @@ api2
 api3
 apigw
 api-proxy
+api-test
 apm
 ap-northeast-1
 apollo
@@ -365,7 +366,6 @@ be
 best
 beta
 bf
-bibliotheek
 billing
 biz
 bk
@@ -382,7 +382,6 @@ business
 by
 c1
 c5
-c7
 c8
 ca
 cable
@@ -498,6 +497,7 @@ e1
 e2e
 ea
 east
+ec
 echo
 edge
 ee
@@ -606,7 +606,6 @@ in
 indexer
 info
 infra
-ing
 ingest
 ingress
 insights
@@ -624,6 +623,7 @@ ipv4
 is
 it
 j1
+jama
 jb
 je
 jenkins
@@ -631,7 +631,6 @@ jira
 jisc
 jm
 jobs
-john
 journals
 jp
 jstor
@@ -722,6 +721,7 @@ no
 node
 node2
 nonprod
+notary
 notifications
 now
 np
@@ -738,9 +738,9 @@ on
 one
 online
 onlinelibrary
+open
 ops
 or
-orange
 orchestration
 order
 orders
@@ -764,11 +764,15 @@ pay
 paypal
 pc
 perf
+pgadmin
 ph
 php
+picarta
 pilot
 pl
+platform
 play
+playground
 poc
 pool
 pop
@@ -830,13 +834,14 @@ render
 rep
 report
 reporting
-repository
 research
 rest
 rev
 reverse
 review
+rise
 rm
+rss
 ru
 s1
 s2s
@@ -846,9 +851,9 @@ sandbox
 sat
 sber
 sberbank
+sbx
 sc
 scholar
-sciencedirect
 scm
 se
 search
@@ -871,7 +876,6 @@ sit
 site
 sms
 smtp
-sns
 software
 sonar
 sonarqube
@@ -879,7 +883,6 @@ sp
 spark
 splunk
 sports
-srv
 ssh
 ssl
 sso
@@ -898,7 +901,6 @@ stg
 stl
 storage
 store
-stream
 stress
 sts
 sub
@@ -924,7 +926,6 @@ tests
 th
 thanos
 the
-tim
 tky
 tm
 tn
@@ -998,5 +999,4 @@ www-test
 yahoo
 yajama6
 yandex
-you
 your

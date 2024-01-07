@@ -41,6 +41,7 @@
 135
 137
 138
+139
 14
 140
 141
@@ -70,7 +71,6 @@
 168
 169
 17
-171
 172
 173
 174
@@ -85,11 +85,13 @@
 188
 189
 19
+191
 192
 193
 194
 195
 196
+197
 198
 199
 20
@@ -278,7 +280,6 @@ ap-southeast-1
 ap-southeast-2
 ar
 archive
-argo
 argocd
 art
 artifactory
@@ -288,6 +289,7 @@ at
 atlantis
 atlas
 au
+audit
 auth
 author
 auto
@@ -298,7 +300,6 @@ avatars
 aws
 az
 azure
-b1
 b2b
 backend
 backoffice
@@ -307,7 +308,6 @@ bb
 bbs
 bc
 be
-beheer
 beta
 bi
 billing
@@ -340,7 +340,6 @@ cc
 ccc
 cd
 cdn
-ce
 central
 cert
 certauth
@@ -352,6 +351,7 @@ check
 checkout
 chef
 ci
+cis
 citrix
 cl
 click
@@ -386,7 +386,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cpe
 cr
 crm
 cs
@@ -461,6 +460,7 @@ emea
 en
 eng
 engine
+engineering
 enterprise
 enterpriseregistration
 es
@@ -534,7 +534,6 @@ hp
 hr
 http
 httpbin
-hu
 hub
 iam
 id
@@ -594,6 +593,7 @@ lib
 library
 link
 links
+link-springer-com
 lists
 live
 lms
@@ -639,6 +639,7 @@ mema
 mercury
 messaging
 metrics
+mfa
 mgmt
 mi
 migration
@@ -655,7 +656,6 @@ moodle
 mp
 mq
 ms
-msg
 mta
 mta2
 mta-sts
@@ -687,7 +687,6 @@ nlwww
 no
 node
 nonprod
-notification
 notifications
 notify
 np
@@ -718,6 +717,7 @@ open
 ops
 orange
 order
+orders
 org
 origin
 os
@@ -779,7 +779,6 @@ push
 qa
 qa1
 qa2
-qa3
 queue
 rabbitmq
 rancher
@@ -900,6 +899,7 @@ system
 t1
 t2
 tableau
+tandfonline
 team
 teleport
 temp
@@ -913,10 +913,11 @@ testing
 th
 tickets
 tls
-to
 token
 tools
+tp
 tr
+track
 tracker
 tracking
 traefik
@@ -924,7 +925,6 @@ train
 training
 transfer
 travel
-trunk
 ts
 tst
 tv

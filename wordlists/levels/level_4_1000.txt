@@ -272,6 +272,7 @@ acm
 acs
 ad
 adfs
+adm
 admin
 ads
 adsl
@@ -328,6 +329,7 @@ at
 atlas
 att
 au
+audit
 auth
 authenticate
 author
@@ -441,6 +443,7 @@ de-cix
 default
 delivery
 demo
+demo1
 demo2
 deploy
 dev
@@ -506,7 +509,6 @@ eu-central-1
 europe
 euw1
 eu-west-1
-eu-west-2
 event
 events
 example
@@ -514,7 +516,6 @@ exchange
 ext
 external
 facebook
-fb
 fbx
 fe
 file
@@ -586,7 +587,6 @@ in
 info
 infra
 ingress
-insights
 int
 integration
 internal
@@ -618,7 +618,6 @@ kr
 la
 lab
 labs
-latest
 lb
 ldap
 le
@@ -675,7 +674,6 @@ mobile
 monitor
 monitoring
 mq
-mqtt
 ms
 mt
 mta
@@ -741,7 +739,6 @@ oxfordjournals
 oxfordreference
 p1
 pa
-page
 pages
 partner
 partners
@@ -754,6 +751,7 @@ perf
 pgadmin
 ph
 php
+pi
 pilot
 pl
 platform
@@ -795,7 +793,6 @@ publish
 publisher
 pubs
 push
-pushgateway
 qa
 qa2
 query
@@ -807,7 +804,9 @@ rabbitmq
 rancher
 raw
 rc
+rd
 reg
+register
 registration
 registry
 remote
@@ -861,6 +860,7 @@ sip
 sit
 site
 sk
+skyline
 sms
 smtp
 software
@@ -921,14 +921,12 @@ testing
 th
 the
 tickets
-tls
 to
 tools
 tr
 traefik
 train
 training
-transfer
 travel
 trn
 ts
@@ -978,6 +976,7 @@ webhook
 webmail
 webofknowledge
 webproxy
+webservice
 website
 west
 whm
@@ -988,6 +987,7 @@ wiley
 wire
 wireless
 wordpress
+workflow
 wp
 ws
 ww

@@ -1,5 +1,6 @@
 10
 11
+12
 123
 1www
 20
@@ -66,6 +67,7 @@ ar
 arc
 archief
 archive
+archives
 art
 as
 asia
@@ -100,7 +102,6 @@ bbs
 bc
 be
 beauty
-bedrijven
 beheer
 belgorod
 best
@@ -244,6 +245,7 @@ dnm
 dns
 dns1
 dns2
+dns3
 do
 doc
 docker
@@ -517,7 +519,6 @@ mailserver
 main
 maintenance
 manage
-management
 manager
 map
 maps
@@ -563,7 +564,6 @@ ms
 msk
 msn
 mt
-mta
 mta-sts
 multimedia
 music

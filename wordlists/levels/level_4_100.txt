@@ -1,8 +1,8 @@
 10
 11
 12
-17
 171
+18
 acc
 admin
 alertmanager
@@ -25,7 +25,6 @@ co
 com
 console
 content
-core
 cpanel
 dashboard
 de
@@ -60,6 +59,7 @@ mta-sts
 mx
 my
 new
+online
 origin
 portal
 prd

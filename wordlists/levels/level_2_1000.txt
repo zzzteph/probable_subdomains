@@ -10,7 +10,6 @@
 15
 16
 162
-163
 17
 18
 180
@@ -46,11 +45,10 @@
 56
 60
 64
-65
 66
 68
 69
-71
+72
 75
 76
 78
@@ -170,6 +168,7 @@ blogs
 blogspot
 blue
 bo
+books
 bot
 bounce
 box
@@ -188,6 +187,7 @@ careers
 cas
 cat
 catalog
+cb
 cbs
 cc
 ccc
@@ -230,6 +230,7 @@ com
 comment
 common
 community
+compass
 conf
 conference
 config
@@ -245,6 +246,7 @@ core
 corp
 corporate
 courses
+covid19
 cp
 cpanel
 cpcalendars
@@ -290,7 +292,6 @@ developers
 development
 devops
 dhcp
-di
 dialin
 digital
 direct
@@ -339,6 +340,7 @@ enterprise
 enterpriseregistration
 erp
 es
+esb
 eu
 eu-west-1
 event
@@ -654,6 +656,7 @@ org
 origin
 origin-www
 orion
+os
 outlook
 owa
 pa
@@ -695,7 +698,6 @@ pma
 poc
 pop
 pop3
-portainer
 portal
 post
 postmaster
@@ -791,7 +793,6 @@ selfservice
 sentry
 server
 server1
-servers
 service
 servicedesk
 services
@@ -839,7 +840,6 @@ sso
 ssp
 st
 staff
-stag
 stage
 staging
 staging2
@@ -870,7 +870,6 @@ sys
 system
 sz
 t1
-t2
 tableau
 tc
 team
@@ -993,6 +992,7 @@ www4
 www5
 www6
 www-dev
+www-test
 wwww
 xmpp
 yahoo

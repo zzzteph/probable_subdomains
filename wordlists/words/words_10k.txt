@@ -481,6 +481,7 @@ admin-dev
 administratie
 administration
 administrator
+adminportal
 admins
 admission
 admissions
@@ -597,7 +598,6 @@ ajax
 ajs
 ajuda
 ak
-ak47
 aka
 akamai
 akamai-test
@@ -607,7 +607,6 @@ aks
 al
 alabama
 aladdin
-aladin
 alan
 alanya
 alarm
@@ -669,7 +668,6 @@ almelo
 almere
 almetevsk
 aloha
-alone
 alp
 alpha
 alpha2
@@ -847,6 +845,7 @@ apigw
 api-int
 api-internal
 apim
+api-preprod
 api-prod
 api-qa
 apis
@@ -875,6 +874,7 @@ app5
 app6
 app7
 appartementen
+app-dev
 appdev
 appel
 appft
@@ -892,6 +892,7 @@ apps2
 apps3
 appserver
 appstore
+app-test
 apptest
 april
 aps
@@ -927,6 +928,7 @@ archiv
 archive
 archives
 arctic
+ard
 ardennen
 are
 area
@@ -957,12 +959,12 @@ armada
 armani
 armavir
 armenia
+arms
 armstrong
 army
 arnhem
 arno
 arnold
-aroma
 aromatherapie
 arp
 arrow
@@ -991,7 +993,6 @@ as1
 as2
 as400
 asa
-asahi
 asap
 asb
 asbest
@@ -1027,6 +1028,7 @@ assets
 assets1
 assets2
 assets3
+assets4
 assist
 assistance
 assistant
@@ -1054,7 +1056,6 @@ at
 ata
 atb
 atc
-ateam
 atelier
 atendimento
 athena
@@ -1101,6 +1102,7 @@ austin
 australia
 australie
 austria
+aut
 auth
 auth1
 auth2
@@ -1121,6 +1123,7 @@ autodealers
 autodiscover
 autogarage
 autolease
+automate
 automation
 automatisering
 automotive
@@ -1175,6 +1178,7 @@ axa
 axel
 axiom
 axis
+axon
 ay
 ayuda
 az
@@ -1627,6 +1631,7 @@ brad
 brain
 brainstorm
 brainstormk12
+bram
 branch
 brand
 branding
@@ -1713,6 +1718,7 @@ bunny
 bunschoten
 bureau
 burn
+burns
 bus
 buscador
 business
@@ -1814,7 +1820,6 @@ cap
 capella
 capi
 capital
-capricorn
 caps
 capsctrl
 captain
@@ -1905,6 +1910,7 @@ cda
 cdb
 cdc
 cde
+cdf
 cdi
 cdl
 cdm
@@ -1934,7 +1940,6 @@ cds
 ce
 cea
 cec
-cecilia
 ced
 cedar
 cee
@@ -2130,7 +2135,6 @@ cli
 click
 clicks
 client
-cliente
 clientes
 clients
 clients1
@@ -2188,6 +2192,7 @@ co
 coa
 coach
 coaching
+cob
 cobalt
 cobra
 coc
@@ -2283,7 +2288,6 @@ configurator
 confirm
 confirmation
 confluence
-congo
 congres
 connect
 connect2
@@ -2379,6 +2383,7 @@ covid
 covid-19
 covid19
 cow
+cowboy
 cox
 coyote
 cp
@@ -2503,6 +2508,7 @@ customer
 customercare
 customers
 customerservice
+customersupport
 customs
 cute
 cv
@@ -2541,7 +2547,6 @@ daa
 daan
 daas
 dac
-dada
 daf
 daffy
 dag
@@ -2755,7 +2760,6 @@ devportal
 devtest
 devtools
 dev-www
-devwww
 dewey
 dewww
 dex
@@ -2890,6 +2894,7 @@ dnsadmin
 dnstest
 do
 doc
+dock
 docker
 docker-registry
 docs
@@ -2911,7 +2916,6 @@ dogfood-dev
 dogs
 doh
 doi
-doit
 dojo
 dol
 dollar
@@ -2964,6 +2968,7 @@ dr
 drac
 drachten
 draco
+dracula
 draft
 dragon
 dragonfly
@@ -3015,6 +3020,7 @@ dtm
 dtp
 dts
 du
+dub
 dubai
 dublin
 dubna
@@ -3209,11 +3215,13 @@ elista
 elite
 elk
 ellen
+elm
 elmo
 elo
 eloket
 els
 elsa
+elsevier
 elvis
 elysium
 em
@@ -3275,7 +3283,6 @@ english
 enigma
 enjoy
 enkhuizen
-enq
 enquete
 enquetes
 enroll
@@ -3381,6 +3388,7 @@ eta
 etc
 eten
 eternal
+ethereum
 etherpad
 ethics
 etl
@@ -3424,6 +3432,7 @@ ews
 eww
 ewww
 ex
+ex2
 exact
 exam
 examen
@@ -3490,7 +3499,6 @@ falcon
 fallback
 familie
 family
-famous
 fan
 fanclub
 fans
@@ -3790,11 +3798,11 @@ gamer
 gamers
 games
 gamez
-gamezone
 gaming
 gamma
 gandalf
 gap
+gapps
 garage
 garagedeuren
 garant
@@ -3905,7 +3913,6 @@ ghana
 ghost
 ghs
 gi
-giant
 gids
 gif
 gift
@@ -3933,7 +3940,6 @@ gizmo
 gj
 gk
 gl
-gladiator
 glamour
 glas
 glass
@@ -4058,7 +4064,6 @@ gta
 gti
 gtk
 gtm
-gtm1
 gts
 gu
 guangzhou
@@ -4185,7 +4190,6 @@ hell
 hellendoorn
 hellevoetsluis
 hello
-hellokitty
 helloworld
 helm
 helmond
@@ -4389,7 +4393,6 @@ hummer
 humor
 hungary
 hunter
-huodong
 huren
 hurricane
 huwelijk
@@ -4505,7 +4508,6 @@ images2
 images3
 images4
 images5
-images6
 imagine
 imaging
 imail
@@ -4619,6 +4621,7 @@ integrations
 intel
 intelligence
 inter
+interact
 interactive
 interface
 interieur
@@ -4695,7 +4698,6 @@ ironport
 irs
 is
 isa
-isaac
 isc
 ise
 isg
@@ -4728,6 +4730,7 @@ iti
 itm
 itp
 its
+itservicedesk
 itservices
 itsm
 itsupport
@@ -4825,7 +4828,6 @@ jo
 job
 jobs
 jobsearch
-jocuri
 joe
 joel
 joey
@@ -4949,7 +4951,6 @@ kb
 kc
 kcc
 kd
-kdc
 kds
 ke
 keeper
@@ -4967,7 +4968,6 @@ kerberos
 kerch
 kerkrade
 kermit
-kernel
 kerst
 kerstkaarten
 kerstmarkt
@@ -5137,6 +5137,7 @@ lancaster
 land
 landgraaf
 landing
+landmark
 landscape
 landsmeer
 lang
@@ -5168,7 +5169,6 @@ lax
 layout
 lb
 lb01
-lb02
 lb1
 lb2
 lbs
@@ -5214,6 +5214,7 @@ lemon
 lena
 lenen
 lening
+lenovo
 lens
 lenta
 leo
@@ -5281,6 +5282,7 @@ lis
 lisa
 lisse
 list
+lista
 listen
 listings
 lists
@@ -5322,7 +5324,6 @@ locations
 locator
 lochem
 log
-log1
 logan
 logger
 logging
@@ -5442,7 +5443,6 @@ magazin
 magazine
 magazines
 magazinesintern
-mage
 magellan
 magenta
 magento
@@ -5505,7 +5505,6 @@ mailgw2
 mailhost
 mailhost2
 mailhub
-mail-in
 mailin
 mailing
 mailings
@@ -5950,6 +5949,7 @@ mp4
 mpa
 mpi
 mpk
+mpp
 mpr
 mps
 mq
@@ -6168,7 +6168,6 @@ nevada
 new
 new1
 new2
-newage
 newmail
 newman
 neworleans
@@ -6288,6 +6287,7 @@ noticias
 notification
 notifications
 notify
+nov
 nova
 novgorod
 novo
@@ -6317,7 +6317,6 @@ ns12
 ns13
 ns14
 ns15
-ns16
 ns17
 ns2
 ns20
@@ -6695,6 +6694,7 @@ parrot
 part
 partenaires
 partner
+partnerapi
 partnerportal
 partners
 partnerships
@@ -6729,6 +6729,7 @@ pbs
 pbx
 pc
 pc1
+pc2
 pcc
 pcgames
 pci
@@ -6753,6 +6754,7 @@ pedicure
 pedro
 pegasus
 pelican
+pen
 penguin
 pensioen
 pension
@@ -6761,6 +6763,7 @@ penza
 people
 pep
 pepper
+pepsi
 per
 perf
 perfect
@@ -6990,6 +6993,7 @@ ppm
 ppp
 ppr
 pps
+ppt
 pr
 pra
 praca
@@ -7116,7 +7120,6 @@ ps3
 psa
 psc
 psd
-pse
 psg
 psi
 pskov
@@ -7530,6 +7533,7 @@ rohan
 roken
 roku
 roland
+rom
 roma
 roman
 romania
@@ -7694,6 +7698,7 @@ sand
 sandbox
 sandbox1
 sandbox2
+sandbox-api
 sander
 sandiego
 sandra
@@ -7731,6 +7736,7 @@ sbb
 sbc
 sbc01
 sbc1
+sbc2
 sbr
 sbs
 sbx
@@ -7787,7 +7793,6 @@ scott
 scout
 scp
 scr
-scrapbook
 screen
 screenshots
 script
@@ -7860,6 +7865,7 @@ sem
 seminar
 seminars
 sen
+senate
 send
 sender
 sendgrid
@@ -7908,6 +7914,7 @@ serviceportal
 services
 services2
 servicios
+servicos
 servis
 ses
 session
@@ -7961,6 +7968,7 @@ shemale
 sheriff
 sherlock
 shib
+shibboleth
 shield
 shine
 shiny
@@ -8004,7 +8012,6 @@ signing
 signon
 signup
 silver
-silvia
 sim
 simba
 simcms
@@ -8257,7 +8264,6 @@ spm
 spo
 spock
 sponsor
-spoon
 sport
 sporten
 sportkleding
@@ -8274,7 +8280,6 @@ sprint
 sprite
 sps
 sputnik
-spy
 sq
 sql
 sql1
@@ -8295,7 +8300,6 @@ srv01
 srv02
 srv03
 srv1
-srv10
 srv2
 srv3
 srv4
@@ -8409,7 +8413,6 @@ stg1
 stg2
 sti
 sticker
-sting
 stingray
 stitch
 stk
@@ -8524,7 +8527,6 @@ sv1
 svc
 svcs
 sven
-svm
 svn
 svpn
 svs
@@ -8820,7 +8822,6 @@ tma
 tmb
 tmc
 tmg
-tmn
 t-mobile
 tmp
 tms
@@ -8910,6 +8911,7 @@ transfers
 transit
 translate
 translation
+translations
 translator
 transparency
 transport
@@ -8990,7 +8992,6 @@ tuning
 tunnel
 turbo
 turing
-turism
 turismo
 turkey
 turkije
@@ -9156,6 +9157,7 @@ vacaturebank
 vacaturebanken
 vacatures
 vaccine
+vaccines
 vader
 vaderdag
 vakantie
@@ -9253,7 +9255,6 @@ verzekeringen
 verzorging
 vespa
 vesta
-vestnik
 vet
 veterans
 vf
@@ -9290,7 +9291,6 @@ vin
 vince
 vincent
 vinden
-vine
 vintage
 viola
 violet
@@ -9600,7 +9600,6 @@ wfm
 wfm-service
 wg
 wh
-whale
 whatsapp
 whirlpool
 whisky
@@ -9810,6 +9809,7 @@ wwwold
 www-origin
 www-prod
 www-qa
+wwwqa
 wwws
 www-stage
 www-staging
