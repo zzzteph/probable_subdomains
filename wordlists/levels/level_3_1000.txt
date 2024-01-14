@@ -85,7 +85,6 @@
 188
 189
 19
-191
 192
 193
 194
@@ -263,6 +262,7 @@ api
 api1
 api2
 api-dev
+api-docs
 apigw
 apim
 apis
@@ -286,6 +286,7 @@ artifactory
 as
 assets
 at
+athena
 atlantis
 atlas
 au
@@ -371,7 +372,6 @@ com
 common
 community
 comwww
-conf
 conference
 config
 confluence
@@ -502,6 +502,7 @@ fw
 ga
 game
 games
+gamma
 gate
 gateway
 geo
@@ -549,10 +550,8 @@ imap
 img
 ims
 in
-influxdb
 info
 infra
-ingest
 ingress
 int
 integration
@@ -708,11 +707,11 @@ o8
 o9
 oauth
 office
-oidc
 okta
 old
 one
 online
+onlinelibrary-wiley-com
 open
 ops
 orange
@@ -765,7 +764,6 @@ production
 profile
 projects
 prometheus
-promo
 proquest
 protection
 proxy
@@ -832,6 +830,7 @@ sciencedirect
 scm
 se
 search
+search-ebscohost-com
 sec
 secure
 security
@@ -915,7 +914,6 @@ tickets
 tls
 token
 tools
-tp
 tr
 track
 tracker
@@ -942,6 +940,7 @@ upload
 uploads
 urc
 us
+us1
 us-east-1
 us-east-2
 user
@@ -995,6 +994,7 @@ www2
 www3
 www4
 www-sciencedirect-com
+www-tandfonline-com
 www-test
 wwww
 yahoo

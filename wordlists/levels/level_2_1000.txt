@@ -123,6 +123,7 @@ apple
 apply
 apps
 ar
+arc
 archive
 argocd
 art
@@ -168,7 +169,6 @@ blogs
 blogspot
 blue
 bo
-books
 bot
 bounce
 box
@@ -187,10 +187,8 @@ careers
 cas
 cat
 catalog
-cb
 cbs
 cc
-ccc
 cd
 cdn
 cdn1
@@ -292,6 +290,7 @@ developers
 development
 devops
 dhcp
+di
 dialin
 digital
 direct
@@ -340,7 +339,6 @@ enterprise
 enterpriseregistration
 erp
 es
-esb
 eu
 eu-west-1
 event
@@ -555,7 +553,6 @@ metrics
 mfa
 mgmt
 mi
-migration
 mijn
 minio
 mirror
@@ -699,6 +696,7 @@ poc
 pop
 pop3
 portal
+portfolio
 post
 postmaster
 pp
@@ -726,7 +724,6 @@ pt
 pub
 public
 publish
-puppet
 push
 qa
 qa1
@@ -766,10 +763,12 @@ rms
 ro
 root
 router
+rp
 rs
 rss
 rt
 ru
+rx
 s1
 s2
 s3
@@ -793,6 +792,7 @@ selfservice
 sentry
 server
 server1
+servers
 service
 servicedesk
 services
@@ -870,6 +870,7 @@ sys
 system
 sz
 t1
+t2
 tableau
 tc
 team
@@ -918,7 +919,6 @@ update
 upload
 uploads
 us
-usa
 us-east
 us-east-1
 user

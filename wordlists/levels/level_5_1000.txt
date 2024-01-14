@@ -349,6 +349,7 @@ avira-free-antivirus
 avito
 aws
 az
+azure
 b1
 b2
 back
@@ -628,7 +629,6 @@ jb
 je
 jenkins
 jira
-jisc
 jm
 jobs
 journals

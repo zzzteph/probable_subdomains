@@ -67,7 +67,6 @@ ar
 arc
 archief
 archive
-archives
 art
 as
 asia
@@ -272,7 +271,6 @@ email
 emails
 ems
 en
-energie
 energy
 eng
 engage
@@ -464,6 +462,7 @@ krasnoyarsk
 ku1720
 kubernetes
 kursk
+la
 lab
 labs
 landing
@@ -519,6 +518,7 @@ mailserver
 main
 maintenance
 manage
+management
 manager
 map
 maps

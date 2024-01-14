@@ -262,7 +262,6 @@ about
 ac
 academic
 acc
-acceptance
 acceptatie
 access
 account
@@ -398,6 +397,7 @@ click
 client
 clients
 cloud
+cloudfront
 cluster
 cm
 cms
@@ -659,7 +659,6 @@ me
 med
 media
 meet
-message
 messaging
 metrics
 mgmt
@@ -964,6 +963,7 @@ view
 vip
 virus
 vpn
+wa
 wap
 web
 web01

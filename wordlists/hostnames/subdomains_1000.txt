@@ -112,7 +112,6 @@ blog
 blogs
 bo
 boards
-boeken
 book
 booking
 bookmarks
@@ -392,6 +391,7 @@ img
 img1
 img2
 img3
+ims
 in
 inbound
 info
@@ -458,6 +458,7 @@ kursk
 lab
 labs
 landing
+law
 lb
 ldap
 learn
@@ -559,7 +560,6 @@ msn
 mt
 mta-sts
 mta-sts.mail
-multimedia
 murmansk
 music
 mvn
@@ -595,7 +595,6 @@ no
 noc
 novosibirsk
 ns
-ns0
 ns1
 ns2
 ns3
@@ -852,6 +851,7 @@ th
 ticket
 tickets
 time
+tms
 tomsk
 tools
 top

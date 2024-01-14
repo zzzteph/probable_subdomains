@@ -67,6 +67,7 @@ ap
 api
 api2
 api-dev
+apis
 api-test
 apollo
 app
@@ -472,7 +473,6 @@ lb
 ldap
 learn
 learning
-leden
 legacy
 legal
 li
@@ -583,6 +583,7 @@ mx4
 my
 myaccount
 myhome
+mysite
 mysql
 na
 nagios
@@ -798,6 +799,7 @@ sms
 smtp
 smtp1
 smtp2
+smtp3
 so
 social
 software
@@ -917,7 +919,6 @@ video
 videos
 view
 vip
-vladimir
 vn
 voice
 voip
@@ -992,7 +993,6 @@ www7b
 www-test
 wwww
 wwwwww
-xml
 xroads
 xxx
 yahoo

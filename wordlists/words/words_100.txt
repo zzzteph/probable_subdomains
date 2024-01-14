@@ -43,7 +43,6 @@ intranet
 ipv6
 jobs
 link
-live
 login
 lyncdiscover
 mail
@@ -78,6 +77,7 @@ search
 secure
 server
 service
+services
 shop
 sip
 smtp

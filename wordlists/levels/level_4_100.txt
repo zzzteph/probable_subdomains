@@ -31,7 +31,6 @@ de
 demo
 dev
 docs
-dynamic
 es
 eu
 fr
@@ -68,6 +67,7 @@ preview
 prod
 production
 prometheus
+proquest
 proxy
 public
 qa
