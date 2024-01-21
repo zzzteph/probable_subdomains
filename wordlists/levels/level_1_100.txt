@@ -55,7 +55,6 @@ media
 meet
 mijn
 mobile
-mta-sts
 mx
 mx1
 my
@@ -84,6 +83,7 @@ smtp
 stage
 staging
 static
+stats
 status
 store
 support

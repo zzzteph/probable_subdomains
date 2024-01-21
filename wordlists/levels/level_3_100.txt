@@ -29,7 +29,6 @@ email
 en
 es
 eu
-fr
 ftp
 gateway
 git
@@ -85,6 +84,7 @@ static
 stg
 support
 test
+test1
 test2
 uat
 uk

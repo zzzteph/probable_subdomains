@@ -30,7 +30,6 @@ download
 email
 en
 es
-events
 feeds
 files
 forum
@@ -52,6 +51,7 @@ live
 login
 lyncdiscover
 mail
+mail1
 mail2
 media
 meet

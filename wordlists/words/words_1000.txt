@@ -277,7 +277,6 @@ edit
 edu
 education
 ee
-eindhoven
 el
 elastic
 elearning
@@ -587,6 +586,7 @@ mysite
 mysql
 na
 nagios
+nas
 nc
 net
 network
@@ -680,7 +680,6 @@ pp
 pr
 prd
 pre
-pre-prod
 preprod
 press
 preview
@@ -993,6 +992,7 @@ www7b
 www-test
 wwww
 wwwwww
+xml
 xroads
 xxx
 yahoo

@@ -381,7 +381,6 @@ http
 httpwww
 hu
 hub
-hwww
 hybrid
 iam
 ict
@@ -478,7 +477,6 @@ li
 lib
 library
 life
-lime
 link
 links
 linux
@@ -525,6 +523,7 @@ maps
 market
 marketing
 marketplace
+mars
 master
 math
 maven
@@ -564,6 +563,7 @@ ms
 msk
 msn
 mt
+mta
 mta-sts
 multimedia
 music

@@ -325,6 +325,7 @@ asia
 asset
 assets
 at
+atlantis
 atlas
 att
 au
@@ -332,7 +333,6 @@ audit
 auth
 authenticate
 author
-authorization
 auto
 autoconfig
 autodiscover
@@ -360,6 +360,7 @@ blogs
 blogspot
 blue
 bo
+box
 br
 brillonline
 bt
@@ -387,8 +388,8 @@ ce
 cert
 certauth
 cf
-cgi
 ch
+chadwyck
 chat
 checkout
 chef
@@ -433,7 +434,6 @@ cust
 customer
 cz
 d1
-dash
 dashboard
 data
 db
@@ -493,6 +493,7 @@ ed
 edge
 edu
 ee
+eks
 elastic
 elasticsearch
 elb
@@ -523,6 +524,7 @@ files
 finance
 fm
 foo
+forms
 forum
 fr
 fra
@@ -551,6 +553,7 @@ gr
 grafana
 graph
 graphite
+graylog
 green
 grpc
 gw
@@ -565,7 +568,6 @@ host
 hosting
 hostmaster
 hp
-httpbin
 hu
 hub
 iad
@@ -599,7 +601,6 @@ ip
 ip4
 is
 it
-jaeger
 jenkins
 jhu
 jira
@@ -673,7 +674,7 @@ mobile
 monitor
 monitoring
 mq
-ms
+mqtt
 mt
 mta
 mta-sts
@@ -750,7 +751,6 @@ perf
 pgadmin
 ph
 php
-pi
 pilot
 pl
 platform
@@ -897,7 +897,6 @@ stream
 sts
 studio
 sub
-superset
 support
 svc
 swagger
@@ -927,7 +926,6 @@ traefik
 train
 training
 travel
-trn
 ts
 tst
 tv
@@ -943,6 +941,7 @@ uk
 umi
 update
 upload
+uploads
 us
 use1
 us-east-1
@@ -965,11 +964,13 @@ virus
 vpn
 wa
 wap
+weather
 web
 web01
 web1
 web2
 web3
+webapi
 webapp
 webdisk
 webhook
@@ -980,7 +981,6 @@ webservice
 website
 west
 whm
-whoami
 wiki
 wildcard
 wiley

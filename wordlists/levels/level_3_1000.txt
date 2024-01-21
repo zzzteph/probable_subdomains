@@ -17,6 +17,7 @@
 111
 112
 113
+114
 115
 116
 117
@@ -45,6 +46,8 @@
 14
 140
 141
+142
+143
 144
 145
 146
@@ -65,26 +68,33 @@
 161
 162
 163
+164
 165
 166
 167
 168
 169
 17
+171
 172
 173
 174
+176
 177
 178
+179
 18
 180
 181
+182
 184
 185
 186
 188
 189
 19
+190
+191
 192
 193
 194
@@ -106,6 +116,7 @@
 209
 21
 210
+211
 212
 213
 215
@@ -115,6 +126,7 @@
 219
 22
 220
+221
 222
 223
 224
@@ -267,6 +279,7 @@ apigw
 apim
 apis
 api-test
+apm
 ap-northeast-1
 apollo
 app
@@ -335,7 +348,6 @@ cache
 canary
 careers
 cas
-cat
 catalog
 cc
 ccc
@@ -345,14 +357,12 @@ central
 cert
 certauth
 cf
-cgi
 ch
 chat
 check
 checkout
 chef
 ci
-cis
 citrix
 cl
 click
@@ -414,7 +424,6 @@ dev3
 dev4
 develop
 developer
-developers
 development
 devops
 dhcp
@@ -460,7 +469,6 @@ emea
 en
 eng
 engine
-engineering
 enterprise
 enterpriseregistration
 es
@@ -507,6 +515,7 @@ gate
 gateway
 geo
 gis
+gist
 git
 github
 gitlab
@@ -536,6 +545,7 @@ hr
 http
 httpbin
 hub
+hydra
 iam
 id
 identity
@@ -543,6 +553,7 @@ idm
 idp
 ids
 ie
+ieee
 im
 image
 images
@@ -550,6 +561,7 @@ imap
 img
 ims
 in
+influxdb
 info
 infra
 ingress
@@ -563,7 +575,6 @@ io
 ip
 ip4
 ipv6
-iris
 is
 it
 jaeger
@@ -604,7 +615,6 @@ login
 logs
 loki
 london
-love
 lp
 lyncdiscover
 lyncdiscoverinternal
@@ -716,7 +726,6 @@ open
 ops
 orange
 order
-orders
 org
 origin
 os
@@ -748,11 +757,9 @@ pop3
 portainer
 portal
 pp
-ppp
 pr
 prd
 pre
-pre-prod
 preprod
 preview
 private
@@ -819,7 +826,6 @@ s4
 sa
 sagepub
 sales
-sam
 saml
 sandbox
 sap
@@ -830,7 +836,6 @@ sciencedirect
 scm
 se
 search
-search-ebscohost-com
 sec
 secure
 security
@@ -870,7 +875,6 @@ ss
 ssl
 sso
 st
-sta
 staff
 stage
 staging
@@ -940,7 +944,6 @@ upload
 uploads
 urc
 us
-us1
 us-east-1
 us-east-2
 user
@@ -954,7 +957,6 @@ vault
 vc
 verify
 video
-videos
 view
 vip
 vm
@@ -977,7 +979,6 @@ webservices
 website
 west
 whm
-wifi
 wiki
 wildcard
 wiley
@@ -994,7 +995,6 @@ www2
 www3
 www4
 www-sciencedirect-com
-www-tandfonline-com
 www-test
 wwww
 yahoo

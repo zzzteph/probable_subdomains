@@ -269,7 +269,6 @@ acc
 access
 account
 accounts
-active
 ad
 adfs
 adm
@@ -369,12 +368,14 @@ beta
 bf
 billing
 biz
+bj
 bk
 blob
 blog
 blogspot
 blue
 bob
+box
 br
 broad
 broker
@@ -528,7 +529,6 @@ fd
 fe
 fe3
 feature
-feedback
 fi
 file
 files
@@ -603,9 +603,11 @@ images
 imap
 imap4
 img
+img1
 in
-indexer
+influxdb
 info
+infoweb
 infra
 ingest
 ingress
@@ -623,8 +625,8 @@ ip4
 ipv4
 is
 it
-j1
 jama
+java
 jb
 je
 jenkins
@@ -783,7 +785,6 @@ ppe
 ppp
 prd
 pre
-preferences
 preprod
 preview
 private
@@ -839,7 +840,6 @@ rest
 rev
 reverse
 review
-rise
 rm
 rss
 ru
@@ -927,7 +927,6 @@ th
 thanos
 the
 tky
-tm
 tn
 to
 toolbar
@@ -975,6 +974,7 @@ wap
 weather
 web
 web1
+webapi
 webapp
 webdisk
 webhooks
