@@ -3,7 +3,6 @@
 001
 002
 007
-00www
 01
 010
 02
@@ -535,7 +534,6 @@ aeon
 aero
 aes
 af
-afas
 a-feeds
 aff
 affiliate
@@ -871,7 +869,6 @@ apollon
 apotheek
 app
 app01
-app02
 app1
 app2
 app3
@@ -1108,7 +1105,6 @@ austin
 australia
 australie
 austria
-aut
 auth
 auth1
 auth2
@@ -1306,7 +1302,6 @@ bat-smg
 battle
 bauer
 bay
-baza
 bazaar
 bazar
 bb
@@ -1375,7 +1370,6 @@ belize
 bell
 bella
 belle
-bellen
 bem
 ben
 benchmark
@@ -1624,7 +1618,6 @@ brad
 brain
 brainstorm
 brainstormk12
-bram
 branch
 brand
 branding
@@ -1634,6 +1627,7 @@ brands
 brandweer
 brasil
 bratsk
+brave
 bravo
 brazil
 brazilie
@@ -1737,6 +1731,7 @@ c7
 c8
 c9
 ca
+ca1
 caa
 cab
 cabinet
@@ -2141,6 +2136,7 @@ cloud
 cloud1
 cloud2
 cloud9
+cloudapp
 cloudflare
 cloudflare-resolve-to
 cloudfront
@@ -2190,7 +2186,6 @@ coc
 cockpit
 coco
 cocoa
-coconut
 cod
 code
 coder
@@ -2438,7 +2433,6 @@ crt
 crucible
 cruise
 cruises
-crunchies2009
 crux
 crypto
 cryptocurrency
@@ -2469,6 +2463,7 @@ cte
 ctf
 cti
 ctl
+cto
 ctp
 ctr
 ctrl
@@ -2568,6 +2563,7 @@ danny
 dans
 dansen
 dante
+dany
 dap
 daphne
 dar
@@ -2818,6 +2814,7 @@ director
 directorio
 directory
 dis
+disc
 disco
 discord
 discount
@@ -3149,7 +3146,6 @@ egov
 egw
 egypt
 egypte
-ehbo
 ehealth
 ehr
 ehs
@@ -3395,6 +3391,7 @@ eu-central-1
 euclid
 eugene
 euler
+eum
 eur
 eureka
 euro
@@ -3682,6 +3679,7 @@ fox
 foxtrot
 foxy
 fp
+fpc
 fps
 fr
 fra
@@ -3726,7 +3724,6 @@ frost
 frozen
 fruit
 frwebgate
-fryazino
 fs
 fs1
 fs2
@@ -3796,6 +3793,7 @@ gaming
 gamma
 gandalf
 gap
+gapps
 garage
 garagedeuren
 garant
@@ -4075,7 +4073,6 @@ guitar
 guru
 gus
 gutenberg
-gv
 gw
 gw1
 gw2
@@ -4574,6 +4571,7 @@ information
 informer
 infos
 infosec
+infosys
 infoweb
 infra
 ing
@@ -5087,6 +5085,7 @@ ks-vendingtransactions-mq4
 kt
 ku
 ku1720
+kuban
 kube
 kubernetes
 kultur
@@ -5160,6 +5159,7 @@ lax
 layout
 lb
 lb01
+lb02
 lb1
 lb2
 lbs
@@ -6036,6 +6036,7 @@ mx01
 mx02
 mx03
 mx04
+mx-1
 mx1
 mx10
 mx11
@@ -6101,6 +6102,7 @@ nap
 narrowcasting
 naruto
 nas
+nas1
 nasa
 nash
 nashville
@@ -6245,6 +6247,7 @@ nnov
 nntp
 no
 noah
+nobel
 noc
 node
 node1
@@ -7251,7 +7254,6 @@ radius1
 radius2
 radon
 rafael
-rage
 ragnarok
 rai
 rail
@@ -7267,7 +7269,6 @@ rams
 ran
 rancher
 random
-randstad
 ranger
 rank
 ranking
@@ -7634,7 +7635,6 @@ s2
 s20
 s21
 s22
-s23
 s25
 s3
 s30
@@ -7661,6 +7661,7 @@ sae
 safari
 safe
 safety
+saffron
 saga
 sage
 sagepub
@@ -7686,6 +7687,7 @@ sami
 saml
 sample
 samples
+sams
 samsung
 samuel
 samurai
@@ -7720,6 +7722,7 @@ sas
 sasha
 sat
 satellite
+satis
 saturn
 sauna
 sauron
@@ -7884,6 +7887,7 @@ serenity
 serov
 serpuhov
 serv
+serv1
 serve
 server
 server01
@@ -8651,7 +8655,6 @@ ted
 teddy
 teen
 teens
-tegel
 tel
 tele
 tele2
@@ -8667,13 +8670,13 @@ temp
 tempest
 template
 templates
+temple
 tempo
 ten
 tender
 tenders
 tennessee
 tennis
-tenten
 tera
 terminal
 terminator
@@ -9116,7 +9119,6 @@ us
 us1
 us2
 usa
-usb
 usc
 use
 us-east
@@ -9346,7 +9348,6 @@ voeding
 voedingssupplementen
 voetbal
 vogel
-vogels
 voice
 voicemail
 voices
@@ -9390,7 +9391,6 @@ vps1
 vps2
 vps3
 vps4
-vps5
 vr
 vragenlijst
 vrienden
@@ -9698,7 +9698,6 @@ wowza
 woz
 wp
 wp1
-wp2
 wpad
 wps
 wptest
@@ -9719,6 +9718,7 @@ wt
 wtf
 wts
 wuhan
+wv
 ww
 ww1
 ww11

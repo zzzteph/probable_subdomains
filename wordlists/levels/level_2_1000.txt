@@ -42,17 +42,13 @@
 52
 55
 56
-64
 66
 69
-71
-72
 75
 76
 78
 80
 98
-99
 a1
 a2
 aa
@@ -83,6 +79,7 @@ a-feeds
 ag
 agent
 ai
+air
 airflow
 akamai
 akamai-test
@@ -221,7 +218,6 @@ code
 collab
 collab-edge
 com
-comment
 common
 community
 compass
@@ -268,6 +264,7 @@ default
 delivery
 delta
 demo
+demo1
 demo2
 deploy
 design
@@ -347,6 +344,7 @@ facebook
 faq
 fb
 fe
+feed
 feedback
 feeds
 fi
@@ -651,6 +649,7 @@ org
 origin
 origin-www
 orion
+os
 outlook
 owa
 pa
@@ -729,6 +728,7 @@ qa1
 qa2
 quest
 ra
+radio
 radius
 rancher
 ras
@@ -889,6 +889,7 @@ ticket
 tickets
 time
 tls
+tm
 tms
 tools
 top
@@ -933,6 +934,7 @@ vc
 vcenter
 vdi
 vendor
+vendors
 verify
 vi
 video
@@ -956,7 +958,6 @@ web2
 web3
 webapp
 webapps
-webapps-common
 webcon
 webconf
 webdev
@@ -983,7 +984,6 @@ ww
 ww1
 ww2
 ww25
-ww38
 www
 www1
 www2

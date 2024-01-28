@@ -55,6 +55,7 @@ api2
 api-dev
 api.dev
 api.staging
+api-test
 apollo
 app
 apple
@@ -559,7 +560,6 @@ msn
 mt
 mta-sts
 mta-sts.mail
-multimedia
 murmansk
 music
 mvn

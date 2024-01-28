@@ -396,6 +396,7 @@ cp
 cpanel
 cpcalendars
 cpcontacts
+cps
 cr
 crm
 cs
@@ -429,7 +430,6 @@ devops
 dhcp
 dialin
 digital
-direct
 directory
 discovery
 dk
@@ -545,7 +545,6 @@ hr
 http
 httpbin
 hub
-hydra
 iam
 id
 identity
@@ -564,6 +563,7 @@ in
 influxdb
 info
 infra
+ingest
 ingress
 int
 integration
@@ -726,6 +726,7 @@ open
 ops
 orange
 order
+orders
 org
 origin
 os
@@ -746,7 +747,6 @@ ph
 photo
 php
 phpmyadmin
-pi
 pilot
 pl
 platform
@@ -918,8 +918,8 @@ tickets
 tls
 token
 tools
+tp
 tr
-track
 tracker
 tracking
 traefik

@@ -271,7 +271,6 @@ academy
 acapi
 acc
 acc2
-acca
 accelerator
 accent
 accept
@@ -369,6 +368,7 @@ admins
 admin.staging
 admin.test
 admin.www
+admiral
 admission
 admissions
 adn
@@ -823,6 +823,7 @@ ardennen
 area
 area51
 arena
+arenda
 ares
 arg
 argentina
@@ -837,7 +838,6 @@ ari
 aria
 ariadne
 ariana
-ariane
 arie
 ariel
 aries
@@ -1689,7 +1689,6 @@ buzuluk
 buzz
 bv
 bw
-bwc
 bx
 by
 byod
@@ -1697,7 +1696,6 @@ bz
 c1
 c10
 c11
-c13
 c2
 c2c
 c3
@@ -2154,6 +2152,7 @@ coaching
 cobalt
 cobra
 coc
+coca-cola
 cockpit
 coco
 cocoa
@@ -2170,6 +2169,7 @@ cognos
 coin
 coins
 coke
+colibri
 colin
 collab
 collab-edge
@@ -2301,7 +2301,6 @@ copyright
 cor
 coral
 core
-corner
 corona
 coronavirus
 corp
@@ -2775,7 +2774,6 @@ dir
 direct
 directaccess
 director
-directorio
 directory
 dis
 disco
@@ -3500,7 +3498,6 @@ feature
 features
 fed
 federation
-fedora
 feed
 feedback
 feedproxy
@@ -3677,7 +3674,6 @@ frederic.bezies
 free
 freebsd
 freedom
-freedownload
 freelance
 freemail
 freeman
@@ -3862,6 +3858,7 @@ geoserver
 geoweb
 gep.dev
 ger
+gera
 gerard
 gereedschap
 german
@@ -4838,7 +4835,6 @@ joomla
 jordan
 jose
 josh
-joshua
 journal
 journals
 journey
@@ -5398,7 +5394,6 @@ luchtvaart
 luck
 lucky
 lucy
-luigi
 luka
 lukas
 luke
@@ -5539,6 +5534,7 @@ mailings
 maillist
 mail.mail
 mailman
+mail-out
 mailout
 mailout2
 mail-relay
@@ -5674,6 +5670,7 @@ maximus
 maxwell
 may
 maya
+mayak
 maykop
 mayor
 mazda
@@ -5798,6 +5795,7 @@ mg
 mga
 mgmt
 mgs
+mgt
 mh
 mhs
 mi
@@ -6071,6 +6069,7 @@ mx01
 mx02
 mx03
 mx04
+mx-1
 mx1
 mx10
 mx11
@@ -6245,7 +6244,6 @@ nieuwsbrief
 nieuwsbrieven
 nigeria
 night
-nightlife
 nijkerk
 nijmegen
 nika
@@ -6667,6 +6665,7 @@ pages
 pages.email
 pagina
 pai
+painel
 paint
 paintball
 pakistan
@@ -6778,7 +6777,6 @@ perl
 perm
 permits
 pers
-perseus
 person
 persona
 personal
@@ -7208,7 +7206,6 @@ quark
 quasar
 quebec
 queen
-queens
 query
 quest
 quest.arc
@@ -7241,6 +7238,7 @@ radio
 radius
 radius1
 radius2
+radon
 rafael
 rage
 ragnarok
@@ -7361,7 +7359,6 @@ reisgids
 reisorganisaties
 reisverzekering
 reizen
-reklam
 reklama
 related
 relatie
@@ -7395,6 +7392,7 @@ renkum
 renoveren
 renswoude
 rent
+rental
 rentals
 rente
 rep
@@ -7532,6 +7530,7 @@ root
 rootsweb
 rosa
 rose
+rosetta
 ross
 rostov
 rostov-na-donu
@@ -7553,7 +7552,6 @@ rpm
 rproxy
 rps
 rr
-rrr
 rs
 rs1
 rsa
@@ -7607,6 +7605,7 @@ s13
 s14
 s15
 s16
+s18
 s19
 s2
 s20
@@ -7796,7 +7795,6 @@ searchportal-qa
 seat
 seattle
 sec
-secmail
 secret
 secrets
 secure
@@ -8233,6 +8231,7 @@ spin
 spirit
 spiritualiteit
 spiritueel
+spitfire
 spl
 splash
 splunk
@@ -8258,7 +8257,6 @@ sps
 sputnik
 sq
 sql
-sql01
 sql1
 square
 squid
@@ -8501,7 +8499,6 @@ sv
 sv1
 svc
 sven
-svm
 svn
 svpn
 svs
@@ -8830,6 +8827,7 @@ topics
 tops
 tor
 tornado
+toro
 toronto
 torrent
 torrents
@@ -8886,7 +8884,6 @@ transport
 transportation
 transporteren
 trappen
-trash
 travel
 traveler
 traveller
@@ -9050,6 +9047,7 @@ universal
 universe
 universeel-geloof
 university
+universum
 unix
 unknown
 unlimited
@@ -9272,6 +9270,7 @@ virtual
 virus
 vis
 visa
+visio
 vision
 visit
 visitekaartjes
@@ -9454,6 +9453,7 @@ web03
 web04
 web05
 web06
+web08
 web1
 web10
 web11
@@ -9463,6 +9463,7 @@ web15
 web16
 web18
 web2
+web20
 web25
 web3
 web4
@@ -9814,7 +9815,6 @@ wwwww
 wwwwww
 wx
 wy
-wyoming
 wz
 x1
 x2

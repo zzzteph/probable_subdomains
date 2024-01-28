@@ -113,7 +113,6 @@ bc
 be
 beauty
 beheer
-bestellen
 beta
 bg
 bi
@@ -192,6 +191,7 @@ collab
 collab-edge
 com
 community
+company
 computer
 comune
 comwww
@@ -650,6 +650,7 @@ pc
 pda
 people
 perm
+pg
 ph
 phoenix
 photo
@@ -992,7 +993,6 @@ www7b
 www-test
 wwww
 wwwwww
-xml
 xroads
 xxx
 yahoo
