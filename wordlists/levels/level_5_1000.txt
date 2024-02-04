@@ -122,6 +122,7 @@
 20
 200
 201
+2019
 202
 203
 204
@@ -283,6 +284,7 @@ adsl
 ae
 affiliate
 agent
+airflow
 ak
 akamai
 alb
@@ -327,9 +329,9 @@ arcade
 archive
 argo
 argocd
-art
 artifactory
 as
+asia
 assets
 at
 athena
@@ -343,7 +345,6 @@ auto
 autoconfig
 autodiscover
 av
-avatars
 avira-free-antivirus
 avito
 aws
@@ -363,11 +364,9 @@ bbs
 bc
 bd
 be
-best
 beta
 bf
 billing
-biz
 bj
 bk
 blob
@@ -383,7 +382,6 @@ build
 business
 by
 c1
-c5
 c8
 ca
 cable
@@ -393,12 +391,12 @@ calendar
 callback
 canary
 card
-cat
 catalog
 cb
 cc
 cd
 cdn
+cdn1
 cert
 certauth
 cf
@@ -445,14 +443,12 @@ cv
 cz
 d1
 d2
-d3
 d8
 da
 dashboard
 data
 db
 dc
-dc1
 dc2
 dd
 de
@@ -460,6 +456,7 @@ debug
 default
 delivery
 demo
+design
 desktop
 dev
 dev01
@@ -489,7 +486,7 @@ docker
 docs
 doi
 download
-dp
+downloads
 ds
 dsl
 dx
@@ -504,6 +501,7 @@ echo
 edge
 ee
 elasticsearch
+elb
 em
 email
 emea
@@ -514,6 +512,7 @@ es
 escan-anti-virus
 eset-nod32-antivirus
 eu
+eu-central-1
 eu-west-1
 eu-west-2
 events
@@ -523,7 +522,6 @@ external
 f1
 f5
 factory
-fb
 fbx
 fd
 fe
@@ -549,7 +547,6 @@ ftth
 ga
 galenet
 game
-games
 gamma
 gate
 gateway
@@ -579,7 +576,6 @@ help
 hk
 home
 host
-host-140
 hosting
 hostmaster
 houston
@@ -590,6 +586,7 @@ http
 httpbin
 hub
 i1
+iad
 iam
 id
 identity
@@ -603,7 +600,6 @@ images
 imap
 imap4
 img
-img1
 in
 influxdb
 info
@@ -655,6 +651,7 @@ library
 license
 lightspeed
 link
+linux
 live
 lk
 lo0
@@ -676,7 +673,9 @@ main
 manage
 management
 manager
+maps
 master
+math
 mc
 mcs
 mdm
@@ -733,7 +732,6 @@ ns2
 ns3
 ns4
 nt
-office
 okta
 old
 on
@@ -754,15 +752,14 @@ os
 ovidsp
 owa
 p1
-p2
 pa
 page
 pages
 painel
 partner
 pass
-pat
 pay
+payments
 paypal
 pc
 perf
@@ -774,7 +771,6 @@ pilot
 pl
 platform
 play
-playground
 poc
 pool
 pop
@@ -801,6 +797,7 @@ promo
 promotion
 proquest
 proxy
+ps
 psycnet
 pt
 ptr
@@ -820,9 +817,9 @@ r3
 ra
 rabbitmq
 rancher
-raw
 rc
 realtime
+redirect
 redirectme
 referenceworks
 reg
@@ -835,6 +832,7 @@ render
 rep
 report
 reporting
+reports
 research
 rest
 rev
@@ -856,12 +854,12 @@ sc
 scholar
 scm
 se
+sea
 search
 sec
 secondary
 secure
 security
-seek
 server
 service
 services
@@ -894,20 +892,18 @@ staging
 start
 stat
 static
-static1
 stats
 status
 stg
 stl
 storage
 store
+stream
 stress
-sts
 sub
 support
 svc
 swagger
-syd
 sys
 system
 t1
@@ -915,6 +911,7 @@ te
 temp
 test
 test1
+test123
 test-2
 test2
 test22
@@ -932,6 +929,7 @@ to
 toolbar
 tools
 tr
+tracking
 traefik
 training
 trigger
@@ -968,6 +966,7 @@ video
 videos
 vip
 virus
+vpce
 vpn
 wa
 wap
@@ -990,6 +989,7 @@ wire
 wireless
 wordpress
 ws
+ww
 www
 www1
 www2

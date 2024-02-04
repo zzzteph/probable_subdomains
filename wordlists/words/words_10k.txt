@@ -5,6 +5,7 @@
 007
 01
 010
+013
 02
 020
 03
@@ -319,7 +320,6 @@
 a0
 a01
 a1
-a10
 a2
 a3
 a4
@@ -418,7 +418,6 @@ ace
 acer
 aces
 acesso
-acf
 acg
 achilles
 achinsk
@@ -848,7 +847,6 @@ api-int
 api-internal
 apim
 apiportal
-api-preprod
 api-prod
 api-qa
 apis
@@ -1308,6 +1306,7 @@ bb
 bba
 bbb
 bbc
+bbm
 bbq
 bbs
 bbt
@@ -1439,6 +1438,7 @@ bike
 bikini
 bilbo
 bilder
+bilet
 bill
 billing
 billpay
@@ -1863,7 +1863,6 @@ cb
 cba
 cbachina
 cbc
-cbd
 cbi
 cbr
 cbs
@@ -1910,7 +1909,6 @@ cdn4
 cdn-5
 cdn5
 cdn-6
-cdn6
 cdn-7
 cdn-dev
 cdn-test
@@ -2135,8 +2133,6 @@ clone
 cloud
 cloud1
 cloud2
-cloud9
-cloudapp
 cloudflare
 cloudflare-resolve-to
 cloudfront
@@ -2417,6 +2413,7 @@ crl
 crm
 crm2
 crm-dev
+crmdev
 crmtest
 cro
 croatia
@@ -2484,7 +2481,6 @@ cup
 cupid
 curacao
 cure
-curiouscapitalist
 current
 cursos
 cursus
@@ -2903,6 +2899,7 @@ dogfood-dev
 dogs
 doh
 doi
+doi-org
 doit
 dojo
 dol
@@ -2956,7 +2953,6 @@ dr
 drac
 drachten
 draco
-dracula
 draft
 dragon
 dragonfly
@@ -3261,6 +3257,7 @@ enet
 enews
 eng
 engage
+engagement
 engeland
 engels
 engine
@@ -3391,7 +3388,6 @@ eu-central-1
 euclid
 eugene
 euler
-eum
 eur
 eureka
 euro
@@ -3679,7 +3675,6 @@ fox
 foxtrot
 foxy
 fp
-fpc
 fps
 fr
 fra
@@ -3898,7 +3893,6 @@ gfx
 gg
 ggg
 gh
-ghana
 ghost
 ghs
 gi
@@ -3991,7 +3985,6 @@ governor
 gp
 gpm
 gpo
-gprs
 gps
 gpt
 gr
@@ -4040,6 +4033,7 @@ grow
 growth
 grs
 gs
+gs1
 gsa
 gsc
 gsfc
@@ -4060,6 +4054,7 @@ gu
 guangzhou
 guard
 guardian
+guatemala
 gucci
 guce
 guest
@@ -4530,6 +4525,7 @@ imperial
 import
 impulse
 ims
+imt
 in
 ina
 inboedelverzekering
@@ -4926,6 +4922,7 @@ karen
 karin
 karina
 karma
+karper
 karriere
 kart
 kas
@@ -5245,6 +5242,7 @@ lifestyle
 liga
 light
 lighthouse
+lighting
 lightning
 like
 lily
@@ -5613,6 +5611,7 @@ mastermind
 masters
 mat
 match
+materials
 math
 matomo
 matrix
@@ -6003,7 +6002,6 @@ mtest
 mtg
 mtls
 mtn
-mtp
 mts
 mtv
 mu
@@ -6444,6 +6442,7 @@ okta
 ol
 ola
 old
+old2
 oldenzaal
 oldmail
 oldsite
@@ -6731,6 +6730,7 @@ pc2
 pcc
 pcgames
 pci
+pcr
 pcs
 pd
 pda
@@ -6753,6 +6753,7 @@ pegasus
 pelican
 pen
 penguin
+penny
 pensioen
 pension
 pentest
@@ -7687,7 +7688,6 @@ sami
 saml
 sample
 samples
-sams
 samsung
 samuel
 samurai
@@ -8331,6 +8331,7 @@ ssrs
 sss
 sst
 st
+st01
 st1
 st2
 st3
@@ -8405,6 +8406,7 @@ stellar
 stem
 step
 stephanie
+sterling
 sterlitamak
 steve
 steven
@@ -8729,6 +8731,7 @@ testing1
 testing2
 test-intranet
 testlink
+testm
 testmail
 testnet
 testomgeving
@@ -8937,7 +8940,6 @@ trials
 tribunale
 trigger
 trinity
-trio
 trip
 triton
 triumph
@@ -9718,7 +9720,6 @@ wt
 wtf
 wts
 wuhan
-wv
 ww
 ww1
 ww11
@@ -9940,7 +9941,6 @@ zenoss
 zephyr
 zeppelin
 zero
-zero2ipo
 zeta
 zeus
 zevenaar

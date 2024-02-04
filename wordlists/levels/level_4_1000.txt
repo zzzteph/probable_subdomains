@@ -309,7 +309,6 @@ ap-northeast-1
 apollo
 app
 app1
-apple
 apps
 aps
 ap-southeast-1
@@ -329,7 +328,6 @@ atlantis
 atlas
 att
 au
-audit
 auth
 authenticate
 author
@@ -352,9 +350,9 @@ bbs
 bc
 be
 beta
-bg
 bi
 billing
+bitbucket
 biz
 blog
 blogs
@@ -362,7 +360,6 @@ blue
 bo
 box
 br
-brillonline
 bt
 build
 business
@@ -389,7 +386,6 @@ cert
 certauth
 cf
 ch
-chadwyck
 chat
 checkout
 chef
@@ -474,6 +470,7 @@ docker
 docs
 doi
 download
+downloads
 dr
 ds
 dsl
@@ -510,6 +507,7 @@ eu-central-1
 europe
 euw1
 eu-west-1
+eu-west-2
 event
 events
 example
@@ -616,6 +614,7 @@ kb
 keycloak
 kibana
 kr
+kubecost
 la
 lab
 labs
@@ -675,6 +674,7 @@ monitor
 monitoring
 mq
 mqtt
+ms
 mt
 mta
 mta-sts
@@ -755,6 +755,7 @@ pilot
 pl
 platform
 play
+playground
 poc
 pop
 pop3
@@ -782,6 +783,7 @@ prometheus
 promo
 proquest
 protection
+provisioning
 proxy
 ps
 pt
@@ -804,7 +806,6 @@ rancher
 raw
 rc
 rd
-rec
 reg
 register
 registration
@@ -843,7 +844,6 @@ scitation
 scm
 se
 search
-sec
 secure
 security
 sentry

@@ -46,7 +46,6 @@
 14
 140
 141
-142
 143
 144
 145
@@ -68,7 +67,6 @@
 161
 162
 163
-164
 165
 166
 167
@@ -86,7 +84,6 @@
 18
 180
 181
-182
 184
 185
 186
@@ -116,7 +113,6 @@
 209
 21
 210
-211
 212
 213
 215
@@ -297,6 +293,7 @@ argocd
 art
 artifactory
 as
+asia
 assets
 at
 athena
@@ -382,6 +379,7 @@ com
 common
 community
 comwww
+conf
 conference
 config
 confluence
@@ -448,7 +446,6 @@ downloads
 dr
 ds
 dsl
-dss
 dyn
 dynamic
 e2e
@@ -478,6 +475,7 @@ eu
 eu-central-1
 europe
 eu-west-1
+eu-west-2
 event
 events
 example
@@ -488,7 +486,6 @@ extranet
 facebook
 fbx
 fe
-feature
 feedback
 fi
 file
@@ -515,7 +512,6 @@ gate
 gateway
 geo
 gis
-gist
 git
 github
 gitlab
@@ -544,6 +540,7 @@ hp
 hr
 http
 httpbin
+hu
 hub
 iam
 id
@@ -560,6 +557,7 @@ imap
 img
 ims
 in
+inbound
 influxdb
 info
 infra
@@ -904,7 +902,6 @@ t2
 tableau
 tandfonline
 team
-teleport
 temp
 test
 test1
@@ -920,6 +917,7 @@ token
 tools
 tp
 tr
+track
 tracker
 tracking
 traefik
@@ -964,6 +962,7 @@ voice
 vpn
 w3
 wap
+weather
 web
 web1
 web2
@@ -979,6 +978,7 @@ webservices
 website
 west
 whm
+wifi
 wiki
 wildcard
 wiley

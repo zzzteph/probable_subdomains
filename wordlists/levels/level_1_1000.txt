@@ -8,6 +8,7 @@
 222
 3d
 3g
+aa
 aaa
 aanmelden
 abc
@@ -360,7 +361,6 @@ hello
 help
 helpdesk
 hh
-hi
 history
 hk
 home
@@ -523,7 +523,6 @@ maps
 market
 marketing
 marketplace
-mars
 master
 math
 maven
@@ -718,6 +717,7 @@ registry
 reizen
 relay
 remote
+repo
 report
 reporting
 reports
@@ -929,6 +929,7 @@ web
 web01
 web1
 web2
+webapp
 webapps
 webcam
 webcon
@@ -992,7 +993,6 @@ www7b
 www-test
 wwww
 wwwwww
-xml
 xroads
 xxx
 yaroslavl

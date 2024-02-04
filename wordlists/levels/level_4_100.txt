@@ -27,6 +27,7 @@ console
 content
 cpanel
 dashboard
+data
 de
 demo
 dev
@@ -34,7 +35,6 @@ docs
 es
 eu
 fr
-frontend
 ftp
 gateway
 git

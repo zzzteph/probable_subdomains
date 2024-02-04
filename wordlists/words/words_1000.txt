@@ -361,6 +361,7 @@ groningen
 groups
 gs
 gslb
+gtm
 guest
 gw
 h2
@@ -820,7 +821,6 @@ ss
 ssl
 sslvpn
 sso
-ssp
 st
 staff
 stage

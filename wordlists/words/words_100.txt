@@ -43,6 +43,7 @@ intranet
 ipv6
 jobs
 link
+live
 login
 lyncdiscover
 mail
@@ -58,7 +59,6 @@ my
 net
 new
 news
-nic
 nl
 ns
 ns1
