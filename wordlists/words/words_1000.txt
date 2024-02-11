@@ -361,7 +361,6 @@ groningen
 groups
 gs
 gslb
-gtm
 guest
 gw
 h2
@@ -543,6 +542,7 @@ mercury
 metrics
 mfa
 mg
+mgmt
 mi
 microsoft
 mijn
@@ -587,7 +587,6 @@ mysite
 mysql
 na
 nagios
-nas
 nc
 net
 network
@@ -993,6 +992,7 @@ www7b
 www-test
 wwww
 wwwwww
+xml
 xroads
 xxx
 yahoo

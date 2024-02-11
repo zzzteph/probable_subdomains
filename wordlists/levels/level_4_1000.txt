@@ -262,6 +262,7 @@ about
 ac
 academic
 acc
+acceptance
 acceptatie
 access
 account
@@ -470,7 +471,6 @@ docker
 docs
 doi
 download
-downloads
 dr
 ds
 dsl
@@ -515,8 +515,10 @@ exchange
 ext
 external
 facebook
+fb
 fbx
 fe
+fi
 file
 files
 finance
@@ -805,7 +807,6 @@ rabbitmq
 rancher
 raw
 rc
-rd
 reg
 register
 registration
@@ -851,6 +852,7 @@ server
 service
 services
 sf
+sftp
 sg
 sh
 shared
@@ -915,7 +917,6 @@ test
 test1
 test2
 test3
-test4
 testing
 th
 the
@@ -963,7 +964,6 @@ view
 vip
 virus
 vpn
-wa
 wap
 weather
 web

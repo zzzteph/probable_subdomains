@@ -82,7 +82,6 @@ a-feeds
 ag
 agent
 ai
-air
 airflow
 akamai
 akamai-test
@@ -758,6 +757,7 @@ resources
 rest
 retail
 review
+rm
 rms
 ro
 root

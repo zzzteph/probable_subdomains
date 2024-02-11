@@ -643,6 +643,7 @@ anastasia
 and
 anders
 anderson
+andi
 andorra
 andre
 andrea
@@ -738,6 +739,7 @@ apidev
 api-docs
 apidocs
 api-gateway
+apigateway
 apigw
 api.int
 apim
@@ -802,6 +804,7 @@ arab
 arabic
 aragorn
 aramis
+aras
 arb
 arbo
 arc
@@ -954,7 +957,6 @@ at
 ata
 atb
 atc
-ateam
 atelier
 atendimento
 atest
@@ -1865,7 +1867,6 @@ cde
 cdf
 cdi
 cdimage
-cdl
 cdm
 cdn
 cdn-0
@@ -2237,7 +2238,6 @@ conan
 concept
 concierge
 concord
-concorde
 concours
 concur
 condor
@@ -2426,6 +2426,7 @@ cso
 csp
 csr
 css
+cst
 csweb
 ct
 ctc
@@ -2599,7 +2600,6 @@ dd
 ddc
 ddd
 ddi
-ddl
 ddp
 dds
 de
@@ -3171,7 +3171,6 @@ ellen
 elmo
 elo
 eloket
-elpaso
 els
 elsa
 elvis
@@ -3390,6 +3389,7 @@ evil
 evm
 evo
 evolution
+evolve
 evp
 ew
 ews
@@ -6495,7 +6495,6 @@ onderwijs
 onderzoek
 one
 onedrive
-onepiece
 ongediertebestrijding
 online
 online2
@@ -6798,6 +6797,7 @@ pg
 pgadmin
 pgp
 ph
+phabricator
 phantom
 pharma
 pharmacy
@@ -7300,7 +7300,6 @@ reality
 realmadrid
 realtime
 realty
-rebel
 reboot
 rec
 recept
@@ -7657,6 +7656,7 @@ samara
 samba
 samenwerken
 sametime
+sami
 saml
 sample
 samples
@@ -8486,6 +8486,7 @@ support1
 support2
 sur
 surf
+surgery
 surgut
 suriname
 survey
@@ -9025,6 +9026,7 @@ ukraina
 ukraine
 ul
 ulan-ude
+ultimate
 ultra
 ulyanovsk
 um
@@ -9465,7 +9467,6 @@ web16
 web18
 web2
 web20
-web25
 web3
 web4
 web5
@@ -9487,7 +9488,6 @@ webcams
 webcamsex
 webcast
 webchat
-webclient
 webcon
 webconf
 webdav

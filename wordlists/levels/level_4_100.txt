@@ -2,7 +2,6 @@
 11
 12
 171
-18
 acc
 admin
 alertmanager
@@ -35,6 +34,7 @@ docs
 es
 eu
 fr
+frontend
 ftp
 gateway
 git

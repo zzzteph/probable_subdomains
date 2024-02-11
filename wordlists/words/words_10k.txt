@@ -5,11 +5,9 @@
 007
 01
 010
-013
 02
 020
 03
-030
 04
 05
 06
@@ -329,6 +327,7 @@ a7
 a8
 a9
 aa
+aa2
 aaa
 aaaa
 aaaaa
@@ -847,6 +846,7 @@ api-int
 api-internal
 apim
 apiportal
+api-preprod
 api-prod
 api-qa
 apis
@@ -863,7 +863,6 @@ aplus
 apm
 ap-northeast-1
 apollo
-apollon
 apotheek
 app
 app01
@@ -873,7 +872,6 @@ app3
 app4
 app5
 app6
-app7
 app-dev
 appdev
 appel
@@ -890,7 +888,6 @@ apps
 apps1
 apps2
 apps3
-apps-test
 appstore
 app-test
 apptest
@@ -1576,6 +1573,7 @@ boomer
 boost
 boot
 bootcamp
+bootstrap
 bor
 bordeaux
 border
@@ -1627,7 +1625,6 @@ brands
 brandweer
 brasil
 bratsk
-brave
 bravo
 brazil
 brazilie
@@ -1695,6 +1692,7 @@ bulgarije
 bulk
 bull
 bulldog
+bullet
 bulletin
 bumblebee
 bunny
@@ -1863,6 +1861,7 @@ cb
 cba
 cbachina
 cbc
+cbd
 cbi
 cbr
 cbs
@@ -2413,7 +2412,6 @@ crl
 crm
 crm2
 crm-dev
-crmdev
 crmtest
 cro
 croatia
@@ -2810,7 +2808,6 @@ director
 directorio
 directory
 dis
-disc
 disco
 discord
 discount
@@ -2863,6 +2860,7 @@ dna
 dnc
 dnm
 dnn
+dnp
 dns
 dns0
 dns01
@@ -2899,7 +2897,6 @@ dogfood-dev
 dogs
 doh
 doi
-doi-org
 doit
 dojo
 dol
@@ -3412,6 +3409,7 @@ evil
 evm
 evo
 evolution
+evolve
 evs
 ew
 ews
@@ -3545,6 +3543,7 @@ fh
 fi
 fiat
 fiber
+fido
 field
 fiesta
 fiets
@@ -3557,6 +3556,7 @@ file1
 file2
 filecap
 filemaker
+filer
 files
 files1
 files2
@@ -3741,7 +3741,6 @@ fuji
 full
 fun
 fund
-fundraising
 funny
 furniture
 fusion
@@ -4239,6 +4238,7 @@ hobby
 hockey
 hod
 hola
+holding
 holiday
 holidays
 holland
@@ -4567,7 +4567,6 @@ information
 informer
 infos
 infosec
-infosys
 infoweb
 infra
 ing
@@ -5242,7 +5241,6 @@ lifestyle
 liga
 light
 lighthouse
-lighting
 lightning
 like
 lily
@@ -5537,6 +5535,7 @@ mama
 mamba
 mambo
 man
+mana
 manage
 management
 manager
@@ -6034,7 +6033,6 @@ mx01
 mx02
 mx03
 mx04
-mx-1
 mx1
 mx10
 mx11
@@ -6442,7 +6440,6 @@ okta
 ol
 ola
 old
-old2
 oldenzaal
 oldmail
 oldsite
@@ -6602,6 +6599,7 @@ otto
 oud
 ouderen
 ouders
+our
 out
 outage
 outbound
@@ -6726,7 +6724,6 @@ pbs
 pbx
 pc
 pc1
-pc2
 pcc
 pcgames
 pci
@@ -7127,6 +7124,7 @@ psp
 pss
 psv
 psy
+psych
 psycho
 psychologie
 psychology
@@ -7255,7 +7253,6 @@ radius1
 radius2
 radon
 rafael
-ragnarok
 rai
 rail
 rails
@@ -7411,6 +7408,7 @@ rente
 rep
 repair
 replay
+replica
 reply
 repo
 report
@@ -7511,7 +7509,6 @@ roadmap
 roadrunner
 rob
 robert
-roberto
 robin
 robot
 robotics
@@ -7679,7 +7676,6 @@ salesforce
 salon
 salsa
 salt
-salud
 sam
 samara
 samba
@@ -8845,6 +8841,7 @@ tokyo
 toledo
 tolyatti
 tom
+tomato
 tomcat
 tommy
 tomsk
@@ -9012,6 +9009,7 @@ tver
 tw
 twc
 tweedehands
+tweety
 twente
 twiki
 twilight
@@ -9554,6 +9552,7 @@ webservices
 webshop
 webshops
 website
+website-laten-maken
 websites
 websitewww
 websocket
@@ -9625,7 +9624,6 @@ wijn
 wijnen
 wiki
 wiki2
-wikipedia
 wild
 wildcard
 wiley
@@ -9720,6 +9718,7 @@ wt
 wtf
 wts
 wuhan
+wv
 ww
 ww1
 ww11
@@ -9904,6 +9903,7 @@ yu
 yum
 yun
 yuri
+yw
 yx
 yy
 yz
