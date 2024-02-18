@@ -198,7 +198,6 @@
 97
 98
 99
-999
 a0
 a01
 a1
@@ -1122,7 +1121,6 @@ babyspulletjes
 babywinkel
 babywinkels
 bac
-bacchus
 bach
 back
 backbone
@@ -2344,7 +2342,6 @@ covid-19
 covid19
 cowboy
 cp
-cp1
 cp2
 cpa
 cpanel
@@ -2564,6 +2561,7 @@ datascience
 dataservices
 date
 daten
+datenschutz
 dating
 datingsites
 dav
@@ -2600,6 +2598,7 @@ dd
 ddc
 ddd
 ddi
+ddl
 ddp
 dds
 de
@@ -2917,7 +2916,6 @@ downloaden
 downloads
 downtown
 dp
-dpa
 dps
 dpt
 dq
@@ -3770,6 +3768,7 @@ game
 gamer
 gamers
 games
+games2
 gamescom
 gamesonline
 gamez
@@ -3897,6 +3896,7 @@ gin
 gina
 ginger
 gio
+gip
 girl
 girls
 gis
@@ -4543,6 +4543,7 @@ impuls
 impulse
 ims
 imss
+imt
 in
 ina
 inboedelverzekering
@@ -4698,6 +4699,7 @@ isa
 isc
 ise
 iservice
+isf
 isg
 ishop
 isi
@@ -4811,6 +4813,7 @@ jim
 jimmy
 jin
 jira
+jira-test
 jitsi
 jj
 jk
@@ -4828,7 +4831,6 @@ johann
 john
 johnny
 join
-joinus
 jojo
 joke
 joker
@@ -5095,6 +5097,7 @@ krs
 krsk
 krym
 ks
+ksi
 ks-inventory-api
 ks-invoice-api
 ks-limits-api
@@ -5332,7 +5335,6 @@ loadtest
 loan
 lobby
 lobnya
-loc
 local
 localhost
 locate
@@ -5460,6 +5462,7 @@ magazines.english
 magazinesintern
 magazinesintern.english
 mage
+magellan
 magenta
 magento
 magento2
@@ -5522,6 +5525,7 @@ mailer2
 mailfilter
 mail.forum
 mailgate
+mailgate1
 mailgate2
 mailgateway
 mailgw
@@ -5797,7 +5801,6 @@ mg
 mga
 mgmt
 mgs
-mgt
 mh
 mhs
 mi
@@ -5911,7 +5914,6 @@ mobile-test
 mobiletest
 mobility
 moby
-mock
 mod
 moda
 mode
@@ -6038,6 +6040,7 @@ mtv
 mu
 multi
 multimedia
+multimedia.email
 mumbai
 mumble
 mundo
@@ -6162,7 +6165,6 @@ nces
 ncs
 nct
 nd
-ndes
 nds
 ne
 nebraska
@@ -6823,6 +6825,7 @@ photos
 photoshop
 php
 phpmyadmin
+phs
 phx
 phy
 phys
@@ -7022,7 +7025,6 @@ pressroom
 prestashop
 presto
 pretparken
-prev
 preview
 preview2
 previews
@@ -7249,7 +7251,6 @@ rails
 rain
 rainbow
 rally
-ralph
 ram
 rambo
 ramenskoe
@@ -7561,7 +7562,6 @@ rss
 rs-stripe
 rst
 rsvp
-rsync
 rt
 rtc
 rti
@@ -8157,6 +8157,7 @@ solutions
 som
 soma
 something
+son
 sonar
 sonarqube
 song
@@ -8985,7 +8986,6 @@ tx
 txt
 ty
 tyler
-typhoon
 typo3
 tyumen
 tz
@@ -9357,7 +9357,6 @@ vpn1
 vpn2
 vpn3
 vpn4
-vpn5
 vpn-test
 vps
 vps01
@@ -9395,7 +9394,6 @@ w3
 w4
 w5
 w6
-w7
 w8
 wa
 waalwijk
@@ -9488,6 +9486,7 @@ webcams
 webcamsex
 webcast
 webchat
+webclient
 webcon
 webconf
 webdav
@@ -9638,6 +9637,7 @@ wip
 wire
 wireless
 wis
+wisconsin
 wise
 wish
 wishlist

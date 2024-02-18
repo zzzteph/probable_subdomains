@@ -504,6 +504,7 @@ ec
 echo
 edge
 ee
+eks
 elasticsearch
 elb
 em
@@ -742,6 +743,7 @@ onlinelibrary
 open
 ops
 or
+orange
 orchestration
 order
 orders
@@ -767,8 +769,8 @@ pgadmin
 ph
 php
 pilot
+pink
 pl
-platform
 play
 poc
 pool
@@ -818,6 +820,7 @@ rabbitmq
 rancher
 rc
 realtime
+red
 redirect
 redirectme
 referenceworks
@@ -845,7 +848,6 @@ sa
 sandbox
 sber
 sberbank
-sbx
 sc
 scholar
 scm
@@ -867,7 +869,6 @@ signin
 sip
 sit
 site
-sm
 sms
 smtp
 software
@@ -905,7 +906,6 @@ syd
 sys
 system
 t1
-te
 temp
 test
 test1

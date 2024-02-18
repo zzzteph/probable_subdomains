@@ -366,7 +366,6 @@ build
 business
 c1
 c2
-c3
 c4
 ca
 cable
@@ -568,6 +567,7 @@ host
 hosting
 hostmaster
 hp
+httpbin
 hu
 hub
 iad
