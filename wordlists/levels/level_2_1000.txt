@@ -42,7 +42,6 @@
 56
 66
 69
-72
 75
 76
 78
@@ -548,6 +547,7 @@ metrics
 mfa
 mgmt
 mi
+migration
 mijn
 minio
 mirror

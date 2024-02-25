@@ -393,7 +393,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cps
 cr
 crm
 cs
@@ -427,6 +426,7 @@ devops
 dhcp
 dialin
 digital
+direct
 directory
 discovery
 dk
@@ -692,6 +692,7 @@ nlwww
 no
 node
 nonprod
+notification
 notifications
 notify
 np
@@ -924,7 +925,6 @@ transfer
 travel
 ts
 tst
-turn
 tv
 tw
 tx

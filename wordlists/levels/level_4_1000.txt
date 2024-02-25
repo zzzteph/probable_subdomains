@@ -353,7 +353,6 @@ be
 beta
 bi
 billing
-bitbucket
 biz
 blog
 blogs
@@ -370,13 +369,13 @@ c4
 ca
 cable
 cache
+callback
 cambridge
 canary
 careers
 cas
 cat
 catalog
-cb
 cc
 cd
 cdn
@@ -390,6 +389,7 @@ chat
 checkout
 chef
 ci
+cicd
 click
 client
 clients
@@ -517,6 +517,7 @@ facebook
 fb
 fbx
 fe
+feedback
 fi
 file
 files
@@ -707,6 +708,7 @@ no
 node
 node1
 nonprod
+notary
 notifications
 now
 ns
@@ -720,7 +722,6 @@ o2
 oauth
 oauth2
 oed
-of
 office
 oidc
 okta
@@ -896,7 +897,6 @@ stg2
 storage
 store
 storybook
-stream
 sts
 studio
 sub
@@ -917,6 +917,7 @@ test
 test1
 test2
 test3
+test4
 testing
 th
 the
@@ -967,7 +968,6 @@ vpn
 wap
 weather
 web
-web01
 web1
 web2
 web3

@@ -328,7 +328,6 @@ a7
 a8
 a9
 aa
-aa2
 aaa
 aaaa
 aaaaa
@@ -666,7 +665,6 @@ almaty
 almelo
 almere
 aloha
-alone
 alp
 alpha
 alpha2
@@ -867,6 +865,7 @@ apollo
 apotheek
 app
 app01
+app02
 app1
 app2
 app3
@@ -889,6 +888,7 @@ apps
 apps1
 apps2
 apps3
+apps-test
 appstore
 app-test
 apptest
@@ -1435,7 +1435,6 @@ bike
 bikini
 bilbo
 bilder
-bilet
 bill
 billing
 billpay
@@ -1692,7 +1691,6 @@ bulgarije
 bulk
 bull
 bulldog
-bullet
 bulletin
 bumblebee
 bunny
@@ -1949,12 +1947,12 @@ ces
 cesar
 cet
 cf
+cfa
 cfc
 cfd
 cfg
 cfs
 cg
-cgc
 cgi
 cgs
 ch
@@ -3053,6 +3051,7 @@ east
 easy
 eat
 eb
+ebank
 ebay
 ebi
 ebill
@@ -3245,6 +3244,7 @@ en
 enc
 encore
 encrypt
+encuestas
 encyclopedia
 endeavour
 endor
@@ -4295,6 +4295,7 @@ host120
 host13
 host2
 host20
+host21
 host3
 host4
 host5
@@ -5082,7 +5083,6 @@ ks-vendingtransactions-mq4
 kt
 ku
 ku1720
-kuban
 kube
 kubernetes
 kultur
@@ -5156,7 +5156,6 @@ lax
 layout
 lb
 lb01
-lb02
 lb1
 lb2
 lbs
@@ -5343,7 +5342,6 @@ loodgieter
 look
 looker
 lookup
-loopback
 losangeles
 lost
 loterijen
@@ -6024,6 +6022,7 @@ mv
 mvn
 mvp
 mw
+mweb
 mws
 mwww
 mx
@@ -6749,7 +6748,6 @@ pegasus
 pelican
 pen
 penguin
-penny
 pensioen
 pension
 pentest
@@ -7253,6 +7251,7 @@ radius1
 radius2
 radon
 rafael
+ragnarok
 rai
 rail
 rails
@@ -7675,6 +7674,7 @@ salesforce
 salon
 salsa
 salt
+salud
 sam
 samara
 samba
@@ -8326,7 +8326,6 @@ ssrs
 sss
 sst
 st
-st01
 st1
 st2
 st3
@@ -9650,6 +9649,7 @@ wired
 wireless
 wis
 wisconsin
+wisdom
 wise
 wish
 wishlist

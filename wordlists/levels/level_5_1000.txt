@@ -483,6 +483,7 @@ dir
 direct
 directory
 discourse
+discovery
 dk
 dl
 dns
@@ -909,7 +910,6 @@ t1
 temp
 test
 test1
-test123
 test-2
 test2
 test22
