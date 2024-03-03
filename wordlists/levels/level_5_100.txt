@@ -20,7 +20,6 @@
 18
 185
 186
-188
 194
 199
 20
@@ -58,6 +57,7 @@ dashboard
 de
 demo
 dev
+docs
 dsl
 dx
 git

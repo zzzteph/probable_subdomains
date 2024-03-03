@@ -14,6 +14,7 @@
 06
 07
 08
+080
 09
 10
 100
@@ -366,6 +367,7 @@ abi
 ablink
 abm
 abmail
+abn
 abo
 abonnement
 abonnementen
@@ -740,6 +742,7 @@ anaconda
 anadyr
 anakin
 anal
+analog
 analysis
 analytics
 anand
@@ -982,7 +985,6 @@ arts
 artur
 artwork
 aruba
-aruba-master
 arwen
 arzamas
 as
@@ -1059,7 +1061,6 @@ atendimento
 athena
 athens
 athletics
-athos
 ati
 atl
 atlant
@@ -1405,6 +1406,7 @@ betty
 beurs
 beveiliging
 beverwijk
+be-x-old
 beyond
 bf
 bff
@@ -1576,6 +1578,7 @@ bootstrap
 bor
 bordeaux
 border
+borderlands
 borg
 boris
 borne
@@ -1631,6 +1634,7 @@ breda
 breeze
 brest
 brian
+brianray
 bridge
 brielle
 bright
@@ -1676,6 +1680,7 @@ budapest
 buddy
 budget
 buffalo
+buffy
 bug
 bugatti
 bugs
@@ -2060,6 +2065,7 @@ cim-api-qa
 cim-api-uat
 cim-data-quality-qa
 cim-dev
+cimg20
 cim-geo-dev
 cims
 cincinnati
@@ -2237,7 +2243,6 @@ compaq
 compare
 compass
 complaints
-complete
 compliance
 components
 composer
@@ -2267,7 +2272,6 @@ configurator
 confirm
 confirmation
 confluence
-congo
 congres
 connect
 connect2
@@ -2411,6 +2415,7 @@ crl
 crm
 crm2
 crm-dev
+crmdev
 crmtest
 cro
 croatia
@@ -2427,6 +2432,7 @@ crt
 crucible
 cruise
 cruises
+crunchies2009
 crux
 crypto
 cryptocurrency
@@ -2526,7 +2532,6 @@ da2
 daa
 daas
 dac
-dada
 daf
 daffy
 dag
@@ -2602,6 +2607,7 @@ dba
 dbadmin
 dbs
 dbt
+dbus
 dc
 dc1
 dc2
@@ -2666,7 +2672,6 @@ demo6
 democracy
 demon
 demos
-demoshop
 demosite
 den
 den-bosch
@@ -2768,7 +2773,6 @@ diamant
 diamond
 diana
 diary
-diaspora
 dic
 dice
 dict
@@ -2851,7 +2855,6 @@ dmitrov
 dmm
 dmp
 dms
-dmt
 dmv
 dmz
 dn
@@ -2859,7 +2862,6 @@ dna
 dnc
 dnm
 dnn
-dnp
 dns
 dns0
 dns01
@@ -3301,7 +3303,6 @@ epm
 epo
 eportal
 eportfolio
-epost
 epp
 eprints
 eps
@@ -3351,7 +3352,6 @@ esm
 esn
 eso
 esp
-espace
 espanol
 esports
 espresso
@@ -3892,6 +3892,7 @@ gfx
 gg
 ggg
 gh
+ghana
 ghost
 ghs
 gi
@@ -4061,6 +4062,7 @@ guestbook
 guestportal
 guestwifi
 gui
+guia
 guide
 guides
 guitar
@@ -4239,7 +4241,6 @@ hobby
 hockey
 hod
 hola
-holding
 holiday
 holidays
 holland
@@ -4816,7 +4817,6 @@ jo
 job
 jobs
 jobsearch
-jocuri
 joe
 joel
 joey
@@ -5533,7 +5533,6 @@ mama
 mamba
 mambo
 man
-mana
 manage
 management
 manager
@@ -6022,7 +6021,6 @@ mv
 mvn
 mvp
 mw
-mweb
 mws
 mwww
 mx
@@ -6252,7 +6250,6 @@ nodejs-dev
 noginsk
 nokia
 nomad
-noname
 none
 non-prod
 nonprod
@@ -6733,7 +6730,6 @@ pdb
 pdc
 pdf
 pdm
-pdns
 pds
 pe
 peace
@@ -7475,6 +7471,7 @@ rich
 richard
 richmond
 rick
+ricky
 ridderkerk
 riga
 rigel
@@ -7567,7 +7564,6 @@ rpt
 rr
 rs
 rs1
-rs2
 rsa
 rsc
 rsm
@@ -7882,7 +7878,6 @@ serenity
 serov
 serpuhov
 serv
-serv1
 serve
 server
 server01
@@ -8185,6 +8180,7 @@ sonia
 sonic
 sonicwall
 sony
+sop
 sophia
 sophie
 sophos
@@ -8259,7 +8255,6 @@ spm
 spo
 spock
 sponsor
-spoon
 sport
 sporten
 sportkleding
@@ -8326,6 +8321,7 @@ ssrs
 sss
 sst
 st
+st01
 st1
 st2
 st3
@@ -8674,6 +8670,7 @@ tender
 tenders
 tennessee
 tennis
+tenten
 tera
 terminal
 terminator
@@ -8748,11 +8745,13 @@ texel
 text
 tf
 tfs
+tftp
 tg
 th
 thai
 thailand
 thales
+thankyou
 thanos
 thc
 the
@@ -8901,7 +8900,6 @@ trading
 traefik
 traffic
 trailer
-trailers
 train
 training
 trainingen
@@ -9561,7 +9559,6 @@ websrv
 webstats
 webster
 webstore
-websvn
 webtest
 webtools
 webtrac
@@ -9699,7 +9696,9 @@ wowza
 woz
 wp
 wp1
+wp2
 wpad
+wpc
 wps
 wptest
 wr
@@ -9948,6 +9947,7 @@ zf
 zg
 zh
 zhaopin
+zh-cn
 ziekten
 ziewww
 ziggo

@@ -357,6 +357,7 @@ biz
 blog
 blogs
 blue
+bmj
 bo
 box
 br
@@ -384,6 +385,7 @@ ce
 cert
 certauth
 cf
+cgi
 ch
 chat
 checkout
@@ -499,6 +501,7 @@ emea
 en
 eng
 engine
+engineering
 enterprise
 es
 eu
@@ -659,7 +662,6 @@ master
 mb
 mdm
 me
-med
 media
 meet
 messaging
@@ -825,7 +827,6 @@ resources
 rest
 retail
 rev
-reverse
 rs
 rsc
 rss
@@ -921,7 +922,6 @@ test4
 testing
 th
 the
-tickets
 to
 tools
 tr

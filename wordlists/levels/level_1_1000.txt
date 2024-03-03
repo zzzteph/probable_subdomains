@@ -476,6 +476,7 @@ li
 lib
 library
 life
+lime
 link
 links
 linux
@@ -929,7 +930,6 @@ web
 web01
 web1
 web2
-webapp
 webapps
 webcam
 webcon

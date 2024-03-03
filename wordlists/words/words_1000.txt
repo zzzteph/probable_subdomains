@@ -345,6 +345,7 @@ geo
 get
 gis
 git
+github
 gitlab
 global
 gmail
@@ -529,7 +530,6 @@ marketplace
 mars
 master
 math
-matrix
 maven
 mc
 mdm

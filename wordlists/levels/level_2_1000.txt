@@ -46,7 +46,6 @@
 76
 78
 80
-85
 98
 a1
 a2
@@ -264,7 +263,6 @@ default
 delivery
 delta
 demo
-demo1
 demo2
 deploy
 design
@@ -499,6 +497,7 @@ login
 logs
 lp
 ls
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -758,11 +757,11 @@ resources
 rest
 retail
 review
+rm
 rms
 ro
 root
 router
-rp
 rs
 rss
 rt
@@ -959,6 +958,7 @@ web2
 web3
 webapp
 webapps
+webapps-common
 webcon
 webconf
 webdev

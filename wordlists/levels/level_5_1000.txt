@@ -351,7 +351,6 @@ avira-free-antivirus
 avito
 aws
 az
-azure
 b1
 b2
 back
@@ -373,7 +372,6 @@ bj
 bk
 blob
 blog
-blogspot
 blue
 bob
 box
@@ -513,6 +511,7 @@ email
 emea
 en
 eng
+engineering
 ep
 eric
 es
@@ -606,7 +605,6 @@ imap
 imap4
 img
 in
-influxdb
 info
 infoweb
 infra
@@ -742,6 +740,7 @@ one
 online
 onlinelibrary
 open
+openvpn
 ops
 or
 orange
@@ -980,11 +979,11 @@ webhooks
 webmail
 webproxy
 west
+westus2
 whoami
 wifi
 wiki
 wildcard
-win
 wire
 wireless
 wordpress
@@ -999,4 +998,5 @@ www-test
 yahoo
 yajama6
 yandex
+you
 your

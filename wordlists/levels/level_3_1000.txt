@@ -76,7 +76,6 @@
 172
 173
 174
-176
 177
 178
 179
@@ -378,7 +377,6 @@ com
 common
 community
 comwww
-conf
 conference
 config
 confluence
@@ -421,6 +419,7 @@ dev3
 dev4
 develop
 developer
+developers
 development
 devops
 dhcp
@@ -465,6 +464,7 @@ emea
 en
 eng
 engine
+engineering
 enterprise
 enterpriseregistration
 es
@@ -522,7 +522,6 @@ gov
 grafana
 graph
 green
-grpc
 gw
 harbor
 health
@@ -758,6 +757,7 @@ pp
 pr
 prd
 pre
+pre-prod
 preprod
 preview
 private
@@ -951,7 +951,6 @@ v10
 v2
 va
 vault
-vc
 verify
 video
 videos
@@ -995,6 +994,7 @@ www2
 www3
 www4
 www-sciencedirect-com
+www-tandfonline-com
 www-test
 wwww
 yahoo
