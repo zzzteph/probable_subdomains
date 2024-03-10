@@ -78,7 +78,6 @@ ar
 arc
 archief
 archive
-archives
 art
 artifactory
 as
@@ -191,7 +190,6 @@ collab
 collab-edge
 com
 community
-company
 computer
 comune
 comwww
@@ -530,6 +528,7 @@ marketplace
 mars
 master
 math
+matrix
 maven
 mc
 mdm
@@ -806,6 +805,7 @@ social
 software
 solutions
 sonar
+sonarqube
 sp
 space
 spam

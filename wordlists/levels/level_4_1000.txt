@@ -374,6 +374,7 @@ callback
 cambridge
 canary
 careers
+cart
 cas
 cat
 catalog
@@ -381,7 +382,6 @@ cc
 cd
 cdn
 cds
-ce
 cert
 certauth
 cf
@@ -482,6 +482,7 @@ dynamic
 e2e
 ea
 east
+eastus2
 ebrary
 ebscohost
 ec
@@ -555,7 +556,6 @@ gov
 gr
 grafana
 graph
-graphite
 graylog
 green
 grpc
@@ -810,6 +810,7 @@ rabbitmq
 rancher
 raw
 rc
+rds
 reg
 register
 registration
@@ -827,6 +828,7 @@ resources
 rest
 retail
 rev
+rp
 rs
 rsc
 rss
@@ -922,6 +924,7 @@ test4
 testing
 th
 the
+tickets
 to
 tools
 tr
@@ -966,7 +969,6 @@ vip
 virus
 vpn
 wap
-weather
 web
 web1
 web2
@@ -988,11 +990,9 @@ wiley
 wire
 wireless
 wordpress
-workflow
 wp
 ws
 ww
-ww16
 www
 www1
 www2

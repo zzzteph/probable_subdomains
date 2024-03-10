@@ -332,7 +332,6 @@ aa
 aaa
 aaaa
 aaaaa
-aaaaaa
 aac
 aad
 aalsmeer
@@ -527,7 +526,9 @@ advokat
 adwords
 adx
 ae
+aec
 aed
+aegis
 aem
 a-english
 aeon
@@ -785,7 +786,6 @@ anketa
 ann
 anna
 anne
-annex
 annie
 annuaire
 annualreport
@@ -929,6 +929,7 @@ archiv
 archive
 archives
 arctic
+ard
 ardennen
 are
 area
@@ -945,10 +946,11 @@ argus
 arhangelsk
 ari
 aria
-ariane
+ariadne
 arie
 ariel
 aries
+arion
 aris
 arizona
 ark
@@ -1055,7 +1057,6 @@ at
 ata
 atb
 atc
-ateam
 atelier
 atendimento
 athena
@@ -1121,7 +1122,6 @@ autodealers
 autodiscover
 autogarage
 autolease
-automate
 automation
 automatisering
 automotive
@@ -1296,7 +1296,6 @@ batch
 batman
 bat-smg
 battle
-bauer
 bay
 bazaar
 bazar
@@ -1561,7 +1560,6 @@ bond
 bones
 bonsai
 bonus
-boo
 book
 booking
 bookings
@@ -1627,6 +1625,7 @@ brands
 brandweer
 brasil
 bratsk
+brave
 bravo
 brazil
 brazilie
@@ -1680,7 +1679,6 @@ budapest
 buddy
 budget
 buffalo
-buffy
 bug
 bugatti
 bugs
@@ -1720,7 +1718,6 @@ c0
 c1
 c10
 c11
-c12
 c13
 c2
 c2c
@@ -1835,6 +1832,7 @@ cart
 carter
 cartoon
 cas
+cas1
 cas2
 casa
 cascade
@@ -1854,6 +1852,7 @@ castor
 castricum
 cat
 catalog
+catalogo
 catalogs
 catalogue
 catalogus
@@ -1958,6 +1957,7 @@ cfd
 cfg
 cfs
 cg
+cgc
 cgi
 cgs
 ch
@@ -2136,6 +2136,8 @@ clone
 cloud
 cloud1
 cloud2
+cloud9
+cloudapp
 cloudflare
 cloudflare-resolve-to
 cloudfront
@@ -2188,6 +2190,7 @@ cocoa
 cod
 code
 coder
+codes
 codex
 coe
 coevorden
@@ -2214,6 +2217,7 @@ colombia
 color
 colorado
 colossus
+colt
 columbia
 columbus
 com
@@ -2243,6 +2247,7 @@ compaq
 compare
 compass
 complaints
+complete
 compliance
 components
 composer
@@ -2259,7 +2264,6 @@ conan
 concept
 concierge
 concord
-concorde
 concours
 concourse
 concur
@@ -2293,6 +2297,7 @@ consumer
 contact
 contacts
 container
+containers
 content
 content2
 contentbeheer
@@ -2315,7 +2320,6 @@ converter
 cook
 cookie
 cookies
-cooking
 cool
 coop
 cooper
@@ -2431,7 +2435,6 @@ crs
 crt
 crucible
 cruise
-cruises
 crunchies2009
 crux
 crypto
@@ -2492,6 +2495,7 @@ cust
 custom
 customer
 customercare
+customerportal
 customers
 customerservice
 customersupport
@@ -2538,6 +2542,7 @@ dag
 dagje-uit
 dagjeuit
 dagsordener
+dai
 daily
 daisy
 dak
@@ -2587,6 +2592,7 @@ datacenter
 datahub
 datascience
 dataservices
+datasync
 date
 dating
 dav
@@ -2672,6 +2678,7 @@ demo6
 democracy
 demon
 demos
+demoshop
 demosite
 den
 den-bosch
@@ -2681,7 +2688,6 @@ den-haag
 denhaag
 denhelder
 denis
-denise
 dennis
 dental
 denver
@@ -2692,7 +2698,6 @@ deportes
 depot
 dept
 derby
-derek
 des
 desi
 design
@@ -2755,7 +2760,6 @@ dfs
 dfw
 dg
 dh
-dharma
 dhcp
 dhcp1
 dhcp2
@@ -2811,6 +2815,7 @@ director
 directorio
 directory
 dis
+disc
 disco
 discord
 discount
@@ -2855,6 +2860,7 @@ dmitrov
 dmm
 dmp
 dms
+dmt
 dmv
 dmz
 dn
@@ -3141,6 +3147,7 @@ egov
 egw
 egypt
 egypte
+eh
 ehealth
 ehr
 ehs
@@ -3188,6 +3195,7 @@ eleven
 elf
 eli
 elias
+elib
 elibrary
 elis
 elisa
@@ -3222,6 +3230,7 @@ emc
 emea
 emerald
 emergency
+emi
 emily
 eminem
 eml
@@ -3246,7 +3255,6 @@ en
 enc
 encore
 encrypt
-encuestas
 encyclopedia
 endeavour
 endor
@@ -3352,6 +3360,7 @@ esm
 esn
 eso
 esp
+espace
 espanol
 esports
 espresso
@@ -3474,7 +3483,6 @@ factory
 facts
 facturen
 faculty
-fad
 failover
 fair
 fairtrade
@@ -3556,7 +3564,6 @@ file1
 file2
 filecap
 filemaker
-filer
 files
 files1
 files2
@@ -3919,6 +3926,7 @@ git
 gitaar
 github
 gitlab
+give
 giving
 gizmo
 gj
@@ -4054,7 +4062,6 @@ gu
 guangzhou
 guard
 guardian
-guatemala
 gucci
 guce
 guest
@@ -4062,7 +4069,6 @@ guestbook
 guestportal
 guestwifi
 gui
-guia
 guide
 guides
 guitar
@@ -4073,7 +4079,6 @@ gw
 gw1
 gw2
 gw3
-gw4
 gws
 gws-api-sandbox
 gws-dev
@@ -4159,6 +4164,7 @@ heart
 heartbeat
 heaven
 hec
+hector
 heemskerk
 heemstede
 heerde
@@ -4177,7 +4183,6 @@ hell
 hellendoorn
 hellevoetsluis
 hello
-hellokitty
 helloworld
 helm
 helmond
@@ -4582,7 +4587,6 @@ innovate
 innovatie
 innovation
 inproces
-input
 ins
 inschrijven
 inside
@@ -4750,7 +4754,6 @@ jade
 jaeger
 jaguar
 jakarta
-jake
 jam
 jamaica
 james
@@ -5269,7 +5272,6 @@ lis
 lisa
 lisse
 list
-lista
 listen
 listings
 lists
@@ -5342,6 +5344,7 @@ loodgieter
 look
 looker
 lookup
+loopback
 losangeles
 lost
 loterijen
@@ -5359,7 +5362,6 @@ lps
 lr
 lrs
 ls
-lsrp
 lt
 lts
 lu
@@ -5391,6 +5393,7 @@ lyncedge
 lyncext
 lyncweb
 lyncwebconf
+lyncwebext
 lynx
 lyon
 lyra
@@ -5503,7 +5506,6 @@ mailout
 mail-relay
 mailrelay
 mails
-mailserv
 mailserver
 mailservice
 mailsrv
@@ -5638,6 +5640,7 @@ mca
 mcafee
 mcb
 mcc
+mcdonalds
 mce
 mci
 mcm
@@ -5782,7 +5785,6 @@ milano
 milieu
 military
 milk
-millenium
 millennium
 miller
 milo
@@ -5861,7 +5863,6 @@ mobiles
 mobile-test
 mobiletest
 mobility
-moby
 moc
 mock
 mod
@@ -6094,7 +6095,6 @@ nap
 narrowcasting
 naruto
 nas
-nas1
 nasa
 nash
 nashville
@@ -6239,7 +6239,6 @@ nnov
 nntp
 no
 noah
-nobel
 noc
 node
 node1
@@ -6375,12 +6374,12 @@ oasis
 oauth
 oauth2
 ob
-obelix
 oberon
 obninsk
 obs
 observer
 observium
+obsidian
 oc
 occ
 occasions
@@ -6666,6 +6665,7 @@ papa
 papendrecht
 paper
 papercut
+papi
 par
 paradise
 paradox
@@ -6685,6 +6685,7 @@ parrot
 part
 partenaires
 partner
+partner-api
 partnerportal
 partners
 partnerships
@@ -6713,6 +6714,7 @@ payments
 paypal
 payroll
 payrolling
+payt
 pb
 pba
 pbs
@@ -6751,7 +6753,6 @@ penza
 people
 pep
 pepper
-pepsi
 per
 perf
 perfect
@@ -6966,6 +6967,7 @@ positiekleding
 post
 posta
 postal
+postfix
 postman
 postmaster
 postoffice
@@ -7118,7 +7120,6 @@ psp
 pss
 psv
 psy
-psych
 psycho
 psychologie
 psychology
@@ -7471,7 +7472,6 @@ rich
 richard
 richmond
 rick
-ricky
 ridderkerk
 riga
 rigel
@@ -7512,6 +7512,7 @@ roc
 rochester
 rock
 rocket
+rocketchat
 rocky
 rod
 roermond
@@ -7564,6 +7565,7 @@ rpt
 rr
 rs
 rs1
+rs2
 rsa
 rsc
 rsm
@@ -7574,7 +7576,6 @@ rstudio
 rsvp
 rsync
 rt
-rta
 rtc
 rti
 rtl
@@ -7628,6 +7629,7 @@ s20
 s21
 s22
 s25
+s2s
 s3
 s30
 s35
@@ -7653,7 +7655,6 @@ sae
 safari
 safe
 safety
-saffron
 saga
 sage
 sagepub
@@ -7917,7 +7918,6 @@ settings
 setup
 sevastopol
 seven
-sever
 severodvinsk
 sex
 sexcam
@@ -8255,6 +8255,7 @@ spm
 spo
 spock
 sponsor
+spoon
 sport
 sporten
 sportkleding
@@ -8336,7 +8337,6 @@ stage
 stage1
 stage2
 stage-api
-stages
 stage-www
 staging
 staging1
@@ -8385,7 +8385,6 @@ stavropol
 stb
 stc
 std
-stealth
 steam
 stedentrips
 steel
@@ -8396,7 +8395,6 @@ stellar
 stem
 step
 stephanie
-sterling
 sterlitamak
 steve
 steven
@@ -8521,7 +8519,6 @@ sv1
 svc
 svcs
 sven
-svm
 svn
 svpn
 svs
@@ -8614,6 +8611,7 @@ taurus
 tax
 taxi
 taylor
+taz
 tb
 tbc
 tbs
@@ -8643,11 +8641,11 @@ techniek
 techno
 technology
 techsupport
-tecnologia
 ted
 teddy
 teen
 teens
+tegel
 tel
 tele
 tele2
@@ -8723,7 +8721,6 @@ testing1
 testing2
 test-intranet
 testlink
-testm
 testmail
 testnet
 testomgeving
@@ -8839,7 +8836,6 @@ tokyo
 toledo
 tolyatti
 tom
-tomato
 tomcat
 tommy
 tomsk
@@ -8932,8 +8928,10 @@ tri
 trial
 trials
 tribunale
+trident
 trigger
 trinity
+trio
 trip
 triton
 triumph
@@ -8990,7 +8988,6 @@ tuning
 tunnel
 turbo
 turing
-turism
 turismo
 turkey
 turkije
@@ -9039,6 +9036,7 @@ uber
 ubs
 ubuntu
 uc
+ucaccess01
 ucc
 ucenter
 ucl
@@ -9079,6 +9077,7 @@ uni
 unicorn
 unifi
 union
+unique
 united
 unity
 univ
@@ -9329,7 +9328,6 @@ vlieland
 vlissingen
 vloeren
 vm
-vm01
 vm1
 vm2
 vmail
@@ -9356,6 +9354,7 @@ volgodonsk
 volgograd
 volkswagen
 vologda
+volta
 voltage-pp-0000
 voltage-ps-0000
 volunteer
@@ -9559,6 +9558,7 @@ websrv
 webstats
 webster
 webstore
+websvn
 webtest
 webtools
 webtrac
@@ -9621,6 +9621,7 @@ wijn
 wijnen
 wiki
 wiki2
+wikipedia
 wild
 wildcard
 wiley
@@ -9705,7 +9706,6 @@ wr
 writer
 wroclaw
 ws
-ws01
 ws1
 ws2
 ws3
@@ -9812,6 +9812,7 @@ wwwold
 www-origin
 www-prod
 www-qa
+wwwqa
 wwws
 www-stage
 www-staging
@@ -9902,7 +9903,6 @@ yu
 yum
 yun
 yuri
-yw
 yx
 yy
 yz

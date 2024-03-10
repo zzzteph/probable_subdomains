@@ -30,6 +30,7 @@ data
 de
 demo
 dev
+dev2
 docs
 es
 eu
@@ -54,6 +55,7 @@ login
 mail
 media
 mobile
+monitoring
 mta-sts
 mx
 my
@@ -67,7 +69,6 @@ preview
 prod
 production
 prometheus
-proquest
 proxy
 public
 qa
@@ -99,4 +100,3 @@ webdisk
 webmail
 ws
 www
-www2

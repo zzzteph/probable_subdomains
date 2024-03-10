@@ -308,14 +308,12 @@ api2
 api3
 apigw
 api-proxy
-apiserver
 api-test
 apm
 ap-northeast-1
 ap-northeast-2
 apollo
 app
-app01
 app1
 app2
 app3
@@ -357,7 +355,6 @@ back
 backend
 backstage
 backup
-bar
 base
 batch
 bb
@@ -376,6 +373,7 @@ blue
 bob
 box
 br
+brand
 broad
 broker
 build
@@ -429,7 +427,6 @@ confluence
 connect
 console
 content
-control
 core
 corp
 cp
@@ -439,6 +436,7 @@ cpcontacts
 cr
 crm
 cs
+csa
 css
 customer
 cv
@@ -466,7 +464,6 @@ dev1
 dev2
 dev3
 dev4
-dev5
 develop
 developer
 development
@@ -558,6 +555,7 @@ gateway
 gc
 ge
 general
+geneva
 geo
 gh
 gist
@@ -593,6 +591,7 @@ i1
 iad
 iam
 id
+idc
 identity
 idp
 ie
@@ -660,6 +659,7 @@ lk
 lo0
 load
 local
+localhost
 log
 login
 logs
@@ -684,6 +684,7 @@ mdm
 me
 med
 media
+meet
 mef-emh
 messaging
 metrics
@@ -821,6 +822,7 @@ rancher
 rc
 realtime
 red
+redir
 redirect
 redirectme
 referenceworks
@@ -930,7 +932,6 @@ tracking
 traefik
 training
 trigger
-trn
 ts
 tst
 tw
@@ -966,7 +967,6 @@ vip
 virus
 vpce
 vpn
-wa
 wap
 weather
 web

@@ -66,6 +66,7 @@
 161
 162
 163
+164
 165
 166
 167
@@ -287,6 +288,7 @@ ap-southeast-1
 ap-southeast-2
 ar
 archive
+argo
 argocd
 art
 artifactory
@@ -464,7 +466,6 @@ emea
 en
 eng
 engine
-engineering
 enterprise
 enterpriseregistration
 es
@@ -522,6 +523,7 @@ gov
 grafana
 graph
 green
+grpc
 gw
 harbor
 health
@@ -555,12 +557,12 @@ imap
 img
 ims
 in
-inbound
 influxdb
 info
 infra
 ingest
 ingress
+insights
 int
 integration
 internal
@@ -599,7 +601,6 @@ lib
 library
 link
 links
-link-springer-com
 lists
 live
 lms
@@ -621,7 +622,6 @@ mail
 mail01
 mail1
 mail2
-mailserver
 main
 maintenance
 manage
@@ -642,6 +642,7 @@ media
 meet
 mema
 mercury
+messaging
 metrics
 mfa
 mgmt
@@ -653,7 +654,6 @@ ml
 mm
 mobile
 mon
-mongo
 monitor
 monitoring
 moodle
@@ -679,7 +679,6 @@ nat
 nature
 ne
 net
-netbox
 network
 new
 news
@@ -722,13 +721,13 @@ open
 ops
 orange
 order
-orders
 org
 origin
 os
 oss
 outlook
 owa
+owncloud
 p1
 pa
 pages
@@ -743,11 +742,11 @@ ph
 photo
 php
 phpmyadmin
-pi
 pilot
 pl
 platform
 play
+playground
 poc
 pop
 pop3
@@ -757,7 +756,6 @@ pp
 pr
 prd
 pre
-pre-prod
 preprod
 preview
 private
@@ -796,6 +794,7 @@ register
 registration
 registry
 relay
+release
 remote
 render
 reply
@@ -872,7 +871,9 @@ ss
 ssl
 sso
 st
+sta
 staff
+stag
 stage
 staging
 star
@@ -916,7 +917,7 @@ tls
 token
 tools
 tr
-track
+tracker
 tracking
 traefik
 train
@@ -925,6 +926,7 @@ transfer
 travel
 ts
 tst
+turn
 tv
 tw
 tx
@@ -977,7 +979,6 @@ webservices
 website
 west
 whm
-wifi
 wiki
 wildcard
 wiley
@@ -994,7 +995,6 @@ www2
 www3
 www4
 www-sciencedirect-com
-www-tandfonline-com
 www-test
 wwww
 yahoo

@@ -200,7 +200,6 @@ checkout
 chef
 china
 ci
-cim-api-qa
 cis
 citrix
 cl
@@ -309,6 +308,7 @@ ea
 east
 ec
 echo
+ecs
 ed
 edge
 edit
@@ -331,6 +331,7 @@ enterpriseregistration
 erp
 es
 eu
+europe
 eu-west-1
 event
 events
@@ -495,9 +496,9 @@ localhost
 log
 login
 logs
+loki
 lp
 ls
-lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -595,6 +596,7 @@ nagios
 nc
 ne
 net
+netbox
 network
 new
 news
@@ -720,7 +722,6 @@ pt
 pub
 public
 publish
-puppet
 push
 qa
 qa1
@@ -757,16 +758,15 @@ resources
 rest
 retail
 review
-rm
 rms
 ro
 root
 router
+rp
 rs
 rss
 rt
 ru
-rx
 s1
 s2
 s3
@@ -792,7 +792,6 @@ selfservice
 sentry
 server
 server1
-servers
 service
 servicedesk
 services
@@ -943,6 +942,7 @@ view
 vip
 vision
 vm
+vn
 vod
 voice
 vpn

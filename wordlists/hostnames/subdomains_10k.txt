@@ -183,6 +183,7 @@
 79
 80
 81
+83
 86
 87
 88
@@ -520,7 +521,6 @@ alcohol
 aldan
 aldo
 aleksandrov
-aleksin
 aleph
 alert
 alerts
@@ -742,6 +742,7 @@ apigateway
 apigw
 api.int
 apim
+api-prod
 api-qa
 api.qa
 apis
@@ -754,6 +755,7 @@ api.staging
 api-test
 api.test
 apitest
+api-uat
 api.uat
 apk
 apl
@@ -949,6 +951,7 @@ astrologie
 astrology
 astronewt
 astronomy
+asu
 asus
 async
 at
@@ -1006,6 +1009,7 @@ auth2
 auth3
 auth-dev
 auth.dev
+authenticate
 authenticatie
 authentication
 author
@@ -1215,13 +1219,13 @@ basketball
 bass
 bastion
 bat
-bataysk
 batch
 batman
 bat-smg
 batterij
 battle
 bauer
+bay
 baza
 bazaar
 bazar
@@ -1454,7 +1458,6 @@ blog1
 blog2
 blog.developer
 blogger
-blog.qa
 blogs
 blogsearch
 blogtest
@@ -1490,6 +1493,7 @@ bob
 bobbo
 bobo
 boc
+bod
 bodegraven
 body
 bodybuilding
@@ -1666,12 +1670,9 @@ bulletin
 bumblebee
 bungalow
 bungalowpark
-bungalowparken
-bunnik
 bunny
 bunschoten
 bureau
-buren
 burn
 bursa
 bus
@@ -1741,7 +1742,6 @@ calvin
 calypso
 cam
 cam1
-cambodja
 cambridge
 camel
 camera
@@ -2006,7 +2006,6 @@ chilli
 chimera
 china
 chinese
-chinesewsj.blog
 chip
 chita
 chkpt
@@ -2496,12 +2495,12 @@ daa
 daas
 dabaosun.blog
 dac
+daemon
 daf
 dag
 dagestan
 dagje-uit
 dagjeuit
-dagplejen
 dagsordener
 daily
 daisy
@@ -2509,7 +2508,6 @@ dak
 dakar
 dakdekker
 dakkapel
-dakkapellen
 dakreiniging
 dalfsen
 dali
@@ -2910,6 +2908,7 @@ downloaden
 downloads
 downtown
 dp
+dpa
 dps
 dpt
 dq
@@ -2948,7 +2947,6 @@ drukkerijen
 drukwerk
 drupal
 ds
-ds01
 ds1
 ds2
 ds3
@@ -3375,7 +3373,6 @@ evenementen
 event
 eventos
 events
-evere
 everest
 evergreen
 everything
@@ -3490,7 +3487,6 @@ fcs
 fd
 fdc
 fds
-fdsys
 fe
 feature
 features
@@ -3699,7 +3695,6 @@ fruit
 fruitautomaten
 frwebgate.access
 fryazino
-fryslan
 fs
 fs1
 fs2
@@ -3854,9 +3849,7 @@ geoip
 geology
 geoportal
 george
-georgewashington
 georgia
-georgievsk
 geoserver
 geoweb
 gep.dev
@@ -3908,6 +3901,7 @@ gitaar
 git.git
 github
 gitlab
+give
 giving
 gizmo
 gj
@@ -4133,7 +4127,6 @@ harlingen
 harmony
 harry
 harrypotter
-harvest-pipeline
 hash
 hattem
 haven
@@ -4603,7 +4596,6 @@ inrichting
 ins
 inschrijven
 inside
-insidemovies
 insider
 insight
 insights
@@ -4832,6 +4824,7 @@ johann
 john
 johnny
 join
+joinus
 jojo
 joke
 joker
@@ -4932,12 +4925,10 @@ karin
 karina
 karma
 karper
-karpervissen
 karriere
 kart
 karta
 kas
-kashira
 kaspersky
 kassa
 kasten
@@ -5399,6 +5390,7 @@ lts
 lu
 lucas
 luchtvaart
+lucifer
 luck
 lucky
 lucy
@@ -5761,6 +5753,7 @@ menu
 meppel
 mercedes
 merch
+merchandise
 merchandising-preview
 merchant
 mercury
@@ -5887,6 +5880,7 @@ mlm
 mlp
 mls
 mm
+mma
 mmc
 mmm
 mmp
@@ -5950,7 +5944,6 @@ mono
 monroe
 monster
 montana
-montfoort
 montreal
 moo
 moodle
@@ -6040,7 +6033,6 @@ mtv
 mu
 multi
 multimedia
-multimedia.email
 mumbai
 mumble
 mundo
@@ -6117,6 +6109,7 @@ mysites
 myspace
 mysql
 mysql1
+mysql2
 mystery
 mystore
 mytest
@@ -6508,6 +6501,7 @@ online-marketing
 onlinemarketing
 onlineshop
 online-shopping
+onlineshopping
 onlineshops
 onlinetest
 onlinewinkelen
@@ -6518,7 +6512,6 @@ ontslag
 ontspanning
 ontwerpen
 ontwikkel
-ontwikkeling
 onyx
 ooglaseren
 ooo
@@ -6626,7 +6619,6 @@ outgoing
 outlet
 outlook
 outmail
-outplacement
 outreach
 outside
 outsourcing
@@ -6708,6 +6700,7 @@ parrot
 part
 partenaires
 partner
+partner-api
 partnerapi
 partnerportal
 partners
@@ -6784,7 +6777,6 @@ persona
 personal
 personals
 personeel
-personeelsfeest
 peru
 pervouralsk
 pet
@@ -7048,6 +7040,7 @@ printers
 printing
 prism
 prisma
+priv
 privacy
 private
 prm
@@ -7093,6 +7086,7 @@ pronto
 proof
 property
 proposal
+prospect
 protect
 proteus
 proto
@@ -7102,6 +7096,7 @@ provider
 provincia
 provisioning
 proxy
+proxy01
 proxy1
 proxy2
 proxy3
@@ -7187,6 +7182,7 @@ qc
 qh
 qiye
 qlik
+qliksense
 qlikview
 qm
 qmail
@@ -7209,6 +7205,7 @@ quark
 quasar
 quebec
 queen
+queens
 query
 quest
 quest.arc
@@ -7356,7 +7353,6 @@ registro
 registry
 reiki
 reis
-reisbureau
 reisen
 reisgids
 reisorganisaties
@@ -7435,6 +7431,7 @@ result
 results
 resume
 retail
+retailer
 retro
 return
 returns
@@ -7654,6 +7651,7 @@ salsa
 salt
 salud
 sam
+sama
 samara
 samba
 samenwerken
@@ -7698,6 +7696,7 @@ sat
 satellite
 saturn
 sauna
+sav
 savannah
 save
 savings
@@ -7751,6 +7750,7 @@ scim
 scl
 scm
 sco
+scom
 scooter
 scooters
 scootmobiel
@@ -7796,6 +7796,7 @@ searchportal-qa
 seat
 seattle
 sec
+secmail
 secret
 secrets
 secure
@@ -8388,7 +8389,6 @@ stem
 step
 stephanie
 sterlitamak
-steun
 steve
 steven
 stg
@@ -8461,6 +8461,7 @@ success
 suche
 sudoku
 sugar
+sugarcrm
 suggest
 summer
 summit
@@ -8478,7 +8479,6 @@ supernova
 superstar
 suport
 suporte
-supplementen
 supplier
 suppliers
 supply
@@ -8549,7 +8549,6 @@ taal
 taart
 tableau
 tablet
-tabletpc
 tac
 tafels
 tag
@@ -8669,6 +8668,7 @@ test12
 test123
 test1234
 test13
+test14
 test15
 test2
 test3
@@ -8814,7 +8814,6 @@ tomcat
 tommy
 tomsk
 tomtom
-tonto.eia
 tony
 tool
 toolbar
@@ -8902,6 +8901,7 @@ trex
 tri
 trial
 tribunale
+trident
 trigger
 trinity
 trip
@@ -9039,6 +9039,7 @@ ums
 un
 unauthorized
 underground
+underworld
 uni
 unicorn
 unifi
@@ -9511,6 +9512,7 @@ webhook
 webhooks
 webhost
 webhosting
+webim
 webinar
 webinars
 weblink
@@ -9579,7 +9581,6 @@ werkplek
 wes
 wesley
 west
-westervoort
 westland
 wetenschap
 wetter
@@ -9630,7 +9631,6 @@ winkelcentrum
 winkelen
 winkels
 winnen
-winschoten
 winter
 wintersport
 winterswijk
@@ -9816,6 +9816,7 @@ wwwww
 wwwwww
 wx
 wy
+wyoming
 wz
 x1
 x2
@@ -9981,7 +9982,6 @@ zorg
 zorgplatform
 zorgverzekering
 zp
-zpcp3.blog
 zs
 zt
 zuid-holland
