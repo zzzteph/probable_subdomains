@@ -1983,6 +1983,7 @@
 2-tubekitty
 2u
 2usexstory
+2w
 2ww
 2www
 2x
@@ -9472,6 +9473,7 @@ api.next
 api-np
 apio
 api-old
+api.one
 api.open
 api.openbanking
 api.openstad
@@ -12583,6 +12585,7 @@ avio
 avion
 avios
 avip
+avir
 avira
 avira-free-antivirus
 avira-free-antivirus.ar
@@ -16804,6 +16807,7 @@ blueapple
 bluearmy
 blueart
 bluebadge
+bluebeam
 bluebell
 blueberry
 bluebird
@@ -16843,6 +16847,7 @@ bluelight
 blueline
 blueman
 bluemarble
+bluemarine
 bluemeringue
 bluemoon
 blueocean
@@ -19828,6 +19833,7 @@ carbonblack
 carbon-filter
 carcare
 carcassonne
+carconfigurator
 card
 card2card
 cardabilities
@@ -24197,6 +24203,7 @@ corpora
 corporate
 corporate2
 corporatecard
+corporate-dev
 corporates
 corporateservices
 corporation
@@ -25856,6 +25863,7 @@ cybozu
 cyc
 cycladen
 cycle
+cycles
 cycling
 cyclo
 cyclocross
@@ -26380,7 +26388,6 @@ darkzone
 darla
 darlene
 darling
-darlington
 darm
 darma
 darman
@@ -26630,6 +26637,7 @@ davey
 davi
 david
 davidb
+david.blog
 david-bowie
 davidbowie
 davide
@@ -26890,7 +26898,6 @@ dea
 dead
 deadeye
 deadline
-deadlock
 deadly
 deadman
 deadmau5
@@ -27950,7 +27957,6 @@ developer-stg
 developersupport
 developer-test
 developer.test
-developertest
 developer-uat
 developing
 development
@@ -27973,7 +27979,6 @@ dev.forms
 dev.forum
 devforum
 dev.forums
-devforums
 dev.gateway
 dev-go
 dev.go
@@ -28010,6 +28015,7 @@ dev.img
 dev.in
 devin
 devinaresh
+dev.incubator
 devine
 dev.insights
 dev-int
@@ -28166,7 +28172,6 @@ dev-staging
 dev.staging
 dev-static
 dev.static
-devstats
 dev-store
 dev.store
 devstore
@@ -30866,7 +30871,6 @@ eab
 eac
 e-academy
 eacademy
-e-access
 eaccess
 each
 ead
@@ -31222,7 +31226,6 @@ ecomm1
 e-commerce
 ecommerce
 ecommerce-bureaus
-ecommerce-test
 ecommerceuncovered
 ecomp
 ecomtest
@@ -33015,9 +33018,7 @@ eqix-ema-da
 eqix-ema-dc
 eqix-ema-la
 eqix-ema-sv
-eqix-se2
 eqix-sv1
-eqix-sv8
 eqm
 eqp
 eqr
@@ -35646,7 +35647,6 @@ firewall
 firewall2
 firewallix
 fireweb
-firewire
 firework
 fireworks
 firex
@@ -36526,6 +36526,7 @@ fpr
 fps
 fpt
 fptest
+fptls
 fpv
 fpx
 fq
@@ -40061,6 +40062,7 @@ graphics.cs
 graphite
 graphql
 graphql.dev
+graphql.int
 graphql.staging
 graphs
 grappa
@@ -40596,7 +40598,6 @@ gsoft
 gsp
 g-spot
 gspot
-gsps
 gsr
 gss
 gss1
@@ -42070,7 +42071,6 @@ helpqa
 helpscout
 helpsite
 helpspot
-help-stage
 help.stage
 help-staging
 help.staging
@@ -43731,6 +43731,7 @@ hrapps
 hraunfoss
 hrb
 hrc
+hrcentral
 hrconnect
 hrd
 hrdc
@@ -43749,7 +43750,6 @@ hrl
 hrm
 hrm-business
 hrmis
-hrmobile
 hrms
 hrn
 hro
@@ -44432,8 +44432,10 @@ iamapi1
 iam.app
 iam.cloud
 iam-dev
+iam.int
 iams
 i-am-so-tired
+iam.stg
 iam-test
 iamtest
 iam.www
@@ -44514,7 +44516,6 @@ ibu
 ibuprofen
 iburgerzaken
 ibusiness
-ibuy
 ibv
 ibvkgame
 ibx
@@ -46269,7 +46270,6 @@ internetradio
 internetr-all
 internetrecht
 internetreclame
-internetservices
 internetshop
 internetshoppen
 internetshopping
@@ -46949,7 +46949,6 @@ isu
 isup
 isupplier
 isupport
-isurvey
 isus
 isuzu
 isv
@@ -51939,7 +51938,6 @@ leapfrog
 leaps
 learn
 learn2
-learnandearn
 learn-api
 learndev
 learn-english
@@ -54989,7 +54987,6 @@ mailin13mx
 mailin14mx
 mailin15mx
 mailin16mx
-mail-in2
 mailin2
 mailin3
 mailinator
@@ -55617,6 +55614,7 @@ maranatha
 marat
 marathi
 marathon
+maraton
 marauder
 marauders
 marazm
@@ -55820,6 +55818,7 @@ marketing-opleiding
 marketing-pagina
 marketingpagina
 marketingplan
+marketingplatform
 marketing-podcasts
 marketingportal
 marketing-ps
@@ -60124,7 +60123,6 @@ myd
 mydashboard
 mydata
 myday
-mydemo
 mydesign
 mydesk
 mydesktop
@@ -62482,6 +62480,7 @@ november
 novgorod
 novgorodskaya-oblast
 novi
+novice
 novikov
 novinki
 noviy-urengoy
@@ -63481,6 +63480,7 @@ office.api
 office.app
 officeapp
 officeapps
+office.blog
 officedepot
 office-kopen
 office-licentie
@@ -64622,6 +64622,7 @@ ops
 ops02
 ops1
 ops2
+opsb
 opscenter
 op-scim
 op-scim-bridge
@@ -66603,7 +66604,6 @@ peo
 peon
 people
 peopleadmin
-peoplechat
 people.cs
 peoplefirst
 peoplehub
@@ -68982,7 +68982,6 @@ progressive
 progresso
 progressreport
 progrock
-prohelp
 prohladniy
 prohome
 proj
@@ -69138,6 +69137,7 @@ prosperworks
 prosport
 prostaat
 prostatitis-symptoms
+pro.stg
 prostitutie
 prostitutki
 prosto
@@ -69661,9 +69661,7 @@ pwx
 px
 px1
 px2
-px4
 px5
-px6
 pxc
 pxd
 pxe
@@ -69986,7 +69984,6 @@ quakers
 qual
 qualcomm
 qualidade
-qualification
 qualifio
 quality
 qualityassurance
@@ -71314,10 +71311,7 @@ relay1
 relay10
 relay11
 relay12
-relay13
 relay2
-relay20
-relay21
 relay3
 relay4
 relay5
@@ -75051,6 +75045,7 @@ selwyn
 selyatino
 sem
 sema
+se.mail
 semantic
 semanticweb
 semaphore
@@ -79184,6 +79179,7 @@ stage-assets
 stage-auth
 stage.auth
 stage.aws
+stage-be
 stage-beta
 stage.beta
 stage-blog
@@ -79248,6 +79244,7 @@ stage-uk
 stage.us
 stage-video
 stage-web
+stage.web
 stage-www
 stage.www
 staging
@@ -79716,6 +79713,7 @@ stats.api
 stats.app
 stats.blog
 statsd
+stats.web
 stats.www
 status
 status1
@@ -86851,6 +86849,7 @@ vaticaanstad
 vatican
 vats
 vattenfall
+vau
 vauban
 vaucluse
 vault
@@ -87798,6 +87797,7 @@ view.notifications
 viewonline
 viewpoint
 views
+viewscreen.github
 viewsonic
 view.update
 view.updates

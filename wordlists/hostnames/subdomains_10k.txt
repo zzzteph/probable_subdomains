@@ -6791,6 +6791,7 @@ pg
 pgadmin
 pgp
 ph
+phabricator
 phantom
 pharma
 pharmacy
@@ -8032,7 +8033,6 @@ sky
 skyline
 skynet
 skype
-skypeweb
 sl
 sla
 slaapkamer

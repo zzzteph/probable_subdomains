@@ -562,7 +562,6 @@ info
 infra
 ingest
 ingress
-insights
 int
 integration
 internal
@@ -951,6 +950,7 @@ us-west-2
 v1
 v10
 v2
+v3
 va
 vault
 verify

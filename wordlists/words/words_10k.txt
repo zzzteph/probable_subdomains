@@ -7804,6 +7804,7 @@ sdo
 sdp
 sdr
 sds
+sdu
 se
 sea
 seagull
@@ -8611,7 +8612,6 @@ taurus
 tax
 taxi
 taylor
-taz
 tb
 tbc
 tbs
