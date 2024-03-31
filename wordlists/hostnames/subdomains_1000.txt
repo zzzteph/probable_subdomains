@@ -134,6 +134,7 @@ calendar
 campaign
 campaigns
 campus
+canada
 card
 career
 careers
@@ -425,7 +426,6 @@ irkutsk
 is
 it
 ivanovo
-izhevsk
 ja
 jaarverslag
 jenkins

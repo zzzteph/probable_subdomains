@@ -14,7 +14,6 @@
 06
 07
 08
-080
 09
 10
 100
@@ -743,7 +742,6 @@ anaconda
 anadyr
 anakin
 anal
-analog
 analysis
 analytics
 anand
@@ -875,6 +873,7 @@ app3
 app4
 app5
 app6
+app7
 app-dev
 appdev
 appel
@@ -1102,6 +1101,7 @@ austin
 australia
 australie
 austria
+aut
 auth
 auth1
 auth2
@@ -3230,7 +3230,6 @@ emc
 emea
 emerald
 emergency
-emi
 emily
 eminem
 eml
@@ -3287,6 +3286,7 @@ enterprise
 enterpriseenrollment
 enterpriseregistration
 entertainment
+entrepreneur
 entry
 env
 environment
@@ -4062,6 +4062,7 @@ gu
 guangzhou
 guard
 guardian
+guatemala
 gucci
 guce
 guest
@@ -4301,7 +4302,6 @@ host120
 host13
 host2
 host20
-host21
 host3
 host4
 host5
@@ -4618,6 +4618,7 @@ interface
 interieur
 intern
 internal
+internal-api
 international
 internet
 internet-marketing
@@ -5941,6 +5942,7 @@ mp
 mp3
 mp4
 mpa
+mpc
 mpi
 mpk
 mpp
@@ -6249,6 +6251,7 @@ nodejs-dev
 noginsk
 nokia
 nomad
+noname
 none
 non-prod
 nonprod
@@ -6724,7 +6727,6 @@ pc1
 pcc
 pcgames
 pci
-pcr
 pcs
 pd
 pda
@@ -8928,7 +8930,6 @@ tri
 trial
 trials
 tribunale
-trident
 trigger
 trinity
 trio
@@ -9354,7 +9355,6 @@ volgodonsk
 volgograd
 volkswagen
 vologda
-volta
 voltage-pp-0000
 voltage-ps-0000
 volunteer

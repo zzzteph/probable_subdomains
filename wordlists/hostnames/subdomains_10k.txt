@@ -278,7 +278,6 @@ accept
 acceptance
 acceptatie
 acceptatie-sign-zorgplatform
-acceptatie-zorgplatform
 access
 access01
 access1
@@ -369,7 +368,6 @@ admins
 admin.staging
 admin.test
 admin.www
-admiral
 admission
 admissions
 adn
@@ -1861,6 +1859,7 @@ cde
 cdf
 cdi
 cdimage
+cdl
 cdm
 cdn
 cdn-0
@@ -2664,6 +2663,7 @@ desk
 deskitty
 desktop
 destiny
+det
 detachering
 detailhandel
 deti
@@ -3901,7 +3901,6 @@ gitaar
 git.git
 github
 gitlab
-give
 giving
 gizmo
 gj
@@ -4336,7 +4335,6 @@ html5
 hts
 http
 httpbin
-httpd
 https
 httpswww
 http.www
@@ -5929,6 +5927,7 @@ mom
 moments
 momo
 mon
+mona
 monaco
 money
 money.blogs
@@ -6501,7 +6500,6 @@ online-marketing
 onlinemarketing
 onlineshop
 online-shopping
-onlineshopping
 onlineshops
 onlinetest
 onlinewinkelen
@@ -7010,6 +7008,7 @@ preproductie
 presence
 present
 presentatie
+presentation
 president
 press
 presse
@@ -7198,7 +7197,6 @@ qs
 qt
 quad
 quake
-qualifio
 quality
 quantum
 quarantine
@@ -8487,6 +8485,7 @@ support
 support1
 support2
 sur
+surabaya
 surf
 surgery
 surgut
@@ -8681,6 +8680,7 @@ test9
 test-api
 test.api
 testapi
+test.app
 testapp
 testbed
 testblog

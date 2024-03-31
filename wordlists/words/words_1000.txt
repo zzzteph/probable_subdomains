@@ -583,7 +583,6 @@ mx4
 my
 myaccount
 myhome
-mysite
 mysql
 na
 nagios
@@ -849,6 +848,7 @@ support
 survey
 surveys
 sv
+svc
 svn
 symposium
 sync

@@ -443,6 +443,7 @@ cv
 cz
 d1
 d2
+d3
 d8
 da
 dashboard
@@ -628,7 +629,6 @@ jb
 je
 jenkins
 jira
-jm
 jobs
 journals
 jp
@@ -895,7 +895,6 @@ static
 stats
 status
 stg
-stl
 storage
 store
 stream
@@ -931,6 +930,7 @@ tr
 tracking
 traefik
 training
+travel
 trigger
 ts
 tst

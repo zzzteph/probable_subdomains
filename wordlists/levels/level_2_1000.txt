@@ -331,7 +331,6 @@ enterpriseregistration
 erp
 es
 eu
-europe
 eu-west-1
 event
 events
@@ -839,6 +838,7 @@ sso
 ssp
 st
 staff
+stag
 stage
 staging
 staging2
