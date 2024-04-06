@@ -265,6 +265,7 @@ acc
 acceptance
 acceptatie
 access
+accessmedicine
 account
 accounts
 ace
@@ -332,6 +333,7 @@ au
 auth
 authenticate
 author
+authorization
 auto
 autoconfig
 autodiscover
@@ -368,7 +370,6 @@ c1
 c2
 c4
 ca
-cable
 cache
 callback
 cambridge
@@ -406,6 +407,7 @@ co
 code
 com
 commerce
+common
 community
 compute
 comwww
@@ -444,6 +446,7 @@ demo
 demo1
 demo2
 deploy
+design
 dev
 dev01
 dev02
@@ -482,7 +485,6 @@ dynamic
 e2e
 ea
 east
-eastus2
 ebrary
 ebscohost
 ec
@@ -492,7 +494,6 @@ ed
 edge
 edu
 ee
-eks
 elastic
 elasticsearch
 elb
@@ -541,7 +542,6 @@ fusion
 fw
 ga
 galegroup
-game
 games
 gate
 gateway
@@ -620,7 +620,6 @@ kb
 keycloak
 kibana
 kr
-kubecost
 la
 lab
 labs
@@ -675,6 +674,7 @@ ml
 mm
 mms
 mobile
+mon
 monitor
 monitoring
 mq
@@ -765,6 +765,7 @@ poc
 pop
 pop3
 portal
+post
 pp
 ppp
 pr
@@ -810,7 +811,6 @@ rabbitmq
 rancher
 raw
 rc
-rds
 reg
 register
 registration

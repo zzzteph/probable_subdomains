@@ -39,7 +39,6 @@ help
 home
 hostmaster
 images
-imap
 img
 in
 info
@@ -84,6 +83,7 @@ smtp
 stage
 staging
 static
+stats
 status
 store
 support

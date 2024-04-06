@@ -300,7 +300,6 @@ ace
 acer
 aces
 acesso
-acg
 achieve
 achilles
 achinsk
@@ -370,7 +369,6 @@ admin.test
 admin.www
 admission
 admissions
-adn
 adobe
 adonis
 adp
@@ -521,6 +519,7 @@ aldo
 aleksandrov
 aleph
 alert
+alertmanager
 alerts
 alertus
 alex
@@ -661,6 +660,7 @@ angels
 angie
 angola
 anguilla
+angus
 anh
 ani
 animal
@@ -825,7 +825,6 @@ ardennen
 area
 area51
 arena
-arenda
 ares
 arg
 argentina
@@ -1574,7 +1573,6 @@ bpa
 bpm
 bps
 br
-br1
 brabant
 brad
 bradsch
@@ -2034,7 +2032,6 @@ cim-api-qa
 cim-api-uat
 cim-data-quality-qa
 cim-dev
-cimg
 cimg20
 cim-geo-dev
 cincinnati
@@ -2540,7 +2537,6 @@ das
 dash
 dashboard
 dashboards
-dat
 data
 data1
 data2
@@ -3468,6 +3464,7 @@ fantomas
 fap
 faq
 faqs
+faraday
 farm
 fas
 fashion
@@ -3510,6 +3507,7 @@ fenix
 fepool01
 ferrari
 ferry
+fes
 festival
 festivals
 fetish
@@ -3760,7 +3758,6 @@ gamer
 gamers
 games
 games2
-gamescom
 gamesonline
 gamez
 gamezone
@@ -3788,7 +3785,6 @@ gay
 gazeta
 gb
 gba
-gb.corp
 gbs
 gc
 gca
@@ -4400,7 +4396,6 @@ i7
 i8
 i9
 ia
-iac
 iad
 iam
 ian
@@ -5324,6 +5319,7 @@ lo
 load
 loadtest
 loan
+loans
 lobby
 lobnya
 local
@@ -5676,7 +5672,6 @@ mazda
 mb
 mba
 mbg
-mbo
 mbox
 mbs
 mc
@@ -5754,6 +5749,7 @@ merch
 merchandise
 merchandising-preview
 merchant
+merchants
 mercury
 meridian
 merkkleding
@@ -5828,6 +5824,7 @@ milan
 milano
 milieu
 military
+milk
 millennium
 miller
 million
@@ -6354,6 +6351,7 @@ ns9
 nsa
 nsb
 nsc
+nsd
 nsk
 nsp
 nss
@@ -7182,7 +7180,6 @@ qc
 qh
 qiye
 qlik
-qliksense
 qlikview
 qm
 qmail
@@ -7452,6 +7449,7 @@ rhea
 rheden
 rhenen
 rhino
+rhodes
 ri
 ria
 ric
@@ -8341,6 +8339,7 @@ stalker
 stamps
 stan
 standard
+standby
 staphorst
 star
 stargate
@@ -8569,7 +8568,6 @@ tandem
 tanden
 tandheelkunde
 tango
-tank
 tanya
 tanzania
 tao
@@ -8778,6 +8776,7 @@ tips
 tis
 titan
 titanic
+titanium
 titans
 tj
 tk
@@ -9547,6 +9546,7 @@ websites
 websitewww
 webspace
 websrv
+webstat
 webstats
 webstore
 websvn

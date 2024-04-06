@@ -231,6 +231,7 @@ a1
 a2
 aa
 aac
+ab
 abc
 ac
 acc
@@ -269,7 +270,6 @@ api
 api1
 api2
 api-dev
-api-docs
 apigw
 apim
 apis
@@ -427,7 +427,6 @@ devops
 dhcp
 dialin
 digital
-direct
 directory
 discovery
 dk
@@ -501,10 +500,10 @@ free
 front
 frontend
 fs
-ft
 ftp
 fw
 ga
+galegroup
 game
 games
 gamma
@@ -549,7 +548,6 @@ idm
 idp
 ids
 ie
-ieee
 im
 image
 images
@@ -596,6 +594,7 @@ labs
 lb
 ldap
 legacy
+lexisnexis
 lib
 library
 link
@@ -915,6 +914,7 @@ tickets
 tls
 token
 tools
+tp
 tr
 tracker
 tracking

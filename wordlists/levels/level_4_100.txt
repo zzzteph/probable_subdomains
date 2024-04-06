@@ -29,7 +29,6 @@ data
 de
 demo
 dev
-dev2
 docs
 es
 eu
@@ -68,6 +67,7 @@ preview
 prod
 production
 prometheus
+proquest
 proxy
 public
 qa

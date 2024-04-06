@@ -296,7 +296,6 @@ am
 an
 anaheim
 analytics
-android
 antivirus
 ao
 ap
@@ -366,7 +365,6 @@ beta
 bf
 billing
 bj
-bk
 blob
 blog
 blue
@@ -587,6 +585,7 @@ hq
 hr
 http
 httpbin
+hu
 hub
 i1
 iad
@@ -679,7 +678,6 @@ manager
 maps
 master
 mc
-mcs
 mdm
 me
 med
@@ -697,6 +695,7 @@ mobile
 monitor
 monitoring
 mp
+mrw
 ms
 mt
 mta-sts
@@ -811,7 +810,6 @@ pubs
 qa
 qa1
 qa2
-qa4
 queue
 r0
 r1
@@ -830,18 +828,17 @@ reg
 register
 registry
 relay
-release
 remote
 rep
 report
 reporting
 reports
-research
 rest
 rev
 reverse
 review
 rm
+rp
 rss
 ru
 s1
@@ -904,6 +901,7 @@ support
 svc
 swagger
 syd
+sync
 sys
 system
 t1
@@ -926,6 +924,7 @@ tn
 to
 toolbar
 tools
+tpe
 tr
 tracking
 traefik
@@ -945,6 +944,7 @@ ui
 uk
 uncover
 update
+updates
 upload
 uploads
 us
