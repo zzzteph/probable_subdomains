@@ -794,7 +794,6 @@ smtp
 smtp1
 smtp2
 smtp3
-so
 sochi
 social
 software
@@ -874,6 +873,7 @@ translate
 transport
 travel
 tribunale
+trust
 try
 ts
 tst

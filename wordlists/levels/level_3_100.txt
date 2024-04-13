@@ -17,6 +17,7 @@ cms
 co
 com
 console
+content
 cpanel
 dashboard
 data
@@ -39,7 +40,6 @@ hostmaster
 image
 images
 in
-info
 int
 internal
 jenkins

@@ -259,6 +259,7 @@ edu
 education
 eindhoven
 ekaterinburg
+el
 elastic
 elearning
 elections
@@ -993,7 +994,6 @@ www9
 www-test
 wwww
 wwwwww
-xml
 xroads
 xxx
 yaroslavl

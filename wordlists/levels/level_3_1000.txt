@@ -73,13 +73,11 @@
 168
 169
 17
-171
 172
 173
 174
 177
 178
-179
 18
 180
 181
@@ -89,7 +87,6 @@
 188
 189
 19
-190
 191
 192
 193
@@ -121,9 +118,7 @@
 219
 22
 220
-221
 222
-223
 224
 225
 226
@@ -139,7 +134,6 @@
 239
 24
 240
-241
 242
 243
 244
@@ -230,7 +224,6 @@
 a1
 a2
 aa
-aac
 ab
 abc
 ac
@@ -345,6 +338,7 @@ cache
 canary
 careers
 cas
+cat
 catalog
 cc
 ccc
@@ -503,7 +497,6 @@ fs
 ftp
 fw
 ga
-galegroup
 game
 games
 gamma
@@ -535,7 +528,6 @@ home
 host
 hosting
 hostmaster
-hp
 hr
 http
 httpbin
@@ -555,11 +547,13 @@ imap
 img
 ims
 in
+inbound
 influxdb
 info
 infra
 ingest
 ingress
+insights
 int
 integration
 internal
@@ -567,6 +561,7 @@ intra
 intranet
 inventory
 io
+iot
 ip
 ip4
 ipv6
@@ -594,7 +589,6 @@ labs
 lb
 ldap
 legacy
-lexisnexis
 lib
 library
 link
@@ -620,6 +614,7 @@ mail
 mail01
 mail1
 mail2
+mailserver
 main
 maintenance
 manage
@@ -641,10 +636,10 @@ meet
 mema
 mercury
 messaging
+metadata
 metrics
 mfa
 mgmt
-mi
 migration
 minio
 mirror
@@ -652,6 +647,7 @@ ml
 mm
 mobile
 mon
+mongo
 monitor
 monitoring
 moodle
@@ -710,6 +706,7 @@ o8
 o9
 oauth
 office
+oidc
 okta
 old
 one
@@ -735,6 +732,7 @@ pay
 payment
 payments
 pc
+people
 perf
 ph
 photo
@@ -779,6 +777,7 @@ qa
 qa1
 qa2
 queue
+r1
 rabbitmq
 rancher
 raw
@@ -820,6 +819,7 @@ s4
 sa
 sagepub
 sales
+sam
 saml
 sandbox
 sap
@@ -912,9 +912,9 @@ testing
 th
 tickets
 tls
+tms
 token
 tools
-tp
 tr
 tracker
 tracking
@@ -950,9 +950,9 @@ us-west-2
 v1
 v10
 v2
-v3
 va
 vault
+vc
 verify
 video
 videos
@@ -961,7 +961,6 @@ vip
 vm
 voice
 vpn
-w3
 wap
 weather
 web
@@ -979,6 +978,7 @@ webservices
 website
 west
 whm
+wifi
 wiki
 wildcard
 wiley

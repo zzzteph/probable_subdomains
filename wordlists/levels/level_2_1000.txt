@@ -65,6 +65,7 @@ acceptatie
 access
 account
 accounts
+ace
 acs
 act
 ad
@@ -200,6 +201,7 @@ checkout
 chef
 china
 ci
+cim-api-qa
 cis
 citrix
 cl
@@ -331,6 +333,7 @@ enterpriseregistration
 erp
 es
 eu
+europe
 eu-west-1
 event
 events
@@ -495,9 +498,9 @@ localhost
 log
 login
 logs
-loki
 lp
 ls
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -595,7 +598,6 @@ nagios
 nc
 ne
 net
-netbox
 network
 new
 news
@@ -727,7 +729,6 @@ qa1
 qa2
 quest
 ra
-radio
 radius
 rancher
 ras
@@ -757,15 +758,16 @@ resources
 rest
 retail
 review
+rm
 rms
 ro
 root
 router
-rp
 rs
 rss
 rt
 ru
+rx
 s1
 s2
 s3
@@ -805,7 +807,6 @@ si
 sidney
 signin
 signup
-sim
 sip
 sit
 site
@@ -933,7 +934,6 @@ vc
 vcenter
 vdi
 vendor
-vendors
 verify
 vi
 video
