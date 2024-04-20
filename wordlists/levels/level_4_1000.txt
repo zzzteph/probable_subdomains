@@ -325,6 +325,7 @@ asia
 asset
 assets
 at
+atlantis
 atlas
 att
 au
@@ -426,6 +427,7 @@ cs
 cshm-sbsc01
 cust
 customer
+cz
 d1
 dashboard
 data
@@ -488,6 +490,7 @@ ed
 edge
 edu
 ee
+eks
 elastic
 elasticsearch
 elb
@@ -497,7 +500,6 @@ emea
 en
 eng
 engine
-engineering
 enterprise
 es
 eu
@@ -589,7 +591,6 @@ info
 infra
 ingest
 ingress
-insights
 int
 integration
 internal
@@ -601,6 +602,7 @@ ip4
 ipv4
 is
 it
+jaeger
 jenkins
 jhu
 jira
@@ -670,7 +672,6 @@ minio
 ml
 mm
 mobile
-mon
 monitor
 monitoring
 mq
@@ -760,6 +761,7 @@ poc
 pop
 pop3
 portal
+post
 pp
 ppe
 ppp
@@ -882,7 +884,6 @@ st
 sta
 staff
 stage
-stage1
 staging
 star
 start
@@ -929,7 +930,6 @@ tr
 traefik
 train
 training
-transfer
 travel
 trial
 ts
@@ -959,7 +959,6 @@ us-west-1
 us-west-2
 v1
 v2
-v4
 va
 vaccine
 vault
@@ -971,6 +970,7 @@ vn
 vpn
 wap
 web
+web01
 web1
 web2
 web3

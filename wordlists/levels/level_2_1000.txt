@@ -33,18 +33,15 @@
 38
 40
 41
-43
 44
 45
 50
 52
 55
-56
 66
 69
 75
 76
-78
 80
 98
 a1
@@ -115,7 +112,6 @@ apple
 apply
 apps
 ar
-arc
 archive
 argocd
 art
@@ -333,7 +329,6 @@ enterpriseregistration
 erp
 es
 eu
-europe
 eu-west-1
 event
 events
@@ -498,6 +493,7 @@ localhost
 log
 login
 logs
+loki
 lp
 ls
 lt
@@ -723,12 +719,14 @@ pt
 pub
 public
 publish
+puppet
 push
 qa
 qa1
 qa2
 quest
 ra
+radio
 radius
 rancher
 ras
@@ -758,7 +756,6 @@ resources
 rest
 retail
 review
-rm
 rms
 ro
 root
@@ -793,6 +790,7 @@ selfservice
 sentry
 server
 server1
+servers
 service
 servicedesk
 services
@@ -807,6 +805,7 @@ si
 sidney
 signin
 signup
+sim
 sip
 sit
 site
@@ -958,6 +957,7 @@ web2
 web3
 webapp
 webapps
+webapps-common
 webcon
 webconf
 webdev
