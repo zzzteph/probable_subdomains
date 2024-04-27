@@ -258,6 +258,7 @@
 47
 48
 49
+4www
 50
 51
 52
@@ -483,7 +484,6 @@ administration
 administrator
 adminportal
 admins
-admin-staging
 admission
 admissions
 adn
@@ -865,6 +865,7 @@ apl
 aplus
 apm
 ap-northeast-1
+apo
 apollo
 apotheek
 app
@@ -953,7 +954,6 @@ ariadne
 arie
 ariel
 aries
-arion
 aris
 arizona
 ark
@@ -964,6 +964,7 @@ armada
 armani
 armavir
 armenia
+arms
 armstrong
 army
 arnhem
@@ -998,7 +999,6 @@ as1
 as2
 as400
 asa
-asahi
 asap
 asb
 asbest
@@ -1062,11 +1062,13 @@ at
 ata
 atb
 atc
+ateam
 atelier
 atendimento
 athena
 athens
 athletics
+athos
 ati
 atl
 atlant
@@ -1107,6 +1109,7 @@ austin
 australia
 australie
 austria
+aut
 auth
 auth1
 auth2
@@ -1127,6 +1130,7 @@ autodealers
 autodiscover
 autogarage
 autolease
+automate
 automation
 automatisering
 automotive
@@ -1277,6 +1281,7 @@ barcode
 barendrecht
 barnaul
 barneveld
+barney
 baron
 barracuda
 barry
@@ -1301,6 +1306,7 @@ batman
 bat-smg
 battle
 bay
+baza
 bazaar
 bazar
 bb
@@ -1328,6 +1334,7 @@ beacon
 beagle
 beaker
 beam
+beamer
 bean
 bear
 beast
@@ -1718,7 +1725,6 @@ c0
 c1
 c10
 c11
-c13
 c2
 c2c
 c3
@@ -1863,7 +1869,6 @@ cb
 cba
 cbachina
 cbc
-cbd
 cbi
 cbr
 cbs
@@ -1957,7 +1962,6 @@ cfd
 cfg
 cfs
 cg
-cgc
 cgi
 cgs
 ch
@@ -2006,6 +2010,7 @@ checkpoint
 cheese
 cheetah
 chef
+chehov
 chel
 chelsea
 chelyabinsk
@@ -2043,7 +2048,6 @@ chopin
 chris
 christian
 christmas
-christopher
 chrome
 chronicle
 chronos
@@ -2133,6 +2137,7 @@ clone
 cloud
 cloud1
 cloud2
+cloud9
 cloudapp
 cloudflare
 cloudflare-resolve-to
@@ -2213,11 +2218,9 @@ colombia
 color
 colorado
 colossus
-colt
 columbia
 columbus
 com
-combo
 comcast
 come
 comedy
@@ -2338,6 +2341,7 @@ correo
 correoweb
 cortex
 corvette
+corvus
 cos
 cosmetic
 cosmetica
@@ -2460,7 +2464,6 @@ cte
 ctf
 cti
 ctl
-cto
 ctp
 ctr
 ctrl
@@ -2516,7 +2519,6 @@ cz
 d0
 d1
 d10
-d12
 d2
 d3
 d4
@@ -2670,7 +2672,6 @@ demo6
 democracy
 demon
 demos
-demoshop
 demosite
 den
 den-bosch
@@ -2741,7 +2742,6 @@ devportal
 devtest
 devtools
 dev-www
-devwww
 dewey
 dewww
 dex
@@ -2897,8 +2897,6 @@ dogfood-dev
 dogs
 doh
 doi
-doi-org
-doit
 dojo
 dol
 dollar
@@ -2963,7 +2961,6 @@ dre
 dream
 dreamer
 dreams
-dreamteam
 drenthe
 drift
 drive
@@ -2987,7 +2984,6 @@ ds2
 ds3
 dsa
 dsc
-dse
 dsf
 dsi
 dsl
@@ -3027,6 +3023,7 @@ dvs
 dw
 dwp-cis
 dws
+dwww
 dx
 dy
 dyn
@@ -3218,6 +3215,7 @@ e-marketing
 emarketing
 emba
 embed
+embedded
 emc
 emea
 emerald
@@ -3244,6 +3242,7 @@ ems
 emu
 en
 enc
+encoder
 encore
 encrypt
 encyclopedia
@@ -3266,7 +3265,6 @@ english
 enigma
 enjoy
 enkhuizen
-enq
 enquete
 enquetes
 enroll
@@ -3278,7 +3276,6 @@ enterprise
 enterpriseenrollment
 enterpriseregistration
 entertainment
-entrepreneur
 entry
 env
 environment
@@ -3320,6 +3317,7 @@ erik
 eris
 erm
 ermelo
+ernie
 ero
 eroom
 eros
@@ -3386,7 +3384,6 @@ eu-central-1
 euclid
 eugene
 euler
-eum
 eur
 eureka
 euro
@@ -3439,6 +3436,7 @@ exp
 expe
 experience
 experiment
+experiments
 expert
 experts
 explore
@@ -3456,6 +3454,7 @@ extranet
 extranet2
 extras
 extreme
+ey
 eye
 ez
 ezproxy
@@ -3578,6 +3577,7 @@ finder
 fine
 finland
 fiona
+fir
 fire
 firebird
 firefly
@@ -3599,7 +3599,6 @@ fk
 fl
 flamingo
 flash
-flat
 flavio
 fleet
 fleur
@@ -3672,7 +3671,6 @@ fotos
 foundation
 fox
 foxtrot
-foxy
 fp
 fps
 fr
@@ -3819,6 +3817,7 @@ gcom-product-find-qa
 gcp
 gcs
 gd
+gdc
 gdi
 gdpr
 gds
@@ -3923,7 +3922,6 @@ gizmo
 gj
 gk
 gl
-gladiator
 glamour
 glas
 glass
@@ -3966,6 +3964,7 @@ goods
 goofy
 google
 goose
+gopher
 gordijnen
 gordon
 gorilla
@@ -4029,7 +4028,6 @@ groups
 groupwise
 grow
 growth
-grpc
 grs
 gs
 gs1
@@ -4067,10 +4065,12 @@ guitar
 guru
 gus
 gutenberg
+gv
 gw
 gw1
 gw2
 gw3
+gw4
 gws
 gws-api-sandbox
 gws-dev
@@ -4175,7 +4175,6 @@ hell
 hellendoorn
 hellevoetsluis
 hello
-hellokitty
 helloworld
 helm
 helmond
@@ -4289,10 +4288,10 @@ host1
 host10
 host11
 host12
-host120
 host13
 host2
 host20
+host21
 host3
 host4
 host5
@@ -4326,6 +4325,7 @@ hp
 hpc
 hq
 hr
+hrc
 hrd
 hris
 hrm
@@ -4851,7 +4851,6 @@ jubileum
 judith
 judo
 juegos
-juice
 julia
 julian
 julie
@@ -4967,6 +4966,7 @@ keys
 keystone
 keyword
 kf
+kfc
 kg
 kh
 khabarovsk
@@ -5078,6 +5078,7 @@ ks-vendingtransactions-mq4
 kt
 ku
 ku1720
+kuban
 kube
 kubernetes
 kultur
@@ -5266,6 +5267,7 @@ lis
 lisa
 lisse
 list
+lista
 listen
 listings
 lists
@@ -5391,7 +5393,6 @@ lyncwebext
 lynx
 lyon
 lyra
-lyris
 lz
 m0
 m1
@@ -5528,6 +5529,7 @@ mam
 mama
 mamba
 mambo
+mammoth
 man
 manage
 management
@@ -5549,7 +5551,6 @@ mapi
 maple
 mapping
 maps
-mapy
 mar
 mara
 marathon
@@ -5581,7 +5582,6 @@ markus
 maroc
 marokko
 marquee
-marriage
 mars
 marshall
 mart
@@ -5750,6 +5750,7 @@ mia
 miami
 miass
 mic
+mica
 michael
 michel
 michelle
@@ -5860,6 +5861,7 @@ mobiletest
 mobility
 moby
 moc
+mocha
 mock
 mod
 moda
@@ -5889,7 +5891,6 @@ money
 mongo
 mongodb
 monica
-monit
 monitor
 monitor1
 monitor2
@@ -5899,7 +5900,6 @@ mono
 monroe
 monster
 montana
-montgomery
 montreal
 moo
 moodle
@@ -5925,7 +5925,6 @@ motors
 mountain
 mountainbike
 mouse
-mov
 move
 movie
 movies
@@ -6092,7 +6091,6 @@ nap
 narrowcasting
 naruto
 nas
-nas1
 nasa
 nash
 nashville
@@ -6157,7 +6155,6 @@ nevada
 new
 new1
 new2
-newage
 newmail
 newman
 neworleans
@@ -6190,6 +6187,7 @@ nginx-newest1
 ngs
 nh
 ni
+niagara
 nic
 nicaragua
 nice
@@ -6247,7 +6245,6 @@ nodejs-dev
 noginsk
 nokia
 nomad
-noname
 none
 non-prod
 nonprod
@@ -6255,7 +6252,6 @@ noord-brabant
 noord-holland
 noordholland
 noordwijk
-nord
 norilsk
 north
 northstar
@@ -6365,6 +6361,7 @@ o7
 o8
 o9
 oa
+oab
 oak
 oam
 oas
@@ -6540,7 +6537,6 @@ orc
 orca
 orchestrator
 orchid
-ord
 order
 ordering
 orders
@@ -6665,7 +6661,6 @@ papa
 papendrecht
 paper
 papercut
-papi
 par
 paradise
 paradox
@@ -6686,7 +6681,6 @@ parrot
 part
 partenaires
 partner
-partner-api
 partnerportal
 partners
 partnerships
@@ -6700,6 +6694,7 @@ passion
 passport
 password
 passwordreset
+passwords
 paste
 pat
 patch
@@ -6734,6 +6729,7 @@ pdb
 pdc
 pdf
 pdm
+pdp
 pds
 pe
 peace
@@ -6870,7 +6866,6 @@ placement
 places
 plan
 planet
-planeta
 planner
 planning
 plant
@@ -6893,6 +6888,7 @@ plm
 plone
 plugin
 plugins
+plum
 plus
 pluto
 pm
@@ -7070,7 +7066,6 @@ programs
 progress
 project
 projecten
-projectmanagement
 projects
 prom
 prometheus
@@ -7155,7 +7150,6 @@ punk
 pup
 puppet
 puppetmaster
-puppy
 purchase
 purchasing
 pure
@@ -7404,6 +7398,7 @@ render
 renew
 rent
 rentals
+rente
 rep
 repair
 replay
@@ -7511,7 +7506,6 @@ robin
 robot
 robotics
 robots
-roc
 rochester
 rock
 rocket
@@ -7532,6 +7526,7 @@ roman
 romania
 rome
 romeo
+romulus
 ron
 rondreizen
 room
@@ -7568,7 +7563,6 @@ rpt
 rr
 rs
 rs1
-rs2
 rsa
 rsc
 rsm
@@ -7659,6 +7653,7 @@ sae
 safari
 safe
 safety
+saffron
 saga
 sage
 sagepub
@@ -7751,6 +7746,7 @@ schaatsen
 schagen
 schedule
 scheduler
+scheduling
 schema
 schemas
 schiedam
@@ -7821,6 +7817,7 @@ search-dev
 searchportal
 searchportal-dev
 searchportal-qa
+seas
 seat
 seattle
 sebastian
@@ -7924,6 +7921,7 @@ settings
 setup
 sevastopol
 seven
+sever
 severodvinsk
 sex
 sexcam
@@ -7961,7 +7959,6 @@ sharp
 she
 shell
 shemale
-shepherd
 sheriff
 sherlock
 shib
@@ -8046,7 +8043,6 @@ sitecore
 sitemap
 sitemaps
 sites
-sitesearch
 six
 sj
 sjc
@@ -8132,7 +8128,6 @@ smtp-out
 smtpout
 smtp-relay
 smtps
-smx
 sn
 snake
 snap
@@ -8300,7 +8295,6 @@ srv1
 srv2
 srv3
 srv4
-srv5
 ss
 ss1
 ssa
@@ -8403,6 +8397,7 @@ stellar
 stem
 step
 stephanie
+sterling
 sterlitamak
 steve
 steven
@@ -8411,7 +8406,6 @@ stg1
 stg2
 sti
 sticker
-sting
 stingray
 stitch
 stk
@@ -8620,6 +8614,7 @@ taurus
 tax
 taxi
 taylor
+taz
 tb
 tbc
 tbs
@@ -8702,7 +8697,6 @@ test17
 test2
 test20
 test22
-test23
 test3
 test4
 test5
@@ -8755,7 +8749,6 @@ th
 thai
 thailand
 thales
-thankyou
 thanos
 thc
 the
@@ -8805,6 +8798,7 @@ timesheet
 timetable
 tin
 tina
+tintin
 tiny
 tip
 tips
@@ -8842,6 +8836,7 @@ tokyo
 toledo
 tolyatti
 tom
+tomato
 tomcat
 tommy
 tomsk
@@ -8934,6 +8929,7 @@ tri
 trial
 trials
 tribunale
+trident
 trigger
 trinity
 trio
@@ -9224,6 +9220,7 @@ venlo
 venray
 venture
 venus
+ver
 vera
 verbouwen
 verbouwing
@@ -9448,6 +9445,7 @@ war
 warehouse
 warez
 warp
+warranty
 warren
 warriors
 was
@@ -9505,6 +9503,7 @@ webapp
 webapps
 webapps-common
 webauth
+webcache
 webcam
 webcams
 webcamsex
@@ -9515,6 +9514,7 @@ webcon
 webconf
 webdav
 webdesign
+web-dev
 webdev
 webdisk
 webeoc
@@ -9559,7 +9559,6 @@ websrv
 webstats
 webster
 webstore
-websvn
 webtest
 webtools
 webtrac
@@ -9698,6 +9697,7 @@ wowza
 woz
 wp
 wp1
+wp2
 wpad
 wpc
 wps

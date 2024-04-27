@@ -78,6 +78,7 @@ ar
 arc
 archief
 archive
+archives
 art
 artifactory
 as
@@ -680,6 +681,7 @@ pp
 pr
 prd
 pre
+pre-prod
 preprod
 press
 preview
@@ -798,7 +800,6 @@ sms
 smtp
 smtp1
 smtp2
-smtp3
 so
 social
 software
@@ -923,7 +924,6 @@ vn
 voice
 voip
 volgograd
-voronezh
 vote
 vpn
 vpn1

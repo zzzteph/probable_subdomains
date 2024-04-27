@@ -17,7 +17,6 @@ cms
 co
 com
 console
-content
 cpanel
 dashboard
 data
@@ -85,6 +84,7 @@ static
 stg
 support
 test
+test1
 test2
 uat
 uk

@@ -35,6 +35,7 @@
 129
 13
 130
+131
 132
 133
 134
@@ -73,6 +74,7 @@
 168
 169
 17
+171
 172
 173
 174
@@ -224,7 +226,6 @@
 a1
 a2
 aa
-ab
 abc
 ac
 acc
@@ -264,7 +265,6 @@ api1
 api2
 api-dev
 apigw
-apim
 apis
 api-test
 apm
@@ -338,7 +338,6 @@ cache
 canary
 careers
 cas
-cat
 catalog
 cc
 ccc
@@ -421,6 +420,7 @@ devops
 dhcp
 dialin
 digital
+direct
 directory
 discovery
 dk
@@ -469,6 +469,7 @@ eu1
 eu-central-1
 europe
 eu-west-1
+eu-west-2
 event
 events
 example
@@ -504,6 +505,7 @@ gate
 gateway
 geo
 gis
+gist
 git
 github
 gitlab
@@ -515,7 +517,6 @@ gov
 grafana
 graph
 green
-grpc
 gw
 harbor
 health
@@ -528,6 +529,7 @@ home
 host
 hosting
 hostmaster
+hp
 hr
 http
 httpbin
@@ -540,6 +542,7 @@ idm
 idp
 ids
 ie
+ieee
 im
 image
 images
@@ -547,7 +550,6 @@ imap
 img
 ims
 in
-inbound
 influxdb
 info
 infra
@@ -593,6 +595,7 @@ lib
 library
 link
 links
+link-springer-com
 lists
 live
 lms
@@ -614,7 +617,6 @@ mail
 mail01
 mail1
 mail2
-mailserver
 main
 maintenance
 manage
@@ -640,6 +642,7 @@ metadata
 metrics
 mfa
 mgmt
+mi
 migration
 minio
 mirror
@@ -647,7 +650,6 @@ ml
 mm
 mobile
 mon
-mongo
 monitor
 monitoring
 moodle
@@ -706,7 +708,6 @@ o8
 o9
 oauth
 office
-oidc
 okta
 old
 one
@@ -718,7 +719,6 @@ orange
 order
 org
 origin
-os
 oss
 outlook
 owa
@@ -736,8 +736,8 @@ people
 perf
 ph
 photo
-php
 phpmyadmin
+pi
 pilot
 pl
 platform
@@ -805,7 +805,6 @@ research
 resources
 rest
 retail
-rev
 review
 ro
 root
@@ -830,6 +829,7 @@ sciencedirect
 scm
 se
 search
+search-ebscohost-com
 sec
 secure
 security
@@ -912,9 +912,9 @@ testing
 th
 tickets
 tls
-tms
 token
 tools
+tp
 tr
 tracker
 tracking
@@ -950,17 +950,17 @@ us-west-2
 v1
 v10
 v2
+v3
 va
 vault
-vc
 verify
 video
-videos
 view
 vip
 vm
 voice
 vpn
+vpn2
 wap
 weather
 web

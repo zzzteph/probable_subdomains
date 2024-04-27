@@ -67,6 +67,7 @@ ar
 arc
 archief
 archive
+archives
 art
 as
 asia
@@ -525,7 +526,6 @@ marketplace
 mars
 master
 math
-matrix
 maven
 mc
 mdm
@@ -646,6 +646,7 @@ penza
 people
 perm
 ph
+phoenix
 photo
 photos
 php
@@ -787,7 +788,6 @@ slovari
 sm
 smart
 smetrics
-smolensk
 sms
 smtp
 smtp1
@@ -944,7 +944,6 @@ webmaster
 webservices
 webshop
 website
-websitewww
 webwinkel
 welcome
 wenku
@@ -972,6 +971,7 @@ ww25
 ww38
 ww5
 ww6
+ww7
 www
 www1
 www2

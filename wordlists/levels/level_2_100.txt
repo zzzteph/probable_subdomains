@@ -31,6 +31,7 @@ email
 en
 es
 forum
+fr
 ftp
 git
 gitlab
@@ -66,7 +67,6 @@ o1
 old
 org
 origin
-owa
 pages
 pop
 portal

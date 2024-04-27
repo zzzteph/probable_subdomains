@@ -42,7 +42,8 @@
 69
 75
 76
-80
+78
+89
 98
 a1
 a2
@@ -112,6 +113,7 @@ apple
 apply
 apps
 ar
+arc
 archive
 argocd
 art
@@ -147,6 +149,7 @@ bd
 be
 beheer
 beta
+bg
 bi
 billing
 bitbucket
@@ -226,7 +229,6 @@ console
 consul
 contact
 content
-contentbeheer
 control
 core
 corp
@@ -493,7 +495,6 @@ localhost
 log
 login
 logs
-loki
 lp
 ls
 lt
@@ -541,6 +542,7 @@ meeting
 member
 members
 mercury
+meta
 metrics
 mfa
 mgmt
@@ -933,6 +935,7 @@ vc
 vcenter
 vdi
 vendor
+vendors
 verify
 vi
 video
@@ -948,6 +951,7 @@ vpn
 vpn1
 vpn2
 w3
+wa
 wap
 weather
 web
@@ -957,7 +961,6 @@ web2
 web3
 webapp
 webapps
-webapps-common
 webcon
 webconf
 webdev
@@ -970,7 +973,6 @@ welcome
 west
 whm
 whois
-widget
 wifi
 wiki
 wildcard
@@ -990,7 +992,6 @@ www2
 www3
 www4
 www5
-www6
 www-dev
 www-test
 wwww
@@ -999,4 +1000,3 @@ yahoo
 zabbix
 zaken
 zeus
-zh

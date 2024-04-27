@@ -133,7 +133,6 @@ calendar
 campaign
 campaigns
 campus
-canada
 card
 career
 careers
@@ -559,7 +558,6 @@ ms
 msk
 msn
 mt
-mta.email
 mta-sts
 mta-sts.mail
 murmansk
@@ -776,6 +774,7 @@ sitemaps
 sites
 sk
 sl
+sli
 slovari
 sm
 smart
@@ -920,6 +919,7 @@ vpn2
 vps
 w3
 waarmerk
+wallet
 wap
 weather
 web

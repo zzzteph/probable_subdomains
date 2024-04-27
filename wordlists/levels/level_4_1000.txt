@@ -257,6 +257,7 @@
 99
 a1
 aa
+abo
 about
 ac
 academic
@@ -288,7 +289,6 @@ alertmanager
 all
 alpha
 alt
-alumni
 am
 ams
 analytics
@@ -339,6 +339,7 @@ autodiscover
 avito
 aws
 az
+azure
 b2b
 backbone
 backend
@@ -359,9 +360,10 @@ blogs
 blue
 bmj
 bo
+book
 box
 br
-bt
+brillonline
 build
 business
 c1
@@ -376,6 +378,7 @@ cart
 cas
 cat
 catalog
+cb
 cc
 cd
 cdn
@@ -389,7 +392,6 @@ chat
 checkout
 chef
 ci
-cicd
 click
 client
 clients
@@ -412,7 +414,6 @@ connect
 console
 console-openshift-console
 consul
-consumer
 content
 control
 core
@@ -500,6 +501,7 @@ emea
 en
 eng
 engine
+engineering
 enterprise
 es
 eu
@@ -533,7 +535,6 @@ free
 front
 frontend
 fs
-ft
 ftp
 fusion
 fw
@@ -684,7 +685,6 @@ mtls
 muse
 music
 mx
-mx01
 mx1
 mx2
 my
@@ -717,7 +717,6 @@ nz
 o1
 o2
 oauth
-oauth2
 oed
 office
 oidc
@@ -727,10 +726,11 @@ on
 one
 online
 onlinelibrary
-operations
+op
 ops
 or
 order
+orders
 org
 origin
 outlook
@@ -752,6 +752,7 @@ perf
 pgadmin
 ph
 php
+phpmyadmin
 pilot
 pl
 platform
@@ -828,7 +829,6 @@ retail
 rev
 rp
 rs
-rsc
 rss
 ru
 s1
@@ -915,7 +915,6 @@ telemetry
 teleport
 temp
 test
-test01
 test1
 test2
 test3
@@ -983,6 +982,7 @@ webproxy
 website
 west
 whm
+widgets
 wiki
 wildcard
 wiley

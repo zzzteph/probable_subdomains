@@ -289,7 +289,6 @@ alb
 albuquerque
 alertmanager
 alerts
-all
 alpha
 am
 an
@@ -317,7 +316,6 @@ app2
 app3
 app4
 apple
-applications
 apps
 ap-south-1
 ap-southeast-1
@@ -325,7 +323,6 @@ ap-southeast-2
 ar
 arcade
 archive
-argo
 argocd
 artifactory
 as
@@ -388,6 +385,7 @@ calendar
 callback
 canary
 card
+cat
 catalog
 cb
 cc
@@ -419,6 +417,7 @@ code
 com
 community
 comwww
+con
 conf
 config
 confluence
@@ -473,6 +472,7 @@ dewww
 dex
 df
 dhcp
+dictionary
 digital
 dir
 direct
@@ -526,7 +526,6 @@ example
 ext
 external
 f5
-factory
 falcon
 fbx
 fd
@@ -771,9 +770,11 @@ perf
 pgadmin
 ph
 php
+phpmyadmin
 pilot
 pink
 pl
+platform
 play
 poc
 pool
@@ -784,6 +785,7 @@ pp
 ppe
 prd
 pre
+pre-prod
 preprod
 preview
 private
@@ -863,7 +865,6 @@ server
 service
 services
 sf
-sfr
 sg
 shadow
 shared
@@ -919,13 +920,13 @@ testapp
 testing
 tests
 th
+thanos
 the
 tky
 tm
 to
 toolbar
 tools
-tpe
 tr
 traefik
 training
@@ -958,7 +959,6 @@ us-west-2
 v1
 v10
 v2
-v4
 vaccine
 vault
 video
@@ -970,7 +970,6 @@ wap
 weather
 web
 web1
-webapi
 webapp
 webdisk
 webhook
@@ -989,6 +988,7 @@ wordpress
 workflow
 ws
 ww
+ww16
 www
 www1
 www2
