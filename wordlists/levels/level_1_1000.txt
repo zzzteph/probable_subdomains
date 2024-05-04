@@ -7,7 +7,6 @@
 222
 3d
 3g
-aa
 aaa
 aanmelden
 abc
@@ -621,6 +620,7 @@ ops
 opwww
 order
 orders
+orel
 orenburg
 org
 origin
@@ -646,7 +646,6 @@ penza
 people
 perm
 ph
-phoenix
 photo
 photos
 php
@@ -788,6 +787,7 @@ slovari
 sm
 smart
 smetrics
+smolensk
 sms
 smtp
 smtp1

@@ -425,6 +425,7 @@ irkutsk
 is
 it
 ivanovo
+izhevsk
 ja
 jaarverslag
 jenkins
@@ -774,7 +775,6 @@ sitemaps
 sites
 sk
 sl
-sli
 slovari
 sm
 smart

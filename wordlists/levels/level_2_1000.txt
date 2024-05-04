@@ -33,16 +33,19 @@
 38
 40
 41
+43
 44
 45
 50
 52
 55
+56
 66
 69
 75
 76
 78
+80
 89
 98
 a1
@@ -807,7 +810,6 @@ si
 sidney
 signin
 signup
-sim
 sip
 sit
 site
@@ -871,7 +873,6 @@ sys
 system
 sz
 t1
-t2
 tableau
 tc
 team
@@ -951,7 +952,6 @@ vpn
 vpn1
 vpn2
 w3
-wa
 wap
 weather
 web

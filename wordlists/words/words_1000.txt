@@ -388,7 +388,6 @@ hostmaster
 hotel
 hotels
 house
-hq
 hr
 http
 httpwww
@@ -529,7 +528,6 @@ marketplace
 mars
 master
 math
-matrix
 maven
 mc
 mdm
@@ -800,6 +798,7 @@ sms
 smtp
 smtp1
 smtp2
+smtp3
 so
 social
 software
@@ -924,6 +923,7 @@ vn
 voice
 voip
 volgograd
+voronezh
 vote
 vpn
 vpn1

@@ -265,6 +265,7 @@ api1
 api2
 api-dev
 apigw
+apim
 apis
 api-test
 apm
@@ -386,6 +387,7 @@ cp
 cpanel
 cpcalendars
 cpcontacts
+cps
 cr
 crm
 cs
@@ -719,6 +721,7 @@ orange
 order
 org
 origin
+os
 oss
 outlook
 owa
@@ -829,7 +832,6 @@ sciencedirect
 scm
 se
 search
-search-ebscohost-com
 sec
 secure
 security
@@ -960,14 +962,12 @@ vip
 vm
 voice
 vpn
-vpn2
 wap
 weather
 web
 web1
 web2
 webapp
-webconf
 webdisk
 webhook
 webhooks
