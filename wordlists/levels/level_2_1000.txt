@@ -334,6 +334,7 @@ enterpriseregistration
 erp
 es
 eu
+europe
 eu-west-1
 event
 events
@@ -498,6 +499,7 @@ localhost
 log
 login
 logs
+loki
 lp
 ls
 lt
@@ -545,7 +547,6 @@ meeting
 member
 members
 mercury
-meta
 metrics
 mfa
 mgmt
@@ -694,7 +695,6 @@ pma
 poc
 pop
 pop3
-portainer
 portal
 portfolio
 post

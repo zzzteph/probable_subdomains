@@ -342,7 +342,6 @@ adblockplus
 adc
 adcweb
 add
-addicted
 addons
 address
 addthis
@@ -763,6 +762,7 @@ api.staging
 api-test
 api.test
 apitest
+api-uat
 api.uat
 apk
 apl
@@ -3196,6 +3196,7 @@ emea
 emerald
 emergency
 emg
+emi
 eminem
 eml
 emm
@@ -4204,7 +4205,6 @@ hh
 hi
 hidden
 hifi
-hikari
 hilfe
 hillegom
 hilversum
@@ -4901,7 +4901,6 @@ kan
 kane
 kanker
 kansas
-kansascity
 kansk
 kansspelen
 kantoor
@@ -5651,7 +5650,6 @@ mat
 match
 math
 maths
-matilda
 matomo
 matrix
 matt
@@ -6032,6 +6030,7 @@ mtg
 mts
 mtv
 mu
+muller
 multi
 multimedia
 multimedia.email
@@ -6158,6 +6157,7 @@ ncc
 ncs
 nct
 nd
+ndes
 nds
 ne
 nebraska
@@ -8743,6 +8743,7 @@ tholen
 thomas
 thor
 thread
+three
 thuis
 thuiswerk
 thuiswerken
@@ -8966,7 +8967,6 @@ tuning
 tunnel
 turbo
 turing
-turismo
 turizm
 turkey
 turkije

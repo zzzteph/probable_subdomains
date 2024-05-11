@@ -314,6 +314,7 @@ bbs
 bc
 be
 beta
+bg
 bi
 billing
 bitbucket
@@ -597,7 +598,6 @@ lib
 library
 link
 links
-link-springer-com
 lists
 live
 lms
@@ -652,6 +652,7 @@ ml
 mm
 mobile
 mon
+mongo
 monitor
 monitoring
 moodle
@@ -725,7 +726,6 @@ os
 oss
 outlook
 owa
-owncloud
 p1
 pa
 pages
@@ -740,12 +740,12 @@ perf
 ph
 photo
 phpmyadmin
-pi
 pilot
 pl
 platform
 play
 playground
+pm
 poc
 pop
 pop3

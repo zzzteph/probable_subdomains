@@ -442,7 +442,6 @@ demo
 demo1
 demo2
 deploy
-desktop
 dev
 dev01
 dev02
@@ -468,6 +467,7 @@ dns1
 doc
 docker
 docs
+documents
 doi
 download
 downloads
@@ -603,7 +603,6 @@ ip4
 ipv4
 is
 it
-jaeger
 jenkins
 jhu
 jira
@@ -915,6 +914,7 @@ telemetry
 teleport
 temp
 test
+test01
 test1
 test2
 test3

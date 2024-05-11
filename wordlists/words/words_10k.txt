@@ -951,6 +951,7 @@ argocd
 argon
 argos
 argus
+arh
 arhangelsk
 ari
 aria
@@ -5705,6 +5706,7 @@ mercedes
 merch
 merchandising-preview
 merchant
+merchants
 mercury
 meridian
 merlin
@@ -5995,6 +5997,7 @@ mtest
 mtg
 mtls
 mtn
+mtp
 mts
 mtv
 mu
@@ -6051,7 +6054,6 @@ myadmin
 myapps
 mydesktop
 mydev
-mydevices
 myfiles
 myhome
 myhr
@@ -6953,6 +6955,7 @@ portal1
 portal2
 portal3
 portal-dev
+portaldev
 portals
 portal-test
 portaltest
@@ -7819,7 +7822,6 @@ searchportal-dev
 searchportal-qa
 seat
 seattle
-sebastian
 sec
 secmail
 second
@@ -9355,7 +9357,6 @@ volgodonsk
 volgograd
 volkswagen
 vologda
-volta
 voltage-pp-0000
 voltage-ps-0000
 volunteer
@@ -9644,7 +9645,6 @@ wintersport
 winterswijk
 wip
 wire
-wired
 wireless
 wis
 wisconsin

@@ -9,13 +9,13 @@
 00000000
 000001
 000005
-00000-okta-idp00000-okta-idp.sso.prod
 00000-okta-idp.autoconfig.dev.sso.prod
 00000-okta-idp.icorona.sso.app-west
 00001
 0001
 0002
 0003
+0004
 0005
 0007
 000777hardware
@@ -2055,6 +2055,7 @@
 320kbpsinfo
 321
 3210
+3216
 321fulldownload
 322
 3222
@@ -3638,6 +3639,7 @@ aaca
 aacc
 aacd
 aachen
+aaci
 aaclage
 aaco
 aacr
@@ -4873,7 +4875,6 @@ acumen
 acunetix
 acupressure
 acupuncture
-acupuncturist
 acupunctuur
 acupunctuur-praktijken
 acura
@@ -6225,7 +6226,6 @@ aiaa
 aiac
 aiai
 aiaiai
-ai-api
 aias
 aib
 aiba
@@ -6338,7 +6338,6 @@ aipc
 aipl
 aipmm
 aiportal
-aips
 aipt
 aiq
 aiq-in
@@ -6973,6 +6972,7 @@ alert
 alert1
 alert2
 alerta
+alerte
 alerte-antivirus
 alerting
 alertlogic
@@ -9432,7 +9432,6 @@ api.cc
 api-cdn
 api.chat
 api.checkout
-api-ci
 api.ci
 apiclient
 api-cloud
@@ -9566,7 +9565,6 @@ apim.uswest2
 api.my
 api.myaccount
 apin
-api.na
 api-new
 api.new
 api-new.browser
@@ -10410,6 +10408,7 @@ area52
 area69
 areaclienti
 areal
+areax
 arec
 areca
 arecibo
@@ -11510,7 +11509,6 @@ atheism
 atheisme
 atheist
 athena
-athena.dev
 athenahealth
 athene
 athens
@@ -13384,7 +13382,6 @@ back-office
 backoffice
 backoffice2
 backoffice-api
-backoffice.dev
 backoffice-staging
 backoffice.staging
 backoffice-test
@@ -16348,6 +16345,7 @@ bitrix
 bitrix2
 bitrix24
 bits
+bitshare
 bitso
 bitstream
 bitt
@@ -18159,6 +18157,7 @@ breinbrekers
 breipatronen
 brelok
 brem
+brembo
 bremen
 bremer
 bren
@@ -19589,7 +19588,6 @@ calibre
 calico
 calidad
 caliente
-calif
 california
 californication
 californie
@@ -20054,6 +20052,7 @@ careersdev
 careersearch
 career-services
 careerservices
+careershub
 careersite
 careers-qa
 careers-staging
@@ -22663,7 +22662,6 @@ clientaccess
 client-api
 clientarea
 clientauth
-clientcare
 cliente
 clientele
 clientenportaal
@@ -24544,7 +24542,6 @@ couvade-syndrome
 couveuse
 cov
 cova
-covalent
 cove
 coven
 covenant
@@ -25527,6 +25524,7 @@ cucina
 cuckold
 cuckoo
 cucm
+cucm2
 cucumber
 cud
 cuda
@@ -27385,6 +27383,7 @@ demeter
 demetra
 demi
 demian
+demic
 demid
 demidov
 demigod
@@ -28218,7 +28217,6 @@ dev-services
 dev.services
 devservices
 dev.services-store
-dev.sg
 dev-shop
 dev.shop
 devshop
@@ -28621,6 +28619,7 @@ differential
 diffusion
 diflucan
 dig
+diga
 digest
 digg
 digger
@@ -31278,7 +31277,6 @@ e-com
 ecom
 ecom1
 ecom2
-ecomapi
 ecomare
 ecomi
 ecomm
@@ -32357,6 +32355,7 @@ email.newsletter
 email.notifications
 email.prco
 emailpreferences
+email.prod
 emailquarantine
 email.recruiting
 emails
@@ -32703,6 +32702,7 @@ eng
 eng01
 eng1
 engage
+engage1
 engaged
 engage-dev
 engagement
@@ -34154,6 +34154,7 @@ exorcist
 exoten
 exotic
 exotica
+exotics
 exotischeproducten
 exotisch-koken
 exp
@@ -37589,7 +37590,6 @@ galerias
 galerie
 galeries
 galerij
-gales
 galex
 galich
 galil
@@ -40020,7 +40020,6 @@ grafana.corp
 grafana.data
 grafana-dev
 grafana.dev
-grafana.gcp
 grafana.infra
 grafana.internal
 grafana.k8s
@@ -43777,6 +43776,7 @@ hph
 hpi
 hpl
 hpm
+hp.mobileweb
 hp.my
 hpo
 hponline
@@ -43964,7 +43964,6 @@ huayuan
 hub
 hub1
 hub2
-hub-api
 hubble
 hubbub
 hub-dev
@@ -44657,6 +44656,7 @@ icf
 icg
 ich
 icha
+ichannel
 ichat
 ichi
 ichiban
@@ -45192,6 +45192,7 @@ illy
 ilm
 ilmi
 ilms
+ilmt
 iln
 ilo
 iloapp
@@ -45365,6 +45366,7 @@ imap.app
 imap.corp
 imap.cs
 imap.exchange
+im-api
 imap-mail
 imap.mail
 imapmail
@@ -46012,6 +46014,7 @@ innovations
 innovative
 innovators
 innovo
+innsbruck
 ino
 inori
 inos
@@ -46276,7 +46279,6 @@ internal.dev
 internaljobs
 internal-services
 internal.staging
-internaltools
 internat
 internationaal
 international
@@ -46531,6 +46533,7 @@ inxs
 inz
 inza
 inzenden
+inzer
 inzicht
 inzicht-marketing
 io
@@ -47387,7 +47390,6 @@ jachthaven
 jachthavens
 jachthonden
 jachtmakelaars
-jacinto
 jack
 jackal
 jackass
@@ -49187,6 +49189,7 @@ katherine
 kathleen
 kathmandu
 katholiek
+kathryn
 kathy
 kati
 katia
@@ -50435,6 +50438,7 @@ koji
 kok
 koka
 koken
+kokhma
 kokkerellen
 koko
 kokomo
@@ -51908,7 +51912,6 @@ lbs
 lbs01
 lbs02
 lbt
-lb-test
 lbtest
 lbu
 lbusd
@@ -52428,6 +52431,7 @@ letsmeet
 letsplay
 letstalk
 letstest
+lette
 lettelbert
 lettele
 letter
@@ -52801,6 +52805,7 @@ likino-dulevo
 lil
 lila
 lilac
+lile
 lili
 lilian
 liliana
@@ -53010,6 +53015,7 @@ linux.tucows
 linx
 linxia
 linyi
+linz
 linzhi
 lio
 lioessens
@@ -53147,7 +53153,6 @@ livecasino
 livecasinos
 live.cbachina
 livecdn
-live-chat
 live.chat
 livechat
 livechat1
@@ -53557,6 +53562,7 @@ logist
 logistic
 logistica
 logistics
+logistics-extern-preprod
 logistiek
 logistik
 logitech
@@ -54833,7 +54839,6 @@ mailadmin
 mail.administratie
 mail.ads
 mail.ag
-mailagent
 mail.agri
 mail.alerts
 mail.alumni
@@ -54858,7 +54863,6 @@ mail.au
 mailauth
 mail.av8d
 mail.avcome
-mail.az
 mailb
 mailbackup
 mail.beheer
@@ -55035,6 +55039,7 @@ mailing2
 mailinglist
 mailinglists
 mailings
+mail.innovation
 mailint
 mail.intern
 mail.internal
@@ -55997,7 +56002,6 @@ martinus
 marty
 martynov
 maru
-maruchan
 marum
 marusia
 marussia
@@ -56584,7 +56588,6 @@ medc
 meddo
 medea
 meded
-medellin
 medemblik
 medewerker
 medewerkers
@@ -56809,6 +56812,7 @@ meet.corp
 meet.dev
 meetic
 meeting
+meeting1
 meeting2
 meetingplace
 meetingpoint
@@ -57944,6 +57948,7 @@ mirka
 mirkwood
 mirniy
 mirns
+mirny
 mirnyj
 mirnyy
 miro
@@ -58305,7 +58310,6 @@ mobilebeta
 mobile.blog
 mobilecasino
 mobile-cdn
-mobile.cloud
 mobilecms
 mobileconnect
 mobilecontent
@@ -58340,7 +58344,6 @@ mobilephone
 mobilephones
 mobileportal
 mobileprint
-mobile.prod
 mobile-qa
 mobile.qa
 mobileqa
@@ -59778,7 +59781,6 @@ mutant
 mutation
 mute
 muts
-mutt
 muttley
 mutual
 mutualfund
@@ -60809,7 +60811,6 @@ nato
 nat-pool
 natres
 natriumchloride
-natron
 nats
 natschool
 natsu
@@ -63074,6 +63075,7 @@ nyl
 nylon
 nylonsex
 nyls
+nym
 nynke
 nyp
 nypl
@@ -63786,6 +63788,7 @@ olms
 olo
 olo2olo
 ololo
+olomouc
 olonec
 olonets
 olp
@@ -63872,7 +63875,6 @@ omnia
 omnibus
 omnic
 omnichannel
-omnis
 omniture
 omo
 omoda
@@ -64057,6 +64059,7 @@ onion
 onix
 onk
 onlime
+onlin
 on-line
 online
 online1
@@ -64648,7 +64651,6 @@ opslagruimte
 opslag-startpagina
 opsmail
 opss
-ops-staging
 opstalverzekering
 opstap
 opsterland
@@ -64837,7 +64839,6 @@ origin1
 origin1-www
 origin2
 origin2-www
-origin3
 origin3-www
 original
 originals
@@ -64871,7 +64872,6 @@ origin-mobile
 origin-music
 origin-my
 origin.my
-origin-perf
 origin-preprod
 origin-preview
 origin-prod
@@ -66779,6 +66779,7 @@ persoonlijkeontwikkeling
 persoonlijke-verzorging
 persoonlijkheidsstoornis
 perspectief
+perspectiva
 perspective
 perspectives
 perth
@@ -68959,7 +68960,6 @@ profil
 profile
 profile-api
 profile-dev
-profile.dev
 profileedit
 profileimages
 profiler
@@ -69385,7 +69385,6 @@ ptax
 ptb
 pt-br
 ptc
-ptcl
 ptd
 pte
 ptech
@@ -69600,7 +69599,6 @@ push-api
 push.api
 pushapi
 pushchino
-push-dev
 push.dev
 pusher
 pushgateway
@@ -69777,7 +69775,6 @@ qaapi
 qa.app
 qa.apps
 qa-auth
-qaauth
 qa.aws
 qab
 qa-backissues
@@ -69879,7 +69876,6 @@ qcs
 qct
 qd
 qdance
-qdc
 qdm
 qe
 qec
@@ -71492,6 +71488,7 @@ renta
 rentacar
 rental
 rental-account.hubportal
+rental-account.partnercentral
 rentalcars
 rentals
 rente
@@ -71980,7 +71977,6 @@ ridesafe
 rideshare
 ridewith
 ridge
-ridgeline
 rie
 ried
 riel
@@ -72499,6 +72495,7 @@ romantik
 romario
 romashka
 rome
+romee
 romein
 romeinen
 romeinse-tijd
@@ -74593,6 +74590,7 @@ sdu
 sdv
 sdw
 sdwan
+sdworx
 sdx
 sdxl
 se
@@ -77357,7 +77355,6 @@ smartphonehoesjes
 smartphone-pagina
 smartphones
 smartportal
-smartr
 smartrecruiters
 smarts
 smartservice
@@ -77860,6 +77857,7 @@ socios
 socium
 socius
 socket
+socket2
 sockets
 socket.staging
 socks
@@ -79347,7 +79345,6 @@ staging.learn
 staging-login
 staging-m
 staging.magento
-staging-master
 staging-mijn
 staging.mijn
 staging.mobile
@@ -79355,6 +79352,7 @@ staging-my
 staging.my
 staging-new
 staging.new
+staging-old
 staging.partners
 staging.platform
 staging-portal
@@ -79603,7 +79601,6 @@ static
 static0
 static-01
 static01
-static-02
 static02
 static03
 static04
@@ -80375,6 +80372,7 @@ stukadoors
 stukadoorsbedrijf
 stumail
 stun
+stupeni
 stupid
 stupidity
 stupino
@@ -81496,7 +81494,9 @@ tapi
 tapijt
 tapijten
 tapir
+tapit
 tapp
+tapps
 taps
 taptap
 tar
@@ -82252,7 +82252,6 @@ test2
 test20
 test2019
 test2020
-test2021
 test21
 test22
 test222
@@ -85342,6 +85341,7 @@ ubezpieczenia
 ubi
 ubik
 ubiquitous
+ubiquity
 ubisoft
 ubl
 ubm
@@ -85453,6 +85453,7 @@ udomlya
 udp
 udr
 uds
+udw
 ue
 ue1
 uea
@@ -86869,7 +86870,6 @@ vau
 vauban
 vaucluse
 vault
-vault1
 vault2
 vault.api
 vault.app
@@ -88797,6 +88797,7 @@ vpn-ext
 vpngate
 vpn.gslb
 vpngw
+vpngw1
 vpn-in
 vpn.in
 vpn.int
@@ -89248,7 +89249,6 @@ w5
 w50
 w6
 w7
-w7w
 w8
 w88
 w9
@@ -89380,6 +89380,7 @@ wallet-acc
 wallet-api
 wallet-dev
 wallet-staging
+wallet-test
 wallie
 wallis
 wallonie
@@ -95219,7 +95220,6 @@ webmail.beta
 webmailbeta
 webmail.blog
 webmail.business
-webmail.ca
 webmail.careers
 webmail.cdn
 webmail.chem
@@ -96154,7 +96154,6 @@ wiki.api
 wiki.app
 wiki.blog
 wiki.chem
-wiki.cloud
 wiki.corp
 wiki.cs
 wiki-dev
@@ -96187,7 +96186,6 @@ wild
 wildandfree
 wildcard
 wildcard.cdn
-wildcard.cloud
 wildcat
 wildcats
 wilde
@@ -97737,7 +97735,6 @@ wwwcache
 www-cdn
 wwwcdn
 www-cf
-wwwcf
 wwwchat
 www-cityhome
 www-cmpupdate
@@ -98111,6 +98108,7 @@ www-training
 www-ts
 www-tst
 wwwtst
+www-u
 www-uat
 wwwuat
 www-uat2
@@ -98153,6 +98151,7 @@ wymbritseradiel
 wyndham
 wyns
 wyoming
+wys
 wytgaard
 wyvern
 wyw
@@ -98804,6 +98803,7 @@ yokohama
 yokota
 yola
 yolanda
+yolanthe
 yoli
 yolo
 yongzhou

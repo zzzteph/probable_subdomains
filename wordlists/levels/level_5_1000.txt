@@ -303,7 +303,6 @@ apache
 api
 api1
 api2
-api3
 apigw
 api-proxy
 apm
@@ -314,7 +313,6 @@ app
 app1
 app2
 app3
-app4
 apple
 apps
 ap-south-1
@@ -630,6 +628,7 @@ it
 jama
 java
 jb
+jcr
 je
 jenkins
 jira
@@ -847,6 +846,7 @@ rm
 rss
 ru
 s1
+s2s
 s3
 sa
 sandbox
@@ -911,7 +911,6 @@ system
 temp
 test
 test1
-test-2
 test2
 test22
 test3
@@ -936,6 +935,7 @@ ts
 tst
 tw
 tx
+ua
 uaa
 uat
 uat1
