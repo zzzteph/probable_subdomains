@@ -2,7 +2,6 @@
 000
 00000-okta-idp
 001
-008-okta-ops
 01
 02
 03
@@ -357,6 +356,7 @@ billing
 biz
 blog
 blogs
+blogspot
 blue
 bmj
 bo
@@ -452,6 +452,7 @@ dev4
 dev5
 develop
 developer
+developers
 development
 devops
 dex
@@ -555,7 +556,6 @@ gov
 gr
 grafana
 graph
-graylog
 green
 grpc
 gw
@@ -845,6 +845,7 @@ sciencemag
 scitation
 scm
 se
+sea
 search
 secure
 security
@@ -965,7 +966,6 @@ video
 view
 vip
 virus
-vn
 vpn
 wap
 web

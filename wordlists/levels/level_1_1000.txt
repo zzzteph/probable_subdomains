@@ -360,6 +360,7 @@ hello
 help
 helpdesk
 hh
+hi
 history
 hk
 home
@@ -492,6 +493,7 @@ login
 logs
 love
 lp
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -651,7 +653,6 @@ photos
 php
 phpmyadmin
 pic
-pilot
 piwik
 pki
 pl
@@ -732,7 +733,6 @@ reviews
 ro
 root
 rootsweb
-rostov
 rotterdam
 router
 rs

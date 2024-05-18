@@ -363,6 +363,7 @@ blob
 blog
 blogspot
 blue
+bo
 bob
 box
 br
@@ -421,6 +422,7 @@ config
 confluence
 connect
 console
+consumer
 content
 control
 core
@@ -433,7 +435,6 @@ cpcontacts
 cr
 crm
 cs
-csa
 css
 customer
 cv
@@ -472,7 +473,6 @@ df
 dhcp
 dictionary
 digital
-dir
 direct
 directory
 dk
@@ -514,7 +514,6 @@ eric
 es
 escan-anti-virus
 eset-nod32-antivirus
-et
 eu
 eu-central-1
 eu-west-1
@@ -699,6 +698,7 @@ monitoring
 mp
 mrw
 ms
+msg
 mt
 mta-sts
 mtls
@@ -718,6 +718,7 @@ new
 news
 next
 nexus
+ng
 nginx
 nl
 nlm
@@ -784,7 +785,6 @@ pp
 ppe
 prd
 pre
-pre-prod
 preprod
 preview
 private
@@ -838,6 +838,7 @@ report
 reporting
 reports
 repository
+res
 rest
 rev
 reverse
@@ -938,7 +939,6 @@ tx
 ua
 uaa
 uat
-uat1
 uat2
 ui
 uk

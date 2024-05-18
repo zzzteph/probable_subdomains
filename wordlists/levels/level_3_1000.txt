@@ -95,7 +95,6 @@
 194
 195
 196
-197
 198
 199
 20
@@ -145,7 +144,6 @@
 248
 249
 25
-250
 251
 252
 255
@@ -290,7 +288,6 @@ as
 asia
 assets
 at
-athena
 atlantis
 atlas
 au
@@ -349,6 +346,7 @@ central
 cert
 certauth
 cf
+cgi
 ch
 chat
 check
@@ -423,7 +421,6 @@ devops
 dhcp
 dialin
 digital
-direct
 directory
 discovery
 dk
@@ -545,7 +542,6 @@ idm
 idp
 ids
 ie
-ieee
 im
 image
 images
@@ -642,7 +638,6 @@ mercury
 messaging
 metadata
 metrics
-mfa
 mgmt
 mi
 migration
@@ -659,6 +654,7 @@ moodle
 mp
 mq
 ms
+msg
 mta
 mta2
 mta-sts
@@ -713,6 +709,7 @@ oauth
 office
 okta
 old
+onboarding
 one
 online
 onlinelibrary-wiley-com
@@ -735,6 +732,7 @@ pay
 payment
 payments
 pc
+pe
 people
 perf
 ph
@@ -745,7 +743,6 @@ pl
 platform
 play
 playground
-pm
 poc
 pop
 pop3
@@ -766,8 +763,10 @@ production
 profile
 projects
 prometheus
+promo
 proquest
 protection
+provisioning
 proxy
 ps
 pt
@@ -844,6 +843,7 @@ services
 sf
 sftp
 sg
+sgw
 sh
 share
 shared
@@ -902,7 +902,6 @@ t2
 tableau
 tandfonline
 team
-teleport
 temp
 test
 test1
@@ -962,6 +961,7 @@ vip
 vm
 voice
 vpn
+w3
 wap
 weather
 web

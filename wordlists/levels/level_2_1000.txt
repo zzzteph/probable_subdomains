@@ -572,7 +572,6 @@ mp
 mr
 ms
 msg
-mssql
 mt
 mta
 mta1
@@ -653,6 +652,7 @@ org
 origin
 origin-www
 orion
+os
 outlook
 owa
 pa
@@ -761,6 +761,7 @@ resources
 rest
 retail
 review
+rm
 rms
 ro
 root
@@ -795,7 +796,6 @@ selfservice
 sentry
 server
 server1
-servers
 service
 servicedesk
 services
@@ -873,6 +873,7 @@ sys
 system
 sz
 t1
+t2
 tableau
 tc
 team
@@ -936,7 +937,6 @@ vc
 vcenter
 vdi
 vendor
-vendors
 verify
 vi
 video
@@ -961,6 +961,7 @@ web2
 web3
 webapp
 webapps
+webapps-common
 webcon
 webconf
 webdev
@@ -993,7 +994,6 @@ www3
 www4
 www5
 www-dev
-www-test
 wwww
 xmpp
 yahoo

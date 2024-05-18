@@ -32,7 +32,6 @@
 216
 23
 39
-59
 69
 72
 81
@@ -51,6 +50,7 @@ beta
 blog
 cdn
 ci
+cloud
 cms
 co
 com

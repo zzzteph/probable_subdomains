@@ -211,6 +211,7 @@ cp
 cpanel
 cpcalendars
 cpcontacts
+cr
 crm
 cs
 cse
@@ -284,7 +285,6 @@ email
 emails
 ems
 en
-energy
 eng
 engage
 engineering
