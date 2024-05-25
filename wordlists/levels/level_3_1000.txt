@@ -42,7 +42,6 @@
 135
 137
 138
-139
 14
 140
 141
@@ -124,7 +123,6 @@
 225
 226
 227
-228
 229
 23
 230
@@ -737,6 +735,7 @@ people
 perf
 ph
 photo
+php
 phpmyadmin
 pilot
 pl
@@ -752,6 +751,7 @@ pp
 pr
 prd
 pre
+pre-prod
 preprod
 preview
 private
@@ -788,6 +788,7 @@ rds
 redbull
 redirect
 redmine
+ref
 reg
 register
 registration
@@ -994,7 +995,6 @@ www1
 www2
 www3
 www4
-www-sciencedirect-com
 www-test
 wwww
 yahoo

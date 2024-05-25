@@ -67,7 +67,6 @@ preview
 prod
 production
 prometheus
-proquest
 proxy
 public
 qa
@@ -86,6 +85,7 @@ static
 stg
 support
 test
+test2
 uat
 ui
 uk

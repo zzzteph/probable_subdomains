@@ -177,6 +177,7 @@ cn
 cname
 co
 code
+collab
 collab-edge
 com
 community
@@ -360,7 +361,6 @@ hello
 help
 helpdesk
 hh
-hi
 history
 hk
 home

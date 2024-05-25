@@ -521,7 +521,6 @@ mail1
 mail2
 mail3
 mail4
-mailhost
 mailserver
 main
 maintenance
@@ -810,6 +809,7 @@ si
 sidney
 signin
 signup
+sim
 sip
 sit
 site

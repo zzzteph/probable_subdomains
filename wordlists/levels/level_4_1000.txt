@@ -360,7 +360,6 @@ blogspot
 blue
 bmj
 bo
-book
 box
 br
 brillonline
@@ -386,7 +385,6 @@ cds
 cert
 certauth
 cf
-cgi
 ch
 chat
 checkout
@@ -712,7 +710,6 @@ ns1
 ns2
 ns3
 ns4
-nz
 o1
 o2
 oauth
@@ -758,6 +755,7 @@ platform
 play
 playground
 poc
+policy
 pop
 pop3
 portal
@@ -930,6 +928,7 @@ tr
 traefik
 train
 training
+transfer
 travel
 trial
 ts
@@ -981,6 +980,7 @@ webofknowledge
 webproxy
 website
 west
+westeurope
 whm
 widgets
 wiki

@@ -295,7 +295,6 @@ an
 anaheim
 analytics
 antivirus
-ao
 ap
 ap1
 apac
@@ -342,7 +341,7 @@ avira-free-antivirus
 avito
 aws
 az
-b1
+azure
 b2
 back
 backend
@@ -353,7 +352,6 @@ batch
 bb
 bbs
 bc
-bd
 be
 beta
 bf
@@ -361,6 +359,7 @@ billing
 bj
 blob
 blog
+blogs
 blogspot
 blue
 bo
@@ -405,7 +404,6 @@ client
 clients
 cloud
 cloudfront
-club
 cluster
 cm
 cms
@@ -465,12 +463,12 @@ dev3
 dev4
 develop
 developer
+developers
 development
 devops
 dewww
 dex
 df
-dhcp
 dictionary
 digital
 direct
@@ -478,7 +476,6 @@ directory
 dk
 dl
 dm
-dmz
 dns
 docker
 docs
@@ -516,6 +513,7 @@ escan-anti-virus
 eset-nod32-antivirus
 eu
 eu-central-1
+eus2
 eu-west-1
 eu-west-2
 events
@@ -646,6 +644,7 @@ kr
 la
 lab
 lb
+ldap
 legacy
 lib
 library
@@ -676,7 +675,7 @@ manage
 management
 manager
 maps
-mars
+market
 master
 mc
 mdm
@@ -718,7 +717,6 @@ new
 news
 next
 nexus
-ng
 nginx
 nl
 nlm
@@ -812,6 +810,7 @@ pubs
 qa
 qa1
 qa2
+qa4
 query
 queue
 r0
@@ -977,6 +976,7 @@ webhooks
 webmail
 webproxy
 west
+westeurope
 whoami
 wifi
 wiki
