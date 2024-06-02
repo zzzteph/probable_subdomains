@@ -362,7 +362,6 @@ blog
 blogs
 blogspot
 blue
-bo
 bob
 box
 br
@@ -420,7 +419,6 @@ config
 confluence
 connect
 console
-consumer
 content
 control
 core
@@ -430,7 +428,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cr
 crm
 cs
 css
@@ -662,7 +659,6 @@ log
 login
 logs
 loki
-london
 lt
 ly
 lyncdiscover
@@ -698,6 +694,7 @@ mp
 mrw
 ms
 msg
+mssql
 mt
 mta-sts
 mtls
@@ -713,6 +710,7 @@ nat
 ncbi
 ne
 net
+network
 new
 news
 next
@@ -838,6 +836,7 @@ reporting
 reports
 repository
 res
+research
 rest
 rev
 reverse
@@ -897,6 +896,7 @@ static
 stats
 status
 stg
+stg2
 storage
 store
 stream

@@ -34,7 +34,6 @@ feeds
 files
 forum
 ftp
-games
 go
 help
 home
@@ -77,6 +76,7 @@ search
 secure
 server
 service
+services
 shop
 sip
 smtp

@@ -28,7 +28,6 @@
 209
 21
 212
-215
 216
 23
 39
@@ -45,6 +44,7 @@ antivirus
 api
 app
 apps
+assets
 auth
 beta
 blog

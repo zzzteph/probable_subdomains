@@ -388,6 +388,7 @@ gp
 gr
 grafana
 green
+groups
 gs
 guest
 gui
@@ -499,7 +500,6 @@ localhost
 log
 login
 logs
-loki
 lp
 ls
 lt
