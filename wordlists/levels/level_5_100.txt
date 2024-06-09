@@ -26,7 +26,6 @@
 20
 204
 209
-21
 212
 216
 23
@@ -95,6 +94,7 @@ static
 stg
 test
 uat
+ui
 uk
 us
 us-east-1

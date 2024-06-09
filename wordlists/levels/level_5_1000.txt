@@ -356,7 +356,6 @@ be
 beta
 bf
 billing
-bj
 blob
 blog
 blogs
@@ -403,6 +402,7 @@ client
 clients
 cloud
 cloudfront
+club
 cluster
 cm
 cms
@@ -470,6 +470,7 @@ dictionary
 digital
 direct
 directory
+discovery
 dk
 dl
 dm
@@ -749,7 +750,6 @@ orders
 org
 orgwww
 origin
-orion
 os
 ovidsp
 owa

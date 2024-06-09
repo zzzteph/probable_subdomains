@@ -531,7 +531,6 @@ hp
 hr
 http
 httpbin
-hu
 hub
 iam
 id
@@ -595,6 +594,7 @@ links
 lists
 live
 lms
+load
 local
 localhost
 log
@@ -634,7 +634,6 @@ meet
 mema
 mercury
 messaging
-metadata
 metrics
 mgmt
 mi
@@ -742,6 +741,7 @@ pl
 platform
 play
 playground
+pm
 poc
 pop
 pop3

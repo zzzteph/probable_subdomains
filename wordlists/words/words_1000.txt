@@ -388,6 +388,7 @@ hostmaster
 hotel
 hotels
 house
+hq
 hr
 http
 httpwww
@@ -648,7 +649,6 @@ pc
 pda
 people
 perm
-pg
 ph
 phoenix
 photo

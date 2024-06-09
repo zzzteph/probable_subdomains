@@ -57,6 +57,7 @@ ap
 api
 api2
 api-dev
+api-test
 apollo
 app
 apple
@@ -177,7 +178,6 @@ cn
 cname
 co
 code
-collab
 collab-edge
 com
 community
@@ -361,6 +361,7 @@ hello
 help
 helpdesk
 hh
+hi
 history
 hk
 home
@@ -493,7 +494,6 @@ login
 logs
 love
 lp
-lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -622,7 +622,6 @@ ops
 opwww
 order
 orders
-orel
 orenburg
 org
 origin
@@ -653,6 +652,7 @@ photos
 php
 phpmyadmin
 pic
+pilot
 piwik
 pki
 pl

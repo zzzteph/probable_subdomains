@@ -66,7 +66,6 @@ acceptatie
 access
 account
 accounts
-ace
 acs
 act
 ad
@@ -116,7 +115,6 @@ apple
 apply
 apps
 ar
-arc
 archive
 argocd
 art
@@ -307,6 +305,7 @@ dr
 drive
 ds
 dyn
+dynamic
 ea
 east
 ec
@@ -521,6 +520,7 @@ mail1
 mail2
 mail3
 mail4
+mailhost
 mailserver
 main
 maintenance
@@ -723,7 +723,6 @@ pt
 pub
 public
 publish
-puppet
 push
 qa
 qa1
@@ -994,6 +993,7 @@ www3
 www4
 www5
 www-dev
+www-test
 wwww
 xmpp
 yahoo

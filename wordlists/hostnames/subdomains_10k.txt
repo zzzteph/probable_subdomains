@@ -965,7 +965,6 @@ at
 ata
 atb
 atc
-ateam
 atelier
 atendimento
 atest
@@ -1118,7 +1117,6 @@ b6
 b7
 ba
 baarn
-baas
 baba
 babe
 babel
@@ -1533,7 +1531,6 @@ bon
 bonaire
 bond
 bonjour
-bono
 bonsai
 bonus
 book
@@ -1867,7 +1864,6 @@ cda
 cdb
 cdc
 cde
-cdf
 cdi
 cdimage
 cdl
@@ -1903,6 +1899,7 @@ cee
 cel
 celebrity
 celeste
+celine
 cell
 cem
 census
@@ -2593,7 +2590,6 @@ dd
 ddc
 ddd
 ddi
-ddl
 ddp
 dds
 de
@@ -2660,6 +2656,7 @@ derbent
 derby
 derek
 des
+descargas
 desi
 design
 designer
@@ -2999,7 +2996,6 @@ dv
 dvd
 dvr
 dw
-dweb
 dwell
 dwp-cis
 dwww
@@ -3013,6 +3009,7 @@ dzerzhinsk
 e1
 e2
 e3
+e4
 ea
 eac
 ead
@@ -3136,6 +3133,7 @@ el
 elabuga
 elan
 elastic
+elasticsearch
 elburg
 elc
 eldorado
@@ -4810,6 +4808,7 @@ jim
 jimmy
 jin
 jira
+jira-dev
 jira-test
 jitsi
 jj
@@ -5496,7 +5495,6 @@ mail23
 mail25
 mail3
 mail30
-mail33
 mail4
 mail5
 mail6
@@ -5573,7 +5571,6 @@ mallorca
 malta
 mam
 mama
-mamba
 mambo
 man
 mana
@@ -5886,7 +5883,6 @@ mmm
 mmp
 mms
 mn
-mng
 mns
 mo
 moa
@@ -6458,6 +6454,7 @@ oldsite
 oldtimer
 oldweb
 oldwww
+ole
 oleg
 olga
 olimp
@@ -6505,7 +6502,6 @@ onlineshops
 onlinetest
 onlinewinkelen
 onlinewinkels
-only
 ons
 ontario
 ontslag
@@ -6992,6 +6988,7 @@ ppenggd.blog
 ppm
 ppp
 pps
+ppt
 pr
 pra
 praca
@@ -7505,6 +7502,7 @@ rogers
 rogue
 rohan
 roken
+roku
 roland
 rollator
 roma
@@ -8881,6 +8879,7 @@ transfers
 transit
 translate
 translation
+translations
 translator
 transparency
 transport
@@ -9507,6 +9506,7 @@ webdisk.staging
 webdisk.test
 webeoc
 weber
+webex
 webext
 webforms
 webftp
@@ -9535,6 +9535,7 @@ webrtc
 webs
 websearch
 webserver
+webserver1
 webservice
 webservices
 webshop
@@ -9684,7 +9685,6 @@ workspace
 world
 worldcup
 wow
-wowza
 woz
 wp
 wp1
