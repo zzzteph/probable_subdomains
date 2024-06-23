@@ -331,7 +331,6 @@ au
 audit
 auth
 author
-authorization
 auto
 autoconfig
 autodiscover
@@ -387,6 +386,7 @@ cert
 certauth
 cf
 ch
+chadwyck
 chat
 checkout
 chef

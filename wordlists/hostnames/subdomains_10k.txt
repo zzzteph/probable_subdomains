@@ -1132,7 +1132,6 @@ babyspulletjes
 babywinkel
 babywinkels
 bac
-bacchus
 bach
 back
 backbone
@@ -3528,6 +3527,7 @@ fg
 fh
 fi
 fiat
+fic
 fiction
 field
 fiesta
@@ -3719,7 +3719,6 @@ ftp3
 ftp4
 ftps
 ftpserver
-fts
 fuck
 fuel
 fuji
@@ -3905,6 +3904,7 @@ gitaar
 git.git
 github
 gitlab
+give
 giving
 gizmo
 gj
@@ -6769,6 +6769,7 @@ perl
 perm
 permits
 pers
+perseus
 person
 persona
 personal
@@ -8370,7 +8371,6 @@ stavropol
 stb
 stc
 std
-stealth
 steam
 steden
 stedentrip
@@ -8665,7 +8665,6 @@ test13
 test14
 test15
 test2
-test20
 test3
 test4
 test5
@@ -8813,6 +8812,7 @@ tomcat
 tommy
 tomsk
 tomtom
+tonto.eia
 tony
 tool
 toolbar

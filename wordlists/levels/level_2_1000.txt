@@ -201,7 +201,6 @@ checkout
 chef
 china
 ci
-cim-api-qa
 cis
 citrix
 cl
@@ -996,6 +995,7 @@ www-dev
 www-test
 wwww
 xmpp
+xxx
 yahoo
 zabbix
 zaken

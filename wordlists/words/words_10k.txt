@@ -1022,7 +1022,6 @@ asi
 asia
 asian
 ask
-asl
 aslan
 asm
 aso
@@ -1810,6 +1809,7 @@ capi
 capital
 capricorn
 caps
+capsctrl
 captain
 captcha
 captive
@@ -2192,7 +2192,6 @@ cocoa
 cod
 code
 coder
-codes
 codex
 coe
 coevorden
@@ -2899,6 +2898,7 @@ dogfood-dev
 dogs
 doh
 doi
+doi-org
 dojo
 dol
 dollar
@@ -3387,7 +3387,6 @@ eu-central-1
 euclid
 eugene
 euler
-eum
 eur
 eureka
 euro
@@ -3547,6 +3546,7 @@ fg
 fh
 fi
 fiat
+fic
 fido
 field
 fiesta
@@ -4331,6 +4331,7 @@ hrms
 hs
 hsbc
 hsc
+hsl
 hsp
 hss
 hst
@@ -5526,6 +5527,7 @@ mam
 mama
 mamba
 mambo
+mammoth
 man
 manage
 management
@@ -6207,6 +6209,7 @@ nieuwsbrief
 nieuwsbrieven
 nigeria
 night
+nih
 nijkerk
 nijmegen
 nika
@@ -6365,6 +6368,7 @@ o7
 o8
 o9
 oa
+oab
 oak
 oam
 oas
@@ -6666,7 +6670,6 @@ papa
 papendrecht
 paper
 papercut
-papi
 par
 paradise
 paradox
@@ -6678,7 +6681,6 @@ parfum
 parijs
 paris
 park
-parked
 parker
 parkeren
 parking
@@ -7695,7 +7697,6 @@ sand
 sandbox
 sandbox1
 sandbox2
-sandbox-api
 sander
 sandiego
 sandra
@@ -8940,7 +8941,6 @@ tribunale
 trident
 trigger
 trinity
-trio
 trip
 triton
 triumph

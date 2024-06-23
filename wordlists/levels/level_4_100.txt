@@ -67,6 +67,7 @@ preview
 prod
 production
 prometheus
+proquest
 proxy
 public
 qa
@@ -99,4 +100,3 @@ webdisk
 webmail
 ws
 www
-www2
