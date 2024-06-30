@@ -293,6 +293,7 @@ event
 events
 exchange
 ext
+external
 extranet
 facebook
 faq
@@ -971,7 +972,6 @@ ww25
 ww38
 ww5
 ww6
-ww7
 www
 www1
 www2

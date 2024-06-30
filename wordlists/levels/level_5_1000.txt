@@ -286,7 +286,6 @@ airflow
 ak
 akamai
 alb
-albuquerque
 alertmanager
 alerts
 alpha
@@ -342,6 +341,7 @@ avito
 aws
 az
 azure
+b1
 b2
 back
 backend
@@ -450,7 +450,6 @@ debug
 default
 delivery
 demo
-design
 desktop
 dev
 dev01
@@ -473,7 +472,6 @@ directory
 discovery
 dk
 dl
-dm
 dns
 docker
 docs
@@ -501,6 +499,7 @@ elb
 em
 email
 emea
+ems
 en
 eng
 engineering
@@ -519,7 +518,6 @@ example
 ext
 external
 f5
-falcon
 fbx
 fd
 fe
@@ -576,7 +574,6 @@ home
 host
 hosting
 hostmaster
-houston
 hp
 hr
 http
@@ -601,6 +598,7 @@ imap
 imap4
 img
 in
+incites
 influxdb
 info
 infoweb
@@ -760,6 +758,7 @@ pages
 painel
 partner
 pay
+payments
 paypal
 pc
 perf
@@ -958,6 +957,7 @@ us-west-2
 v1
 v10
 v2
+v4
 vaccine
 vault
 video

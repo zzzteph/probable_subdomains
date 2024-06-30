@@ -57,7 +57,6 @@
 153
 154
 155
-157
 158
 159
 16
@@ -502,7 +501,6 @@ gate
 gateway
 geo
 gis
-gist
 git
 github
 gitlab
@@ -603,7 +601,6 @@ login
 logs
 loki
 london
-lp
 lyncdiscover
 lyncdiscoverinternal
 m1
@@ -613,6 +610,7 @@ mail
 mail01
 mail1
 mail2
+mailserver
 main
 maintenance
 manage
@@ -651,7 +649,6 @@ moodle
 mp
 mq
 ms
-msg
 mta
 mta2
 mta-sts
@@ -714,6 +711,7 @@ open
 ops
 orange
 order
+orders
 org
 origin
 os
@@ -747,6 +745,7 @@ pop
 pop3
 portainer
 portal
+post
 pp
 pr
 prd
@@ -808,6 +807,7 @@ research
 resources
 rest
 retail
+rev
 review
 ro
 root
@@ -913,6 +913,7 @@ testing
 th
 tickets
 tls
+tms
 token
 tools
 tp
@@ -951,7 +952,6 @@ us-west-2
 v1
 v10
 v2
-v3
 va
 vault
 verify

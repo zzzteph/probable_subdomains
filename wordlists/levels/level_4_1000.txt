@@ -744,6 +744,7 @@ payment
 payments
 paypal
 pc
+people
 perf
 pgadmin
 ph
@@ -910,7 +911,6 @@ tableau
 tandfonline
 tech
 telemetry
-teleport
 temp
 test
 test01

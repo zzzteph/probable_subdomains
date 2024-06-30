@@ -157,7 +157,6 @@ cd
 cdn
 cdn1
 cdn2
-cdn3
 ce
 central
 cert
@@ -211,6 +210,7 @@ cp
 cpanel
 cpcalendars
 cpcontacts
+cr
 crm
 cs
 cse
@@ -276,7 +276,6 @@ edit
 edu
 education
 ee
-el
 elastic
 elearning
 em
@@ -866,6 +865,7 @@ th
 ticket
 tickets
 time
+tm
 tms
 tools
 top
