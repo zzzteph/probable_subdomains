@@ -290,7 +290,6 @@ alertmanager
 alerts
 alpha
 am
-an
 anaheim
 analytics
 antivirus
@@ -960,6 +959,7 @@ v2
 v4
 vaccine
 vault
+vi
 video
 videos
 vip

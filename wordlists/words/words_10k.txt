@@ -530,6 +530,7 @@ adx
 ae
 aec
 aed
+aegis
 aem
 a-english
 aeon
@@ -546,6 +547,7 @@ afm
 afp
 africa
 afrika
+afrodita
 afs
 afslanken
 afspraak
@@ -605,6 +607,7 @@ akamai
 akamai-test
 akamai-test-origin
 akira
+akita
 aks
 al
 alabama
@@ -671,6 +674,7 @@ almelo
 almere
 almetevsk
 aloha
+alone
 alp
 alpha
 alpha2
@@ -1088,6 +1092,7 @@ attendance
 atv
 atwww
 au
+auc
 auction
 auctions
 audi
@@ -1126,7 +1131,6 @@ autodealers
 autodiscover
 autogarage
 autolease
-automate
 automation
 automatisering
 automotive
@@ -1243,6 +1247,7 @@ balakovo
 balance
 balancer
 balashiha
+balder
 bali
 baltimore
 bam
@@ -1300,7 +1305,6 @@ batman
 bat-smg
 batterij
 battle
-bauer
 bay
 bazaar
 bazar
@@ -1414,7 +1418,6 @@ beverwijk
 beyond
 bf
 bff
-bfm
 bg
 bgp
 bgs
@@ -1735,7 +1738,6 @@ c8
 c9
 ca
 ca1
-caa
 cab
 cabinet
 cable
@@ -2428,7 +2430,6 @@ crs
 crt
 crucible
 cruise
-cruises
 crux
 crypto
 cryptocurrency
@@ -2620,7 +2621,6 @@ dd
 ddc
 ddd
 ddi
-ddl
 ddns
 ddp
 dds
@@ -2688,7 +2688,6 @@ depot
 dept
 derby
 des
-descargas
 desi
 design
 designer
@@ -2739,7 +2738,6 @@ devportal
 devtest
 devtools
 dev-www
-devwww
 dewey
 dewww
 dex
@@ -2781,6 +2779,7 @@ dier
 dieren
 diesel
 diet
+dieta
 dig
 digi
 digikoppeling
@@ -3242,7 +3241,6 @@ encore
 encrypt
 encyclopedia
 endeavour
-endor
 endpoint
 energie
 energy
@@ -3551,7 +3549,6 @@ fifa
 fig
 file
 file1
-file2
 filecap
 filemaker
 files
@@ -3596,6 +3593,7 @@ fix
 fj
 fk
 fl
+flame
 flamingo
 flash
 fleet
@@ -3851,7 +3849,6 @@ general
 generator
 genesis
 genetics
-geneva
 genie
 genius
 genome
@@ -3965,6 +3962,7 @@ goods
 goofy
 google
 goose
+gopher
 gordijnen
 gordon
 gorilla
@@ -4284,6 +4282,7 @@ host1
 host10
 host11
 host12
+host122
 host13
 host2
 host20
@@ -5143,6 +5142,7 @@ launchpad
 laura
 lava
 law
+lawrence
 lawyers
 lax
 layout
@@ -5360,7 +5360,6 @@ lucas
 luck
 lucky
 lucy
-luigi
 lukas
 luke
 luna
@@ -5432,6 +5431,7 @@ magento2
 maggie
 magic
 magma
+magnet
 magnitogorsk
 magnolia
 magnum
@@ -5455,7 +5455,6 @@ mail13
 mail14
 mail15
 mail16
-mail17
 mail18
 mail2
 mail20
@@ -5495,6 +5494,7 @@ mailout
 mail-relay
 mailrelay
 mails
+mailserv
 mailserver
 mailservice
 mailsrv
@@ -5509,6 +5509,7 @@ make
 makelaar
 makelaardij
 makelaars
+maker
 make-up
 makeup
 mako
@@ -6091,7 +6092,6 @@ nap
 narrowcasting
 naruto
 nas
-nas1
 nasa
 nash
 nashville
@@ -6189,7 +6189,6 @@ nginx-newest1
 ngs
 nh
 ni
-niagara
 nic
 nicaragua
 nice
@@ -6366,7 +6365,6 @@ o7
 o8
 o9
 oa
-oab
 oak
 oam
 oas
@@ -6407,6 +6405,7 @@ oe
 oegstgeest
 oem
 of
+ofertas
 off
 offer
 offers
@@ -7273,7 +7272,6 @@ ranger
 rank
 ranking
 rap
-raphael
 rapid
 rapportage
 raptor
@@ -7353,6 +7351,7 @@ redirects
 redis
 redmine
 redwood
+reed
 ref
 refer
 reference
@@ -7511,7 +7510,6 @@ robin
 robot
 robotics
 robots
-rochester
 rock
 rocket
 rocky
@@ -7577,7 +7575,6 @@ rstudio
 rsvp
 rsync
 rt
-rta
 rtb
 rtc
 rti
@@ -7658,7 +7655,6 @@ sae
 safari
 safe
 safety
-saffron
 saga
 sage
 sagepub
@@ -7820,6 +7816,7 @@ searchportal-dev
 searchportal-qa
 seat
 seattle
+sebastian
 sec
 secmail
 second
@@ -7880,6 +7877,7 @@ serenity
 serov
 serpuhov
 serv
+serv2
 serve
 server
 server01
@@ -7957,6 +7955,7 @@ sharon
 sharp
 she
 shell
+shemale
 sheriff
 sherlock
 shib
@@ -8520,7 +8519,6 @@ sv1
 svc
 svcs
 sven
-svm
 svn
 svpn
 svs
@@ -8613,6 +8611,7 @@ taurus
 tax
 taxi
 taylor
+taz
 tb
 tbc
 tbs
@@ -9350,6 +9349,7 @@ vogel
 voice
 voicemail
 voices
+void
 voip
 vol
 volga
@@ -9471,7 +9471,6 @@ wd
 wdc
 we
 weather
-weaver
 web
 web01
 web02
@@ -9604,6 +9603,7 @@ whatever
 whatsapp
 whisky
 white
+whiteboard
 whitelabel
 whm
 who
@@ -9716,6 +9716,7 @@ wt
 wtf
 wts
 wuhan
+wv
 ww
 ww1
 ww11
@@ -9854,7 +9855,6 @@ xmail
 xmas
 xml
 xmpp
-xnet
 xo
 xp
 xray

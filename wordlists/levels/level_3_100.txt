@@ -39,6 +39,7 @@ hostmaster
 image
 images
 in
+info
 int
 internal
 jenkins
@@ -84,7 +85,6 @@ static
 stg
 support
 test
-test1
 test2
 uat
 uk

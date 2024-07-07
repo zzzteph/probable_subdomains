@@ -17,7 +17,6 @@
 111
 112
 113
-115
 116
 117
 118
@@ -475,7 +474,6 @@ extranet
 facebook
 fbx
 fe
-feature
 feedback
 fi
 file
@@ -512,6 +510,7 @@ google
 gov
 grafana
 graph
+graphql
 green
 gw
 harbor
@@ -529,6 +528,7 @@ hp
 hr
 http
 httpbin
+hu
 hub
 iam
 id
@@ -557,10 +557,10 @@ intra
 intranet
 inventory
 io
-iot
 ip
 ip4
 ipv6
+iris
 is
 it
 jaeger
@@ -634,7 +634,6 @@ mercury
 messaging
 metrics
 mgmt
-mi
 migration
 minio
 mirror
@@ -956,6 +955,7 @@ va
 vault
 verify
 video
+videos
 view
 vip
 vm

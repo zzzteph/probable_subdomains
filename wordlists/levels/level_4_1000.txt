@@ -356,7 +356,6 @@ bitbucket
 biz
 blog
 blogs
-blogspot
 blue
 bmj
 bo
@@ -683,6 +682,7 @@ mtls
 muse
 music
 mx
+mx01
 mx1
 mx2
 my
@@ -812,6 +812,7 @@ reg
 register
 registration
 registry
+release
 remote
 repo
 report
@@ -836,7 +837,6 @@ sagepub
 sandbox
 sb
 sber
-sberbank
 sc
 scholar
 sciencedirect
