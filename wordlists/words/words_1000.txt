@@ -210,7 +210,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cr
 crm
 cs
 cse
@@ -866,6 +865,7 @@ th
 ticket
 tickets
 time
+tm
 tms
 tools
 top

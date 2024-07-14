@@ -41,7 +41,6 @@
 66
 69
 75
-76
 78
 80
 a1
@@ -295,6 +294,7 @@ dns2
 doc
 docker
 docs
+documents
 download
 downloads
 dp
@@ -330,6 +330,7 @@ enterpriseregistration
 erp
 es
 eu
+europe
 eu-west-1
 event
 events
@@ -959,7 +960,6 @@ web2
 web3
 webapp
 webapps
-webapps-common
 webcon
 webconf
 webdev

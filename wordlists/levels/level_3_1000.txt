@@ -439,6 +439,7 @@ e2e
 east
 ebscohost
 echo
+ecs
 edge
 edit
 edu
@@ -463,7 +464,6 @@ eu1
 eu-central-1
 europe
 eu-west-1
-eu-west-2
 event
 events
 example

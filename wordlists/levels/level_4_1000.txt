@@ -334,7 +334,6 @@ author
 auto
 autoconfig
 autodiscover
-avito
 aws
 az
 azure
@@ -356,6 +355,7 @@ bitbucket
 biz
 blog
 blogs
+blogspot
 blue
 bmj
 bo
@@ -836,7 +836,6 @@ sa
 sagepub
 sandbox
 sb
-sber
 sc
 scholar
 sciencedirect
@@ -999,4 +998,5 @@ www2
 www3
 www-dev
 yahoo
+yandex
 za

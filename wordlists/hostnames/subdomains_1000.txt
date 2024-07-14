@@ -559,7 +559,6 @@ ms
 msk
 msn
 mt
-mta.email
 mta-sts
 mta-sts.mail
 murmansk
@@ -907,6 +906,7 @@ view
 view.email
 vip
 vladimir
+vladivostok
 voice
 voip
 volgograd
