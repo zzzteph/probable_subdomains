@@ -183,6 +183,7 @@
 79
 80
 81
+83
 86
 87
 88
@@ -368,6 +369,7 @@ admins
 admin.staging
 admin.test
 admin.www
+admiral
 admission
 admissions
 adn
@@ -475,7 +477,6 @@ aion
 aip
 air
 airco
-aire
 airflow
 airport
 airsoft
@@ -565,7 +566,6 @@ aloha
 alone
 alp
 alpha
-alpha2
 alphen
 alphenaandenrijn
 alpine
@@ -590,6 +590,7 @@ a-magazines.a-english
 a-magazinesintern
 a-magazinesintern.a-english
 amanda
+amar
 amarok
 amateur
 amazing
@@ -646,6 +647,7 @@ anapa
 and
 anders
 anderson
+andi
 andorra
 andre
 andrea
@@ -666,7 +668,7 @@ angels
 angie
 angola
 anguilla
-anh
+angus
 ani
 animal
 animals
@@ -708,6 +710,7 @@ anything
 anywhere
 ao
 aoa
+aoc
 aol
 a-opendata
 a-opendata.a-english
@@ -860,7 +863,6 @@ armageddon
 armani
 armavir
 armenia
-armstrong
 army
 arnhem
 arnold
@@ -1066,6 +1068,7 @@ avatars
 avedge
 avenger
 avg
+avi
 avia
 aviation
 avis
@@ -1182,6 +1185,7 @@ banden
 bands
 banen
 bang
+bangbang
 bangkok
 bangladesh
 bank
@@ -1325,6 +1329,7 @@ bensguide
 bentley
 berdsk
 berezniki
+berg
 bergeijk
 bergen
 bergenopzoom
@@ -1527,6 +1532,7 @@ bones
 bonjour
 bonsai
 bonus
+boo
 book
 booking
 bookings
@@ -1805,6 +1811,7 @@ carrier
 carriere
 cars
 cart
+carter
 cartoon
 cartoons
 cas
@@ -2388,7 +2395,6 @@ crmtest
 cro
 croatia
 cron
-cronos
 cross
 crossroads
 crouchback
@@ -2532,6 +2538,7 @@ danny
 dans
 dansen
 dante
+dany
 dap
 daphne
 dar
@@ -2551,12 +2558,14 @@ data1
 data2
 database
 databases
+data.book
 datacenter
 datahub
 datascience
 dataservices
 date
 daten
+datenschutz
 dating
 datingsites
 dav
@@ -2611,6 +2620,7 @@ decoratie
 dedicated
 deep
 default
+dei
 deimos
 del
 delaware
@@ -2654,7 +2664,6 @@ deploy
 depo
 deportes
 depot
-dept
 derbent
 derby
 derek
@@ -2755,6 +2764,7 @@ diesel
 diet
 dieta
 dig
+digest
 digi
 digikoppeling
 digilander
@@ -2820,7 +2830,6 @@ dmitrov
 dmm
 dmp
 dms
-dmt
 dmv
 dmx
 dmz
@@ -2831,6 +2840,7 @@ dnewhall
 dnm
 dnn
 dnp
+dnr
 dns
 dns0
 dns01
@@ -3337,7 +3347,6 @@ esm
 esn
 eso
 esp
-espace
 espana
 espanol
 esports
@@ -3688,13 +3697,11 @@ freeware
 french
 fresh
 fresno
-freya
 frida
 fridge
 friend
 friends
 friesland
-frm
 frodo
 frog
 fromwww
@@ -3800,6 +3807,7 @@ gay
 gazeta
 gb
 gba
+gb.corp
 gbs
 gc
 gca
@@ -3861,6 +3869,7 @@ georgia
 georgievsk
 geoserver
 geoweb
+gep.dev
 ger
 gerard
 gereedschap
@@ -3907,6 +3916,7 @@ gitaar
 git.git
 github
 gitlab
+give
 giving
 gizmo
 gj
@@ -4200,7 +4210,6 @@ hh
 hi
 hidden
 hifi
-hikari
 hilfe
 hillegom
 hilversum
@@ -4221,7 +4230,6 @@ hive
 hj
 hk
 hl
-hlj
 hls
 hm
 hmc
@@ -4501,7 +4509,6 @@ images8
 imagine
 imaging
 imail
-iman
 imap
 imap1
 imap2
@@ -4519,6 +4526,7 @@ img10
 img11
 img13
 img14
+img1.cache
 img2
 img3
 img4
@@ -4611,7 +4619,6 @@ instant
 insurance
 int
 integra
-integral
 integration
 integrations
 intel
@@ -4763,6 +4770,7 @@ jas
 jason
 jasper
 java
+java-net.dev
 javascript
 jay
 jazz
@@ -4850,7 +4858,6 @@ juegos
 juice
 julia
 julie
-juliet
 jumbo
 jump
 jungle
@@ -4929,7 +4936,6 @@ kassa
 kasten
 kat
 katalog
-katrina
 katten
 katwijk
 kazan
@@ -5077,7 +5083,6 @@ krd
 krediet
 kreta
 kris
-krishna
 kroatie
 kronos
 krs
@@ -5102,6 +5107,7 @@ kuan005.blog
 kuban
 kubernetes
 kultur
+kultura
 kungfu
 kunst
 kunstgras
@@ -5501,7 +5507,6 @@ mailb
 mailbackup
 mail.blog
 mailbox
-mailboxes
 mail.comune
 mail.corp
 mail.demo
@@ -5513,7 +5518,6 @@ mailers
 mailfilter
 mail.forum
 mailgate
-mailgate1
 mailgate2
 mailgateway
 mailgw
@@ -5648,7 +5652,6 @@ mat
 match
 math
 maths
-matilda
 matomo
 matrix
 matt
@@ -5720,7 +5723,6 @@ medium
 medusa
 meet
 meeting
-meetingplace
 meetings
 meetme
 mega
@@ -5747,7 +5749,6 @@ menu
 meppel
 mercedes
 merch
-merchandise
 merchandising-preview
 merchant
 merchants
@@ -5789,6 +5790,7 @@ mft
 mg
 mga
 mgmt
+mgr
 mgs
 mh
 mhs
@@ -6110,7 +6112,6 @@ mysite
 mysites
 myspace
 mysql
-mysql1
 mysql2
 mystery
 mystore
@@ -6173,7 +6174,6 @@ nemo
 neo
 neon
 nepal
-neptun
 neptune
 nero
 ness
@@ -6188,7 +6188,6 @@ netscape
 netwerk
 network
 networking
-neu
 neuro
 nevada
 new
@@ -6293,6 +6292,7 @@ nord
 norilsk
 north
 northstar
+norton
 norway
 nos
 nospam
@@ -6357,6 +6357,7 @@ ns9
 nsa
 nsb
 nsc
+nsd
 nsk
 nsp
 nss
@@ -6399,6 +6400,7 @@ oasis
 oauth
 ob
 oberon
+obmen
 obninsk
 obs
 observer
@@ -6464,6 +6466,7 @@ oleg
 olga
 olimp
 olive
+olpc.download
 olymp
 olympia
 olympic
@@ -6948,7 +6951,6 @@ pony
 pooh
 pool
 pop
-pop2
 pop3
 pop.mail
 popup
@@ -7002,6 +7004,7 @@ preferences
 prelive
 premier
 premium
+prensa
 prep
 prepaid
 pre-prod
@@ -7204,6 +7207,7 @@ quark
 quasar
 quebec
 queen
+queens
 query
 quest
 quest.arc
@@ -7491,10 +7495,12 @@ ro
 roadmap
 roadrunner
 rob
+robby
 robert
 robin
 robot
 robotics
+rochester
 rock
 rocket
 rocky
@@ -7506,7 +7512,6 @@ rogers
 rogue
 rohan
 roken
-roku
 roland
 rollator
 roma
@@ -7761,7 +7766,6 @@ scp
 scr
 scrap
 scrapbook
-scrapbooking
 screen
 screenshots
 script
@@ -8000,7 +8004,6 @@ sipinternal
 sirius
 sis
 sistema
-sistemas
 sit
 sita
 site
@@ -8066,7 +8069,6 @@ smg
 smi
 smile
 smith
-sml
 smm
 smoke
 smokeping
@@ -8076,7 +8078,6 @@ smr
 sms
 smt
 smtp
-smtp0
 smtp01
 smtp02
 smtp03
@@ -8252,7 +8253,6 @@ sprint
 sprite
 sps
 sputnik
-spy
 sq
 sql
 sql01
@@ -8528,7 +8528,6 @@ synapse
 sync
 syndication
 synergy
-syria
 sys
 sysadmin
 syslog
@@ -8695,6 +8694,7 @@ testdrive
 teste
 tester
 testing
+testing1
 testing2
 test-intranet
 testlink
@@ -8850,7 +8850,6 @@ toy
 toyota
 toys
 tp
-tpi
 tpm
 tpp
 tps
@@ -8903,6 +8902,7 @@ trial
 tribunale
 trident
 trigger
+trinidad
 trinity
 trip
 triton
@@ -8965,7 +8965,6 @@ tuning
 tunnel
 turbo
 turing
-turismo
 turizm
 turkey
 turkije
@@ -9270,6 +9269,7 @@ violet
 vip
 viper
 vir
+virgin
 virginia
 virgo
 virtual
@@ -9336,7 +9336,6 @@ volgograd
 volkswagen
 volleybal
 vologda
-volta
 voltage-pp-0000
 voltage-ps-0000
 volunteer
@@ -9362,6 +9361,7 @@ vpn2
 vpn3
 vpn4
 vpn5
+vpngw
 vpn-test
 vps
 vps01
@@ -9567,12 +9567,12 @@ weekend
 weer
 weert
 weesp
-weightloss
 welcome
 welkom
 well
 wellbeing
 wellness
+wen
 wendy
 wenku
 werk
@@ -9621,7 +9621,6 @@ wiki.developer
 wild
 wildcard
 william
-willow
 wilson
 win
 wind
@@ -9982,6 +9981,7 @@ zorg
 zorgplatform
 zorgverzekering
 zp
+zpcp3.blog
 zs
 zt
 zuid-holland

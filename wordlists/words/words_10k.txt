@@ -294,6 +294,7 @@
 777
 78
 79
+7www
 80
 81
 82
@@ -631,7 +632,6 @@ alchemy
 alcohol
 aldan
 ale
-aleksandrov
 aleph
 alert
 alertmanager
@@ -670,7 +670,6 @@ alma
 almaty
 almelo
 almere
-almetevsk
 aloha
 alone
 alp
@@ -1076,7 +1075,6 @@ atlantic
 atlantis
 atlas
 atlassian
-atletiek
 atm
 atom
 atomic
@@ -1302,7 +1300,6 @@ bat
 batch
 batman
 bat-smg
-batterij
 battle
 bauer
 bay
@@ -1662,7 +1659,6 @@ brs
 bruce
 bruiloft
 bruno
-brussel
 bryan
 bryansk
 bs
@@ -1960,6 +1956,7 @@ cfd
 cfg
 cfs
 cg
+cgc
 cgi
 cgs
 ch
@@ -2042,13 +2039,13 @@ chita
 chkpt
 chloe
 chm
-chocolade
 chocolate
 choice
 chopin
 chris
 christian
 christmas
+christopher
 chrome
 chronicle
 chronos
@@ -2218,6 +2215,7 @@ colombia
 color
 colorado
 colossus
+colt
 columbia
 columbus
 com
@@ -2361,7 +2359,6 @@ coupons
 courier
 course
 courses
-court
 courts
 cover
 covers
@@ -2536,6 +2533,7 @@ dag
 dagje-uit
 dagjeuit
 dagsordener
+dai
 daily
 daisy
 dak
@@ -2556,7 +2554,6 @@ danieapp
 daniel
 danny
 dans
-dansen
 dante
 dany
 dap
@@ -2691,6 +2688,7 @@ depot
 dept
 derby
 des
+descargas
 desi
 design
 designer
@@ -2895,6 +2893,7 @@ dogfood-dev
 dogs
 doh
 doi
+doi-org
 doit
 dojo
 dol
@@ -3534,7 +3533,6 @@ ferrari
 ferry
 fes
 festival
-festivals
 fetish
 feyenoord
 ff
@@ -3649,6 +3647,7 @@ forever
 forex
 forge
 form
+formacion
 formation
 forms
 formula1
@@ -3855,6 +3854,7 @@ general
 generator
 genesis
 genetics
+geneva
 genie
 genius
 genome
@@ -3963,6 +3963,7 @@ gongyi
 gonzo
 good
 goodies
+goodlife
 goods
 goofy
 google
@@ -4036,7 +4037,6 @@ gs
 gs1
 gsa
 gsc
-gsfc
 gslb
 gslink
 gsm
@@ -4360,7 +4360,6 @@ hugo
 huidverzorging
 huis
 huisdieren
-huisentuin
 huishouden
 huisstijl
 huizen
@@ -5548,6 +5547,7 @@ mapi
 maple
 mapping
 maps
+mapy
 mar
 mara
 marathon
@@ -7517,6 +7517,7 @@ robin
 robot
 robotics
 robots
+rochester
 rock
 rocket
 rocky
@@ -7925,7 +7926,6 @@ sevastopol
 seven
 sever
 severodvinsk
-seversk
 sex
 sexcam
 sexchat
@@ -8659,7 +8659,6 @@ tele2
 telecom
 telefonie
 telefoon
-telefoongids
 telemetry
 teleport
 televisie
@@ -8762,11 +8761,11 @@ the
 theater
 theatre
 thehub
+theia
 theme
 themes
 themis
 theory
-therapie
 thesis
 theta
 think
@@ -9858,6 +9857,7 @@ xmail
 xmas
 xml
 xmpp
+xnet
 xo
 xp
 xray

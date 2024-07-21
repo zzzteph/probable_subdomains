@@ -39,6 +39,7 @@ help
 home
 hostmaster
 images
+imap
 img
 in
 info
@@ -54,7 +55,6 @@ media
 meet
 mijn
 mobile
-mta-sts
 mx
 mx1
 my

@@ -41,6 +41,7 @@
 66
 69
 75
+76
 78
 80
 a1
@@ -468,6 +469,7 @@ kb
 keycloak
 kibana
 kids
+km
 kr
 kubernetes
 la
@@ -678,7 +680,6 @@ photos
 php
 phpmyadmin
 pi
-pic
 pilot
 pkg-grass
 pkg-mono
@@ -871,7 +872,6 @@ sys
 system
 sz
 t1
-t2
 tableau
 tc
 team

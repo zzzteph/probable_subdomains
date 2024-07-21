@@ -326,7 +326,6 @@ assets
 at
 athena
 atlas
-att
 au
 auction
 audit
@@ -951,6 +950,7 @@ us-east-1
 us-east-2
 user
 users
+usw2
 us-west-1
 us-west-2
 v1

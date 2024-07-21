@@ -523,6 +523,7 @@ ff
 file
 files
 finance
+find
 fm
 foo
 forms
@@ -998,5 +999,4 @@ www2
 www3
 www-dev
 yahoo
-yandex
 za
