@@ -294,7 +294,6 @@
 777
 78
 79
-7www
 80
 81
 82
@@ -321,7 +320,6 @@
 a0
 a01
 a1
-a10
 a2
 a3
 a4
@@ -529,7 +527,6 @@ adx
 ae
 aec
 aed
-aegis
 aem
 a-english
 aeon
@@ -546,7 +543,6 @@ afm
 afp
 africa
 afrika
-afrodita
 afs
 afslanken
 afspraak
@@ -631,6 +627,7 @@ alcatraz
 alchemy
 alcohol
 aldan
+aldo
 ale
 aleph
 alert
@@ -719,6 +716,7 @@ amex
 amg
 ami
 amigo
+amigos
 amin
 amir
 amis
@@ -776,6 +774,7 @@ angels
 angie
 angola
 angus
+anh
 ani
 animal
 animals
@@ -897,7 +896,6 @@ apps1
 apps2
 apps3
 appserver
-apps-test
 appstore
 app-test
 apptest
@@ -1000,6 +998,7 @@ as1
 as2
 as400
 asa
+asahi
 asap
 asb
 asbest
@@ -1147,7 +1146,6 @@ avalanche
 avalon
 avatar
 avatars
-ave
 avedge
 avg
 avi
@@ -1697,6 +1695,7 @@ bulgarije
 bulk
 bull
 bulldog
+bullet
 bulletin
 bumblebee
 bunny
@@ -1869,7 +1868,6 @@ cbs
 cbt
 cc
 cc1
-cc2
 cca
 ccb
 ccc
@@ -1958,6 +1956,7 @@ cfs
 cg
 cgc
 cgi
+cgm
 cgs
 ch
 cha
@@ -2003,6 +2002,7 @@ checkin
 checkmarx
 checkout
 checkpoint
+cheers
 cheese
 cheetah
 chef
@@ -2091,7 +2091,6 @@ civil
 cj
 ck
 cl
-cl1
 cla
 claims
 claire
@@ -2243,6 +2242,7 @@ company
 compaq
 compare
 compass
+competition
 complaints
 complete
 compliance
@@ -2739,6 +2739,7 @@ devportal
 devtest
 devtools
 dev-www
+devwww
 dewey
 dewww
 dex
@@ -2751,7 +2752,6 @@ dg
 dh
 dhcp
 dhcp1
-dhcp2
 dhl
 dhs
 di
@@ -2780,7 +2780,6 @@ dier
 dieren
 diesel
 diet
-dieta
 dig
 digi
 digikoppeling
@@ -2804,7 +2803,6 @@ director
 directorio
 directory
 dis
-disc
 disco
 discord
 discount
@@ -2893,7 +2891,6 @@ dogfood-dev
 dogs
 doh
 doi
-doi-org
 doit
 dojo
 dol
@@ -2959,6 +2956,7 @@ dream
 dreamer
 dreams
 drenthe
+drew
 drift
 drive
 driver
@@ -3242,6 +3240,7 @@ enc
 encoder
 encore
 encrypt
+encuestas
 encyclopedia
 endeavour
 endpoint
@@ -3259,8 +3258,8 @@ engineer
 engineering
 english
 enigma
-enjoy
 enkhuizen
+enq
 enquete
 enquetes
 enroll
@@ -3298,6 +3297,7 @@ epo
 eportal
 eportfolio
 epost
+eposta
 epp
 eprints
 eps
@@ -3491,6 +3491,7 @@ fap
 faq
 faqs
 faraday
+fargo
 farm
 fas
 fashion
@@ -3525,7 +3526,6 @@ feest
 feestartikelen
 feestdagen
 feesten
-feh
 felix
 fellowship
 fenix
@@ -3981,7 +3981,6 @@ goud
 gouda
 gourmet
 gov
-government
 governor
 gp
 gpm
@@ -4173,6 +4172,7 @@ helix
 hell
 hellevoetsluis
 hello
+hellokitty
 helloworld
 helm
 helmond
@@ -4200,10 +4200,8 @@ hestia
 hf
 hg
 hh
-hhs
 hi
 hidden
-hifi
 highway
 hilfe
 hillegom
@@ -4566,6 +4564,7 @@ informer
 infos
 infosec
 infosys
+infotech
 infoweb
 infra
 ing
@@ -4851,6 +4850,7 @@ jubileum
 judith
 judo
 juegos
+juice
 julia
 julian
 julie
@@ -5102,7 +5102,6 @@ la
 lab
 lab1
 label
-labo
 labor
 labrador
 labs
@@ -5117,6 +5116,7 @@ lampen
 lan
 lana
 lancaster
+lance
 land
 landgraaf
 landing
@@ -5146,6 +5146,7 @@ launchpad
 laura
 lava
 law
+lawrence
 lawyers
 lax
 layout
@@ -5433,6 +5434,7 @@ magento2
 maggie
 magic
 magma
+magnet
 magnitogorsk
 magnolia
 magnum
@@ -5493,6 +5495,7 @@ mailings
 maillist
 mailman
 mailout
+mailout2
 mail-relay
 mailrelay
 mails
@@ -6053,7 +6056,6 @@ myadmin
 myapps
 mydesktop
 mydev
-mydomain
 myfiles
 myhome
 myhr
@@ -6095,6 +6097,7 @@ nap
 narrowcasting
 naruto
 nas
+nas1
 nasa
 nash
 nashville
@@ -6234,7 +6237,6 @@ nlp
 nlwww
 nm
 nmc
-nmp
 nms
 nn
 nnov
@@ -6681,7 +6683,6 @@ parfum
 parijs
 paris
 park
-parked
 parker
 parkeren
 parking
@@ -6690,7 +6691,6 @@ parrot
 part
 partenaires
 partner
-partner-api
 partnerportal
 partners
 partnerships
@@ -7320,7 +7320,6 @@ ready
 real
 realestate
 reality
-realmadrid
 realtime
 realty
 rebecca
@@ -7583,6 +7582,7 @@ rstudio
 rsvp
 rsync
 rt
+rta
 rtb
 rtc
 rti
@@ -7636,6 +7636,7 @@ s2
 s20
 s21
 s22
+s24
 s25
 s2s
 s3
@@ -7753,7 +7754,6 @@ schaatsen
 schagen
 schedule
 scheduler
-scheduling
 schema
 schemas
 schiedam
@@ -7884,6 +7884,7 @@ serenity
 serov
 serpuhov
 serv
+serv1
 serv2
 serve
 server
@@ -8132,6 +8133,7 @@ smtp-out
 smtpout
 smtp-relay
 smtps
+smurf
 sn
 snake
 snap
@@ -8301,6 +8303,7 @@ srv1
 srv2
 srv3
 srv4
+srv5
 ss
 ss1
 ssa
@@ -8508,7 +8511,6 @@ supplychain
 support
 support1
 support2
-supreme
 sur
 surf
 surgery
@@ -8674,7 +8676,6 @@ tender
 tenders
 tennessee
 tennis
-tenten
 tera
 terminal
 terminator
@@ -8826,6 +8827,7 @@ t-mobile
 tmp
 tms
 tn
+tns
 tnt
 to
 tobolsk
@@ -8868,7 +8870,6 @@ torrent
 torrents
 tos
 toshiba
-tot
 total
 toto
 touch
@@ -8960,7 +8961,6 @@ ts3
 tsa
 tsc
 tsg
-tsgw
 t-shirt
 tsm
 tsp
@@ -9043,7 +9043,6 @@ uber
 ubs
 ubuntu
 uc
-ucaccess01
 ucc
 ucenter
 ucl
@@ -9255,6 +9254,7 @@ verzekering
 verzekeringen
 vespa
 vesta
+vestnik
 vet
 veterans
 vf
@@ -9368,7 +9368,6 @@ voodoo
 voordeel
 voronezh
 vortex
-vos
 voskresensk
 vote
 voting
@@ -9392,7 +9391,6 @@ vps1
 vps2
 vps3
 vps4
-vps5
 vr
 vragenlijst
 vrienden
@@ -9473,6 +9471,7 @@ wd
 wdc
 we
 weather
+weaver
 web
 web01
 web02
@@ -9561,6 +9560,7 @@ websrv
 webstats
 webster
 webstore
+websvn
 webtest
 webtools
 webtrac
@@ -9623,7 +9623,6 @@ wijn
 wijnen
 wiki
 wiki2
-wikipedia
 wild
 wildcard
 wiley
@@ -9706,6 +9705,7 @@ wr
 writer
 wroclaw
 ws
+ws01
 ws1
 ws2
 ws3
@@ -9718,7 +9718,6 @@ wt
 wtf
 wts
 wuhan
-wv
 ww
 ww1
 ww11
@@ -9900,6 +9899,7 @@ young
 your
 youth
 youtube
+yoyo
 yp
 ys
 yt

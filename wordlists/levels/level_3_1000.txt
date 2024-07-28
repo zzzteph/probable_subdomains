@@ -408,6 +408,7 @@ dev1
 dev2
 dev3
 dev4
+dev-api
 develop
 developer
 developers
@@ -580,6 +581,7 @@ kb
 keycloak
 kibana
 kr
+kubernetes
 la
 lab
 labs
@@ -664,7 +666,6 @@ mysql
 n1
 na
 nagios
-nat
 nature
 ne
 net
@@ -727,7 +728,6 @@ pay
 payment
 payments
 pc
-pe
 people
 perf
 ph

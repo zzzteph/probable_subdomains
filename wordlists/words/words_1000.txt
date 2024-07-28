@@ -866,6 +866,7 @@ th
 ticket
 tickets
 time
+tm
 tms
 tools
 top
@@ -923,7 +924,6 @@ vn
 voice
 voip
 volgograd
-voronezh
 vote
 vpn
 vpn1
