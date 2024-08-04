@@ -293,7 +293,6 @@ event
 events
 exchange
 ext
-external
 extranet
 facebook
 faq
@@ -528,7 +527,6 @@ marketplace
 mars
 master
 math
-matrix
 maven
 mc
 mdm
@@ -860,6 +858,7 @@ th
 ticket
 tickets
 time
+tms
 tomsk
 tools
 top
@@ -901,6 +900,7 @@ user
 users
 utrecht
 v2
+v3
 vacatures
 vakantie
 varnish

@@ -30,6 +30,7 @@ data
 de
 demo
 dev
+dev2
 docs
 es
 eu
@@ -86,7 +87,6 @@ static
 stg
 support
 test
-test2
 uat
 ui
 uk
