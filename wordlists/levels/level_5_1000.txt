@@ -360,7 +360,6 @@ blog
 blogs
 blogspot
 blue
-bob
 box
 br
 broad
@@ -542,6 +541,7 @@ ftp
 ga
 galenet
 game
+games
 gamma
 gate
 gateway
@@ -617,7 +617,6 @@ ipv4
 is
 it
 jama
-java
 jb
 jcr
 je
@@ -986,6 +985,7 @@ wire
 wireless
 wordpress
 workflow
+wp
 ws
 ww
 ww16

@@ -668,7 +668,6 @@ almaty
 almelo
 almere
 aloha
-alone
 alp
 alpha
 alpha2
@@ -896,6 +895,7 @@ apps1
 apps2
 apps3
 appserver
+apps-test
 appstore
 app-test
 apptest
@@ -1146,6 +1146,7 @@ avalanche
 avalon
 avatar
 avatars
+ave
 avedge
 avg
 avi
@@ -1581,6 +1582,7 @@ bootstrap
 bor
 bordeaux
 border
+borderlands
 borg
 boris
 borne
@@ -1947,6 +1949,7 @@ certs
 ces
 cesar
 cet
+cetus
 cf
 cfa
 cfc
@@ -1968,6 +1971,7 @@ champagne
 champion
 champions
 chan
+chance
 change
 changelog
 changes
@@ -2002,7 +2006,6 @@ checkin
 checkmarx
 checkout
 checkpoint
-cheers
 cheese
 cheetah
 chef
@@ -2185,6 +2188,7 @@ coc
 cockpit
 coco
 cocoa
+coconut
 cod
 code
 coder
@@ -2526,7 +2530,6 @@ da2
 daa
 daas
 dac
-dada
 daf
 daffy
 dag
@@ -2611,6 +2614,7 @@ dca
 dcc
 dce
 dcm
+dcms
 dcp
 dcr
 dcs
@@ -2891,7 +2895,7 @@ dogfood-dev
 dogs
 doh
 doi
-doit
+doi-org
 dojo
 dol
 dollar
@@ -2956,7 +2960,6 @@ dream
 dreamer
 dreams
 drenthe
-drew
 drift
 drive
 driver
@@ -4036,6 +4039,7 @@ gs
 gs1
 gsa
 gsc
+gsfc
 gslb
 gslink
 gsm
@@ -4144,6 +4148,7 @@ hcm
 hcp
 hcs
 hd
+hds
 he
 headhunter
 headlines
@@ -4282,7 +4287,6 @@ host1
 host10
 host11
 host12
-host122
 host13
 host2
 host20
@@ -4645,7 +4649,6 @@ ip3
 ip4
 ip6
 ipa
-ipac
 ipad
 ipam
 ipc
@@ -4683,7 +4686,6 @@ isa
 isaac
 isc
 ise
-isf
 isg
 isi
 isis
@@ -4774,7 +4776,6 @@ jedi
 jeep
 jeff
 jefferson
-jelly
 jenkins
 jennifer
 jenny
@@ -4920,6 +4921,7 @@ karina
 karma
 karriere
 kart
+karta
 kas
 kaspersky
 kassa
@@ -4952,6 +4954,7 @@ kerberos
 kerch
 kerkrade
 kermit
+kernel
 kerst
 kerstkaarten
 kerstmis
@@ -4964,7 +4967,6 @@ keyboard
 keycloak
 keys
 keystone
-keyword
 kf
 kfc
 kg
@@ -5251,6 +5253,7 @@ lincoln
 linda
 line
 lineage
+lineage2
 lingerie
 link
 linkbuilding
@@ -5495,7 +5498,6 @@ mailings
 maillist
 mailman
 mailout
-mailout2
 mail-relay
 mailrelay
 mails
@@ -5513,7 +5515,6 @@ make
 makelaar
 makelaardij
 makelaars
-maker
 make-up
 makeup
 mako
@@ -5548,6 +5549,7 @@ mapa
 mapas
 mapi
 maple
+mapp
 mapping
 maps
 mapy
@@ -5641,6 +5643,7 @@ mcm
 mcp
 mcprod
 mcs
+mcstaging
 mcu
 md
 mda
@@ -5655,6 +5658,7 @@ mebel
 mec
 mech
 med
+medewerker
 medewerkers
 media
 media1
@@ -5893,6 +5897,7 @@ money
 mongo
 mongodb
 monica
+monit
 monitor
 monitor1
 monitor2
@@ -6138,7 +6143,6 @@ nepal
 neptune
 nero
 nes
-ness
 nessus
 nest
 net
@@ -6236,6 +6240,7 @@ nlp
 nlwww
 nm
 nmc
+nmp
 nms
 nn
 nnov
@@ -6750,7 +6755,6 @@ pegasus
 pelican
 pen
 penguin
-penny
 pensioen
 pension
 pentest
@@ -7176,7 +7180,6 @@ pw
 pwa
 pwc
 pwd
-pwm
 pwreset
 pws
 px
@@ -7409,7 +7412,6 @@ renault
 render
 renew
 rent
-rentals
 rep
 repair
 replay
@@ -7814,7 +7816,6 @@ se
 sea
 seagull
 seal
-sean
 search
 search1
 search2
@@ -7884,7 +7885,6 @@ serenity
 serov
 serpuhov
 serv
-serv1
 serv2
 serve
 server
@@ -7965,7 +7965,6 @@ shell
 shemale
 sheriff
 sherlock
-shi
 shib
 shibboleth
 shield
@@ -8220,6 +8219,7 @@ spark
 sparky
 sparrow
 sparta
+spartan
 spb
 spc
 spd
@@ -8331,7 +8331,6 @@ ssrs
 sss
 sst
 st
-st01
 st1
 st2
 st3
@@ -8827,7 +8826,6 @@ t-mobile
 tmp
 tms
 tn
-tns
 tnt
 to
 tobolsk
@@ -9352,6 +9350,7 @@ vogel
 voice
 voicemail
 voices
+void
 voip
 vol
 volga
@@ -9626,7 +9625,6 @@ wiki2
 wild
 wildcard
 wiley
-will
 william
 willow
 wilson
@@ -9718,6 +9716,7 @@ wt
 wtf
 wts
 wuhan
+wv
 ww
 ww1
 ww11
@@ -9940,6 +9939,7 @@ zendesk1
 zendesk2
 zendesk3
 zendesk4
+zenith
 zenoss
 zephyr
 zeppelin

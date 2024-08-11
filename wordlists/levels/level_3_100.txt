@@ -38,7 +38,7 @@ grafana
 hostmaster
 image
 images
-in
+info
 int
 internal
 jenkins

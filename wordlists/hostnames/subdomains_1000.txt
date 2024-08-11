@@ -1,6 +1,7 @@
 10
 1www
 2010
+2fwww
 3d
 aaa
 aanmelden
@@ -257,7 +258,6 @@ edit
 edu
 education
 eindhoven
-ekaterinburg
 elastic
 elearning
 elections
@@ -917,7 +917,6 @@ vpn
 vpn1
 vpn2
 vps
-w3
 waarmerk
 wallet
 wap
@@ -994,6 +993,7 @@ www9
 www-test
 wwww
 wwwwww
+xml
 xroads
 xxx
 yaroslavl

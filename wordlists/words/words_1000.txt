@@ -210,7 +210,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cr
 crm
 cs
 cse
@@ -679,7 +678,6 @@ pp
 pr
 prd
 pre
-pre-prod
 preprod
 press
 preview
@@ -887,6 +885,7 @@ tst
 tula
 tv
 tw
+tx
 ua
 uat
 uc
@@ -924,6 +923,7 @@ vn
 voice
 voip
 volgograd
+voronezh
 vote
 vpn
 vpn1

@@ -57,7 +57,6 @@ ap
 api
 api2
 api-dev
-api-test
 apollo
 app
 apple
@@ -67,7 +66,6 @@ ar
 arc
 archief
 archive
-archives
 art
 as
 asia
@@ -92,6 +90,7 @@ backend
 backoffice
 backup
 baidu
+bank
 banner
 banners
 barnaul
@@ -293,6 +292,7 @@ event
 events
 exchange
 ext
+external
 extranet
 facebook
 faq
@@ -401,7 +401,6 @@ img3
 ims
 in
 inbound
-india
 info
 infolab
 informatik
@@ -732,6 +731,7 @@ reviews
 ro
 root
 rootsweb
+rostov
 rotterdam
 router
 rs

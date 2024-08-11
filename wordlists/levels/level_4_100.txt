@@ -1,5 +1,4 @@
 10
-11
 12
 171
 acc
@@ -30,7 +29,6 @@ data
 de
 demo
 dev
-dev2
 docs
 es
 eu
@@ -87,6 +85,7 @@ static
 stg
 support
 test
+test2
 uat
 ui
 uk
@@ -100,3 +99,4 @@ webdisk
 webmail
 ws
 www
+www2

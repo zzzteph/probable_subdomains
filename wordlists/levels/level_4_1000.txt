@@ -473,6 +473,7 @@ downloads
 dr
 ds
 dsl
+dummy
 dx
 dyn
 dynamic
@@ -523,7 +524,6 @@ ff
 file
 files
 finance
-find
 fm
 foo
 forms
@@ -555,6 +555,7 @@ gr
 grafana
 graph
 green
+group
 grpc
 gw
 harbor
@@ -745,7 +746,6 @@ payment
 payments
 paypal
 pc
-people
 perf
 pgadmin
 ph
@@ -808,7 +808,6 @@ rancher
 raw
 rc
 rds
-rec
 reg
 register
 registration
@@ -839,6 +838,7 @@ sandbox
 sb
 sc
 scholar
+science
 sciencedirect
 sciencemag
 scitation
