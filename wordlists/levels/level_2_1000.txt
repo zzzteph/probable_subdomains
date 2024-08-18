@@ -245,7 +245,6 @@ cr
 crm
 crowd
 cs
-csg
 css
 ct
 customer
@@ -473,7 +472,6 @@ kb
 keycloak
 kibana
 kids
-km
 kr
 kubernetes
 la
@@ -682,6 +680,7 @@ photos
 php
 phpmyadmin
 pi
+pic
 pilot
 pkg-grass
 pkg-mono
@@ -810,6 +809,7 @@ si
 sidney
 signin
 signup
+sim
 sip
 sit
 site

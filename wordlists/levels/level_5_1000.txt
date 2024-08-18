@@ -275,7 +275,6 @@ adfs
 adm
 admin
 administrator
-administrators
 admins
 ads
 adserver
@@ -564,6 +563,7 @@ graph
 green
 gw
 harbor
+hdl
 health
 hello
 help

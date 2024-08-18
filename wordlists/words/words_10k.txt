@@ -602,7 +602,6 @@ akamai
 akamai-test
 akamai-test-origin
 akira
-akita
 aks
 al
 alabama
@@ -773,7 +772,6 @@ angels
 angie
 angola
 angus
-anh
 ani
 animal
 animals
@@ -961,7 +959,6 @@ arkansas
 arkhangelsk
 arm
 armada
-armani
 armavir
 armenia
 armstrong
@@ -969,7 +966,6 @@ army
 arnhem
 arno
 arnold
-aroma
 arp
 arrow
 ars
@@ -998,7 +994,6 @@ as1
 as2
 as400
 asa
-asahi
 asap
 asb
 asbest
@@ -1066,6 +1061,7 @@ atendimento
 athena
 athens
 athletics
+athos
 ati
 atl
 atlant
@@ -1243,7 +1239,6 @@ balakovo
 balance
 balancer
 balashiha
-balder
 bali
 baltimore
 bam
@@ -1314,7 +1309,6 @@ bbq
 bbs
 bbt
 bc
-bc1
 bca
 bcc
 bcm
@@ -1490,6 +1484,7 @@ blackjack
 blacklist
 blade
 blah
+blake
 blast
 blaster
 blauzahl
@@ -1714,6 +1709,7 @@ buy
 buzz
 bv
 bw
+bwc
 bx
 by
 byod
@@ -1795,6 +1791,7 @@ candy
 cannabis
 cannes
 canon
+canopus
 canvas
 cao
 cap
@@ -2094,6 +2091,7 @@ civil
 cj
 ck
 cl
+cl1
 cla
 claims
 claire
@@ -2139,6 +2137,7 @@ cloud
 cloud1
 cloud2
 cloud9
+cloudapp
 cloudflare
 cloudflare-resolve-to
 cloudfront
@@ -2218,7 +2217,6 @@ colombia
 color
 colorado
 colossus
-colt
 columbia
 columbus
 com
@@ -2412,6 +2410,7 @@ crime
 crimea
 cris
 crisis
+cristina
 crl
 crm
 crm2
@@ -2530,6 +2529,7 @@ da2
 daa
 daas
 dac
+dada
 daf
 daffy
 dag
@@ -2671,7 +2671,6 @@ demo6
 democracy
 demon
 demos
-demoshop
 demosite
 den
 den-bosch
@@ -3243,7 +3242,6 @@ enc
 encoder
 encore
 encrypt
-encuestas
 encyclopedia
 endeavour
 endpoint
@@ -3494,7 +3492,6 @@ fap
 faq
 faqs
 faraday
-fargo
 farm
 fas
 fashion
@@ -3903,6 +3900,7 @@ gif
 gift
 giftcards
 gifts
+giga
 gigi
 gin
 gina
@@ -4177,7 +4175,6 @@ helix
 hell
 hellevoetsluis
 hello
-hellokitty
 helloworld
 helm
 helmond
@@ -4443,7 +4440,6 @@ ide
 idea
 ideal
 ideas
-ident
 identity
 idm
 idp
@@ -4921,7 +4917,6 @@ karina
 karma
 karriere
 kart
-karta
 kas
 kaspersky
 kassa
@@ -4994,6 +4989,7 @@ kingston
 kino
 kiosk
 kir
+kira
 kirov
 kis
 kislovodsk
@@ -5083,6 +5079,7 @@ kuban
 kube
 kubernetes
 kultur
+kungfu
 kunst
 kunstgras
 kunststof
@@ -5334,6 +5331,7 @@ loki
 lol
 lola
 lolita
+lon
 london
 long
 loodgieter
@@ -5341,6 +5339,7 @@ look
 looker
 lookup
 loopback
+lord
 losangeles
 lost
 loterijen
@@ -6696,6 +6695,7 @@ parrot
 part
 partenaires
 partner
+partnerapi
 partnerportal
 partners
 partnerships
@@ -7240,6 +7240,7 @@ r0
 r1
 r2
 r230
+r25
 r2d2
 r3
 r4
@@ -7361,7 +7362,6 @@ redirects
 redis
 redmine
 redwood
-reed
 ref
 refer
 reference
@@ -7622,6 +7622,7 @@ s01
 s02
 s03
 s04
+s05
 s1
 s10
 s100
@@ -7885,7 +7886,7 @@ serenity
 serov
 serpuhov
 serv
-serv2
+serv1
 serve
 server
 server01
@@ -8226,6 +8227,7 @@ spd
 spec
 special
 specials
+spectre
 spectrum
 speech
 speed
@@ -8715,7 +8717,6 @@ testapi
 test-app
 testapp
 testbed
-testblog
 testcert
 testcms
 testdomain
@@ -9274,6 +9275,7 @@ video1
 video2
 videocdn
 videochat
+videoconf
 videos
 vidnoe
 vids
@@ -9447,7 +9449,6 @@ warez
 warp
 warranty
 warren
-warriors
 was
 washington
 wasmachine
@@ -9559,7 +9560,6 @@ websrv
 webstats
 webster
 webstore
-websvn
 webtest
 webtools
 webtrac
@@ -9603,6 +9603,7 @@ whale
 whatever
 whatsapp
 whisky
+whisper
 white
 whiteboard
 whitelabel
@@ -9855,7 +9856,6 @@ xmail
 xmas
 xml
 xmpp
-xnet
 xo
 xp
 xray
