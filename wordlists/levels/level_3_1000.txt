@@ -769,7 +769,6 @@ projects
 prometheus
 proquest
 protection
-provisioning
 proxy
 ps
 pt
@@ -905,6 +904,7 @@ t2
 tableau
 tandfonline
 team
+teleport
 temp
 test
 test1

@@ -543,6 +543,7 @@ afm
 afp
 africa
 afrika
+afrodita
 afs
 afslanken
 afspraak
@@ -689,6 +690,7 @@ amadeus
 a-magazines
 a-magazinesintern
 amanda
+amar
 amarok
 amateur
 amazing
@@ -783,7 +785,6 @@ anketa
 ann
 anna
 anne
-annex
 annie
 annuaire
 annualreport
@@ -1330,7 +1331,6 @@ bean
 bear
 beast
 beatles
-beatrice
 beautiful
 beauty
 bebe
@@ -1651,6 +1651,7 @@ brown
 browse
 browser
 brs
+bru
 bruce
 bruiloft
 bruno
@@ -1675,7 +1676,6 @@ budapest
 buddy
 budget
 buffalo
-buffy
 bug
 bugatti
 bugs
@@ -1709,7 +1709,6 @@ buy
 buzz
 bv
 bw
-bwc
 bx
 by
 byod
@@ -1791,7 +1790,6 @@ candy
 cannabis
 cannes
 canon
-canopus
 canvas
 cao
 cap
@@ -1946,9 +1944,7 @@ certs
 ces
 cesar
 cet
-cetus
 cf
-cfa
 cfc
 cfd
 cfg
@@ -1957,6 +1953,7 @@ cg
 cgc
 cgi
 cgm
+cgp
 cgs
 ch
 cha
@@ -1968,7 +1965,6 @@ champagne
 champion
 champions
 chan
-chance
 change
 changelog
 changes
@@ -2165,6 +2161,7 @@ cmp
 cms
 cms1
 cms2
+cms3
 cms-dev
 cmsdev
 cmstest
@@ -2217,6 +2214,7 @@ colombia
 color
 colorado
 colossus
+colt
 columbia
 columbus
 com
@@ -2244,7 +2242,6 @@ company
 compaq
 compare
 compass
-competition
 complaints
 complete
 compliance
@@ -2742,7 +2739,6 @@ devportal
 devtest
 devtools
 dev-www
-devwww
 dewey
 dewww
 dex
@@ -2755,6 +2751,7 @@ dg
 dh
 dhcp
 dhcp1
+dhcp2
 dhl
 dhs
 di
@@ -2773,7 +2770,6 @@ dic
 dice
 dict
 dictionary
-didi
 dieet
 diego
 diemen
@@ -2783,6 +2779,7 @@ dier
 dieren
 diesel
 diet
+dieta
 dig
 digi
 digikoppeling
@@ -3436,7 +3433,6 @@ exp
 expe
 experience
 experiment
-experiments
 expert
 experts
 explore
@@ -3488,10 +3484,10 @@ fan
 fanclub
 fans
 fantasy
-fap
 faq
 faqs
 faraday
+fargo
 farm
 fas
 fashion
@@ -3511,6 +3507,7 @@ fd
 fdc
 fds
 fe
+fe1
 fe2
 feature
 features
@@ -3552,7 +3549,6 @@ fifa
 fig
 file
 file1
-file2
 filecap
 filemaker
 files
@@ -3761,14 +3757,12 @@ g1
 g2
 g3
 g4
-g6
 ga
 gabriel
 gac-rds-external-readonly
 gac-rds-external-readonly-preprod
 gadget
 gadgets
-gagarin
 gaia
 gal
 gala
@@ -3854,7 +3848,6 @@ general
 generator
 genesis
 genetics
-geneva
 genie
 genius
 genome
@@ -3906,6 +3899,7 @@ gin
 gina
 ginger
 gio
+gip
 girl
 girls
 gis
@@ -4146,7 +4140,6 @@ hcm
 hcp
 hcs
 hd
-hds
 he
 headhunter
 headlines
@@ -4287,7 +4280,6 @@ host12
 host13
 host2
 host20
-host21
 host3
 host4
 host5
@@ -4772,6 +4764,7 @@ jedi
 jeep
 jeff
 jefferson
+jelly
 jenkins
 jennifer
 jenny
@@ -4917,6 +4910,7 @@ karina
 karma
 karriere
 kart
+karta
 kas
 kaspersky
 kassa
@@ -4947,9 +4941,9 @@ kentucky
 kepler
 kerberos
 kerch
+kerio
 kerkrade
 kermit
-kernel
 kerst
 kerstkaarten
 kerstmis
@@ -5101,6 +5095,7 @@ la
 lab
 lab1
 label
+labo
 labor
 labrador
 labs
@@ -5237,6 +5232,7 @@ lifestyle
 liga
 light
 lighthouse
+lighting
 lightning
 like
 lily
@@ -5339,7 +5335,6 @@ look
 looker
 lookup
 loopback
-lord
 losangeles
 lost
 loterijen
@@ -5353,6 +5348,7 @@ lounge
 love
 loyalty
 lp
+lp1
 lps
 lr
 lrs
@@ -5460,8 +5456,6 @@ mail13
 mail14
 mail15
 mail16
-mail17
-mail18
 mail2
 mail20
 mail21
@@ -5942,7 +5936,6 @@ mp
 mp3
 mp4
 mpa
-mpc
 mpi
 mpk
 mpp
@@ -6059,6 +6052,7 @@ myadmin
 myapps
 mydesktop
 mydev
+mydomain
 myfiles
 myhome
 myhr
@@ -6168,6 +6162,7 @@ new2
 newage
 newmail
 newman
+newmedia
 neworleans
 news
 news1
@@ -6687,6 +6682,7 @@ parfum
 parijs
 paris
 park
+parked
 parker
 parkeren
 parking
@@ -6695,7 +6691,6 @@ parrot
 part
 partenaires
 partner
-partnerapi
 partnerportal
 partners
 partnerships
@@ -6762,7 +6757,6 @@ penza
 people
 pep
 pepper
-pepsi
 per
 perf
 perfect
@@ -6949,7 +6943,6 @@ polycom
 pomoc
 pong
 pony
-pooh
 pool
 pop
 pop3
@@ -7013,7 +7006,6 @@ prepaid
 pre-prod
 preprod
 preproductie
-prerelease
 presence
 present
 presentatie
@@ -7273,7 +7265,6 @@ rainbow
 rally
 ralph
 ram
-rambo
 ramenskoe
 rams
 ran
@@ -7362,6 +7353,7 @@ redirects
 redis
 redmine
 redwood
+reed
 ref
 refer
 reference
@@ -7574,6 +7566,7 @@ rpt
 rr
 rs
 rs1
+rs2
 rsa
 rsc
 rsm
@@ -7789,6 +7782,7 @@ scooters
 scootmobiel
 scope
 score
+scorpio
 scorpion
 scott
 scotty
@@ -7817,6 +7811,7 @@ se
 sea
 seagull
 seal
+sean
 search
 search1
 search2
@@ -7826,6 +7821,7 @@ searchportal-dev
 searchportal-qa
 seat
 seattle
+sebastian
 sec
 secmail
 second
@@ -7966,6 +7962,7 @@ shell
 shemale
 sheriff
 sherlock
+shi
 shib
 shibboleth
 shield
@@ -8133,7 +8130,6 @@ smtp-out
 smtpout
 smtp-relay
 smtps
-smurf
 sn
 snake
 snap
@@ -8227,7 +8223,6 @@ spd
 spec
 special
 specials
-spectre
 spectrum
 speech
 speed
@@ -8512,6 +8507,7 @@ supplychain
 support
 support1
 support2
+supreme
 sur
 surf
 surgery
@@ -8622,7 +8618,6 @@ taurus
 tax
 taxi
 taylor
-taz
 tb
 tbc
 tbs
@@ -8767,6 +8762,7 @@ theme
 themes
 themis
 theory
+therapie
 thesis
 theta
 think
@@ -8815,6 +8811,7 @@ tj
 tk
 tl
 tlc
+tld
 tls
 tlt
 tm
@@ -8869,6 +8866,7 @@ torrent
 torrents
 tos
 toshiba
+tot
 total
 toto
 touch
@@ -8960,6 +8958,7 @@ ts3
 tsa
 tsc
 tsg
+tsgw
 t-shirt
 tsm
 tsp
@@ -9275,7 +9274,6 @@ video1
 video2
 videocdn
 videochat
-videoconf
 videos
 vidnoe
 vids
@@ -9352,7 +9350,6 @@ vogel
 voice
 voicemail
 voices
-void
 voip
 vol
 volga
@@ -9392,6 +9389,7 @@ vps1
 vps2
 vps3
 vps4
+vps5
 vr
 vragenlijst
 vrienden
@@ -9471,7 +9469,6 @@ wd
 wdc
 we
 weather
-weaver
 web
 web01
 web02
@@ -9579,6 +9576,7 @@ welcome
 welkom
 well
 wellbeing
+wellington
 wellness
 wendy
 wenku
@@ -9628,6 +9626,7 @@ wildcard
 wiley
 william
 willow
+willy
 wilson
 win
 wind
@@ -9696,6 +9695,7 @@ wowza
 woz
 wp
 wp1
+wp2
 wpad
 wpc
 wps
@@ -9704,7 +9704,6 @@ wr
 writer
 wroclaw
 ws
-ws01
 ws1
 ws2
 ws3
@@ -9830,7 +9829,6 @@ wz
 x1
 x2
 x3
-x4
 xa
 xavier
 xb
@@ -9921,6 +9919,7 @@ zaken
 zakupki
 zandvoort
 zap
+zaphod
 zara
 zb
 zc
@@ -9953,6 +9952,7 @@ zh
 zhaopin
 zh-cn
 ziekten
+ziewww
 ziggo
 zilver
 zimbra

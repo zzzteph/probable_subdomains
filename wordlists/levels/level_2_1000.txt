@@ -115,7 +115,6 @@ apple
 apply
 apps
 ar
-arc
 archive
 argocd
 art
@@ -129,6 +128,7 @@ athena
 atlantis
 atlas
 au
+audit
 auth
 author
 auto
@@ -220,7 +220,6 @@ collab-edge
 com
 common
 community
-compass
 conf
 conference
 config
@@ -334,7 +333,6 @@ enterpriseregistration
 erp
 es
 eu
-europe
 eu-west-1
 event
 events
@@ -353,7 +351,6 @@ file
 files
 finance
 fm
-focus
 form
 forms
 forum
@@ -832,6 +829,7 @@ spf
 splunk
 sport
 sports
+sps
 sql
 sr
 srv
@@ -873,6 +871,7 @@ sys
 system
 sz
 t1
+t2
 tableau
 tc
 team
@@ -974,6 +973,7 @@ welcome
 west
 whm
 whois
+widget
 wifi
 wiki
 wildcard
