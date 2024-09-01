@@ -543,7 +543,6 @@ ml
 mm
 mms
 mobiel
-mobil
 mobile
 money
 mongo
@@ -917,6 +916,7 @@ vpn
 vpn1
 vpn2
 vps
+w3
 waarmerk
 wallet
 wap

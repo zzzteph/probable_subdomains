@@ -494,6 +494,7 @@ login
 logs
 love
 lp
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -731,7 +732,6 @@ reviews
 ro
 root
 rootsweb
-rostov
 rotterdam
 router
 rs

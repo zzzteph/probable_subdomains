@@ -349,6 +349,7 @@ bbs
 bc
 be
 beta
+bg
 bi
 billing
 bitbucket
@@ -521,6 +522,7 @@ fbx
 fe
 feedback
 ff
+fi
 file
 files
 finance
@@ -569,7 +571,9 @@ host
 hosting
 hostmaster
 hp
+hr
 httpbin
+hu
 hub
 iad
 iam
@@ -591,6 +595,7 @@ info
 infra
 ingest
 ingress
+insights
 int
 integration
 internal
@@ -656,14 +661,12 @@ maps
 marketing
 marketplace
 master
-mb
 mdm
 mds
 me
 media
 meet
 messaging
-metadata
 metrics
 mgmt
 mi
@@ -706,13 +709,13 @@ nlm
 no
 node
 nonprod
-notary
 notifications
 ns
 ns1
 ns2
 ns3
 ns4
+nz
 o1
 o2
 oauth
@@ -727,7 +730,6 @@ online
 onlinelibrary
 ops
 order
-orders
 org
 origin
 outlook
@@ -746,6 +748,7 @@ payments
 paypal
 pc
 perf
+performance
 pgadmin
 ph
 php
@@ -827,7 +830,6 @@ retail
 rev
 rp
 rs
-rss
 ru
 s1
 s3
@@ -843,7 +845,6 @@ sciencemag
 scitation
 scm
 se
-sea
 search
 secure
 security
@@ -894,7 +895,6 @@ stg1
 stg2
 storage
 store
-storybook
 stream
 sts
 studio
