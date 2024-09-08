@@ -803,6 +803,7 @@ ss
 ssl
 sslvpn
 sso
+sst
 st
 staff
 stage
@@ -993,7 +994,6 @@ www9
 www-test
 wwww
 wwwwww
-xml
 xroads
 xxx
 yaroslavl

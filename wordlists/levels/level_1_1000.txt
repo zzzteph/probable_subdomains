@@ -652,7 +652,6 @@ photos
 php
 phpmyadmin
 pic
-pilot
 piwik
 pki
 pl
@@ -945,6 +944,7 @@ webmail2
 webservices
 webshop
 website
+websitewww
 webwinkel
 welcome
 wenku

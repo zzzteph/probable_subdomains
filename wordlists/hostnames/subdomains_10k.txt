@@ -1775,7 +1775,6 @@ car
 caravan
 carbon
 card
-cardinal
 cards
 care
 career
@@ -2368,6 +2367,7 @@ crimea
 cris
 crisis
 cristal
+cristina
 crl
 crm
 crm2
@@ -2862,7 +2862,6 @@ dojo
 dokkum
 dol
 dollar
-dollars
 dolls
 dolly
 dolphin
@@ -3139,7 +3138,6 @@ electro
 electron
 electronica
 electronics
-elegance
 elektricien
 elektrische-auto
 elektro
@@ -3584,6 +3582,7 @@ flevoland
 flex
 flight
 flights
+flint
 flirt
 flo
 floor
@@ -4120,6 +4119,7 @@ harmony
 harry
 harrypotter
 haven
+havoc
 hawaii
 hawk
 hb
@@ -4293,7 +4293,6 @@ hostmaster.www
 hosts
 hot
 hotel
-hoteles
 hotels
 hotline
 hotmail
@@ -4581,6 +4580,7 @@ innovatie
 innovation
 inproces
 inproces.acceptatie
+input
 inrichting
 ins
 inschrijven
@@ -4639,7 +4639,6 @@ io
 ion
 ios
 iot
-iota
 iowa
 ip
 ip1
@@ -4923,6 +4922,7 @@ kassa
 kasten
 kat
 katalog
+katrina
 katten
 katwijk
 kazan
@@ -5794,6 +5794,7 @@ mia
 miami
 miass
 mic
+mica
 michael
 michelle
 michigan
@@ -6101,6 +6102,7 @@ mysite
 mysites
 myspace
 mysql
+mysql1
 mysql2
 mystery
 mystore
@@ -6181,7 +6183,6 @@ netwerk
 network
 networking
 neuro
-neuron
 nevada
 new
 new1
@@ -6769,7 +6770,6 @@ perm
 permits
 pers
 perseus
-perso
 person
 persona
 personal
@@ -6871,7 +6871,6 @@ placement
 places
 plan
 planet
-planeta
 planner
 planning
 plant
@@ -7092,7 +7091,6 @@ proteus
 proto
 proton
 prototype
-prov
 provider
 provincia
 provisioning
@@ -7175,6 +7173,7 @@ pypi
 pyramid
 python
 q2
+q3
 qa
 qa1
 qa2
@@ -7251,7 +7250,6 @@ ram
 rambo
 ramenskoe
 rams
-ran
 rancher
 random
 ranger
@@ -7397,6 +7395,7 @@ rente
 rep
 repair
 replay
+replica
 reply
 repo
 report
@@ -7930,7 +7929,6 @@ shell
 shemale
 sheriff
 sherlock
-shibboleth
 shield
 shine
 ship
@@ -8587,6 +8585,7 @@ taurus
 tax
 taxatie
 taxi
+taz
 tb
 tbc
 tbmhx.blog
@@ -8957,6 +8956,7 @@ tuinmeubelen
 tuinplanten
 tuinverlichting
 tula
+tulip
 tumblr
 tumen
 tunedin.blogs

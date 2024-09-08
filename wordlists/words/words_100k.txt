@@ -4781,6 +4781,7 @@ account-test
 accounttest
 account-uat
 accp
+acc-portal
 accportal
 accr
 accra
@@ -5257,6 +5258,7 @@ addition
 additive
 addo
 addon
+add-ons
 addons
 addr
 address
@@ -11840,6 +11842,7 @@ auditoria
 auditorium
 auditors
 audits
+audit-test
 audi-velgen
 audivelgen
 audra
@@ -13154,6 +13157,7 @@ backend1
 backend2
 backend-api
 backend-dev
+backend-test
 backfire
 backflip
 backgammon
@@ -18168,6 +18172,7 @@ brogan
 brok
 broken
 broker
+broker-1
 broker1
 broker2
 brokerage
@@ -23119,6 +23124,7 @@ cm-prod
 cmps
 cmp-sp
 cmpt
+cmp-test
 cmpv2
 cmq
 cmr
@@ -24050,6 +24056,8 @@ configuration
 configurations
 configurator
 configure
+configure-next
+configure-previous
 confirm
 confirmation
 confirmations
@@ -25079,6 +25087,7 @@ creativecommons
 creativefactory
 creativelab
 creativelive
+creativemarket
 creativemedia
 creativemind
 creativeminds
@@ -29310,7 +29319,6 @@ dis
 disa
 disability
 disabilitystudies
-disable
 disabled
 disaster
 disasterrecovery
@@ -29360,7 +29368,6 @@ disease
 dish
 disha
 dishonored
-dishtv
 disinfo
 disk
 diski
@@ -29371,10 +29378,8 @@ disneychannel
 disneyland
 disneylandparijs
 disneylandparis
-disneyonice
 disneyworld
 disneyxd
-diso
 disorder
 disp
 dispatch
@@ -29396,7 +29401,6 @@ disruptive
 diss
 dissociatie
 dist
-distan
 distance
 distancecalculator
 distance-ed
@@ -29410,7 +29414,6 @@ distil
 distill
 distilled
 distillery
-distinction
 distortion
 distr
 distrib
@@ -29425,7 +29428,6 @@ distributor
 distributors
 district
 district4
-district8
 district9
 districts
 distro
@@ -29486,7 +29488,6 @@ dixy
 diy
 diybbs
 diz
-diza
 dizain
 dizayn
 dizel
@@ -29512,14 +29513,12 @@ djh
 dji
 djibouti
 djj
-djk
 djl
 djm
 djmix
 djo
 djon
 djp
-djr
 djs
 djt
 dj-tiesto
@@ -29551,7 +29550,6 @@ dkp
 dkr
 dks
 dkt
-dkv
 dkw
 dkw-auto
 dkwww
@@ -29576,7 +29574,6 @@ dlcrediets
 dld
 dldl
 dle
-dlee
 dlf
 dlg
 dlh
@@ -29623,13 +29620,11 @@ dmail
 dmap
 dmapp
 dmarc
-dmartin
 dmaster
 dmb
 dmc
 dmc2
 dmca
-dmcs
 dmd
 dmds
 dme
@@ -29685,9 +29680,7 @@ dn3
 dna
 dna1
 dnac
-dnacenter
 dnap
-dna-test
 dnb
 dnc
 dnd
@@ -29703,7 +29696,6 @@ dnf
 dng
 dnh
 dni
-dnipro
 dnj
 dnk
 dnl
@@ -29835,7 +29827,6 @@ doclib
 docman
 doco
 docomo
-docplanner
 docportal
 docs
 docs1
@@ -29871,7 +29862,6 @@ documentation
 documenten
 documentmanagement
 documentos
-documentportal
 documents
 documentum
 docushare
@@ -29884,16 +29874,13 @@ docweb
 docx
 dod
 doda
-dodd
 dodewaard
 dodge
 dodgeautohitter
-dodgeball
 dodger
 dodgers
 dodge-velgen
 dodgevelgen
-dodi
 dodo
 dody
 doe
@@ -29913,7 +29900,6 @@ does-no-exist33
 doetinchem
 doezum
 dof
-dofi
 dofollowlinks
 dofollowlinkslist
 dofollowsites
@@ -29922,7 +29908,6 @@ dog
 doga
 dogan
 dogbert
-dogcat
 doge
 dogecoin
 dogfish
@@ -29931,9 +29916,7 @@ dogfood-dev
 dogger
 doggie
 doggy
-doggystyle
 doghouse
-dogi
 dogma
 dogman
 dogmatix
@@ -29977,7 +29960,6 @@ dola
 dolar
 dolby
 dolce
-dolcegabbana
 dolce-vita
 dolcevita
 doldersum
@@ -29986,7 +29968,6 @@ dolf
 dolfijn
 dolfijnen
 dolfijntje
-dolfin
 dolfinarium
 dolgoprudniy
 dolgoprudny
@@ -30005,11 +29986,9 @@ dolls
 dolly
 dollz
 dolomieten
-dolomiti
 dolores
 dolph
 dolphin
-dolphin1
 dolphins
 dom
 dom1
@@ -30081,7 +30060,6 @@ domino
 domino1
 domino2
 dominos
-dominospizza
 dominoweb
 dominus
 domjudge
@@ -30089,7 +30067,6 @@ dommel
 domo
 domodedovo
 domofon
-domolink
 domore
 domostroy
 domotica
@@ -30098,11 +30075,9 @@ domovenok
 domreg
 doms
 domssl
-domtest
 domus
 domy
 don
-don1
 dona
 donald
 donald-duck
@@ -31486,6 +31461,7 @@ ebis
 ebisu
 ebit
 ebiz
+ebk
 ebl
 eblib
 eblog
@@ -31886,6 +31862,7 @@ edsel
 edson
 edt
 edtech
+edtest
 edu
 edu1
 edu2
@@ -32249,6 +32226,7 @@ einvoicing
 eio
 eios
 eip
+eip-ntt
 eip-tata
 eir
 eirb
@@ -32468,6 +32446,7 @@ elements
 elementum
 elen
 elena
+elene
 eleni
 eleonora
 eleonore
@@ -33666,6 +33645,7 @@ esales-test
 esam
 esap
 esapi
+es-ar
 esas
 esb
 esb2
@@ -34172,6 +34152,7 @@ eus2
 eu-south-1
 eut
 euterpe
+eutest
 euthanasie
 eutopia
 euu
@@ -38682,6 +38663,7 @@ geoinfo
 geoint
 geoip
 geol
+geolab
 geoloc
 geolocation
 geolocator
@@ -39415,6 +39397,7 @@ globalview
 globalvision
 globalvoices
 globalwww
+globalx
 globe
 globes
 globetrotter
@@ -41242,6 +41225,7 @@ h5-alimebot
 h5p
 h5vco
 h5vcoi
+h5vcot
 h6
 h61
 h65
@@ -46925,6 +46909,7 @@ ira
 iracing
 irad
 irak
+iram
 iran
 irap
 iraq
@@ -47012,6 +46997,7 @@ irving
 irvnca
 irw
 irwin
+irx
 iry
 irz
 i-s
@@ -59639,7 +59625,9 @@ muscat
 muscle
 muse
 musea
+musei
 muse-jhu-edu
+museo
 muser
 muses
 museum
@@ -65454,11 +65442,13 @@ p36
 p360
 p4
 p40
+p41
 p42
 p43
 p44
 p45
 p47
+p48
 p4p
 p5
 p51
@@ -65800,6 +65790,7 @@ papua
 papyrus
 paq
 par
+par1
 par2
 para
 parabellum
@@ -67073,6 +67064,7 @@ photos6
 photoshop
 photos-internal
 photostore
+photoupload
 photo-video
 php
 php1
@@ -67114,6 +67106,7 @@ physio
 physiology
 physique
 phyto
+phz
 pi
 pi01
 pi1
@@ -68218,6 +68211,7 @@ portalwww
 porter
 portfolio
 portfolios
+porthole
 porthos
 portia
 portico
@@ -68997,6 +68991,7 @@ productimages
 productinfo
 production
 production2
+production-api
 productions
 productiviteit
 productivity
@@ -76818,6 +76813,7 @@ shoping
 shopkeep
 shopkorting
 shoplocal
+shop-nasfree
 shop-online
 shoponline
 shopophetweb
@@ -77087,6 +77083,7 @@ signs-of-std
 sign-up
 signup
 signups
+signup-staging
 sign-zorgplatform
 sigrh
 sigrid
@@ -81897,6 +81894,7 @@ taiko
 tail
 tailor
 tailored
+tailormade
 tails
 taina
 taipan
@@ -86736,6 +86734,7 @@ usaid
 usajobs
 usa-men
 usamen
+usap
 us-api
 usar
 usat
@@ -88464,6 +88463,7 @@ vipp
 vipr
 vips
 vipshop
+vipweb
 vir
 vira
 viral
