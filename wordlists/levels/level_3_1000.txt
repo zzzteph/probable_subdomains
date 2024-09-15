@@ -543,7 +543,6 @@ id
 identity
 idm
 idp
-ids
 ie
 ieee
 im
@@ -610,6 +609,7 @@ login
 logs
 loki
 london
+lt
 lyncdiscover
 lyncdiscoverinternal
 m1
@@ -672,6 +672,7 @@ mysql
 n1
 na
 nagios
+nat
 nature
 ne
 net
@@ -721,7 +722,6 @@ order
 orders
 org
 origin
-os
 oss
 outlook
 owa

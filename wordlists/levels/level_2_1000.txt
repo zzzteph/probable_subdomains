@@ -34,7 +34,6 @@
 38
 40
 41
-43
 44
 45
 50
@@ -241,6 +240,7 @@ cpcalendars
 cpcontacts
 cps
 cr
+crl
 crm
 crowd
 cs
@@ -305,7 +305,6 @@ dr
 drive
 ds
 dyn
-dynamic
 ea
 east
 ec
@@ -469,6 +468,7 @@ kb
 keycloak
 kibana
 kids
+km
 kr
 kubernetes
 la

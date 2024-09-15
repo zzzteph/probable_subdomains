@@ -1012,6 +1012,7 @@ authenticate
 authenticatie
 authentication
 author
+authoring
 authors
 authsmtp
 auth-test
@@ -4119,7 +4120,6 @@ harmony
 harry
 harrypotter
 haven
-havoc
 hawaii
 hawk
 hb
@@ -5794,7 +5794,6 @@ mia
 miami
 miass
 mic
-mica
 michael
 michelle
 michigan
@@ -5913,6 +5912,7 @@ models
 modem
 moderator
 modern
+module
 modules
 moe
 moederdag
@@ -7170,7 +7170,6 @@ px
 py
 pyatigorsk
 pypi
-pyramid
 python
 q2
 q3
@@ -7308,6 +7307,7 @@ rechtspraak
 recipes
 reclame
 reclamebureau
+recon
 record
 recorder
 records

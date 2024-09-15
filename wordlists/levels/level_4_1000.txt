@@ -328,7 +328,6 @@ atlantis
 atlas
 att
 au
-audit
 auth
 author
 auto
@@ -363,6 +362,7 @@ bo
 box
 br
 brillonline
+broker
 build
 business
 c1
@@ -662,7 +662,6 @@ marketing
 marketplace
 master
 mdm
-mds
 me
 media
 meet
@@ -709,6 +708,7 @@ nlm
 no
 node
 nonprod
+notary
 notifications
 ns
 ns1

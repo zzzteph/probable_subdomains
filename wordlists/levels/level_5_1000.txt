@@ -546,7 +546,6 @@ gamma
 gate
 gateway
 gc
-general
 geneva
 geo
 gh
@@ -631,6 +630,7 @@ k8s
 kafka
 kb
 keycloak
+kiali
 kibana
 king
 korea

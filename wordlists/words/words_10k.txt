@@ -1125,6 +1125,7 @@ autodealer
 autodiscover
 autogarage
 autolease
+automate
 automation
 automatisering
 automotive
@@ -3340,7 +3341,6 @@ eservices
 eset
 esf
 esg
-e-shop
 eshop
 esi
 esign
