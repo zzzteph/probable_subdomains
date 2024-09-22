@@ -386,6 +386,7 @@ hostmaster
 hotel
 hotels
 house
+hq
 hr
 http
 httpwww
@@ -923,7 +924,6 @@ vn
 voice
 voip
 volgograd
-voronezh
 vote
 vpn
 vpn1

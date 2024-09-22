@@ -527,7 +527,6 @@ advokat
 adwords
 adx
 ae
-aec
 aed
 aem
 a-english
@@ -2993,7 +2992,6 @@ dst
 dt
 dtc
 dtm
-dtp
 dts
 du
 dub
@@ -3243,6 +3241,7 @@ enc
 encoder
 encore
 encrypt
+encuestas
 encyclopedia
 endeavour
 endpoint
@@ -4033,7 +4032,6 @@ gs
 gs1
 gsa
 gsc
-gsfc
 gslb
 gslink
 gsm
@@ -5492,6 +5490,7 @@ mailings
 maillist
 mailman
 mailout
+mailout2
 mail-relay
 mailrelay
 mails
@@ -7131,6 +7130,7 @@ psychology
 pt
 pta
 ptc
+ptest
 ptr
 pts
 ptt

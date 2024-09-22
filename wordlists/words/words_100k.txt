@@ -5401,6 +5401,7 @@ adm2
 adm3
 adma
 adman
+ad-management
 admanager
 admarket
 admaster
@@ -9490,6 +9491,7 @@ aperture
 apes
 apex
 apex-dev
+apexdev
 apf
 apfc
 apfel
@@ -22748,6 +22750,7 @@ clickup
 clickview
 clien
 client
+client02
 client1
 client2
 client3
@@ -22995,6 +22998,7 @@ clove
 clover
 cloverdale
 cloverleaf
+clovers
 clovis
 clown
 clownfish
@@ -23185,6 +23189,7 @@ cms-test
 cmstest
 cms-tst
 cms-uat
+cmsuat
 cms-web
 cmsweb
 cms-www
@@ -25115,6 +25120,7 @@ credential
 credentials
 credi
 credible
+credis
 credit
 creditapp
 creditbank
@@ -26434,6 +26440,7 @@ dachshund
 dacia
 daciavelgen
 daco
+dacon
 dacosta
 dacs
 dad
@@ -27751,13 +27758,11 @@ delivery
 delivery-ci360
 delivery-dev
 deliveryhero
-delivra
 dell
 della
 delly
 delmar
 delnet
-delnorte
 delo
 deloitte
 delong
@@ -27774,7 +27779,6 @@ delrio
 dels
 delsey
 delsol
-delt
 delta
 delta1
 delta2
@@ -27799,15 +27803,12 @@ demar
 demarco
 demarne
 demat
-dematic
-deme
 de-meern
 demen
 dementia
 dementie
 demeter
 demetra
-demetrio
 demetrius
 demi
 demian
@@ -27859,7 +27860,6 @@ demo-api
 demoapi
 demo-app
 demoapp
-democenter
 democms
 democracy
 democratic
@@ -27876,15 +27876,14 @@ demolisher
 demolition
 demon
 demon-gw
-demonic
 demons
 demonstration
 demo-portal
 demoportal
 demos
-demoservice
 demoshop
 demosite
+demo-staging
 demostore
 demo-test
 demotest
@@ -27897,7 +27896,6 @@ demy
 den
 den1
 den2
-den4ik
 dena
 denali
 den-andel
@@ -27912,7 +27910,6 @@ dendi
 den-dolder
 dendrite
 dendy
-dene
 deneb
 denebola
 denekamp
@@ -27934,7 +27931,6 @@ denhelder
 deni
 denia
 denial
-denice
 denied
 denik
 denim
@@ -27960,14 +27956,12 @@ denny
 deno
 denodo
 denon
-denovo
 denpasar
 dens
 density
 denso
 denson
 dent
-denta
 dental
 dentalmarketing
 dentalmedia
@@ -27980,7 +27974,6 @@ dentsu
 denuncia
 den-velde
 denver
-denwa
 deny
 denys
 denzel
@@ -28012,7 +28005,6 @@ deploy-test
 deploytest
 depo
 depok
-deporte
 deportes
 deportivo
 depos
@@ -28046,8 +28038,6 @@ dergi
 deri
 deribit
 de-rijp
-derik
-derin
 deriv
 derivatives
 derive
@@ -28064,7 +28054,6 @@ derondevenen
 derp
 derrick
 ders
-dert
 deru
 dervish
 des
@@ -28120,7 +28109,6 @@ design-system
 designsystem
 design-test
 designthinking
-designweb
 designx
 desigual
 desire
@@ -28151,12 +28139,10 @@ desoto
 despair
 desperado
 desperados
-desperate
 desperatehousewives
 despina
 dess
 dessert
-dessie
 dest
 destek
 destentor
@@ -28165,7 +28151,6 @@ destin
 destination
 destinationredbull
 destinations
-destinos
 destiny
 destinys-child
 destroy
@@ -28181,7 +28166,6 @@ detailhandel
 details
 detali
 detect
-detectify
 detection
 detectiv
 detective
@@ -28198,7 +28182,6 @@ detik
 detki
 detomaso
 detour
-detours
 detox
 detr
 detran
@@ -28314,7 +28297,6 @@ devaccount
 dev-accounts
 dev-admin
 devadmin
-dev-ai
 dev-ams
 dev-analytics
 devanalytics
@@ -28349,7 +28331,6 @@ dev-cdn
 devcdn
 devcenter
 devcentral
-dev-cf
 dev-chat
 devchat
 devchata
@@ -29569,6 +29550,7 @@ dlp
 dlq
 dlr
 dls
+dlsc
 dlt
 dltest
 dlv
@@ -39846,6 +39828,7 @@ goossens
 goowww
 gop
 gopal
+gopay
 gopher
 gophish
 goplay
@@ -40939,6 +40922,7 @@ gvd
 gve
 gvg
 gvi
+gvk
 gvm
 gvo
 gvopsawa
@@ -44709,6 +44693,7 @@ icsb
 icsc
 icsd
 icsi
+icsl
 icss
 icst
 ict
@@ -47116,6 +47101,7 @@ isolatiematerialen
 isolation
 isolde
 isoleren
+isolutions
 isom
 isotopes
 isource
@@ -47919,6 +47905,7 @@ jena
 jenaplan
 jenga
 jenius
+jenkin
 jenkins
 jenkins01
 jenkins02
@@ -48228,6 +48215,7 @@ jjp
 jjr
 jjs
 jjsg
+jjw
 jk
 jka
 jkh
@@ -49890,6 +49878,7 @@ kids
 kidsclub
 kidscommonwealth
 kidsenzo
+kidsfashion
 kidsfun
 kidsplanet
 kidz
@@ -55079,6 +55068,8 @@ mail-out2
 mailout2
 mailout3
 mailout4
+mailout5
+mailout6
 mail-p1
 mailplus
 mailportal
@@ -63315,6 +63306,7 @@ ocio
 ock
 ocl
 oclc
+ocloud
 ocm
 ocme
 ocms
@@ -67390,6 +67382,7 @@ pizda
 pizza
 pizzachinees
 pizzahut
+pizza-oven
 pizzaria
 pizzeria
 pj
@@ -72086,6 +72079,7 @@ resonate
 resor
 resort
 resorts
+resound
 resource
 resourcecenter
 resourcemanager
@@ -75531,6 +75525,7 @@ securityawareness
 security-center
 securitycenter
 security-dashboard
+securitydashboard
 security-dev
 securitymonkey
 securityportal
@@ -76098,6 +76093,7 @@ services-qa
 services-stage
 services-staging
 services-stg
+services-store
 services-t
 service-stage
 service-staging
@@ -82700,6 +82696,7 @@ tenerife
 tenet
 tenga
 tengu
+tengzhou
 tenis
 tennessee
 tennis
@@ -82790,6 +82787,7 @@ terry
 ters
 terschelling
 terschuur
+terstal
 tervis
 terwispel
 terwolde
@@ -85725,6 +85723,7 @@ tyu
 tyukalinsk
 tyumen
 tyva
+tyx
 tz
 tzb
 tzh
@@ -98335,6 +98334,7 @@ xgc
 xgn
 xh
 xhamster
+xhprof
 xhtml
 xi
 xiamen

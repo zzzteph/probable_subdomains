@@ -361,7 +361,6 @@ bmj
 bo
 box
 br
-brillonline
 broker
 build
 business
@@ -747,6 +746,7 @@ payment
 payments
 paypal
 pc
+people
 perf
 performance
 pgadmin
@@ -874,7 +874,6 @@ splunk
 sports
 springer
 springerlink
-srv
 ss
 ssh
 ssl
@@ -947,6 +946,7 @@ update
 upload
 uploads
 us
+use
 use1
 us-east-1
 us-east-2
