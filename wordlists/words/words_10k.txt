@@ -6,7 +6,6 @@
 00www
 01
 010
-013
 02
 020
 03
@@ -368,7 +367,6 @@ abi
 ablink
 abm
 abmail
-abn
 abo
 abonnement
 abonnementen
@@ -469,7 +467,6 @@ adhd
 adherents
 adi
 adidas
-adl
 adler
 adlog
 adm
@@ -544,7 +541,6 @@ afm
 afp
 africa
 afrika
-afrodita
 afs
 afslanken
 afspraak
@@ -560,7 +556,6 @@ agenda
 agent
 agents
 agile
-aging
 agnes
 agora
 agr
@@ -604,13 +599,13 @@ akamai
 akamai-test
 akamai-test-origin
 akira
+akita
 aks
 al
 alabama
 aladdin
 aladin
 alan
-alanya
 alarm
 alaska
 alb
@@ -669,6 +664,7 @@ almaty
 almelo
 almere
 aloha
+alone
 alp
 alpha
 alpha2
@@ -787,6 +783,7 @@ anketa
 ann
 anna
 anne
+annex
 annie
 annuaire
 annualreport
@@ -818,7 +815,6 @@ aoc
 aol
 a-opendata
 aos
-aov
 aovpn
 ap
 ap1
@@ -849,7 +845,6 @@ api-int
 api-internal
 apim
 apiportal
-api-preprod
 api-prod
 api-qa
 apis
@@ -962,6 +957,7 @@ arkansas
 arkhangelsk
 arm
 armada
+armani
 armavir
 armenia
 armstrong
@@ -969,6 +965,7 @@ army
 arnhem
 arno
 arnold
+aroma
 arp
 arrow
 ars
@@ -1145,7 +1142,6 @@ avalanche
 avalon
 avatar
 avatars
-ave
 avedge
 avg
 avi
@@ -1326,11 +1322,11 @@ beacon
 beagle
 beaker
 beam
-beamer
 bean
 bear
 beast
 beatles
+beatrice
 beautiful
 beauty
 bebe
@@ -1651,6 +1647,7 @@ brown
 browse
 browser
 brs
+bru
 bruce
 bruiloft
 bruno
@@ -1718,6 +1715,7 @@ c0
 c1
 c10
 c11
+c13
 c2
 c2c
 c3
@@ -1774,7 +1772,6 @@ camp
 campagne
 campaign
 campaigns
-campbellbrown
 camper
 campers
 camping
@@ -1792,6 +1789,7 @@ candy
 cannabis
 cannes
 canon
+canopus
 canvas
 cao
 cap
@@ -1817,7 +1815,6 @@ careers
 cargo
 carina
 carl
-carla
 carlos
 carmen
 carnaval
@@ -1868,7 +1865,6 @@ cbs
 cbt
 cc
 cc1
-cc2
 cca
 ccb
 ccc
@@ -1969,6 +1965,7 @@ champagne
 champion
 champions
 chan
+chance
 change
 changelog
 changes
@@ -2085,7 +2082,6 @@ citrix
 citrix2
 citroen
 city
-cityworks
 civil
 cj
 ck
@@ -2136,7 +2132,6 @@ cloud
 cloud1
 cloud2
 cloud9
-cloudapp
 cloudflare
 cloudflare-resolve-to
 cloudfront
@@ -2263,6 +2258,7 @@ conan
 concept
 concierge
 concord
+concorde
 concours
 concourse
 concur
@@ -2415,7 +2411,6 @@ crl
 crm
 crm2
 crm-dev
-crmdev
 crmtest
 cro
 croatia
@@ -2530,6 +2525,7 @@ daa
 daas
 dac
 dada
+daemon
 daf
 daffy
 dag
@@ -2614,7 +2610,6 @@ dca
 dcc
 dce
 dcm
-dcms
 dcp
 dcr
 dcs
@@ -2773,6 +2768,7 @@ dic
 dice
 dict
 dictionary
+didi
 dieet
 diego
 diemen
@@ -2789,7 +2785,6 @@ digikoppeling
 digilander
 digitaal
 digital
-dildo
 dima
 dimitrovgrad
 ding
@@ -2855,9 +2850,9 @@ dmv
 dmz
 dn
 dna
-dnc
 dnm
 dnn
+dnp
 dns
 dns0
 dns01
@@ -3146,6 +3141,7 @@ ek
 ekaterinburg
 ekb
 eko
+ekonomi
 eks
 el
 elan
@@ -3244,6 +3240,7 @@ encrypt
 encuestas
 encyclopedia
 endeavour
+endor
 endpoint
 energie
 energy
@@ -3359,7 +3356,6 @@ essentuki
 est
 estate
 esther
-estonia
 estore
 esupport
 esx
@@ -3407,10 +3403,10 @@ evm
 evo
 evolution
 evolve
+evp
 evs
 ew
 ews
-eww
 ewww
 ex
 ex2
@@ -3420,6 +3416,7 @@ example
 exams
 excalibur
 excel
+excellence
 excelsior
 exch
 exchange
@@ -3485,6 +3482,7 @@ fan
 fanclub
 fans
 fantasy
+fap
 faq
 faqs
 faraday
@@ -3948,7 +3946,6 @@ godzilla
 goedkoop
 goes
 gogo
-gok
 gokkasten
 gokken
 gold
@@ -4280,6 +4277,7 @@ host120
 host13
 host2
 host20
+host21
 host3
 host4
 host5
@@ -4432,6 +4430,7 @@ ide
 idea
 ideal
 ideas
+ident
 identity
 idm
 idp
@@ -4674,6 +4673,7 @@ isa
 isaac
 isc
 ise
+isf
 isg
 isi
 isis
@@ -4735,6 +4735,7 @@ jade
 jaeger
 jaguar
 jakarta
+jake
 jam
 jamaica
 james
@@ -4941,7 +4942,6 @@ kentucky
 kepler
 kerberos
 kerch
-kerio
 kerkrade
 kermit
 kerst
@@ -4956,10 +4956,12 @@ keyboard
 keycloak
 keys
 keystone
+keyword
 kf
 kg
 kh
 khabarovsk
+khan
 ki
 kia
 kibana
@@ -5145,6 +5147,7 @@ lax
 layout
 lb
 lb01
+lb02
 lb1
 lb2
 lbs
@@ -5190,7 +5193,6 @@ lena
 lenen
 lening
 lenny
-lenovo
 lens
 lenta
 leo
@@ -5231,7 +5233,6 @@ lifestyle
 liga
 light
 lighthouse
-lighting
 lightning
 like
 lily
@@ -5346,7 +5347,6 @@ lounge
 love
 loyalty
 lp
-lp1
 lps
 lr
 lrs
@@ -5362,6 +5362,7 @@ luigi
 lukas
 luke
 luna
+lunar
 lustrum
 lux
 luxor
@@ -5454,6 +5455,7 @@ mail13
 mail14
 mail15
 mail16
+mail17
 mail18
 mail2
 mail20
@@ -5489,6 +5491,7 @@ mailing
 mailings
 maillist
 mailman
+mail-out
 mailout
 mailout2
 mail-relay
@@ -5552,6 +5555,7 @@ marathon
 marc
 marcel
 marco
+marcom
 marcos
 marcus
 marge
@@ -5651,7 +5655,6 @@ mebel
 mec
 mech
 med
-medewerker
 medewerkers
 media
 media1
@@ -5900,11 +5903,9 @@ mono
 monroe
 monster
 montana
-montgomery
 montreal
 moo
 moodle
-moodle2
 moon
 more
 morgan
@@ -6052,7 +6053,6 @@ myadmin
 myapps
 mydesktop
 mydev
-mydomain
 myfiles
 myhome
 myhr
@@ -6081,7 +6081,6 @@ n2
 n3
 na
 nac
-nadia
 nag
 nagios
 nalchik
@@ -6144,6 +6143,7 @@ netflow
 netherlands
 netherlandswww
 netmon
+nets
 netscape
 netstorage
 netwerk
@@ -6233,7 +6233,6 @@ nlp
 nlwww
 nm
 nmc
-nmp
 nms
 nn
 nnov
@@ -6258,6 +6257,7 @@ noord-brabant
 noord-holland
 noordholland
 noordwijk
+nora
 nord
 norilsk
 north
@@ -6265,7 +6265,6 @@ northstar
 norton
 norway
 nos
-nospam
 not
 notaris
 notary
@@ -6314,6 +6313,7 @@ ns20
 ns21
 ns22
 ns23
+ns25
 ns3
 ns4
 ns5
@@ -6487,6 +6487,7 @@ onlinelibrary
 online-marketing
 onlinemarketing
 onlineshop
+onlinetest
 onlinewinkelen
 only
 ons
@@ -6941,6 +6942,7 @@ polycom
 pomoc
 pong
 pony
+pooh
 pool
 pop
 pop3
@@ -7179,7 +7181,6 @@ pypi
 pyramid
 python
 q2
-q3
 qa
 qa1
 qa2
@@ -7231,7 +7232,6 @@ r0
 r1
 r2
 r230
-r25
 r2d2
 r3
 r4
@@ -7633,13 +7633,11 @@ s21
 s22
 s24
 s25
-s27
 s2s
 s3
 s30
 s35
 s4
-s45
 s5
 s6
 s7
@@ -7823,6 +7821,7 @@ searchportal-qa
 seas
 seat
 seattle
+sebastian
 sec
 secmail
 second
@@ -7883,6 +7882,7 @@ serov
 serpuhov
 serv
 serv1
+serv2
 serve
 server
 server01
@@ -8045,6 +8045,7 @@ sitecore
 sitemap
 sitemaps
 sites
+sitesearch
 six
 sj
 sjc
@@ -8130,6 +8131,7 @@ smtp-out
 smtpout
 smtp-relay
 smtps
+smurf
 sn
 snake
 snap
@@ -8503,7 +8505,6 @@ suporte
 supplier
 suppliers
 supply
-supplychain
 support
 support1
 support2
@@ -8713,6 +8714,7 @@ testapi
 test-app
 testapp
 testbed
+testblog
 testcert
 testcms
 testdomain
@@ -8739,7 +8741,6 @@ testvpn
 testweb
 test-www
 testwww
-tet
 tetris
 texas
 texel
@@ -8811,7 +8812,6 @@ tj
 tk
 tl
 tlc
-tld
 tls
 tlt
 tm
@@ -8866,7 +8866,6 @@ torrent
 torrents
 tos
 toshiba
-tot
 total
 toto
 touch
@@ -9062,6 +9061,7 @@ uitvaart
 uitvaartverzekering
 uitzendbureau
 uk
+ukr
 ukraine
 ukwww
 ul
@@ -9274,6 +9274,7 @@ video1
 video2
 videocdn
 videochat
+videoconf
 videos
 vidnoe
 vids
@@ -9331,6 +9332,7 @@ vlieland
 vlissingen
 vloeren
 vm
+vm01
 vm1
 vm2
 vmail
@@ -9350,6 +9352,7 @@ vogel
 voice
 voicemail
 voices
+void
 voip
 vol
 volga
@@ -9388,7 +9391,6 @@ vps1
 vps2
 vps3
 vps4
-vps5
 vr
 vragenlijst
 vrienden
@@ -9468,6 +9470,7 @@ wd
 wdc
 we
 weather
+weaver
 web
 web01
 web02
@@ -9693,10 +9696,8 @@ world
 worldcup
 wow
 wowza
-woz
 wp
 wp1
-wp2
 wpad
 wpc
 wps
@@ -9712,12 +9713,12 @@ ws4
 wsc
 wsp
 wss
+wstest
 wsus
 wt
 wtf
 wts
 wuhan
-wv
 ww
 ww1
 ww11
@@ -9832,7 +9833,6 @@ x2
 x3
 xa
 xavier
-xb
 xbox
 xbox360
 xc

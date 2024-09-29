@@ -385,7 +385,6 @@ cert
 certauth
 cf
 ch
-chadwyck
 chat
 checkout
 chef
@@ -604,6 +603,7 @@ inventory
 ip
 ip4
 ipv4
+ipv6
 is
 it
 jaeger
