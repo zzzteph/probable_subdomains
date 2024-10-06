@@ -210,7 +210,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cr
 crm
 cs
 cse
@@ -387,6 +386,7 @@ hostmaster
 hotel
 hotels
 house
+hq
 hr
 http
 httpwww
@@ -886,7 +886,6 @@ tst
 tula
 tv
 tw
-tx
 ua
 uat
 uc
@@ -924,6 +923,7 @@ vn
 voice
 voip
 volgograd
+voronezh
 vote
 vpn
 vpn1

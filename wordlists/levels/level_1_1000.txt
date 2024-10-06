@@ -494,7 +494,6 @@ login
 logs
 love
 lp
-lt
 lync
 lyncdiscover
 lyncdiscoverinternal
@@ -525,6 +524,7 @@ maps
 market
 marketing
 marketplace
+mars
 master
 math
 maven
@@ -806,7 +806,6 @@ sport
 sports
 sql
 srv
-srv1
 ss
 ssl
 sslvpn
@@ -972,6 +971,7 @@ ww25
 ww38
 ww5
 ww6
+ww7
 www
 www1
 www2

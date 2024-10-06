@@ -465,7 +465,6 @@ dns1
 doc
 docker
 docs
-documents
 doi
 download
 downloads
@@ -957,6 +956,7 @@ us-west-1
 us-west-2
 v1
 v2
+v4
 va
 vaccine
 vault

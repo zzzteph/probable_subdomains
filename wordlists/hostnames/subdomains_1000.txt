@@ -258,7 +258,6 @@ edit
 edu
 education
 eindhoven
-el
 elastic
 elearning
 elections
@@ -543,6 +542,7 @@ ml
 mm
 mms
 mobiel
+mobil
 mobile
 money
 mongo

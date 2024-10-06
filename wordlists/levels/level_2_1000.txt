@@ -43,7 +43,6 @@
 69
 75
 76
-78
 80
 89
 a1
@@ -113,6 +112,7 @@ apple
 apply
 apps
 ar
+arc
 archive
 argocd
 art
@@ -331,6 +331,7 @@ enterpriseregistration
 erp
 es
 eu
+europe
 eu-west-1
 event
 events
@@ -383,6 +384,7 @@ gp
 gr
 grafana
 green
+groups
 gs
 guest
 gui
@@ -676,7 +678,6 @@ photos
 php
 phpmyadmin
 pi
-pic
 pilot
 pkg-grass
 pkg-mono
@@ -708,7 +709,6 @@ pro
 prod
 product
 production
-products
 profile
 project
 projects
@@ -720,6 +720,7 @@ pt
 pub
 public
 publish
+puppet
 push
 qa
 qa1
@@ -960,7 +961,6 @@ web2
 web3
 webapp
 webapps
-webapps-common
 webcon
 webconf
 webdev

@@ -348,7 +348,6 @@ central
 cert
 certauth
 cf
-cgi
 ch
 chat
 check
@@ -552,6 +551,7 @@ imap
 img
 ims
 in
+inbound
 influxdb
 info
 infra
@@ -594,6 +594,7 @@ labs
 lb
 ldap
 legacy
+lexisnexis
 lib
 library
 link
@@ -823,7 +824,6 @@ s4
 sa
 sagepub
 sales
-sam
 saml
 sandbox
 sap
