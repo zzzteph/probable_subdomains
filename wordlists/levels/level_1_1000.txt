@@ -32,7 +32,6 @@ ads
 adserver
 adv
 advertising
-adwords
 ae
 af
 affiliate
@@ -66,6 +65,7 @@ ar
 arc
 archief
 archive
+archives
 art
 as
 asia

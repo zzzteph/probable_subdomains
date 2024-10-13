@@ -340,6 +340,7 @@ b2b
 backbone
 backend
 backoffice
+backstage
 backup
 bastion
 batch
@@ -348,7 +349,6 @@ bbs
 bc
 be
 beta
-bg
 bi
 billing
 bitbucket
@@ -441,7 +441,6 @@ demo2
 deploy
 dev
 dev01
-dev02
 dev1
 dev2
 dev3
@@ -858,6 +857,7 @@ sh
 shared
 shop
 signin
+signup
 sin
 sip
 sit

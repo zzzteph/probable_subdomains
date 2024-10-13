@@ -151,11 +151,11 @@
 53
 54
 55
-555
 56
 57
 58
 59
+5www
 60
 60minutes
 61
@@ -179,6 +179,7 @@
 777
 78
 79
+7www
 80
 81
 86
@@ -490,7 +491,6 @@ aka
 akamai
 akamai-test
 akamai-test-origin
-akari
 akatsuki
 akira
 aks
@@ -883,6 +883,7 @@ arts
 artur
 artwork
 aruba
+aruba-master
 arwen
 arzamas
 as
@@ -1010,7 +1011,6 @@ authenticate
 authenticatie
 authentication
 author
-authoring
 authors
 authsmtp
 auth-test
@@ -1364,6 +1364,7 @@ bianca
 bib
 bible
 biblio
+biblioteca
 bibliotheek
 bic
 bid
@@ -1634,6 +1635,7 @@ bts
 bu
 bubble
 bubbles
+budapest
 buddy
 budget
 buffalo
@@ -2153,7 +2155,6 @@ cognos
 coin
 coins
 coke
-colgate
 colibri
 colin
 collab
@@ -2219,7 +2220,6 @@ conan
 concept
 concierge
 concord
-concorde
 concours
 concur
 condor
@@ -2368,7 +2368,6 @@ crimea
 cris
 crisis
 cristal
-cristina
 crl
 crm
 crm2
@@ -2698,6 +2697,7 @@ devices
 devil
 devon
 devops
+devportal
 dev.shop
 devtest
 dev-www
@@ -2854,7 +2854,6 @@ doesburg
 doetinchem
 dog
 dogfood-dev
-doggy
 dogs
 doh
 doi
@@ -3185,6 +3184,7 @@ emea
 emerald
 emergency
 emg
+emi
 eminem
 eml
 emm
@@ -3870,6 +3870,7 @@ gfx
 gg
 ggg
 gh
+ghana
 ghost
 gi
 gids
@@ -4246,6 +4247,7 @@ hongarije
 hongkong
 hoofddorp
 hoogeveen
+hook
 hoorn
 hope
 horeca
@@ -4877,7 +4879,6 @@ kaartenmaken
 kado
 kai
 kairos
-kaiser
 kaizen
 kalender
 kaliningrad
@@ -5236,7 +5237,6 @@ lex
 lexus
 lf
 lg
-lh
 lh3
 lh4
 lh6
@@ -5511,6 +5511,7 @@ mailers
 mailfilter
 mail.forum
 mailgate
+mailgate1
 mailgate2
 mailgate3
 mailgateway
@@ -5566,7 +5567,6 @@ mallorca
 malta
 mam
 mama
-mamba
 mambo
 man
 mana
@@ -5789,6 +5789,7 @@ mgm
 mgmt
 mgr
 mgs
+mgt
 mh
 mhs
 mi
@@ -5882,7 +5883,6 @@ mmm
 mmp
 mms
 mn
-mng
 mns
 mo
 moa
@@ -6223,7 +6223,6 @@ nginx-newest1
 ngs
 nh
 ni
-niagara
 nic
 nicaragua
 nice
@@ -6285,7 +6284,6 @@ noord-holland
 noordholland
 noordwijk
 noorwegen
-nora
 nord
 norilsk
 north
@@ -7182,6 +7180,7 @@ qa1
 qa2
 qa3
 qatar
+qb
 qc
 qh
 qiye
@@ -7302,6 +7301,7 @@ realmadrid
 realtime
 realty
 rebel
+reboot
 rec
 recept
 recepten
@@ -7310,7 +7310,6 @@ rechtspraak
 recipes
 reclame
 reclamebureau
-recon
 record
 recorder
 records
@@ -8163,7 +8162,6 @@ sophos
 soporte
 sorry
 sos
-sota
 sou
 soul
 sound
@@ -8368,7 +8366,6 @@ stavropol
 stb
 stc
 std
-stealth
 steam
 steden
 stedentrips
@@ -8524,6 +8521,7 @@ synapse
 sync
 syndication
 synergy
+syria
 sys
 sysadmin
 syslog
@@ -8585,6 +8583,7 @@ taurus
 tax
 taxatie
 taxi
+taylor
 taz
 tb
 tbc
@@ -8766,6 +8765,7 @@ time
 time1
 time2
 timeline
+times
 timesheet
 timetable
 tin
@@ -8880,6 +8880,7 @@ transfers
 transit
 translate
 translation
+translations
 translator
 transparency
 transport
@@ -8902,7 +8903,6 @@ trial
 tribunale
 trident
 trigger
-trinidad
 trinity
 trip
 triton
@@ -9459,6 +9459,7 @@ web03
 web04
 web05
 web06
+web08
 web1
 web10
 web11
@@ -9822,7 +9823,6 @@ wy
 wz
 x1
 x2
-x3
 xa
 xb
 xbox

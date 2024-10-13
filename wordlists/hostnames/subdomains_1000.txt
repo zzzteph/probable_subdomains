@@ -562,6 +562,7 @@ mta.email
 mta-sts
 mta-sts.mail
 murmansk
+museum
 music
 mvn
 mx
@@ -993,7 +994,6 @@ www9
 www-test
 wwww
 wwwwww
-xml
 xroads
 xxx
 yaroslavl

@@ -87,6 +87,7 @@ ask
 assets
 at
 atlas
+atwww
 au
 audio
 auth
@@ -210,6 +211,7 @@ cp
 cpanel
 cpcalendars
 cpcontacts
+cr
 crm
 cs
 cse
@@ -342,7 +344,6 @@ geo
 get
 gis
 git
-github
 gitlab
 global
 gmail
@@ -386,7 +387,6 @@ hostmaster
 hotel
 hotels
 house
-hq
 hr
 http
 httpwww
@@ -886,6 +886,7 @@ tst
 tula
 tv
 tw
+tx
 ua
 uat
 uc
@@ -923,7 +924,6 @@ vn
 voice
 voip
 volgograd
-voronezh
 vote
 vpn
 vpn1
