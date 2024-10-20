@@ -1210,6 +1210,7 @@ basehead
 bash
 basic
 basic-nodejs-dev
+basis
 basket
 basketbal
 basketball
@@ -2488,6 +2489,7 @@ dabaosun.blog
 dac
 daemon
 daf
+daffy
 dag
 dagestan
 dagje-uit
@@ -2697,7 +2699,6 @@ devices
 devil
 devon
 devops
-devportal
 dev.shop
 devtest
 dev-www
@@ -5789,7 +5790,6 @@ mgm
 mgmt
 mgr
 mgs
-mgt
 mh
 mhs
 mi
@@ -8508,7 +8508,6 @@ swift
 swiss
 switch
 sws
-sww
 swww
 sx
 sy
@@ -9625,6 +9624,7 @@ wild
 wildcard
 william
 willow
+willy
 wilson
 win
 wind

@@ -348,6 +348,7 @@ central
 cert
 certauth
 cf
+cgi
 ch
 chat
 check
@@ -406,7 +407,6 @@ de
 default
 delivery
 demo
-demo1
 deploy
 dev
 dev1
@@ -551,7 +551,6 @@ imap
 img
 ims
 in
-inbound
 influxdb
 info
 infra
@@ -602,6 +601,7 @@ links
 lists
 live
 lms
+load
 local
 localhost
 log
@@ -657,6 +657,7 @@ monitoring
 moodle
 mp
 mq
+mqtt
 ms
 mta
 mta2
@@ -720,7 +721,6 @@ open
 ops
 orange
 order
-orders
 org
 origin
 oss
@@ -735,7 +735,6 @@ pay
 payment
 payments
 pc
-people
 perf
 ph
 photo
@@ -897,6 +896,7 @@ support
 survey
 svc
 svn
+sync
 sys
 system
 t1
@@ -957,7 +957,6 @@ va
 vault
 verify
 video
-videos
 view
 vip
 vm
@@ -971,6 +970,7 @@ web2
 webapp
 webdisk
 webhook
+webhooks
 webmail
 webproxy
 webservice

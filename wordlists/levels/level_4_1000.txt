@@ -303,7 +303,6 @@ api2
 api-dev
 api-gateway
 apigw
-api-int
 api-test
 ap-northeast-1
 apollo
@@ -351,7 +350,6 @@ be
 beta
 bi
 billing
-bitbucket
 biz
 blog
 blogs
@@ -359,6 +357,7 @@ blogspot
 blue
 bmj
 bo
+booking
 box
 br
 broker
@@ -727,6 +726,7 @@ online
 onlinelibrary
 ops
 order
+orders
 org
 origin
 outlook

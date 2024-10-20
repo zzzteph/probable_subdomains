@@ -278,7 +278,6 @@ developers
 development
 devops
 dhcp
-di
 dialin
 digital
 direct
@@ -296,7 +295,6 @@ dns2
 doc
 docker
 docs
-documents
 download
 downloads
 dp
@@ -800,6 +798,7 @@ sftp
 sg
 sh
 share
+shared
 sharepoint
 shop
 si
@@ -996,6 +995,7 @@ www5
 www-dev
 wwww
 xmpp
+xxx
 yahoo
 zabbix
 zaken
