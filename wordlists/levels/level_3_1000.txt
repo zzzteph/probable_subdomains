@@ -481,6 +481,7 @@ extranet
 facebook
 fbx
 fe
+feature
 feedback
 fi
 file
@@ -651,7 +652,6 @@ ml
 mm
 mobile
 mon
-mongo
 monitor
 monitoring
 moodle

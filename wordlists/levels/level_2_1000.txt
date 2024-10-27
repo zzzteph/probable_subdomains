@@ -543,7 +543,6 @@ meeting
 member
 members
 mercury
-meta
 metrics
 mfa
 mgmt
@@ -676,6 +675,7 @@ photos
 php
 phpmyadmin
 pi
+pic
 pilot
 pkg-grass
 pkg-mono
@@ -755,6 +755,7 @@ resources
 rest
 retail
 review
+rm
 rms
 ro
 root
@@ -874,7 +875,6 @@ t2
 tableau
 tc
 team
-teams
 tech
 temp
 test

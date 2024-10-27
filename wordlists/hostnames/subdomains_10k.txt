@@ -740,7 +740,6 @@ apigateway
 apigw
 api.int
 apim
-api-prod
 api-qa
 api.qa
 apis
@@ -2295,6 +2294,7 @@ corporate
 correio
 correo
 correoweb
+correu
 corvette
 cos
 cosmetic
@@ -4606,6 +4606,7 @@ integral
 integration
 integrations
 intel
+intelligence
 inter
 interactive
 interface
@@ -6155,7 +6156,6 @@ ncc
 ncs
 nct
 nd
-ndes
 nds
 ne
 nebraska

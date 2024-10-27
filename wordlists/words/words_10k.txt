@@ -640,7 +640,6 @@ alex
 alexa
 alexander
 alexandra
-alexandre
 alexandria
 alf
 alfa
@@ -952,7 +951,6 @@ arhangelsk
 ari
 aria
 ariadne
-ariane
 arie
 ariel
 aries
@@ -1957,6 +1955,7 @@ cfd
 cfg
 cfs
 cg
+cgc
 cgi
 cgm
 cgp
@@ -2139,6 +2138,7 @@ cloud
 cloud1
 cloud2
 cloud9
+cloudapp
 cloudflare
 cloudflare-resolve-to
 cloudfront
@@ -3925,7 +3925,6 @@ gizmo
 gj
 gk
 gl
-gladiator
 glamour
 glas
 glass
@@ -8281,7 +8280,6 @@ sps
 sputnik
 sq
 sql
-sql01
 sql1
 square
 squid
@@ -8714,7 +8712,6 @@ testapi
 test-app
 testapp
 testbed
-testblog
 testcert
 testcms
 testdomain
@@ -8771,6 +8768,7 @@ think
 tholen
 thomas
 thor
+threads
 three
 thuis
 thuiswerk
@@ -9385,6 +9383,7 @@ vpn2
 vpn3
 vpn4
 vpn5
+vpngw
 vpn-test
 vpntest
 vps
@@ -9450,6 +9449,7 @@ warez
 warp
 warranty
 warren
+warriors
 was
 washington
 wasmachine
