@@ -388,6 +388,7 @@ hostmaster
 hotel
 hotels
 house
+hq
 hr
 http
 httpwww
@@ -528,7 +529,6 @@ marketplace
 mars
 master
 math
-matrix
 maven
 mc
 mdm

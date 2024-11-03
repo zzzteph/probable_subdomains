@@ -126,7 +126,6 @@ athena
 atlantis
 atlas
 au
-audit
 auth
 author
 auto
@@ -166,6 +165,7 @@ bounce
 box
 br
 brand
+bridge
 broker
 build
 builder
@@ -278,6 +278,7 @@ developers
 development
 devops
 dhcp
+di
 dialin
 digital
 direct
@@ -799,7 +800,6 @@ sftp
 sg
 sh
 share
-shared
 sharepoint
 shop
 si

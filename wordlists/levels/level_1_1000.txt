@@ -651,6 +651,7 @@ photos
 php
 phpmyadmin
 pic
+pilot
 piwik
 pki
 pl
@@ -785,7 +786,6 @@ slovari
 sm
 smart
 smetrics
-smolensk
 sms
 smtp
 smtp1

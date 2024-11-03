@@ -640,6 +640,7 @@ alex
 alexa
 alexander
 alexandra
+alexandre
 alexandria
 alf
 alfa
@@ -819,6 +820,7 @@ aoc
 aol
 a-opendata
 aos
+aov
 aovpn
 ap
 ap1
@@ -1718,7 +1720,6 @@ c0
 c1
 c10
 c11
-c13
 c2
 c2c
 c3
@@ -1957,8 +1958,6 @@ cfs
 cg
 cgc
 cgi
-cgm
-cgp
 cgs
 ch
 cha
@@ -5195,6 +5194,7 @@ lena
 lenen
 lening
 lenny
+lenovo
 lens
 lenta
 leo
