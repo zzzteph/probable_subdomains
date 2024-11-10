@@ -277,7 +277,6 @@ edit
 edu
 education
 ee
-el
 elastic
 elearning
 em
@@ -529,6 +528,7 @@ marketplace
 mars
 master
 math
+matrix
 maven
 mc
 mdm

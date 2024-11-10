@@ -937,7 +937,6 @@ webinar
 weblog
 webmail
 webmail2
-webmaster
 webservices
 webshop
 website
@@ -994,6 +993,7 @@ www9
 www-test
 wwww
 wwwwww
+xml
 xroads
 xxx
 yaroslavl

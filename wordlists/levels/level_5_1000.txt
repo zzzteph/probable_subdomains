@@ -292,6 +292,7 @@ alpha
 am
 anaheim
 analytics
+and
 antivirus
 ap
 ap1
@@ -691,7 +692,6 @@ mrw
 ms
 msg
 mssql
-mt
 mta-sts
 mtls
 muse

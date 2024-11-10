@@ -419,7 +419,6 @@ aes
 aex
 af
 afas
-afbouw
 a-feeds
 a-feeds.a-english
 aff
@@ -949,6 +948,7 @@ astrologie
 astrology
 astronewt
 astronomy
+asu
 asus
 async
 at
@@ -1012,6 +1012,7 @@ authentication
 author
 authors
 authsmtp
+auth.staging
 auth-test
 autisme
 auto
@@ -1035,7 +1036,6 @@ automatisering
 automotive
 auto-onderdelen
 autoonderdelen
-autorijles
 autorijscholen
 autorijschool
 autos
@@ -2341,6 +2341,7 @@ cpd
 cpe
 cpl
 cpm
+cpn
 cpp
 cps
 cpt
@@ -2373,6 +2374,7 @@ crl
 crm
 crm2
 crm-dev
+crmdev
 crmtest
 cro
 croatia
@@ -2571,7 +2573,6 @@ dbus
 dc
 dc1
 dc2
-dc3
 dca
 dcc
 dce
@@ -2699,6 +2700,7 @@ devices
 devil
 devon
 devops
+devportal
 dev.shop
 devtest
 dev-www
@@ -2749,7 +2751,6 @@ digest
 digi
 digikoppeling
 digilander
-digipoort
 digitaal
 digital
 dildo
@@ -3185,7 +3186,6 @@ emea
 emerald
 emergency
 emg
-emi
 eminem
 eml
 emm
@@ -4648,7 +4648,6 @@ ip
 ip1
 ip2
 ip3
-ip6
 ipa
 ipad
 ipam
@@ -4877,7 +4876,6 @@ k8s
 ka
 kaart
 kaarten
-kaartenmaken
 kado
 kai
 kairos
@@ -4936,7 +4934,6 @@ kd
 kds
 ke
 keeper
-kei
 kelly
 kemerovo
 kennis
@@ -5239,6 +5236,7 @@ lex
 lexus
 lf
 lg
+lh
 lh3
 lh4
 lh6
@@ -5320,6 +5318,7 @@ lo
 load
 loadtest
 loan
+loans
 lobby
 lobnya
 local
@@ -5879,6 +5878,7 @@ mlm
 mlp
 mls
 mm
+mma
 mmc
 mmm
 mmp
@@ -6032,6 +6032,7 @@ mu
 muller
 multi
 multimedia
+multimedia.email
 mumbai
 mumble
 mundo
@@ -6066,7 +6067,6 @@ mx1
 mx10
 mx11
 mx12
-mx13
 mx2
 mx20
 mx3
@@ -6345,6 +6345,7 @@ ns25
 ns3
 ns30
 ns4
+ns40
 ns5
 ns6
 ns7
@@ -6900,6 +6901,7 @@ plus
 pluto
 pm
 pma
+pmb
 pmc
 pmd
 pmi
@@ -6941,7 +6943,6 @@ poll
 polls
 pollux
 polo
-poly
 pomoc
 pong
 pony
@@ -7309,9 +7310,7 @@ recherche
 rechtspraak
 recipes
 reclame
-reclamebureau
 record
-recorder
 records
 recovery
 recreatie
@@ -7605,6 +7604,8 @@ s2
 s20
 s21
 s22
+s24
+s28
 s3
 s30
 s35
@@ -7711,6 +7712,7 @@ scan
 scanner
 scarlet
 scc
+scd
 sce
 sch
 schaatsen
@@ -7906,6 +7908,7 @@ sfx
 sg
 sg1
 sga
+sgm
 sgp
 sgs
 sgtm
@@ -8338,7 +8341,6 @@ starlight
 stars
 start
 startpagina
-startpaginaoverzicht
 startpaginas
 startrek
 startup
@@ -8952,7 +8954,6 @@ tuinhuis
 tuinieren
 tuinmeubel
 tuinmeubelen
-tuinplanten
 tuinverlichting
 tula
 tulip
@@ -9288,7 +9289,6 @@ visual
 vita
 vital
 viva
-vivaldi
 vivo
 vk
 vkontakte

@@ -56,6 +56,7 @@ ap
 api
 api2
 api-dev
+api-test
 apollo
 app
 apple
@@ -651,7 +652,6 @@ photos
 php
 phpmyadmin
 pic
-pilot
 piwik
 pki
 pl

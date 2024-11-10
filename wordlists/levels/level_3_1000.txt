@@ -407,8 +407,10 @@ de
 default
 delivery
 demo
+demo1
 deploy
 dev
+dev01
 dev1
 dev2
 dev3
@@ -518,7 +520,6 @@ google
 gov
 grafana
 graph
-graphql
 green
 gw
 harbor
@@ -587,7 +588,6 @@ kb
 keycloak
 kibana
 kr
-kubernetes
 la
 lab
 labs
@@ -738,7 +738,6 @@ pc
 perf
 ph
 photo
-php
 phpmyadmin
 pilot
 pl
@@ -955,6 +954,7 @@ v10
 v2
 va
 vault
+vendor
 verify
 video
 view

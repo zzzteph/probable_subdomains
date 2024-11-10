@@ -307,7 +307,6 @@
 88
 888
 89
-8www
 90
 91
 911
@@ -605,7 +604,6 @@ akamai
 akamai-test
 akamai-test-origin
 akira
-akita
 aks
 al
 alabama
@@ -629,6 +627,7 @@ alcatraz
 alchemy
 alcohol
 aldan
+aldebaran
 aldo
 ale
 aleph
@@ -971,6 +970,7 @@ army
 arnhem
 arno
 arnold
+aroma
 arp
 arrow
 ars
@@ -1126,7 +1126,6 @@ autodealer
 autodiscover
 autogarage
 autolease
-automate
 automation
 automatisering
 automotive
@@ -1147,6 +1146,7 @@ avalanche
 avalon
 avatar
 avatars
+ave
 avedge
 avg
 avi
@@ -1656,6 +1656,7 @@ bru
 bruce
 bruiloft
 bruno
+brutus
 bryan
 bryansk
 bs
@@ -2217,6 +2218,7 @@ colo
 colombia
 color
 colorado
+colors
 colossus
 columbia
 columbus
@@ -2854,6 +2856,7 @@ dmp
 dms
 dmt
 dmv
+dmx
 dmz
 dn
 dna
@@ -3241,7 +3244,6 @@ enc
 encoder
 encore
 encrypt
-encuestas
 encyclopedia
 endeavour
 endor
@@ -3553,7 +3555,6 @@ fifa
 fig
 file
 file1
-file2
 filecap
 filemaker
 files
@@ -3672,11 +3673,11 @@ fotografia
 fotografie
 fotos
 foundation
-four
 fox
 foxtrot
 foxy
 fp
+fpc
 fps
 fr
 fra
@@ -4540,7 +4541,6 @@ indy
 inet
 inf
 inferno
-infinite
 infiniti
 infinity
 influxdb
@@ -4678,6 +4678,7 @@ isa
 isaac
 isc
 ise
+isf
 isg
 isi
 isis
@@ -4986,7 +4987,6 @@ kingston
 kino
 kiosk
 kir
-kira
 kirov
 kis
 kislovodsk
@@ -5456,7 +5456,6 @@ mail13
 mail14
 mail15
 mail16
-mail17
 mail18
 mail2
 mail20
@@ -5766,6 +5765,7 @@ midas
 middelburg
 middleware
 midi
+midnight
 mig
 migrate
 migration
@@ -5882,6 +5882,7 @@ moederdag
 moi
 mojo
 mol
+molly
 mom
 moments
 momo
@@ -5928,7 +5929,6 @@ motors
 mountain
 mountainbike
 mouse
-mov
 move
 movie
 movies
@@ -6690,6 +6690,7 @@ parrot
 part
 partenaires
 partner
+partnerapi
 partnerportal
 partners
 partnerships
@@ -6847,7 +6848,6 @@ pip
 pipe
 pipeline
 piranha
-pirates
 pit
 piter
 pittsburgh
@@ -7406,6 +7406,7 @@ rent
 rep
 repair
 replay
+replica
 reply
 repo
 report
@@ -7629,8 +7630,10 @@ s2
 s20
 s21
 s22
+s23
 s24
 s25
+s27
 s2s
 s3
 s30
@@ -8750,7 +8753,6 @@ th
 thai
 thailand
 thales
-thankyou
 thanos
 thc
 the
@@ -9383,7 +9385,6 @@ vpn2
 vpn3
 vpn4
 vpn5
-vpngw
 vpn-test
 vpntest
 vps
@@ -9472,7 +9473,6 @@ wd
 wdc
 we
 weather
-weaver
 web
 web01
 web02
@@ -9605,7 +9605,6 @@ whale
 whatever
 whatsapp
 whisky
-whisper
 white
 whiteboard
 whitelabel
@@ -9956,6 +9955,7 @@ ziekten
 ziewww
 ziggo
 zilver
+zim
 zimbra
 zinc
 zion
