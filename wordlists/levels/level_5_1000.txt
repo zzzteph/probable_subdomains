@@ -279,6 +279,7 @@ admins
 ads
 adserver
 adsl
+advance
 ae
 affiliate
 agent
@@ -290,7 +291,6 @@ alertmanager
 alerts
 alpha
 am
-anaheim
 analytics
 and
 antivirus
@@ -393,6 +393,7 @@ ch
 chat
 checkout
 chelyabinsk-rnoc-rr02
+chicago
 china
 ci
 cit
@@ -411,7 +412,6 @@ code
 com
 community
 comwww
-con
 conf
 config
 confluence
@@ -606,7 +606,6 @@ ingress
 int
 integration
 internal
-internet
 interscience
 intranet
 io
@@ -645,6 +644,7 @@ library
 license
 lightspeed
 link
+linkinghub
 linux
 live
 lk
@@ -680,6 +680,7 @@ messaging
 metrics
 mgmt
 miami
+microsoft
 minio
 mirror
 ml
@@ -734,8 +735,8 @@ on
 one
 online
 onlinelibrary
-open
 openvpn
+opil
 ops
 or
 orange
@@ -763,7 +764,6 @@ pgadmin
 php
 phpmyadmin
 pilot
-pink
 pl
 platform
 play

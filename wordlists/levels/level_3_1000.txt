@@ -374,6 +374,7 @@ com
 common
 community
 comwww
+conf
 conference
 config
 confluence
@@ -451,6 +452,7 @@ echo
 ecs
 edge
 edit
+editor
 edu
 education
 ee
@@ -467,7 +469,6 @@ enterprise
 enterpriseregistration
 es
 esb
-ess
 eu
 eu1
 eu-central-1
@@ -521,6 +522,7 @@ gov
 grafana
 graph
 green
+grpc
 gw
 harbor
 health
@@ -545,7 +547,6 @@ identity
 idm
 idp
 ie
-ieee
 im
 image
 images
@@ -658,6 +659,7 @@ moodle
 mp
 mq
 mqtt
+mr
 ms
 mta
 mta2
@@ -711,18 +713,19 @@ o8
 o9
 oauth
 office
+oidc
 okta
 old
 onboarding
 one
 online
-onlinelibrary-wiley-com
 open
 ops
 orange
 order
 org
 origin
+os
 oss
 outlook
 owa
@@ -735,6 +738,7 @@ pay
 payment
 payments
 pc
+people
 perf
 ph
 photo
@@ -744,7 +748,6 @@ pl
 platform
 play
 playground
-pm
 poc
 pop
 pop3
@@ -859,7 +862,6 @@ sites
 sm
 sms
 smtp
-smtp1
 sonar
 sonarqube
 sp
@@ -872,7 +874,6 @@ ss
 ssl
 sso
 st
-sta
 staff
 stag
 stage
@@ -915,6 +916,7 @@ testing
 th
 tickets
 tls
+tms
 token
 tools
 tr
@@ -982,7 +984,6 @@ wifi
 wiki
 wildcard
 wiley
-wireless
 wordpress
 workflow
 wp
@@ -994,7 +995,6 @@ www1
 www2
 www3
 www4
-www-tandfonline-com
 www-test
 wwww
 yahoo

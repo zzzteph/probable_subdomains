@@ -212,7 +212,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cr
 crm
 cs
 cse
@@ -680,6 +679,7 @@ pp
 pr
 prd
 pre
+pre-prod
 preprod
 press
 preview

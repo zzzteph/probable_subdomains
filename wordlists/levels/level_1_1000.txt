@@ -32,6 +32,7 @@ ads
 adserver
 adv
 advertising
+adwords
 ae
 af
 affiliate
@@ -805,6 +806,7 @@ sport
 sports
 sql
 srv
+srv1
 ss
 ssl
 sslvpn
@@ -929,7 +931,6 @@ web
 web01
 web1
 web2
-webapp
 webapps
 webcam
 webcon
@@ -971,7 +972,6 @@ ww25
 ww38
 ww5
 ww6
-ww7
 www
 www1
 www2

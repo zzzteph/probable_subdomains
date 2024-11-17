@@ -326,7 +326,6 @@ assets
 at
 atlantis
 atlas
-att
 au
 auth
 author
@@ -506,6 +505,7 @@ europe
 euw1
 eu-west-1
 eu-west-2
+eu-west-3
 event
 events
 example
@@ -532,6 +532,7 @@ free
 front
 frontend
 fs
+ft
 ftp
 fusion
 fw
@@ -567,7 +568,6 @@ host
 hosting
 hostmaster
 hp
-hr
 httpbin
 hu
 hub
@@ -620,6 +620,7 @@ kb
 keycloak
 kibana
 kr
+kubecost
 la
 lab
 labs
@@ -785,7 +786,6 @@ prometheus
 promo
 proquest
 protection
-provisioning
 proxy
 ps
 pt
@@ -805,9 +805,10 @@ r2
 ra
 rabbitmq
 rancher
-raw
 rc
 rds
+redirect
+redirectme
 reg
 register
 registration
@@ -828,6 +829,8 @@ retail
 rev
 rp
 rs
+rsc
+rss
 ru
 s1
 s3
@@ -851,17 +854,16 @@ server
 service
 services
 sf
-sftp
 sg
 sh
 shared
 shop
 signin
-signup
 sin
 sip
 sit
 site
+sites
 sk
 sms
 smtp
@@ -884,7 +886,6 @@ stage
 staging
 star
 start
-stat
 static
 stats
 status
@@ -920,6 +921,7 @@ th
 the
 tickets
 to
+token
 tools
 tr
 traefik
@@ -945,7 +947,6 @@ update
 upload
 uploads
 us
-use
 use1
 us-east-1
 us-east-2
@@ -965,9 +966,9 @@ video
 view
 vip
 virus
+vm
 vpn
 wap
-weather
 web
 web1
 web2
@@ -989,7 +990,6 @@ wiley
 wire
 wireless
 wordpress
-workflow
 wp
 ws
 ww
