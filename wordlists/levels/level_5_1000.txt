@@ -275,7 +275,6 @@ adfs
 adm
 admin
 administrator
-admins
 ads
 adserver
 adsl
@@ -657,6 +656,7 @@ login
 logs
 loki
 lt
+ly
 lyncdiscover
 m2
 ma

@@ -554,7 +554,6 @@ gr
 grafana
 graph
 green
-group
 grpc
 gw
 harbor
@@ -715,6 +714,7 @@ ns4
 nz
 o1
 o2
+o4
 oauth
 oed
 office
@@ -947,6 +947,7 @@ update
 upload
 uploads
 us
+us1
 use1
 us-east-1
 us-east-2
@@ -966,7 +967,6 @@ video
 view
 vip
 virus
-vm
 vpn
 wap
 web
