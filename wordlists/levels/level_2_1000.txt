@@ -41,7 +41,6 @@
 56
 66
 69
-71
 75
 76
 78
@@ -65,6 +64,7 @@ acceptatie
 access
 account
 accounts
+ace
 acs
 act
 ad
@@ -167,6 +167,7 @@ bounce
 box
 br
 brand
+bridge
 broker
 build
 builder
@@ -208,6 +209,7 @@ click
 client
 cloud
 club
+cluster
 cm
 cms
 cn
@@ -219,6 +221,7 @@ collab-edge
 com
 common
 community
+compass
 conf
 conference
 config
@@ -240,6 +243,7 @@ cpcalendars
 cpcontacts
 cps
 cr
+crl
 crm
 crowd
 cs
@@ -279,7 +283,6 @@ developers
 development
 devops
 dhcp
-di
 dialin
 digital
 direct
@@ -868,7 +871,6 @@ sys
 system
 sz
 t1
-t2
 tableau
 tc
 team
@@ -948,7 +950,6 @@ vpn
 vpn1
 vpn2
 w3
-wa
 wallet
 wap
 weather
@@ -959,7 +960,6 @@ web2
 web3
 webapp
 webapps
-webapps-common
 webcon
 webconf
 webdev

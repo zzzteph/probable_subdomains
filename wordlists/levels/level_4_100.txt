@@ -29,7 +29,6 @@ data
 de
 demo
 dev
-dev2
 docs
 es
 eu
@@ -54,6 +53,7 @@ login
 mail
 media
 mobile
+monitoring
 mta-sts
 mx
 my

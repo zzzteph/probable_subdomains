@@ -112,7 +112,6 @@ biz
 blog
 blogs
 bo
-boards
 book
 booking
 bookmarks
@@ -557,6 +556,7 @@ mpk
 ms
 msk
 msn
+msoid
 mt
 mta.email
 mta-sts

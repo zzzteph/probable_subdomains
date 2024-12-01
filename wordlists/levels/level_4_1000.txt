@@ -336,6 +336,7 @@ aws
 az
 azure
 b2b
+back
 backbone
 backend
 backoffice
@@ -357,10 +358,8 @@ blogspot
 blue
 bmj
 bo
-booking
 box
 br
-broker
 build
 business
 c1
@@ -388,6 +387,7 @@ chat
 checkout
 chef
 ci
+cicd
 click
 client
 clients
@@ -619,7 +619,6 @@ kb
 keycloak
 kibana
 kr
-kubecost
 la
 lab
 labs
@@ -714,8 +713,8 @@ ns4
 nz
 o1
 o2
-o4
 oauth
+oauth2
 oed
 office
 oidc
@@ -806,7 +805,6 @@ ra
 rabbitmq
 rancher
 rc
-rds
 redirect
 redirectme
 reg
@@ -854,6 +852,7 @@ server
 service
 services
 sf
+sftp
 sg
 sh
 shared
@@ -865,6 +864,7 @@ sit
 site
 sites
 sk
+skyline
 sms
 smtp
 software
@@ -907,6 +907,7 @@ system
 t1
 tableau
 tandfonline
+team
 tech
 telemetry
 temp
@@ -962,7 +963,6 @@ v4
 va
 vaccine
 vault
-verify
 video
 view
 vip

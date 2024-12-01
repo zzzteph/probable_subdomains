@@ -42,7 +42,6 @@
 135
 137
 138
-139
 14
 140
 141
@@ -66,7 +65,6 @@
 161
 162
 163
-164
 165
 166
 167
@@ -94,7 +92,6 @@
 194
 195
 196
-197
 198
 199
 20
@@ -264,6 +261,7 @@ api1
 api2
 api-dev
 apigw
+api-int
 apim
 apis
 api-test
@@ -611,6 +609,7 @@ login
 logs
 loki
 london
+lp
 lt
 lyncdiscover
 lyncdiscoverinternal
@@ -718,6 +717,7 @@ old
 onboarding
 one
 online
+onlinelibrary-wiley-com
 open
 ops
 orange
@@ -827,6 +827,7 @@ sales
 saml
 sandbox
 sap
+sb
 sbx
 sc
 scheduler
@@ -901,7 +902,6 @@ system
 t1
 t2
 tableau
-tandfonline
 team
 teleport
 temp

@@ -354,7 +354,6 @@ gr
 grafana
 grc2go
 green
-groningen
 groups
 gs
 gslb
@@ -386,7 +385,6 @@ hostmaster
 hotel
 hotels
 house
-hq
 hr
 http
 httpwww
@@ -787,6 +785,7 @@ signup
 sip
 site
 sitemap
+sitemaps
 sites
 sk
 sl
@@ -881,6 +880,7 @@ translate
 transport
 travel
 tribunale
+trust
 try
 ts
 tst

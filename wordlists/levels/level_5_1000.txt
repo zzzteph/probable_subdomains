@@ -207,7 +207,6 @@
 48
 49
 4ba16751-testnoexistdomain-bcc738dc-this-exist
-4f
 50
 51
 52
@@ -341,6 +340,7 @@ az
 azure
 b1
 b2
+back
 backend
 backstage
 backup
@@ -478,6 +478,7 @@ downloads
 drupal
 ds
 dsl
+dsm
 dx
 dyn
 dynamic
@@ -571,11 +572,11 @@ home
 host
 hosting
 hostmaster
+houston
 hp
 hr
 http
 httpbin
-hu
 hub
 i1
 i2
@@ -599,6 +600,7 @@ incites
 influxdb
 info
 infoweb
+infra
 ingest
 ingestion
 ingress
@@ -735,7 +737,6 @@ on
 one
 online
 onlinelibrary
-openvpn
 opil
 ops
 or
@@ -913,7 +914,6 @@ test3
 test4
 testapp
 testing
-tests
 th
 thanos
 the
@@ -926,12 +926,12 @@ tr
 traefik
 training
 travel
+trial
 trigger
 ts
 tst
 tw
 tx
-ua
 uaa
 uat
 uat2
