@@ -112,6 +112,7 @@ biz
 blog
 blogs
 bo
+boards
 book
 booking
 bookmarks
@@ -258,7 +259,6 @@ edit
 edu
 education
 eindhoven
-el
 elastic
 elearning
 elections

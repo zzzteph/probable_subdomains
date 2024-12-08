@@ -592,7 +592,6 @@ labs
 lb
 ldap
 legacy
-lexisnexis
 lib
 library
 link
@@ -862,6 +861,7 @@ sites
 sm
 sms
 smtp
+smtp1
 sonar
 sonarqube
 sp

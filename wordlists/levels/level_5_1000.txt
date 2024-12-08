@@ -364,7 +364,6 @@ broad
 broker
 build
 business
-by
 c1
 c2
 c5
@@ -470,6 +469,7 @@ discovery
 dk
 dl
 dns
+dns2
 docker
 docs
 doi
@@ -683,7 +683,6 @@ metrics
 mgmt
 miami
 microsoft
-minio
 mirror
 ml
 mobile
@@ -730,6 +729,7 @@ ns2
 ns3
 ns4
 nt
+o1
 office
 okta
 old
@@ -886,7 +886,6 @@ sso
 st
 sta
 stage
-stage2
 staging
 static
 stats
@@ -958,6 +957,7 @@ v2
 v4
 vaccine
 vault
+vendor
 vi
 video
 videos

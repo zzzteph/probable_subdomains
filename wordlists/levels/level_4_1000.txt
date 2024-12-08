@@ -381,6 +381,7 @@ cds
 cert
 certauth
 cf
+cfg
 ch
 chadwyck
 chat
@@ -599,7 +600,6 @@ intranet
 inventory
 ip
 ip4
-ipv4
 ipv6
 is
 it
@@ -858,6 +858,7 @@ sh
 shared
 shop
 signin
+signup
 sin
 sip
 sit
@@ -948,7 +949,6 @@ update
 upload
 uploads
 us
-us1
 use1
 us-east-1
 us-east-2

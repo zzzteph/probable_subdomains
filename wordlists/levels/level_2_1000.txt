@@ -359,6 +359,7 @@ forum
 forums
 fr
 free
+front
 frontend
 frwebgate
 fs
@@ -394,6 +395,7 @@ gw
 gws
 gz
 ha
+hd
 health
 hello
 help
@@ -470,6 +472,7 @@ kb
 keycloak
 kibana
 kids
+km
 kr
 kubernetes
 la
@@ -609,7 +612,6 @@ nginx
 nic
 nl
 no
-node
 nodejs
 non-prod
 nonprod
@@ -799,7 +801,6 @@ sftp
 sg
 sh
 share
-shared
 sharepoint
 shop
 si
@@ -934,7 +935,6 @@ vc
 vcenter
 vdi
 vendor
-vendors
 verify
 vi
 video

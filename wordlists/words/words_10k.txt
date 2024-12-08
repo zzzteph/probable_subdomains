@@ -6,7 +6,6 @@
 00www
 01
 010
-013
 02
 020
 03
@@ -467,7 +466,6 @@ adhd
 adherents
 adi
 adidas
-adis
 adler
 adlog
 adm
@@ -544,7 +542,6 @@ afm
 afp
 africa
 afrika
-afrodita
 afs
 afslanken
 afspraak
@@ -1048,7 +1045,6 @@ astra
 astrahan
 astrakhan
 astral
-astrid
 astro
 astrologie
 astrology
@@ -1147,6 +1143,7 @@ avalanche
 avalon
 avatar
 avatars
+ave
 avedge
 avenger
 avg
@@ -1251,7 +1248,6 @@ banana
 band
 banden
 bands
-bandung
 banen
 bang
 bangkok
@@ -1264,7 +1260,6 @@ banner
 banners
 bap
 bar
-baran
 barbados
 barbara
 barbecue
@@ -1634,7 +1629,6 @@ breeze
 brest
 brian
 bridge
-brielle
 bright
 brillen
 brisbane
@@ -2038,6 +2032,7 @@ chloe
 chm
 chocolate
 choice
+choose
 chopin
 chris
 christian
@@ -2112,6 +2107,7 @@ cleo
 clerk
 cleveland
 cli
+clic
 click
 clicks
 client
@@ -2533,6 +2529,7 @@ dag
 dagje-uit
 dagjeuit
 dagsordener
+dai
 daily
 daisy
 dak
@@ -2989,6 +2986,7 @@ dst
 dt
 dtc
 dtm
+dtp
 dts
 du
 dub
@@ -3964,6 +3962,7 @@ gordijnen
 gordon
 gorilla
 gorinchem
+gorod
 gos
 gothic
 goto
@@ -4451,7 +4450,6 @@ iimahd
 iis
 ijsselstein
 ik
-iks
 il
 ilearn
 ill
@@ -4987,6 +4985,7 @@ kitchen
 kite
 kitty
 kiwi
+kj
 kk
 kl
 klant
@@ -5461,6 +5460,7 @@ mail7
 mail8
 mail9
 mailadmin
+mailb
 mailbackup
 mailbox
 mailer
@@ -5585,6 +5585,7 @@ massachusetts
 massage
 master
 mastercard
+mastermind
 masters
 mat
 match
@@ -6073,6 +6074,7 @@ n2
 n3
 na
 nac
+nadia
 nag
 nagios
 nalchik
@@ -6861,7 +6863,6 @@ placement
 places
 plan
 planet
-planeta
 planner
 planning
 plant
@@ -7625,7 +7626,6 @@ s21
 s22
 s24
 s25
-s27
 s29
 s2s
 s3
@@ -8651,7 +8651,6 @@ teen
 teens
 tel
 tele
-tele2
 telecom
 telefonie
 telefoon
@@ -8671,12 +8670,12 @@ tenders
 tennessee
 tennis
 tera
-term
 terminal
 terminator
 terms
 terneuzen
 terra
+terraform
 terschelling
 tes
 tesla
@@ -8810,7 +8809,6 @@ tj
 tk
 tl
 tlc
-tld
 tls
 tlt
 tm
@@ -8958,7 +8956,6 @@ ts3
 tsa
 tsc
 tsg
-tsgw
 t-shirt
 tsi
 tsm
@@ -9272,6 +9269,7 @@ video1
 video2
 videocdn
 videochat
+videoconf
 videos
 vidnoe
 vids
@@ -9382,6 +9380,7 @@ vpn3
 vpn4
 vpn5
 vpngw
+vpnssl
 vpn-test
 vpntest
 vps
@@ -9470,6 +9469,7 @@ wd
 wdc
 we
 weather
+weaver
 web
 web01
 web02
