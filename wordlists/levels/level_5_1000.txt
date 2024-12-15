@@ -537,6 +537,7 @@ forums
 fr
 front
 frontend
+ft
 ftp
 ga
 galenet
@@ -545,7 +546,6 @@ games
 gamma
 gate
 gateway
-gc
 geneva
 geo
 gh
@@ -630,7 +630,6 @@ k8s
 kafka
 kb
 keycloak
-kiali
 kibana
 king
 korea
@@ -951,6 +950,7 @@ users
 usw2
 us-west-1
 us-west-2
+ut
 v1
 v10
 v2

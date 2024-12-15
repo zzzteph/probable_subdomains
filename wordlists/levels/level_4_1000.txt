@@ -256,7 +256,6 @@
 99
 a1
 aa
-abo
 about
 ac
 academic
@@ -358,6 +357,7 @@ blogspot
 blue
 bmj
 bo
+book
 box
 br
 build
@@ -427,6 +427,7 @@ cust
 customer
 cz
 d1
+dash
 dashboard
 data
 db
@@ -736,6 +737,7 @@ oxfordjournals
 oxfordreference
 p1
 pa
+page
 pages
 partner
 partners
@@ -746,7 +748,6 @@ paypal
 pc
 people
 perf
-performance
 pgadmin
 ph
 php
@@ -979,7 +980,6 @@ webhook
 webmail
 webofknowledge
 webproxy
-website
 west
 westeurope
 whm
