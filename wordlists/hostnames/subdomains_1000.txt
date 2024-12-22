@@ -215,6 +215,7 @@ dd
 de
 deals
 delivery
+delta
 demo
 denhaag
 design
@@ -248,6 +249,7 @@ docs
 documents
 download
 downloads
+dr
 drive
 ds
 dwp-cis
@@ -302,7 +304,6 @@ file
 files
 film
 finance
-fitness
 flash
 food
 form
@@ -558,11 +559,11 @@ msk
 msn
 msoid
 mt
+mta
 mta.email
 mta-sts
 mta-sts.mail
 murmansk
-museum
 music
 mvn
 mx
@@ -938,7 +939,6 @@ webinar
 weblog
 webmail
 webmail2
-webmaster
 webservices
 webshop
 website

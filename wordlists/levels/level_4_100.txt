@@ -23,6 +23,7 @@ co
 com
 console
 content
+core
 cpanel
 dashboard
 data
@@ -58,7 +59,6 @@ mta-sts
 mx
 my
 new
-online
 origin
 portal
 prd

@@ -259,7 +259,6 @@ api1
 api2
 api-dev
 apigw
-api-int
 apim
 apis
 api-test
@@ -285,6 +284,7 @@ as
 asia
 assets
 at
+athena
 atlantis
 atlas
 au
@@ -319,6 +319,7 @@ blog
 blogs
 blue
 bo
+border-even
 border-odd
 bot
 box
@@ -896,7 +897,6 @@ support
 survey
 svc
 svn
-sync
 sys
 system
 t1

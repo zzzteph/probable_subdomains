@@ -41,6 +41,7 @@
 56
 66
 69
+71
 75
 76
 78
@@ -473,7 +474,6 @@ kb
 keycloak
 kibana
 kids
-km
 kr
 kubernetes
 la
@@ -501,7 +501,6 @@ localhost
 log
 login
 logs
-loki
 lp
 ls
 lt
@@ -713,6 +712,7 @@ pro
 prod
 product
 production
+products
 profile
 project
 projects
@@ -723,6 +723,7 @@ ps
 pt
 pub
 public
+publish
 push
 qa
 qa1
@@ -780,7 +781,6 @@ saml
 sandbox
 sb
 sc
-scheduler
 scm
 sd
 se
@@ -963,7 +963,6 @@ webapp
 webapps
 webcon
 webconf
-webdev
 webdisk
 webhook
 webmail
@@ -987,6 +986,7 @@ ww
 ww1
 ww2
 ww25
+ww38
 www
 www1
 www2

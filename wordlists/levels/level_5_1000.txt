@@ -813,7 +813,6 @@ ra
 rabbitmq
 rancher
 rc
-realtime
 red
 redir
 redirect
@@ -900,6 +899,7 @@ support
 svc
 swagger
 syd
+sync
 sys
 system
 t1

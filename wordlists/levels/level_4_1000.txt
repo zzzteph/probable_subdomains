@@ -332,7 +332,6 @@ auto
 autoconfig
 autodiscover
 aws
-az
 azure
 b2b
 back
@@ -964,6 +963,7 @@ v4
 va
 vaccine
 vault
+vc
 video
 view
 vip
