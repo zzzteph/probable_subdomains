@@ -215,7 +215,6 @@ dd
 de
 deals
 delivery
-delta
 demo
 denhaag
 design
@@ -304,6 +303,7 @@ file
 files
 film
 finance
+fitness
 flash
 food
 form
@@ -335,7 +335,6 @@ gmail
 go
 golf
 google
-gov
 gp
 grafana
 grc2go
@@ -381,6 +380,7 @@ hybrid
 iam
 ict
 id
+ideas
 identity
 idp
 iimahd
@@ -564,6 +564,7 @@ mta.email
 mta-sts
 mta-sts.mail
 murmansk
+museum
 music
 mvn
 mx
@@ -933,7 +934,6 @@ webapps
 webcam
 webcon
 webconf
-webdesign
 webdisk
 webinar
 weblog

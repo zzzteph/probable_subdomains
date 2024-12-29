@@ -35,6 +35,7 @@
 129
 13
 130
+131
 132
 133
 134
@@ -136,7 +137,6 @@
 244
 245
 246
-247
 248
 249
 25
@@ -220,6 +220,7 @@
 a1
 a2
 aa
+ab
 abc
 ac
 acc
@@ -239,6 +240,7 @@ ae
 agent
 ai
 airflow
+ak
 akamai
 alb
 alertmanager
@@ -259,6 +261,7 @@ api1
 api2
 api-dev
 apigw
+api-int
 apim
 apis
 api-test
@@ -297,7 +300,6 @@ autodiscover
 av
 avatars
 aws
-awx
 az
 azure
 b2b
@@ -471,7 +473,6 @@ eu1
 eu-central-1
 europe
 eu-west-1
-eu-west-2
 event
 events
 example
@@ -482,7 +483,6 @@ extranet
 facebook
 fbx
 fe
-feature
 feedback
 fi
 file
@@ -512,7 +512,6 @@ git
 github
 gitlab
 global
-gm
 gmail
 go
 google
@@ -527,6 +526,7 @@ health
 hello
 help
 helpdesk
+hermes
 hk
 home
 host
@@ -608,7 +608,6 @@ login
 logs
 loki
 london
-lp
 lt
 lyncdiscover
 lyncdiscoverinternal
@@ -650,6 +649,7 @@ ml
 mm
 mobile
 mon
+mongo
 monitor
 monitoring
 moodle
@@ -721,13 +721,14 @@ open
 ops
 orange
 order
+orders
 org
+orgwww
 origin
 os
 oss
 outlook
 owa
-p1
 pa
 pages
 partner
@@ -736,6 +737,7 @@ pay
 payment
 payments
 pc
+pe
 people
 perf
 ph
@@ -774,13 +776,11 @@ ps
 pt
 pub
 public
-publish
 puppet
 push
 qa
 qa1
 qa2
-queue
 r1
 rabbitmq
 rancher
@@ -819,7 +819,6 @@ ru
 s1
 s2
 s3
-s4
 sa
 sagepub
 sales
@@ -865,7 +864,6 @@ smtp1
 sonar
 sonarqube
 sp
-spb
 splunk
 sports
 springer
@@ -918,6 +916,7 @@ tls
 tms
 token
 tools
+tp
 tr
 tracker
 tracking
@@ -964,6 +963,7 @@ vip
 vm
 voice
 vpn
+w3
 wap
 weather
 web

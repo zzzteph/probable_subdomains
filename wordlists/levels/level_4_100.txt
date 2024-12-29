@@ -54,11 +54,11 @@ login
 mail
 media
 mobile
-monitoring
 mta-sts
 mx
 my
 new
+online
 origin
 portal
 prd

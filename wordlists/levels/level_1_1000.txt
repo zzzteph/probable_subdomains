@@ -32,7 +32,6 @@ ads
 adserver
 adv
 advertising
-adwords
 ae
 af
 affiliate
@@ -221,7 +220,6 @@ de
 deals
 delivery
 demo
-denhaag
 design
 desktop
 dev
@@ -403,6 +401,7 @@ img3
 ims
 in
 inbound
+india
 info
 infolab
 informatik
@@ -495,6 +494,7 @@ login
 logs
 love
 lp
+lt
 lync
 lyncdiscover
 lyncdiscoverinternal

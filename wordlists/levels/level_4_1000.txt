@@ -190,6 +190,7 @@
 34
 35
 36
+360
 37
 38
 39
@@ -203,7 +204,6 @@
 47
 48
 49
-4ba16751-testnoexistdomain-bcc738dc-this-exist
 50
 51
 52
@@ -276,7 +276,6 @@ admin
 ads
 adsl
 af
-affiliates
 agent
 ai
 aip
@@ -303,6 +302,7 @@ api2
 api-dev
 api-gateway
 apigw
+api-int
 api-test
 ap-northeast-1
 apollo
@@ -325,6 +325,7 @@ assets
 at
 atlantis
 atlas
+att
 au
 auth
 author
@@ -338,7 +339,6 @@ back
 backbone
 backend
 backoffice
-backstage
 backup
 bastion
 batch
@@ -357,8 +357,8 @@ blue
 bmj
 bo
 book
-box
 br
+bt
 build
 business
 c1
@@ -396,11 +396,11 @@ cloudfront
 cluster
 cm
 cms
+cms1
 cn
 co
 code
 com
-commerce
 community
 compute
 comwww
@@ -436,9 +436,9 @@ de-cix
 default
 delivery
 demo
-demo1
 demo2
 deploy
+desktop
 dev
 dev01
 dev1
@@ -464,6 +464,7 @@ dns1
 doc
 docker
 docs
+documents
 doi
 download
 downloads
@@ -541,7 +542,6 @@ ga
 galegroup
 game
 games
-gate
 gateway
 geo
 git
@@ -553,7 +553,6 @@ google
 gov
 gr
 grafana
-graph
 green
 grpc
 gw
@@ -591,7 +590,6 @@ info
 infra
 ingest
 ingress
-insights
 int
 integration
 internal
@@ -600,7 +598,6 @@ intranet
 inventory
 ip
 ip4
-ipv6
 is
 it
 jaeger
@@ -661,6 +658,7 @@ mdm
 me
 media
 meet
+message
 messaging
 metrics
 mgmt
@@ -713,6 +711,7 @@ ns4
 nz
 o1
 o2
+o4
 oauth
 oauth2
 oed
@@ -725,6 +724,7 @@ one
 online
 onlinelibrary
 ops
+orange
 order
 orders
 org
@@ -736,7 +736,6 @@ oxfordjournals
 oxfordreference
 p1
 pa
-page
 pages
 partner
 partners
@@ -764,7 +763,6 @@ portal
 post
 pp
 ppe
-ppp
 pr
 prd
 pre
@@ -794,7 +792,6 @@ public
 publish
 publisher
 pubs
-push
 qa
 qa2
 query
@@ -806,7 +803,6 @@ rabbitmq
 rancher
 rc
 redirect
-redirectme
 reg
 register
 registration
@@ -825,7 +821,7 @@ resources
 rest
 retail
 rev
-rp
+ro
 rs
 rsc
 rss
@@ -865,7 +861,6 @@ sit
 site
 sites
 sk
-skyline
 sms
 smtp
 software
@@ -876,6 +871,7 @@ splunk
 sports
 springer
 springerlink
+srv
 ss
 ssh
 ssl
@@ -895,6 +891,7 @@ stg1
 stg2
 storage
 store
+storybook
 stream
 sts
 studio
@@ -911,6 +908,7 @@ tandfonline
 team
 tech
 telemetry
+teleport
 temp
 test
 test01
@@ -929,7 +927,6 @@ tr
 traefik
 train
 training
-transfer
 travel
 trial
 ts
@@ -949,6 +946,7 @@ update
 upload
 uploads
 us
+use
 use1
 us-east-1
 us-east-2
@@ -959,21 +957,22 @@ us-west-1
 us-west-2
 v1
 v2
-v4
 va
 vaccine
 vault
-vc
+verify
 video
 view
 vip
 virus
+vn
 vpn
 wap
 web
 web1
 web2
 web3
+webapi
 webapp
 webdisk
 webhook
@@ -993,6 +992,7 @@ wordpress
 wp
 ws
 ww
+ww25
 www
 www1
 www2

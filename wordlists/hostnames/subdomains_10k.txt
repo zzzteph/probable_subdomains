@@ -18,6 +18,7 @@
 101
 102
 103
+104
 105
 106
 108
@@ -101,6 +102,7 @@
 23
 230
 233
+234
 235
 24
 25
@@ -495,7 +497,6 @@ akamai-test
 akamai-test-origin
 akatsuki
 akira
-akita
 aks
 al
 alabama
@@ -700,6 +701,7 @@ antonio
 antwerpen
 anubis
 any
+anyconnect
 anything
 anywhere
 ao
@@ -740,6 +742,7 @@ apigateway
 apigw
 api.int
 apim
+apiportal
 api-qa
 api.qa
 apis
@@ -948,6 +951,7 @@ astrologie
 astrology
 astronewt
 astronomy
+asu
 asus
 async
 at
@@ -1434,7 +1438,6 @@ blagoveshensk
 blah
 blaricum
 blast
-blaster
 blauzahl
 blaze
 bleach
@@ -2150,7 +2153,6 @@ cognos
 coin
 coins
 coke
-colgate
 colibri
 colin
 collab
@@ -2340,7 +2342,6 @@ cq
 cr
 cra
 craft
-crane
 crash
 crawler
 crazy
@@ -2738,6 +2739,7 @@ diesel
 diet
 dieta
 dig
+digest
 digi
 digikoppeling
 digilander
@@ -2755,7 +2757,6 @@ dir
 direct
 directaccess
 director
-directorio
 directory
 dis
 disco
@@ -2847,7 +2848,6 @@ doesburg
 doetinchem
 dog
 dogfood-dev
-doggy
 dogs
 doh
 doi
@@ -3176,7 +3176,6 @@ emarketing
 emba
 embed
 emc
-emd
 emea
 emerald
 emergency
@@ -3202,7 +3201,6 @@ empresas
 ems
 emu
 en
-encoder
 en.community
 encore
 encrypt
@@ -4355,6 +4353,7 @@ hunter
 hunting
 huodong
 huren
+hurricane
 huwelijk
 hw
 hwww
@@ -4422,7 +4421,6 @@ ict
 id
 ida
 idaho
-idata
 idc
 ide
 idea
@@ -4790,6 +4788,7 @@ jim
 jimmy
 jin
 jira
+jira-dev
 jira-test
 jitsi
 jj
@@ -4988,7 +4987,6 @@ kino
 kiosk
 kip
 kir
-kira
 kirov
 kis
 kislovodsk
@@ -5072,6 +5070,7 @@ kronos
 krs
 krsk
 krym
+krypton
 ks
 ksi
 ks-inventory-api
@@ -5229,7 +5228,6 @@ lex
 lexus
 lf
 lg
-lh
 lh3
 lh4
 lh6
@@ -5503,7 +5501,6 @@ mail.dev
 mailer
 mailer1
 mailer2
-mailers
 mailfilter
 mail.forum
 mailgate
@@ -5538,6 +5535,7 @@ mail.staging
 mailstore
 mail.test
 mailtest
+mailweb
 mailx
 main
 maine
@@ -5700,6 +5698,7 @@ mediadecoder.blogs
 mediakit
 medias
 mediaserver
+mediasite
 mediation
 mediawiki
 medical
@@ -5745,7 +5744,6 @@ meridian
 merkkleding
 merlin
 mes
-mess
 message
 messages
 messaging
@@ -5826,6 +5824,7 @@ miller
 million
 milo
 milton
+milwaukee
 mim
 mimi
 min
@@ -5876,7 +5875,6 @@ mmm
 mmp
 mms
 mn
-mng
 mns
 mo
 moa
@@ -6060,6 +6058,7 @@ mx1
 mx10
 mx11
 mx12
+mx13
 mx2
 mx20
 mx3
@@ -6348,7 +6347,6 @@ ns9
 nsa
 nsb
 nsc
-nsd
 nsk
 nsp
 nss
@@ -6481,7 +6479,6 @@ onderneming
 onderwijs
 onderzoek
 one
-onedrive
 onepiece
 ongediertebestrijding
 online
@@ -6858,6 +6855,7 @@ pkg-mono.alioth
 pkg-tcltk.alioth
 pki
 pl
+pla
 plaatjes
 place
 placeholder
@@ -7292,6 +7290,7 @@ realmadrid
 realtime
 realty
 rebel
+reboot
 rec
 recept
 recepten
@@ -7489,7 +7488,6 @@ robert
 robin
 robot
 robotics
-rochester
 rock
 rocket
 rocky
@@ -8104,7 +8102,6 @@ snapshot
 sneakers
 sneek
 sniper
-snmp
 snoopy
 snow
 snowboard
@@ -8157,7 +8154,6 @@ sophos
 soporte
 sorry
 sos
-sota
 sou
 soul
 sound
@@ -8264,6 +8260,7 @@ srv02
 srv03
 srv1
 srv10
+srv11
 srv2
 srv3
 srv4
@@ -8324,6 +8321,7 @@ stalker
 stamps
 stan
 standard
+standby
 staphorst
 star
 stardust
@@ -8360,7 +8358,6 @@ stavropol
 stb
 stc
 std
-stealth
 steam
 steden
 stedentrips
@@ -8463,6 +8460,7 @@ superstar
 suport
 suporte
 supplier
+supplierportal
 suppliers
 supply
 support
@@ -8487,7 +8485,6 @@ sv
 sv1
 svc
 sven
-svm
 svn
 svpn
 svs
@@ -8551,7 +8548,6 @@ tam
 tamara
 tambov
 tamil
-tampa
 tan
 tandarts
 tandem
@@ -8733,6 +8729,7 @@ think
 tholen
 thomas
 thor
+three
 thuis
 thuiswerk
 thuiswerken
@@ -8839,6 +8836,7 @@ tourism
 tours
 tower
 town
+towww
 toy
 toyota
 toys
@@ -8874,6 +8872,7 @@ transfers
 transit
 translate
 translation
+translations
 translator
 transparency
 transport
@@ -8889,6 +8888,7 @@ trc
 treasurer
 treasury
 tree
+treehouse
 trend
 trends
 trex
@@ -8897,7 +8897,6 @@ trial
 tribunale
 trident
 trigger
-trinidad
 trinity
 trio
 trip
@@ -8997,6 +8996,7 @@ uag
 uat
 uat2
 ub
+uber
 ubs
 ubuntu
 uc
@@ -9198,6 +9198,7 @@ verhuis
 verhuisbedrijf
 verhuizen
 verhuur
+verification
 verify
 veritas
 verjaardag
@@ -9411,6 +9412,7 @@ wall
 wallet
 wallpaper
 wallpapers
+walmart
 walter
 wam
 wan
@@ -9685,7 +9687,6 @@ workspace
 world
 worldcup
 wow
-wowza
 woz
 wp
 wp1
@@ -9700,7 +9701,6 @@ ws01
 ws1
 ws2
 ws3
-ws4
 wsa
 wsc
 wsp
