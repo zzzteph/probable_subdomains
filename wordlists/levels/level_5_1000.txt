@@ -1,6 +1,7 @@
 00
 000
 00000-okta-idp
+00003
 002
 006
 01
@@ -420,7 +421,6 @@ content
 control
 core
 corp
-corporate
 cp
 cpanel
 cpcalendars
@@ -471,6 +471,7 @@ directory
 discovery
 dk
 dl
+dmz
 dns
 doc
 docker
@@ -528,6 +529,7 @@ feedback
 fi
 file
 files
+final
 finance
 find
 fj
@@ -553,7 +555,6 @@ gateway
 geneva
 geo
 gh
-gist
 git
 github
 gitlab
@@ -647,7 +648,6 @@ license
 lightspeed
 link
 linkinghub
-linux
 live
 lo0
 load
@@ -676,7 +676,6 @@ me
 media
 meet
 mel
-message
 metrics
 mgmt
 microsoft
@@ -812,7 +811,6 @@ rabbitmq
 rancher
 rc
 red
-redir
 redirect
 redirectme
 referenceworks
@@ -860,6 +858,7 @@ sg
 shadow
 shared
 shop
+si
 signin
 sin
 sip
@@ -973,6 +972,7 @@ webhook
 webhooks
 webmail
 webproxy
+website
 west
 westeurope
 weu

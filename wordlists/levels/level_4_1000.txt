@@ -329,7 +329,6 @@ att
 au
 auth
 author
-auto
 autoconfig
 autodiscover
 aws
@@ -376,7 +375,6 @@ catalog
 cc
 cd
 cdn
-cds
 cert
 certauth
 cf
@@ -713,7 +711,6 @@ o1
 o2
 o4
 oauth
-oauth2
 oed
 office
 oidc
@@ -803,6 +800,7 @@ rabbitmq
 rancher
 rc
 redirect
+redirectme
 reg
 register
 registration
@@ -841,6 +839,7 @@ scitation
 scm
 se
 search
+sec
 secure
 security
 sentry
@@ -896,6 +895,7 @@ stream
 sts
 studio
 sub
+superset
 support
 svc
 swagger

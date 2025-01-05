@@ -239,7 +239,6 @@ cp
 cpanel
 cpcalendars
 cpcontacts
-cps
 cr
 crl
 crm
@@ -336,6 +335,7 @@ eu
 eu-west-1
 event
 events
+ews
 exchange
 ext
 external
@@ -357,6 +357,7 @@ forum
 forums
 fr
 free
+front
 frontend
 frwebgate
 fs
@@ -384,6 +385,7 @@ gov
 gp
 gr
 grafana
+graphql
 green
 gs
 guest
@@ -726,7 +728,6 @@ push
 qa
 qa1
 qa2
-qa3
 quest
 ra
 radio
@@ -872,7 +873,6 @@ sys
 system
 sz
 t1
-t2
 tableau
 tc
 team
@@ -951,7 +951,6 @@ vpn
 vpn1
 vpn2
 w3
-wa
 wallet
 wap
 weather
@@ -973,6 +972,7 @@ welcome
 west
 whm
 whois
+widget
 wifi
 wiki
 wildcard

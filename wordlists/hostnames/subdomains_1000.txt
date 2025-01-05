@@ -215,6 +215,7 @@ dd
 de
 deals
 delivery
+delta
 demo
 denhaag
 design
@@ -425,7 +426,6 @@ irkutsk
 is
 it
 ivanovo
-izhevsk
 ja
 jaarverslag
 jenkins
