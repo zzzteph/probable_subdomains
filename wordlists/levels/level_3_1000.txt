@@ -56,7 +56,6 @@
 150
 151
 152
-153
 154
 155
 157
@@ -222,7 +221,6 @@
 a1
 a2
 aa
-ab
 abc
 ac
 acc
@@ -242,7 +240,6 @@ ae
 agent
 ai
 airflow
-ak
 akamai
 alb
 alertmanager
@@ -322,6 +319,7 @@ blob
 blog
 blogs
 blue
+bmw
 bo
 border-even
 border-odd
@@ -513,6 +511,7 @@ git
 github
 gitlab
 global
+gm
 gmail
 go
 google
@@ -587,6 +586,7 @@ kb
 keycloak
 kibana
 kr
+kubernetes
 la
 lab
 labs
@@ -699,7 +699,6 @@ ns3
 ns4
 o1
 o11
-o12
 o2
 o3
 o4
@@ -776,6 +775,7 @@ ps
 pt
 pub
 public
+publish
 puppet
 push
 qa

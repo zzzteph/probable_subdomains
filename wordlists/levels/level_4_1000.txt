@@ -328,6 +328,7 @@ atlas
 att
 au
 auth
+authentication
 author
 autoconfig
 autodiscover
@@ -532,7 +533,6 @@ free
 front
 frontend
 fs
-ft
 ftp
 fusion
 fw

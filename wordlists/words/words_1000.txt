@@ -525,7 +525,6 @@ marketplace
 mars
 master
 math
-matrix
 maven
 mc
 mdm
@@ -819,6 +818,7 @@ ssl
 sslvpn
 sso
 ssp
+sst
 st
 staff
 stage

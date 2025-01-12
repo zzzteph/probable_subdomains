@@ -476,6 +476,7 @@ adhd
 adherents
 adi
 adidas
+adis
 adler
 adlog
 adm
@@ -970,6 +971,7 @@ arkansas
 arkhangelsk
 arm
 armada
+armani
 armavir
 armenia
 armstrong
@@ -1339,7 +1341,6 @@ bean
 bear
 beast
 beatles
-beatrice
 beautiful
 beauty
 bebe
@@ -1495,7 +1496,6 @@ blade
 blah
 blake
 blast
-blaster
 blauzahl
 blaze
 blink
@@ -1683,7 +1683,6 @@ budapest
 buddy
 budget
 buffalo
-buffy
 bug
 bugatti
 bugs
@@ -1800,7 +1799,6 @@ candy
 cannabis
 cannes
 canon
-canopus
 canopy
 canvas
 cao
@@ -1826,7 +1824,6 @@ careers
 cargo
 carina
 carl
-carlo
 carlos
 carmen
 carnaval
@@ -2189,7 +2186,6 @@ co
 coa
 coach
 coaching
-cob
 cobalt
 cobra
 coc
@@ -2801,7 +2797,6 @@ dima
 dimitrovgrad
 ding
 dingo
-dining
 dino
 dio
 dione
@@ -6665,6 +6660,7 @@ papa
 papendrecht
 paper
 papercut
+papi
 par
 paradise
 paradox
@@ -7226,6 +7222,7 @@ r0
 r1
 r2
 r230
+r25
 r2d2
 r3
 r4
@@ -7673,6 +7670,7 @@ salsa
 salt
 salud
 sam
+sama
 samara
 samba
 sametime
@@ -8862,6 +8860,7 @@ topics
 tops
 tor
 tornado
+toro
 toronto
 torrent
 torrents
@@ -9695,6 +9694,7 @@ wow
 wowza
 wp
 wp1
+wp2
 wpad
 wpc
 wps

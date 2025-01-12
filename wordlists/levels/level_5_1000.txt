@@ -321,7 +321,6 @@ archive
 argocd
 artifactory
 as
-asia
 assets
 at
 athena
@@ -429,6 +428,7 @@ crm
 cs
 csa
 css
+cus
 customer
 cv
 cz

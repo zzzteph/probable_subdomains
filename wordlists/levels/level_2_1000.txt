@@ -159,6 +159,7 @@ blog
 blogs
 blogspot
 blue
+bmw
 bo
 booking
 bot
@@ -297,7 +298,6 @@ dns2
 doc
 docker
 docs
-documents
 download
 downloads
 dp
@@ -546,7 +546,6 @@ meeting
 member
 members
 mercury
-meta
 metrics
 mfa
 mg
@@ -873,6 +872,7 @@ sys
 system
 sz
 t1
+t2
 tableau
 tc
 team

@@ -8,7 +8,6 @@
 3d
 3g
 aaa
-aanmelden
 abc
 about
 ac
@@ -607,6 +606,7 @@ ns2
 ns3
 ns4
 ns5
+ns6
 oa
 oauth
 offers
