@@ -741,7 +741,6 @@ apigateway
 apigw
 api.int
 apim
-apiportal
 api-qa
 api.qa
 apis
@@ -4436,6 +4435,7 @@ ierland
 ies
 if
 iframe
+ifs
 ig
 ignite
 ignition
@@ -4636,7 +4636,6 @@ ip
 ip1
 ip2
 ip3
-ip6
 ipa
 ipad
 ipam
@@ -5670,6 +5669,7 @@ mcc
 mci
 mcm
 mcp
+mcprod
 mcs
 mcu
 md
@@ -5873,6 +5873,7 @@ mmm
 mmp
 mms
 mn
+mng
 mns
 mo
 moa
@@ -6800,7 +6801,6 @@ photos
 photoshop
 php
 phpmyadmin
-phs
 phx
 phy
 phys
@@ -6927,7 +6927,6 @@ poll
 polls
 pollux
 polo
-poly
 pomoc
 pong
 pony
@@ -7166,6 +7165,7 @@ qa1
 qa2
 qa3
 qatar
+qa-www
 qb
 qc
 qh
@@ -7849,6 +7849,7 @@ server11
 server12
 server13
 server14
+server18
 server2
 server3
 server4
@@ -9668,7 +9669,6 @@ woningen
 woninginrichting
 woody
 woon
-woonaccessoires
 woonkamer
 woonwinkel
 woonwinkels

@@ -137,7 +137,6 @@
 0209
 020-amsterdam
 021
-0211
 0212
 022
 0222
@@ -1199,7 +1198,6 @@
 1565
 1566
 1567
-1569
 157
 1571
 1572
@@ -1210,7 +1208,6 @@
 158
 1580
 1581
-1582
 1583
 1587
 1588
@@ -2131,7 +2128,6 @@
 3102
 3103
 3104
-3106
 3107
 311
 3111
@@ -3290,7 +3286,6 @@
 7s
 7serialk
 7seven
-7-sky
 7sky
 7th
 7thheaven
@@ -3985,7 +3980,6 @@ aaad
 aaae
 aaafx
 aaalife
-aaap
 aaas
 aaaw
 aab
@@ -4627,7 +4621,6 @@ acceptatie2
 acceptatie-crypto-zorgplatform
 acceptatie-encryptioncertificate
 acceptatie-sign-zorgplatform
-acceptatie-www
 acceptatie-zorgplatform
 acceptation
 accepted
@@ -4745,6 +4738,7 @@ account-uat
 accountwww
 accp
 accp1
+acc-podiumd-logs
 acc-portal
 accportal
 accr
@@ -4774,7 +4768,6 @@ acd
 acdaendemunnik
 ac-dc
 acdc
-acde
 acdn
 acds
 acdsee
@@ -5002,7 +4995,6 @@ actin
 acting
 action
 actionaid
-actioncenter
 actioncoach
 actionfigures
 actiongames
@@ -6544,7 +6536,6 @@ airshow
 airsoft
 airspace
 airstream
-airt
 airtable
 airtel
 airtime
@@ -9479,6 +9470,7 @@ apistg
 apistore
 api-t
 apit
+api-t1
 api-test
 apitest
 api-test1
@@ -11008,7 +11000,6 @@ assay
 assc
 assd
 asse
-assem
 assembla
 assemblage
 assemble
@@ -11045,6 +11036,7 @@ assets5
 assets6
 assets7
 assets8
+assets9
 assets-cdn
 assets-dev
 assetsdev
@@ -12132,7 +12124,6 @@ aver
 average
 avero
 avers
-avert
 avery
 aves
 avest
@@ -12184,6 +12175,7 @@ avisonyoung
 avisos
 avista
 avita
+avital
 avito
 aviv
 aviva
@@ -12417,7 +12409,6 @@ ayden
 aydin
 aye
 ayesha
-ayg
 aygo-2019
 ayhan
 ayi
@@ -12695,7 +12686,6 @@ babki
 babl
 bablo
 babo
-babochka
 babochki
 babolat
 baboo
@@ -13155,6 +13145,7 @@ bancuri
 band
 banda
 bandai
+bandalarga
 bandana
 bandar
 bandb
@@ -19149,7 +19140,6 @@ candra
 candy
 candybox
 candycrush
-candygirl
 candyland
 candyman
 candyshop
@@ -20011,7 +20001,6 @@ ccpm
 ccpo
 ccportal
 ccps
-ccp-test
 ccq
 ccr
 ccra
@@ -20529,6 +20518,7 @@ cevennen
 cevo
 cew
 cewe
+ceweb
 cex
 cey
 ceylon
@@ -21439,7 +21429,6 @@ chulym
 chum
 chuma
 chun
-chunchun
 chung
 chunk
 chunky
@@ -22482,7 +22471,6 @@ cnki
 cnl
 cnm
 cnmail
-cnmi
 cnms
 cnn
 cnnmoney
@@ -23769,7 +23757,6 @@ corona88
 coronaangelica
 coronacapital
 coronado
-coronae
 coronanachrichten
 corona-pad2
 coronaria
@@ -23950,7 +23937,6 @@ counters
 counter-strike
 counterstrike
 countess
-counties
 counting
 counting-crows
 countly
@@ -24280,7 +24266,6 @@ creditcard
 credit-cards
 creditcards
 creditcheck
-creditmanagement
 credito
 creditplus
 creditrepair
@@ -26674,6 +26659,7 @@ defender
 defenders
 defense
 defensie
+defensoria
 defi
 defiance
 defiant
@@ -27612,6 +27598,7 @@ devstore
 dev-subscribe
 dev-support
 devsupport
+devsys
 devt
 dev-tableau
 devteam
@@ -27827,6 +27814,7 @@ diablo
 diablo2
 diablos
 diabolo
+diac
 diag
 diageo
 diagnose
@@ -30714,7 +30702,6 @@ ecos
 ecostat
 ecosys
 ecosystem
-ecosystems
 ecotest
 ecotoerisme
 ecotourism
@@ -30845,6 +30832,7 @@ edgetrksvc
 edgewood
 edh
 edi
+edia
 edial
 edicola
 edie
@@ -30944,6 +30932,7 @@ educatief
 educatief-speelgoed
 education
 educational
+educationhub
 educationportal
 education-staging
 educator
@@ -32963,6 +32952,7 @@ estland
 estland-vakantie
 esto
 estonia
+estoque
 e-store
 estore
 estp
@@ -33160,7 +33150,6 @@ eud
 eudev-www
 eudora
 eue
-eu-es
 eug
 eugen
 eugene
@@ -33405,6 +33394,7 @@ evms
 evn
 evo
 evoke
+evoko
 evolivecasino
 evolutie
 evolution
@@ -35873,6 +35863,7 @@ formulaires
 formulaone
 formular
 formulare
+formulario
 formularios
 formule-1
 formule1
@@ -43779,6 +43770,7 @@ iam
 iam-api
 iam-dev
 iamdev
+iamportal
 iams
 iam-stage
 iam-stg
@@ -44282,7 +44274,6 @@ igd
 ige
 igel
 igem
-igf
 igg
 iggy
 igh
@@ -44912,6 +44903,7 @@ incident
 incidents
 incite
 incites
+incl
 include
 includes
 inclusion
@@ -45187,6 +45179,7 @@ ingrammicro
 ingredienten
 ingress
 ingresso
+ingress-test
 ingrid
 ings
 ingushetia
@@ -46350,6 +46343,7 @@ isearch
 isecure
 isecurity
 isee
+iseg
 isell
 isem
 isen
@@ -47545,7 +47539,6 @@ jjb
 jjc
 jj-cat4900-gw
 jje
-jjg
 jjh
 jjj
 jjjj
@@ -50906,7 +50899,6 @@ labrat
 labs
 labs1
 labs2
-labs-staging
 labstats
 labtech
 labtest
@@ -51462,7 +51454,6 @@ ldb
 ldc
 ldcsa
 ldd
-lde
 ldf
 ldg
 ldgateway
@@ -56674,7 +56665,6 @@ mf2
 mf3
 mfa
 mfaportal
-mfa-test
 mfatest
 mfb
 mfc
@@ -57129,7 +57119,6 @@ mill
 milla
 mille
 millenium
-millennia
 millennium
 mill-en-sint-hubert
 miller
@@ -58133,7 +58122,6 @@ monty
 montypython
 monument
 monumenten
-monuta
 mony
 monza
 moo
@@ -58463,6 +58451,7 @@ mp-dev
 mpdf
 mpe
 mpeg
+mpes
 mpf
 mpg
 mpgs
@@ -58478,6 +58467,7 @@ mplatform
 mpls
 mplus
 mpm
+mpms
 mpn
 mpo
 mportal
@@ -58491,6 +58481,7 @@ mprint
 mpro
 mprod
 mproxy
+mprs
 mps
 mpsc
 mpt
@@ -59357,7 +59348,6 @@ mx51
 mx52
 mx54
 mx6
-mx63
 mx66
 mx67
 mx68
@@ -59672,6 +59662,7 @@ myrtlebeach
 mys
 mysa
 mysales
+mysap
 myschedule
 myschool
 mysearch
@@ -60369,7 +60360,6 @@ nc-test
 ncts
 ncu
 ncw
-ncweb
 nd
 nd1
 nda
@@ -60630,7 +60620,6 @@ netbanking
 netbeans
 netbiz
 netbook
-netbotz
 netbox
 netbox-dev
 netbox-test
@@ -62653,7 +62642,6 @@ o60
 o63
 o64
 o65
-o66
 o7
 o76
 o78
@@ -65094,6 +65082,7 @@ paesens
 paf
 pag
 pagamento
+pagamentos
 pagan
 paganisme
 page
@@ -65171,6 +65160,7 @@ palimpsest
 paling
 palisade
 palitra
+palk
 pallada
 palladium
 pallas
@@ -65486,7 +65476,6 @@ participant
 participants
 participate
 participatie
-participation
 particle
 particulier
 particulieren
@@ -65597,6 +65586,7 @@ passion
 passions
 passive
 passkey
+passman
 passport
 passport2
 passport3
@@ -65612,6 +65602,7 @@ passwordchange
 passwordless
 passwordmanager
 passwordregistration
+password-reset
 passwordreset
 passwords
 passwordsafe
@@ -65791,6 +65782,7 @@ payments-staging
 payment-staging
 payments-test
 payments-uat
+payments-us
 payment-test
 paymentui
 payment-web
@@ -66111,7 +66103,6 @@ pega
 pegas
 pegaso
 pegasus
-pegasys
 peggy
 pei
 peins
@@ -66174,6 +66165,7 @@ pennstate
 pennsylvania
 penny
 peno
+penpot
 penrose
 pens
 pensacola
@@ -66376,6 +66368,7 @@ peso
 pesquisa
 pesse
 pessoal
+pessoas
 pest
 pestcontrol
 pesten
@@ -67833,7 +67826,6 @@ portzelande
 pos
 pos2
 posad
-pos-api
 pose
 poseidon
 poser
@@ -69182,6 +69174,7 @@ public3
 publica
 publicaccess
 publicaccesstest
+publicacoes
 publicador
 publicaffairs
 public-api
@@ -71161,6 +71154,7 @@ reeuwijk
 reeves
 ref
 ref1
+refa
 refactor
 refactoring
 refahi
@@ -74755,7 +74749,6 @@ sci-fi
 scifi
 scifinder
 scim
-scim-1password
 scim-bridge
 scimitar
 scinet
@@ -74864,6 +74857,7 @@ screencast
 screencasts
 screenconnect
 screener
+screeners
 screening
 screenname
 screens
@@ -75004,6 +74998,7 @@ sea2
 seabird
 seabiscuit
 seach
+sead
 seafight
 seafile
 seafood
@@ -75308,6 +75303,7 @@ seewww
 seeyou
 sef
 sefa
+sefaz
 seg
 seg1
 seg2
@@ -77677,6 +77673,7 @@ smartaccess
 smartad
 smartapp
 smartapps
+smartass
 smartbear
 smartbiz
 smart-blog
@@ -77967,6 +77964,7 @@ smtp-out3
 smtpout3
 smtpout4
 smtpout5
+smtp-outbound
 smtp-port
 smtp-qa
 smtp-relay
@@ -80710,6 +80708,7 @@ subdomain
 subdomains
 subdomein
 sube
+subgraph
 subject
 sublime
 subliminal
@@ -81691,7 +81690,6 @@ taiji
 taiko
 tail
 tailor
-tailored
 tailormade
 tails
 taina
@@ -83982,6 +83980,7 @@ tmsc
 tmsk
 tmss
 tms-test
+tms-uat
 tmt
 tmtest
 tmu
@@ -86860,6 +86859,7 @@ uvic
 uvk
 uvm
 uvo
+uvp
 uvs
 uvt
 uvu
@@ -87006,6 +87006,7 @@ vaccinetracker
 vaccinetstodh
 vaccin-voyage-ghparis10
 vacha
+vacina
 vacunatorio
 vacuum
 vad
@@ -89837,7 +89838,6 @@ wallboard
 wall-e
 walle
 wallet
-wallet-acc
 wallet-api
 wallet-dev
 wallets
@@ -90131,7 +90131,6 @@ wayout
 wayoutwest
 waypoint
 ways
-waz
 waze
 wazuh
 wazzup
@@ -99333,6 +99332,7 @@ zeevissen
 zeewolde
 zeezenders
 zeezicht
+zef
 zegelring
 zegge
 zegveld

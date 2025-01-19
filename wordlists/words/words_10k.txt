@@ -1969,7 +1969,6 @@ cha
 chalet
 challenge
 challenger
-chameleon
 champagne
 champion
 champions
@@ -2278,7 +2277,6 @@ config
 configurator
 configure
 confirm
-confirmation
 confluence
 congres
 connect
@@ -3475,6 +3473,7 @@ factory
 facts
 facturen
 faculty
+fad
 failover
 fair
 fairtrade
@@ -3728,7 +3727,6 @@ fs2
 fsa
 fsc
 fsm
-fsp
 fss
 ft
 ftp
@@ -4285,8 +4283,6 @@ host120
 host13
 host2
 host20
-host21
-host23
 host3
 host4
 host5
@@ -5346,6 +5342,7 @@ lounge
 love
 loyalty
 lp
+lp2
 lps
 lr
 lrs
@@ -5901,6 +5898,7 @@ montgomery
 montreal
 moo
 moodle
+moodle2
 moon
 more
 morgan
@@ -5931,6 +5929,7 @@ mp
 mp3
 mp4
 mpa
+mpc
 mpi
 mpk
 mpp
@@ -8960,6 +8959,7 @@ tsa
 tsc
 tsg
 t-shirt
+tsi
 tsm
 tsp
 tss
