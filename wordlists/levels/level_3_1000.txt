@@ -221,6 +221,7 @@
 a1
 a2
 aa
+ab
 abc
 ac
 acc
@@ -310,7 +311,6 @@ bbs
 bc
 be
 beta
-bg
 bi
 billing
 bitbucket
@@ -482,6 +482,7 @@ extranet
 facebook
 fbx
 fe
+feature
 feedback
 fi
 file
@@ -657,7 +658,6 @@ monitoring
 moodle
 mp
 mq
-mqtt
 ms
 mta
 mta-sts
@@ -846,7 +846,6 @@ services
 sf
 sftp
 sg
-sgw
 sh
 share
 shared
@@ -956,6 +955,7 @@ v2
 v3
 va
 vault
+vc
 vendor
 verify
 video

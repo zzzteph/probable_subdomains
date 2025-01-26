@@ -10,6 +10,7 @@
 15
 16
 162
+163
 17
 18
 180
@@ -126,7 +127,6 @@ athena
 atlantis
 atlas
 au
-audit
 auth
 author
 auto
@@ -668,7 +668,6 @@ payment
 payments
 pc
 pda
-pe
 people
 perf
 pg
@@ -767,7 +766,6 @@ rs
 rss
 rt
 ru
-rx
 s1
 s2
 s3
@@ -779,6 +777,7 @@ saml
 sandbox
 sb
 sc
+scheduler
 scm
 sd
 se
@@ -831,6 +830,7 @@ spf
 splunk
 sport
 sports
+sps
 sql
 sr
 srv
