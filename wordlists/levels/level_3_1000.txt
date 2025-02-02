@@ -488,6 +488,7 @@ fi
 file
 files
 finance
+fleet
 foo
 forms
 forum
@@ -823,6 +824,7 @@ s4
 sa
 sagepub
 sales
+sam
 saml
 sandbox
 sap
@@ -955,8 +957,6 @@ v2
 v3
 va
 vault
-vc
-vendor
 verify
 video
 view

@@ -54,6 +54,7 @@ api
 api2
 api-dev
 api.dev
+apis
 api.staging
 api-test
 apollo
@@ -112,7 +113,6 @@ biz
 blog
 blogs
 bo
-boards
 book
 booking
 bookmarks
@@ -260,7 +260,6 @@ edit
 edu
 education
 eindhoven
-el
 elastic
 elearning
 elections
@@ -304,7 +303,6 @@ file
 files
 film
 finance
-fitness
 flash
 food
 form
@@ -460,6 +458,7 @@ kursk
 lab
 labs
 landing
+law
 lb
 ldap
 learn
@@ -521,6 +520,7 @@ maps
 market
 marketing
 marketplace
+mars
 master
 math
 matrix
@@ -622,7 +622,6 @@ ops
 opwww
 order
 orders
-orel
 orenburg
 origin
 origin-www
@@ -726,6 +725,7 @@ resume
 retail
 review
 reviews
+rewards
 ro
 root
 rootsweb

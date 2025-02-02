@@ -20,6 +20,7 @@
 22
 23
 24
+25
 26
 27
 28
@@ -34,6 +35,7 @@
 38
 40
 41
+43
 44
 45
 50
@@ -176,6 +178,7 @@ buy
 ca
 cache
 calendar
+cam
 campaign
 careers
 cas
@@ -298,6 +301,7 @@ dns2
 doc
 docker
 docs
+documents
 download
 downloads
 dp
@@ -335,7 +339,6 @@ eu
 eu-west-1
 event
 events
-ews
 exchange
 ext
 external
@@ -777,7 +780,6 @@ saml
 sandbox
 sb
 sc
-scheduler
 scm
 sd
 se
@@ -800,7 +802,6 @@ sftp
 sg
 sh
 share
-shared
 sharepoint
 shop
 si
@@ -830,7 +831,6 @@ spf
 splunk
 sport
 sports
-sps
 sql
 sr
 srv

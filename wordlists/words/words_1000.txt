@@ -191,7 +191,6 @@ collab
 collab-edge
 com
 community
-computer
 comune
 comwww
 conf
@@ -342,6 +341,7 @@ geo
 get
 gis
 git
+github
 gitlab
 global
 gmail

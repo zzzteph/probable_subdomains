@@ -277,7 +277,6 @@ adsl
 af
 agent
 ai
-aip
 airflow
 akamai
 alb
@@ -307,6 +306,7 @@ ap-northeast-1
 apollo
 app
 app1
+apple
 apps
 aps
 ap-southeast-1
@@ -513,7 +513,6 @@ exchange
 ext
 external
 facebook
-fb
 fbx
 fe
 feedback
@@ -685,6 +684,7 @@ my
 mysql
 na
 nature
+nc
 ne
 neoplus
 net

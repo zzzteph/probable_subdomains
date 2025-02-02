@@ -471,6 +471,7 @@ directory
 discovery
 dk
 dl
+dm
 dmz
 dns
 doc
@@ -750,7 +751,6 @@ p1
 pa
 page
 pages
-painel
 partner
 pay
 payments
