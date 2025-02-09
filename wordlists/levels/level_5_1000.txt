@@ -325,6 +325,7 @@ assets
 at
 athena
 atlas
+att
 au
 auction
 audit
@@ -585,7 +586,6 @@ http
 httpbin
 hub
 i1
-i2
 iad
 iam
 id
@@ -990,11 +990,11 @@ wp
 ws
 ww
 ww16
+ww38
 www
 www1
 www2
 www3
-www-dev
 www-test
 yahoo
 yandex

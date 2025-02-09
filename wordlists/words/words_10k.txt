@@ -880,7 +880,6 @@ apollo
 apotheek
 app
 app01
-app02
 app1
 app2
 app3
@@ -903,6 +902,7 @@ apps
 apps1
 apps2
 apps3
+appserver
 apps-test
 appstore
 app-test
@@ -1024,6 +1024,7 @@ asi
 asia
 asian
 ask
+asl
 aslan
 asm
 aso
@@ -2171,6 +2172,7 @@ cms2
 cms3
 cms-dev
 cmsdev
+cms-test
 cmstest
 cmt
 cn
@@ -2677,7 +2679,6 @@ demosite
 den
 den-bosch
 denbosch
-denemarken
 den-haag
 denhaag
 denhelder
@@ -3021,7 +3022,6 @@ dvs
 dw
 dwp-cis
 dws
-dwww
 dx
 dy
 dyn
@@ -3892,7 +3892,6 @@ gh
 ghost
 ghs
 gi
-gids
 gif
 gift
 giftcards
@@ -4562,7 +4561,6 @@ ing
 ingest
 ingress
 ink
-inkt
 inloggen
 innovate
 innovatie
@@ -5101,6 +5099,7 @@ labs
 lada
 lady
 laguna
+lala
 lambda
 laminaat
 lamp
@@ -5201,6 +5200,7 @@ lewis
 lex
 lexus
 lf
+lfs
 lg
 lh
 lh3
@@ -5770,6 +5770,7 @@ milano
 milieu
 military
 milk
+millenium
 millennium
 miller
 milo
@@ -6393,7 +6394,6 @@ odp
 ods
 odyssey
 oe
-oegstgeest
 oem
 of
 ofertas
@@ -6650,6 +6650,7 @@ panda
 pandora
 panel
 panorama
+pantheon
 panther
 pap
 papa
@@ -6822,7 +6823,6 @@ pie
 pierre
 pig
 pigeon
-pijn
 pilot
 pim
 pin
@@ -6864,7 +6864,6 @@ planning
 plant
 plasma
 plastic
-plastischechirurgie
 platform
 platinum
 plato
@@ -6959,6 +6958,7 @@ positiekleding
 post
 posta
 postal
+postfix
 postman
 postmaster
 postoffice
@@ -7854,7 +7854,6 @@ sem
 seminar
 seminars
 sen
-senate
 send
 sender
 sendgrid
@@ -8754,6 +8753,7 @@ thanos
 thc
 the
 theater
+theatre
 thehub
 theia
 theme

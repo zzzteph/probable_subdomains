@@ -14,7 +14,6 @@
 171
 173
 18
-185
 194
 199
 20
@@ -96,6 +95,7 @@ ui
 uk
 us
 us-east-1
+vault
 web
 webmail
 ws

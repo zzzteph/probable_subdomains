@@ -113,6 +113,7 @@ biz
 blog
 blogs
 bo
+boards
 book
 booking
 bookmarks
@@ -625,7 +626,6 @@ orders
 orenburg
 origin
 origin-www
-oss
 oud
 outlook
 owa
