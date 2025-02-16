@@ -20,7 +20,6 @@
 22
 23
 24
-25
 26
 27
 28
@@ -35,7 +34,7 @@
 38
 40
 41
-43
+42
 44
 45
 50
@@ -47,7 +46,6 @@
 71
 75
 76
-78
 80
 89
 a1
@@ -178,7 +176,6 @@ buy
 ca
 cache
 calendar
-cam
 campaign
 careers
 cas
@@ -213,6 +210,7 @@ click
 client
 cloud
 club
+cluster
 cm
 cms
 cn
@@ -224,7 +222,6 @@ collab-edge
 com
 common
 community
-compass
 conf
 conference
 config
@@ -247,7 +244,6 @@ cpcontacts
 cr
 crl
 crm
-crowd
 cs
 css
 ct
@@ -339,6 +335,7 @@ eu
 eu-west-1
 event
 events
+ews
 exchange
 ext
 external
@@ -397,6 +394,7 @@ gw
 gws
 gz
 ha
+hd
 health
 hello
 help
@@ -613,7 +611,7 @@ nginx
 nic
 nl
 no
-nodejs
+node
 non-prod
 nonprod
 notifications
@@ -671,6 +669,7 @@ payment
 payments
 pc
 pda
+pe
 people
 perf
 pg
@@ -729,6 +728,7 @@ push
 qa
 qa1
 qa2
+qa3
 quest
 ra
 radio

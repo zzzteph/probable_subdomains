@@ -113,7 +113,6 @@ biz
 blog
 blogs
 bo
-boards
 book
 booking
 bookmarks
@@ -492,6 +491,7 @@ lp
 lync
 lyncdiscover
 lyncdiscoverinternal
+lyncweb
 m1
 m2
 ma
@@ -521,7 +521,6 @@ maps
 market
 marketing
 marketplace
-mars
 master
 math
 matrix
@@ -626,6 +625,7 @@ orders
 orenburg
 origin
 origin-www
+oss
 oud
 outlook
 owa

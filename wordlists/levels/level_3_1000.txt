@@ -272,6 +272,7 @@ app
 app1
 app2
 apple
+application
 apply
 apps
 aps
@@ -321,7 +322,6 @@ blogs
 blue
 bmw
 bo
-border-even
 border-odd
 bot
 box
@@ -396,6 +396,7 @@ ct
 customer
 cz
 da
+dash
 dashboard
 data
 db
@@ -544,7 +545,9 @@ id
 identity
 idm
 idp
+ids
 ie
+ieee
 im
 image
 images
@@ -610,6 +613,7 @@ login
 logs
 loki
 london
+lp
 lt
 lyncdiscover
 lyncdiscoverinternal
@@ -620,7 +624,6 @@ mail
 mail01
 mail1
 mail2
-mailserver
 main
 maintenance
 manage
@@ -652,7 +655,6 @@ ml
 mm
 mobile
 mon
-mongo
 monitor
 monitoring
 moodle
@@ -728,6 +730,7 @@ os
 oss
 outlook
 owa
+p1
 pa
 pages
 partner
@@ -737,7 +740,6 @@ payment
 payments
 pc
 pe
-people
 perf
 ph
 photo
@@ -756,7 +758,6 @@ pp
 pr
 prd
 pre
-pre-prod
 preprod
 preview
 private
@@ -873,7 +874,6 @@ ss
 ssl
 sso
 st
-sta
 staff
 stag
 stage
@@ -901,6 +901,7 @@ system
 t1
 t2
 tableau
+tandfonline
 team
 teleport
 temp
@@ -944,7 +945,6 @@ upload
 uploads
 urc
 us
-us1
 us-east-1
 us-east-2
 user

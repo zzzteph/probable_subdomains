@@ -13,6 +13,7 @@ chat
 cloud
 cms
 com
+connect
 content
 cpanel
 cpcalendars
@@ -43,7 +44,6 @@ intranet
 ipv6
 jobs
 link
-live
 login
 lyncdiscover
 mail

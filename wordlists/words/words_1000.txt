@@ -144,6 +144,7 @@ cache
 calendar
 cam
 campaign
+campaigns
 campus
 card
 career
@@ -328,7 +329,6 @@ fr
 free
 fs
 ftp
-fun
 fw
 ga
 gallery
@@ -677,6 +677,7 @@ pp
 pr
 prd
 pre
+pre-prod
 preprod
 press
 preview
@@ -923,7 +924,6 @@ vip
 vn
 voice
 voip
-volgograd
 vote
 vpn
 vpn1

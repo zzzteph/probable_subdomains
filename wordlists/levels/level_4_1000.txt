@@ -260,7 +260,6 @@ about
 ac
 academic
 acc
-acceptance
 acceptatie
 access
 account
@@ -277,6 +276,7 @@ adsl
 af
 agent
 ai
+aip
 airflow
 akamai
 alb
@@ -329,6 +329,7 @@ au
 auth
 authentication
 author
+authorization
 autoconfig
 autodiscover
 aws
@@ -339,6 +340,7 @@ backbone
 backend
 backoffice
 backup
+base
 bastion
 batch
 bb
@@ -357,7 +359,6 @@ bmj
 bo
 book
 br
-bt
 build
 business
 c1
@@ -385,12 +386,10 @@ chat
 checkout
 chef
 ci
-cicd
 click
 client
 clients
 cloud
-cloudfront
 cluster
 cm
 cms
@@ -520,6 +519,7 @@ fi
 file
 files
 finance
+find
 fm
 foo
 forms
@@ -586,6 +586,7 @@ info
 infra
 ingest
 ingress
+insights
 int
 integration
 internal
@@ -677,7 +678,6 @@ mtls
 muse
 music
 mx
-mx01
 mx1
 mx2
 my
@@ -720,6 +720,7 @@ on
 one
 online
 onlinelibrary
+open
 ops
 orange
 order
@@ -786,6 +787,7 @@ pt
 ptr
 pub
 public
+publications
 publish
 publisher
 pubs
@@ -886,7 +888,6 @@ static
 stats
 status
 stg
-stg1
 stg2
 storage
 store
@@ -911,7 +912,6 @@ telemetry
 teleport
 temp
 test
-test01
 test1
 test2
 test3

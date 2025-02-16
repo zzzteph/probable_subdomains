@@ -66,7 +66,6 @@ ar
 arc
 archief
 archive
-archives
 art
 as
 asia
@@ -137,7 +136,6 @@ cam
 campaign
 campaigns
 campus
-canada
 card
 career
 careers
@@ -360,6 +358,7 @@ health
 hello
 help
 helpdesk
+hermes
 hh
 hi
 history
@@ -401,6 +400,7 @@ img3
 ims
 in
 inbound
+india
 info
 infolab
 informatik
@@ -650,7 +650,6 @@ perm
 ph
 photo
 photos
-php
 phpmyadmin
 pic
 pilot
@@ -797,6 +796,7 @@ social
 software
 solutions
 sp
+space
 spam
 spb
 speedtest

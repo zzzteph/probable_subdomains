@@ -359,7 +359,6 @@ blog
 blogs
 blogspot
 blue
-box
 br
 brand
 broad
@@ -442,6 +441,7 @@ dashboard
 data
 db
 dc
+dc1
 dc2
 dd
 de
@@ -509,6 +509,7 @@ eng
 engineering
 ep
 eric
+error
 es
 escan-anti-virus
 eset-nod32-antivirus
@@ -558,7 +559,6 @@ geneva
 geo
 gh
 git
-github
 gitlab
 global
 go
@@ -598,7 +598,6 @@ im
 image
 images
 imap
-imap4
 img
 in
 incites
@@ -610,6 +609,7 @@ ingest
 ingress
 int
 integration
+inter
 internal
 interscience
 intranet
@@ -635,7 +635,6 @@ kafka
 kb
 keycloak
 kibana
-king
 korea
 kr
 la
@@ -776,6 +775,7 @@ pre
 preprod
 preview
 private
+pro
 prod
 prod2
 product

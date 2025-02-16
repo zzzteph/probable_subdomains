@@ -375,7 +375,6 @@ abi
 ablink
 abm
 abmail
-abn
 abo
 abonnement
 abonnementen
@@ -570,7 +569,6 @@ agenda
 agent
 agents
 agile
-aging
 agnes
 agora
 agr
@@ -880,6 +878,7 @@ apollo
 apotheek
 app
 app01
+app02
 app1
 app2
 app3
@@ -1124,6 +1123,7 @@ authenticate
 authentication
 author
 authoring
+authorization
 authors
 authsmtp
 auth-test
@@ -1441,7 +1441,6 @@ big5
 bigbrother
 bigdata
 bigmac
-bijoux
 bike
 bikini
 bilbo
@@ -2172,7 +2171,6 @@ cms2
 cms3
 cms-dev
 cmsdev
-cms-test
 cmstest
 cmt
 cn
@@ -2437,7 +2435,6 @@ crucible
 cruise
 crux
 crypto
-cryptocurrency
 cryptshare
 crystal
 cs
@@ -2741,6 +2738,7 @@ devices
 devil
 devon
 devops
+dev-portal
 devportal
 devtest
 devtools
@@ -2995,7 +2993,6 @@ dst
 dt
 dtc
 dtm
-dtp
 dts
 du
 dub
@@ -3214,7 +3211,6 @@ e-marketing
 emarketing
 emba
 embed
-embedded
 emc
 emea
 emerald
@@ -3244,6 +3240,7 @@ enc
 encoder
 encore
 encrypt
+encuestas
 encyclopedia
 endeavour
 endpoint
@@ -3341,7 +3338,6 @@ eservices
 eset
 esf
 esg
-e-shop
 eshop
 esi
 esign
@@ -3412,7 +3408,6 @@ evolve
 evs
 ew
 ews
-eww
 ewww
 ex
 ex2
@@ -3511,7 +3506,6 @@ fd
 fdc
 fds
 fe
-fe1
 fe2
 feature
 features
@@ -3533,7 +3527,6 @@ ferrari
 ferry
 fes
 festival
-festivals
 fetish
 feyenoord
 ff
@@ -4042,7 +4035,6 @@ gsuite
 gt
 gta
 gti
-gtk
 gtm
 gtm1
 gtm2
@@ -4052,7 +4044,6 @@ guangzhou
 guard
 guardian
 gucci
-guce
 guest
 guestbook
 guestportal
@@ -4536,6 +4527,7 @@ indy
 inet
 inf
 inferno
+infinite
 infiniti
 infinity
 influxdb
@@ -4767,7 +4759,6 @@ jefferson
 jenkins
 jennifer
 jenny
-jens
 jeremy
 jeroen
 jerome
@@ -5128,6 +5119,7 @@ lastminute
 lasvegas
 latam
 latest
+latin
 launch
 launcher
 launchpad
@@ -5225,6 +5217,7 @@ lifestyle
 liga
 light
 lighthouse
+lighting
 lightning
 like
 lily
@@ -5339,6 +5332,7 @@ lounge
 love
 loyalty
 lp
+lp1
 lp2
 lps
 lr
@@ -5483,6 +5477,7 @@ mailing
 mailings
 maillist
 mailman
+mail-out
 mailout
 mail-relay
 mailrelay
@@ -5898,6 +5893,7 @@ moo
 moodle
 moodle2
 moon
+moonlight
 more
 morgan
 morpheus
@@ -6360,7 +6356,6 @@ oa
 oak
 oam
 oas
-oascentral
 oasis
 oauth
 oauth2
@@ -6425,6 +6420,7 @@ okta
 ol
 ola
 old
+old2
 oldenzaal
 oldmail
 oldsite
@@ -6499,6 +6495,7 @@ opencart
 opendata
 openid
 openjfx
+opensearch
 openshift
 opensource
 openstack
@@ -6532,6 +6529,7 @@ orc
 orca
 orchestrator
 orchid
+ord
 order
 ordering
 orders
@@ -6717,6 +6715,7 @@ pc1
 pcc
 pcgames
 pci
+pcm
 pcs
 pd
 pda
@@ -6843,6 +6842,7 @@ pivot
 piwik
 pix
 pixel
+pixels
 pizza
 pj
 pk
@@ -7391,6 +7391,7 @@ renault
 render
 renew
 rent
+rental
 rentals
 rep
 repair
@@ -8865,7 +8866,6 @@ torrent
 torrents
 tos
 toshiba
-tot
 total
 toto
 touch
@@ -9602,6 +9602,7 @@ whale
 whatever
 whatsapp
 whisky
+whisper
 white
 whiteboard
 whitelabel
@@ -9695,7 +9696,6 @@ wow
 wowza
 wp
 wp1
-wp2
 wpad
 wpc
 wps
