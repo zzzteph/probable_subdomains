@@ -499,7 +499,6 @@ m2
 ma
 magazine
 magazines
-magazinesintern
 magento
 mail
 mail01
@@ -924,6 +923,7 @@ vip
 vn
 voice
 voip
+volgograd
 vote
 vpn
 vpn1

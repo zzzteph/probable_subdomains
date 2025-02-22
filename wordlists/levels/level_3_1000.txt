@@ -85,7 +85,6 @@
 185
 186
 188
-189
 19
 191
 192
@@ -141,7 +140,6 @@
 248
 249
 25
-250
 251
 255
 26
@@ -235,12 +233,14 @@ ad
 adfs
 adm
 admin
+adminportal
 ads
 adsl
 ae
 agent
 ai
 airflow
+ak
 akamai
 alb
 alertmanager
@@ -272,7 +272,6 @@ app
 app1
 app2
 apple
-application
 apply
 apps
 aps
@@ -472,6 +471,7 @@ eu1
 eu-central-1
 europe
 eu-west-1
+eu-west-2
 event
 events
 example
@@ -509,6 +509,7 @@ gate
 gateway
 geo
 gis
+gist
 git
 github
 gitlab
@@ -520,6 +521,7 @@ google
 gov
 grafana
 graph
+graylog
 green
 grpc
 gw
@@ -528,7 +530,6 @@ health
 hello
 help
 helpdesk
-hermes
 hk
 home
 host
@@ -540,6 +541,7 @@ http
 httpbin
 hu
 hub
+iad
 iam
 id
 identity
@@ -547,7 +549,6 @@ idm
 idp
 ids
 ie
-ieee
 im
 image
 images
@@ -660,6 +661,7 @@ monitoring
 moodle
 mp
 mq
+mqtt
 ms
 mta
 mta-sts
@@ -717,7 +719,6 @@ old
 onboarding
 one
 online
-onlinelibrary-wiley-com
 open
 ops
 orange
@@ -782,6 +783,7 @@ push
 qa
 qa1
 qa2
+queue
 r1
 rabbitmq
 rancher
@@ -827,7 +829,6 @@ sales
 saml
 sandbox
 sap
-sb
 sbx
 sc
 scheduler
@@ -919,7 +920,6 @@ token
 tools
 tp
 tr
-track
 tracker
 tracking
 traefik
@@ -964,6 +964,7 @@ vip
 vm
 voice
 vpn
+w3
 wap
 weather
 web
@@ -980,7 +981,6 @@ webservices
 website
 west
 whm
-wifi
 wiki
 wildcard
 wiley

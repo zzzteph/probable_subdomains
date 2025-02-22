@@ -10,7 +10,6 @@
 15
 16
 162
-163
 17
 18
 180
@@ -222,6 +221,7 @@ collab-edge
 com
 common
 community
+compass
 conf
 conference
 config
@@ -332,6 +332,7 @@ enterpriseregistration
 erp
 es
 eu
+europe
 eu-west-1
 event
 events
@@ -680,7 +681,6 @@ photos
 php
 phpmyadmin
 pi
-pic
 pilot
 pkg-grass
 pkg-mono
@@ -707,6 +707,7 @@ pre-prod
 preprod
 preview
 print
+privacy
 private
 pro
 prod
@@ -772,7 +773,6 @@ ru
 s1
 s2
 s3
-s4
 sa
 sales
 sam
@@ -876,6 +876,7 @@ t2
 tableau
 tc
 team
+teams
 tech
 temp
 test
@@ -944,7 +945,6 @@ view
 vip
 vision
 vm
-vn
 vod
 voice
 vpn

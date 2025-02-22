@@ -627,7 +627,6 @@ lib
 library
 link
 linkinghub
-lists
 live
 lo0
 local
@@ -700,6 +699,7 @@ no
 node
 nonprod
 notary
+notification
 notifications
 ns
 ns1

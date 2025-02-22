@@ -475,7 +475,6 @@ adhd
 adherents
 adi
 adidas
-adis
 adler
 adlog
 adm
@@ -553,7 +552,6 @@ afm
 afp
 africa
 afrika
-afrodita
 afs
 afslanken
 afspraak
@@ -569,6 +567,7 @@ agenda
 agent
 agents
 agile
+aging
 agnes
 agora
 agr
@@ -794,6 +793,7 @@ anketa
 ann
 anna
 anne
+annex
 annie
 annuaire
 annualreport
@@ -1023,7 +1023,6 @@ asi
 asia
 asian
 ask
-asl
 aslan
 asm
 aso
@@ -1226,7 +1225,6 @@ backoffice
 backpack
 backstage
 backup
-backup01
 backup1
 backup2
 backups
@@ -2190,7 +2188,6 @@ coc
 cockpit
 coco
 cocoa
-coconut
 cod
 code
 coder
@@ -2248,6 +2245,7 @@ company
 compaq
 compare
 compass
+competition
 complaints
 compliance
 components
@@ -2412,7 +2410,6 @@ cricket
 crime
 crimea
 cris
-crisis
 crl
 crm
 crm2
@@ -2738,7 +2735,6 @@ devices
 devil
 devon
 devops
-dev-portal
 devportal
 devtest
 devtools
@@ -3019,6 +3015,7 @@ dvs
 dw
 dwp-cis
 dws
+dwww
 dx
 dy
 dyn
@@ -3357,6 +3354,7 @@ essentuki
 est
 estate
 esther
+estonia
 estore
 esupport
 esx
@@ -3504,6 +3502,7 @@ fcc
 fcs
 fd
 fdc
+fdm
 fds
 fe
 fe2
@@ -3669,6 +3668,7 @@ fox
 foxtrot
 foxy
 fp
+fpc
 fps
 fr
 fra
@@ -4530,6 +4530,7 @@ inferno
 infinite
 infiniti
 infinity
+influx
 influxdb
 info
 info1
@@ -4892,7 +4893,6 @@ kantoormeubilair
 kantoorruimte
 kappa
 kappers
-kara
 karaoke
 karate
 karen
@@ -5192,7 +5192,6 @@ lewis
 lex
 lexus
 lf
-lfs
 lg
 lh
 lh3
@@ -5332,7 +5331,6 @@ lounge
 love
 loyalty
 lp
-lp1
 lp2
 lps
 lr
@@ -5532,6 +5530,7 @@ mapi
 maple
 mapping
 maps
+mapy
 mar
 mara
 marathon
@@ -5639,7 +5638,6 @@ mec
 mech
 med
 medewerkers
-medi
 media
 media1
 media2
@@ -5982,7 +5980,6 @@ mtest
 mtg
 mtls
 mtn
-mtp
 mts
 mtv
 mu
@@ -6103,6 +6100,7 @@ nba
 nc
 ncc
 ncs
+nct
 nd
 ndc
 nds
@@ -6409,6 +6407,7 @@ ogs
 oh
 ohio
 oi
+oid
 oidc
 oig
 oil
@@ -6529,7 +6528,6 @@ orc
 orca
 orchestrator
 orchid
-ord
 order
 ordering
 orders
@@ -6820,7 +6818,6 @@ picture
 pictures
 pie
 pierre
-pig
 pigeon
 pilot
 pim
@@ -7167,6 +7164,7 @@ pypi
 pyramid
 python
 q2
+q3
 qa
 qa1
 qa2
@@ -7643,7 +7641,6 @@ saab
 saas
 sab
 saba
-sabrina
 sac
 sacramento
 sad
@@ -7855,6 +7852,7 @@ sem
 seminar
 seminars
 sen
+senate
 send
 sender
 sendgrid
@@ -8212,6 +8210,7 @@ spark
 sparky
 sparrow
 sparta
+spartan
 spb
 spc
 spd
@@ -8810,7 +8809,6 @@ tj
 tk
 tl
 tlc
-tld
 tls
 tlt
 tm
@@ -9519,6 +9517,7 @@ webeoc
 weber
 webex
 webext
+webflow
 webforms
 webftp
 webgis
@@ -9622,6 +9621,7 @@ wijn
 wijnen
 wiki
 wiki2
+wikipedia
 wild
 wildcard
 wiley

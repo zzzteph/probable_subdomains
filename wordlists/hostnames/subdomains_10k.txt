@@ -253,6 +253,7 @@ abcnews
 abdullah
 abe
 abel
+abi
 abm
 abo
 abonnement
@@ -362,6 +363,7 @@ adis
 adler
 adlog
 adm
+admanager
 admin
 admin1
 admin2
@@ -660,6 +662,7 @@ andromeda
 andy
 ang
 angarsk
+ange
 angel
 angela
 angelina
@@ -846,7 +849,6 @@ arhangelsk
 arhiva
 ari
 aria
-ariadne
 ariana
 ariane
 arie
@@ -1192,7 +1194,6 @@ bankieren
 banking
 banner
 banners
-baobab
 baobao
 bap
 bar
@@ -1455,6 +1456,7 @@ bloemendaal
 blog
 blog1
 blog2
+blog-dev
 blog.developer
 blogger
 blogs
@@ -1676,7 +1678,6 @@ buzz
 bv
 bw
 bwc
-bx
 by
 byod
 bz
@@ -2741,6 +2742,7 @@ diesel
 diet
 dieta
 dig
+digest
 digi
 digikoppeling
 digilander
@@ -3319,6 +3321,7 @@ esm
 esn
 eso
 esp
+espace
 espana
 espanol
 esports
@@ -4520,7 +4523,6 @@ impulse
 ims
 imt
 in
-ina
 inb
 inboedelverzekering
 inbound
@@ -4838,7 +4840,6 @@ juegos
 juice
 julia
 julie
-jumbo
 jump
 jungle
 junior
@@ -4983,7 +4984,6 @@ kings
 kingston
 kino
 kiosk
-kip
 kir
 kirov
 kis
@@ -5172,7 +5172,6 @@ ldap
 ldap1
 ldap2
 ldaps
-ldp
 lds
 le
 lea
@@ -7912,6 +7911,7 @@ sharing
 shark
 sharon
 sharp
+she
 shell
 shemale
 sheriff
@@ -8020,6 +8020,7 @@ slaapkamer
 slack
 slapen
 slate
+slave
 slc
 sleep
 sli
@@ -8098,7 +8099,6 @@ sn
 snake
 snap
 snapshot
-sneakers
 sneek
 sniper
 snoopy
@@ -8466,7 +8466,6 @@ supplier
 supplierportal
 suppliers
 supply
-supplychain
 support
 support1
 support2
@@ -9268,6 +9267,7 @@ vintage
 viola
 violet
 vip
+vip2
 viper
 vir
 virgin

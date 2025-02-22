@@ -354,6 +354,7 @@ be
 beta
 bf
 billing
+bk
 blob
 blog
 blogs
@@ -511,8 +512,6 @@ ep
 eric
 error
 es
-escan-anti-virus
-eset-nod32-antivirus
 eu
 eu-central-1
 eus2
@@ -755,6 +754,7 @@ pay
 payments
 paypal
 pc
+pdx
 perf
 pgadmin
 php
@@ -977,7 +977,6 @@ west
 westeurope
 weu
 whm
-whoami
 wifi
 wiki
 wildcard
@@ -1000,3 +999,4 @@ yahoo
 yandex
 you
 your
+za
