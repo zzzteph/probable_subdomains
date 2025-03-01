@@ -277,7 +277,6 @@ administrator
 ads
 adserver
 adsl
-advance
 ae
 affiliate
 agent
@@ -393,7 +392,6 @@ ch
 chat
 checkout
 chelyabinsk-rnoc-rr02
-chicago
 china
 ci
 cit
@@ -517,6 +515,7 @@ eu-central-1
 eus2
 eu-west-1
 eu-west-2
+euwww
 events
 example
 ext
@@ -561,6 +560,7 @@ git
 gitlab
 global
 go
+gold
 google
 gov
 gr
@@ -732,7 +732,6 @@ one
 online
 onlinelibrary
 openvpn
-opil
 ops
 or
 orange
@@ -760,6 +759,7 @@ pgadmin
 php
 phpmyadmin
 pilot
+pink
 pl
 platform
 play
@@ -871,7 +871,6 @@ sonar
 sonarqube
 sp
 spark
-spinnaker
 splunk
 sports
 ssh
@@ -989,6 +988,7 @@ wp
 ws
 ww
 ww16
+ww25
 ww38
 www
 www1

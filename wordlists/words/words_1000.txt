@@ -329,6 +329,7 @@ fr
 free
 fs
 ftp
+fun
 fw
 ga
 gallery
@@ -923,7 +924,6 @@ vip
 vn
 voice
 voip
-volgograd
 vote
 vpn
 vpn1

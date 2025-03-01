@@ -400,6 +400,7 @@ img3
 ims
 in
 inbound
+india
 info
 infolab
 informatik
@@ -663,7 +664,6 @@ player
 plus
 pm
 podcast
-poker
 pop
 pop3
 portaal

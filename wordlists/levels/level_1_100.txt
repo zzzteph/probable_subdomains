@@ -8,13 +8,13 @@ auth
 autodiscover
 beta
 blog
-blogs
 careers
 cdn
 chat
 cloud
 cms
 com
+community
 connect
 content
 cpanel

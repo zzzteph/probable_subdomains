@@ -320,6 +320,7 @@ education
 ee
 elastic
 elearning
+elk
 em
 email
 emea
@@ -436,6 +437,7 @@ inbound
 index
 info
 infra
+innovation
 inside
 insight
 insights
@@ -612,7 +614,6 @@ nginx
 nic
 nl
 no
-node
 non-prod
 nonprod
 notifications
@@ -707,7 +708,6 @@ pre-prod
 preprod
 preview
 print
-privacy
 private
 pro
 prod
@@ -773,6 +773,7 @@ ru
 s1
 s2
 s3
+s4
 sa
 sales
 sam
@@ -793,7 +794,6 @@ selfservice
 sentry
 server
 server1
-servers
 service
 servicedesk
 services
@@ -951,6 +951,7 @@ vpn
 vpn1
 vpn2
 w3
+wa
 wallet
 wap
 weather
@@ -996,7 +997,6 @@ www5
 www-dev
 wwww
 xmpp
-xxx
 yahoo
 zabbix
 zeus

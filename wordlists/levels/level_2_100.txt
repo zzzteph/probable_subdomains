@@ -49,7 +49,6 @@ int
 internal
 jira
 link
-live
 login
 mail
 mail2
@@ -92,6 +91,7 @@ support
 test
 uat
 us
+video
 view
 vpn
 web

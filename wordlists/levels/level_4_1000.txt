@@ -190,7 +190,6 @@
 34
 35
 36
-360
 37
 38
 39
@@ -260,6 +259,7 @@ about
 ac
 academic
 acc
+acceptance
 acceptatie
 access
 account
@@ -281,7 +281,6 @@ airflow
 akamai
 alb
 alertmanager
-alexanderstreet
 all
 alpha
 alt
@@ -435,7 +434,6 @@ delivery
 demo
 demo2
 deploy
-desktop
 dev
 dev01
 dev1
@@ -476,6 +474,7 @@ e2e
 ea
 east
 eastus2
+ebookcentral
 ebrary
 ebscohost
 ec
@@ -513,6 +512,7 @@ external
 facebook
 fbx
 fe
+feature
 feedback
 ff
 fi
@@ -593,6 +593,7 @@ internal
 interscience
 intranet
 inventory
+iopscience
 ip
 ip4
 ipv4
@@ -665,6 +666,7 @@ minio
 ml
 mm
 mobile
+mon
 monitor
 monitoring
 mq
@@ -687,6 +689,7 @@ nc
 ne
 neoplus
 net
+network
 new
 news
 next
@@ -823,7 +826,6 @@ retail
 rev
 ro
 rs
-rsc
 rss
 ru
 s1
@@ -896,7 +898,6 @@ stream
 sts
 studio
 sub
-superset
 support
 svc
 swagger
@@ -921,7 +922,6 @@ th
 the
 tickets
 to
-token
 tools
 tr
 traefik
@@ -965,7 +965,6 @@ video
 view
 vip
 virus
-vn
 vpn
 wap
 web
@@ -992,6 +991,7 @@ wordpress
 wp
 ws
 ww
+ww16
 ww25
 www
 www1
