@@ -437,7 +437,6 @@ inbound
 index
 info
 infra
-innovation
 inside
 insight
 insights
@@ -614,6 +613,7 @@ nginx
 nic
 nl
 no
+node
 non-prod
 nonprod
 notifications
@@ -665,7 +665,6 @@ partner
 partners
 pass
 passport
-password
 pay
 payment
 payments
@@ -708,6 +707,7 @@ pre-prod
 preprod
 preview
 print
+privacy
 private
 pro
 prod

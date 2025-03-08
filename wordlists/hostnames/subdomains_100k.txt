@@ -4367,7 +4367,6 @@ accountwww
 accp
 acc.piwik
 acc.platform
-accp.mobile
 acc-podiumd-logs
 acc-portal
 acc.portal
@@ -9040,6 +9039,7 @@ aof
 aog
 aoh
 aoi
+aoj
 aok
 aoki
 aol
@@ -11776,6 +11776,7 @@ auth.beta
 auth.cloud
 auth.corp
 auth-demo
+auth.demo
 auth-dev
 auth.dev
 authdev
@@ -13040,7 +13041,6 @@ b2b-test
 b2b.test
 b2btest
 b2b-uat
-b2bweb
 b2c
 b2e
 b2k
@@ -21486,6 +21486,7 @@ checkout.sandbox
 checkout.shop
 checkout-staging
 checkout.staging
+checkout-test
 checkout.us
 checkoutwithebay.sandbox
 checkpoint
@@ -22508,7 +22509,6 @@ click.mails
 click.marketing
 click.mc
 clickme
-click.message
 click.messages
 click.mkt
 click.news
@@ -22778,6 +22778,7 @@ cloud.test
 cloudtest
 cloudtools
 cloud.update
+cloud.updates
 cloudview
 cloud.vip
 cloudvpn
@@ -25424,6 +25425,7 @@ ct1
 ct2
 ct3
 cta
+ctap
 ctax
 ctb
 ctc
@@ -27438,6 +27440,7 @@ demolition
 demo.login
 demo.magento
 demo.mijn
+demo-my
 demon
 demons
 demonstration
@@ -28202,7 +28205,6 @@ devs
 dev.sandbox
 dev-search
 dev.search
-devsearch
 devsecops
 dev-secure
 dev.secure
@@ -28736,6 +28738,7 @@ digitalsign
 digitalsignage
 digitalsignature
 digitalsolutions
+digital-stage
 digitalsupport
 digitalteam
 digitaltest
@@ -29662,6 +29665,7 @@ domaincontrol
 domaincontrolpanel
 domaincp
 domaindnszones
+domaine
 domaines
 domainkey
 domainname
@@ -30004,6 +30008,7 @@ downloadpromanager
 downloads
 downloads2
 downloads-dev
+downloadservice
 download.skype
 downloads-staging
 download-staging
@@ -38103,7 +38108,6 @@ gcore
 gcp
 gcr
 gcs
-gcsd
 gcso
 gcsu
 gct
@@ -42331,13 +42335,11 @@ hfccourse.users
 hfd
 hff
 hfg
-hfi
 hfl
 hfm
 hfp
 hfs
 hft
-hfw
 hfx
 hg
 hga
@@ -46755,7 +46757,6 @@ irc.sac
 irctc
 ird
 irda
-irdeto
 ire
 i-recreation
 ired
@@ -50441,6 +50442,7 @@ kokomo
 kokoro
 kokos
 kokoshkino
+ko-kr
 koks
 kokshetau
 koksijde
@@ -51428,7 +51430,6 @@ labyrinth
 labytnangi
 lac
 lacasa
-laccd
 lace
 lacerta
 lacework
@@ -53276,7 +53277,6 @@ lli
 lll
 llm
 lln
-llnw
 lloret
 lloret-de-mar
 lloretdemar
@@ -53504,7 +53504,6 @@ login.gtm
 login-int
 login.mail
 login.mobile
-login-perf
 login.portal
 login-pre
 login-preprod
@@ -55124,7 +55123,6 @@ mailpro
 mail.prod
 mail.promo
 mail.protection
-mail-proxy
 mailproxy
 mailr
 mail.rec
@@ -55576,6 +55574,7 @@ mapapi
 mapas
 mapbox
 mapdata
+map.dev
 mapdev
 mape
 m-api
@@ -56054,6 +56053,7 @@ massagesalon
 massagesalons
 massagetherapy
 massagewinkel
+masscomm
 masseren
 massimo
 massiv
@@ -57304,7 +57304,6 @@ mff
 mfg
 mfh
 mfi
-mfile
 m-files
 mfiles
 mfin
@@ -67687,7 +67686,6 @@ pnk
 pnl
 pnm
 pnn
-pnnl
 pnp
 pnpserver
 pnr
@@ -76154,6 +76152,7 @@ shoebox
 shoeboxed
 shoes
 shogun
+shohada
 shok
 shook
 shoonmaakbedrijven
@@ -76551,7 +76550,6 @@ silvan
 silvana
 silver
 silverbullet
-silverfin
 silverlake
 silverlight
 silverline
@@ -77860,6 +77858,7 @@ socialtest
 socialwall
 socialwelfare
 socialwork
+societe
 society
 socio
 sociocratie
@@ -80824,6 +80823,7 @@ supportal
 support-api
 support.api
 support.app
+support-assets
 support.blog
 support.business
 supportcenter
@@ -81476,6 +81476,7 @@ tail
 tailor
 tailormade
 tails
+ta-in
 taina
 taipan
 taipei
@@ -84274,6 +84275,7 @@ trackpoint
 tracks
 track.sl
 track-staging-cdn
+track-test
 tracktrace
 tracs
 traction
@@ -86281,6 +86283,7 @@ useast
 us-east-1
 us-east-1.api
 us-east-1.app
+us-east-1.aws
 us-east-1.www
 us-east-2
 us-east.api
@@ -87899,7 +87902,6 @@ view.mailing
 view.mails
 view.marketing
 view.mc
-view.message
 view.messages
 view.mkt
 viewmorepics
@@ -95208,7 +95210,6 @@ web-hosting
 webhosting
 webhosting-pagina
 webhosting-wordpress
-webhotel
 webhulp
 webid
 webim
@@ -96881,7 +96882,6 @@ world-of-warcraft
 worldofwarcraft
 worldpay
 worlds
-worldskills
 worldview
 worldvision
 worldwide
